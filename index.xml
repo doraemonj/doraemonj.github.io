@@ -1,23 +1,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mixoo 米库</title>
-    <link>http://doraemonj.github.io/</link>
+    <link>https://doraemonj.github.io/</link>
     <description>Recent content on Mixoo 米库</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Tue, 15 Feb 2022 13:38:16 +0800</lastBuildDate>
     
-        <atom:link href="http://doraemonj.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://doraemonj.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     
         <item>
         <title>《提问的智慧》</title>
-        <link>http://doraemonj.github.io/books/how_to_ask_questions/</link>
+        <link>https://doraemonj.github.io/books/how_to_ask_questions/</link>
         <pubDate>Tue, 15 Feb 2022 13:38:16 +0800</pubDate>
         
-        <guid>http://doraemonj.github.io/books/how_to_ask_questions/</guid>
-        <description>Mixoo 米库 http://doraemonj.github.io/books/how_to_ask_questions/ -&lt;p&gt;&lt;a href=&#34;http://www.catb.org/~esr/faqs/smart-questions.html&#34;&gt;原文链结：How To Ask Questions The Smart Way&lt;/a&gt;&lt;/p&gt;
+        <guid>https://doraemonj.github.io/books/how_to_ask_questions/</guid>
+        <description>Mixoo 米库 https://doraemonj.github.io/books/how_to_ask_questions/ -&lt;p&gt;&lt;a href=&#34;http://www.catb.org/~esr/faqs/smart-questions.html&#34;&gt;原文链结：How To Ask Questions The Smart Way&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;译者：王刚&lt;/p&gt;
 &lt;h3 id=&#34;弃权申明&#34;&gt;弃权申明&lt;/h3&gt;
 &lt;p&gt;许多项目的网站在如何取得帮助的部分链接了本文，这没有关系，也正是我们想要的。但如果你是该项目生成此链接的网管，请在链接附近显著位置注明：我们不提供该项目的服务支持！&lt;/p&gt;
@@ -402,44 +402,44 @@
 &lt;p&gt;当你发布软件或补丁时，试着按 &lt;a href=&#34;http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html&#34;&gt;软件发布实践&lt;/a&gt; 操作。&lt;/p&gt;
 &lt;h3 id=&#34;鸣谢&#34;&gt;鸣谢&lt;/h3&gt;
 &lt;p&gt;伊夫林.米切尔（Evelyn Mitchell）贡献了一些愚蠢问题例子并启发了编写&lt;code&gt;如何更好地回答问题&lt;/code&gt;这一节，米哈伊尔.罗门迪克（Mikhail Ramendik）贡献了一些特别有价值的建议和改进。&lt;/p&gt;
-- http://doraemonj.github.io/books/how_to_ask_questions/ - </description>
+- https://doraemonj.github.io/books/how_to_ask_questions/ - </description>
         </item>
     
     
     
         <item>
         <title>帮你创建你自己的书库</title>
-        <link>http://doraemonj.github.io/about/aboutus/</link>
+        <link>https://doraemonj.github.io/about/aboutus/</link>
         <pubDate>Tue, 15 Feb 2022 01:44:07 +0800</pubDate>
         
-        <guid>http://doraemonj.github.io/about/aboutus/</guid>
-        <description>Mixoo 米库 http://doraemonj.github.io/about/aboutus/ -&lt;p&gt;创建属于你自己的书库，我们帮你。&lt;/p&gt;
-- http://doraemonj.github.io/about/aboutus/ - </description>
+        <guid>https://doraemonj.github.io/about/aboutus/</guid>
+        <description>Mixoo 米库 https://doraemonj.github.io/about/aboutus/ -&lt;p&gt;创建属于你自己的书库，我们帮你。&lt;/p&gt;
+- https://doraemonj.github.io/about/aboutus/ - </description>
         </item>
     
     
     
         <item>
         <title>摘记</title>
-        <link>http://doraemonj.github.io/posts/c/</link>
+        <link>https://doraemonj.github.io/posts/c/</link>
         <pubDate>Thu, 10 Feb 2022 01:44:07 +0800</pubDate>
         
-        <guid>http://doraemonj.github.io/posts/c/</guid>
-        <description>Mixoo 米库 http://doraemonj.github.io/posts/c/ -&lt;p&gt;$$
+        <guid>https://doraemonj.github.io/posts/c/</guid>
+        <description>Mixoo 米库 https://doraemonj.github.io/posts/c/ -&lt;p&gt;$$
 2^3=8
 $$&lt;/p&gt;
-- http://doraemonj.github.io/posts/c/ - </description>
+- https://doraemonj.github.io/posts/c/ - </description>
         </item>
     
     
     
         <item>
         <title>摘记</title>
-        <link>http://doraemonj.github.io/posts/2022-02-09/</link>
+        <link>https://doraemonj.github.io/posts/2022-02-09/</link>
         <pubDate>Wed, 09 Feb 2022 01:44:07 +0800</pubDate>
         
-        <guid>http://doraemonj.github.io/posts/2022-02-09/</guid>
-        <description>Mixoo 米库 http://doraemonj.github.io/posts/2022-02-09/ -&lt;ul&gt;
+        <guid>https://doraemonj.github.io/posts/2022-02-09/</guid>
+        <description>Mixoo 米库 https://doraemonj.github.io/posts/2022-02-09/ -&lt;ul&gt;
 &lt;li&gt;安装Mac台式机的Typora失败，因为没有连外网服务器。。。看来要给大白电脑买电梯了；&lt;/li&gt;
 &lt;li&gt;学习如何把md文件转化为HTML，上网pip找到两个工具：pip install markdown 和 pip install importlib；首先当然是Typora的自动转换功能。&lt;/li&gt;
 &lt;li&gt;解决了Mac电脑硬盘空间占用过大的问题，解决工具是一款名叫『OmniDiskSweeper』的工具；&lt;/li&gt;
@@ -506,18 +506,18 @@ $$&lt;/p&gt;
 &lt;p&gt;来源：https://github.com/vpncn/vpncn.github.io&lt;/p&gt;
 &lt;p&gt;构建了一个信息防监控闭环：&lt;/p&gt;
 &lt;p&gt;有密码的系统——不联网的输入法——加密内核浏览器——shadowsockx&lt;/p&gt;
-- http://doraemonj.github.io/posts/2022-02-09/ - </description>
+- https://doraemonj.github.io/posts/2022-02-09/ - </description>
         </item>
     
     
     
         <item>
         <title>摘记</title>
-        <link>http://doraemonj.github.io/posts/2022-02-08/</link>
+        <link>https://doraemonj.github.io/posts/2022-02-08/</link>
         <pubDate>Tue, 08 Feb 2022 01:44:07 +0800</pubDate>
         
-        <guid>http://doraemonj.github.io/posts/2022-02-08/</guid>
-        <description>Mixoo 米库 http://doraemonj.github.io/posts/2022-02-08/ -&lt;blockquote&gt;
+        <guid>https://doraemonj.github.io/posts/2022-02-08/</guid>
+        <description>Mixoo 米库 https://doraemonj.github.io/posts/2022-02-08/ -&lt;blockquote&gt;
 &lt;p&gt;Bypass the censorship and unseal the seal&lt;/p&gt;
 &lt;p&gt;绕开审查，揭开封印&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -547,18 +547,18 @@ $$&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;广告（黄帮）&lt;/p&gt;
 &lt;p&gt;『中国人，用隐私换效率』——李彦宏&lt;/p&gt;
-- http://doraemonj.github.io/posts/2022-02-08/ - </description>
+- https://doraemonj.github.io/posts/2022-02-08/ - </description>
         </item>
     
     
     
         <item>
         <title>《血流成河》</title>
-        <link>http://doraemonj.github.io/books/blood_in_the_streets/</link>
+        <link>https://doraemonj.github.io/books/blood_in_the_streets/</link>
         <pubDate>Mon, 07 Feb 2022 10:07:48 +0800</pubDate>
         
-        <guid>http://doraemonj.github.io/books/blood_in_the_streets/</guid>
-        <description>Mixoo 米库 http://doraemonj.github.io/books/blood_in_the_streets/ -&lt;blockquote&gt;
+        <guid>https://doraemonj.github.io/books/blood_in_the_streets/</guid>
+        <description>Mixoo 米库 https://doraemonj.github.io/books/blood_in_the_streets/ -&lt;blockquote&gt;
 &lt;p&gt;买入的最佳时机是血流成河的时候。——内森-M-罗斯柴尔德&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&#34;简介&#34;&gt;简介&lt;/h1&gt;
@@ -2420,7 +2420,7 @@ $$&lt;/p&gt;
 &lt;p&gt;这表明了一个时间策略的模式，我们猜想，这也是大多数真正成功的投资者的模式。这就是长期计划，但在尽可能短的时间内尝试优化。让我们画出我们认为是非常正常的投资曲线。(见下页）。&lt;/p&gt;
 &lt;p&gt;第一年显示投资增加了一倍；第二年显示进一步增加了37.5%；第三年增加了18%；第四年为零；第五年显示下降，并在第六年陡然增加。有经验的投资者显然会寻求在第三年年底前出手，但比这更好的是，他将努力避免后期增长本身的放缓。&lt;/p&gt;
 &lt;p&gt;如果看一下图表，真正的减速是在第二年发生的。在第二年的前六个月，图表从200上升到250，上升了50点，年复合增长率为56%。在这一年的下半年，投资增长从250上升到275，上升了25点，年增长率为21%。最佳的销售时间可能是18个月，尽管在接下来的18个月里，投资又上升了30%，达到了高峰。从十八个月开始，这项特殊的投资就出现了疲劳的迹象。增长速度在放缓，风险在上升。这就是十九世纪罗斯柴尔德格言的基础，&amp;ldquo;永远把利润留给别人&amp;rdquo;。不要追逐最后一分钱。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://doraemonj.github.io/Users/tangqiang/dj/content/books/p331.png&#34; alt=&#34;p331&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://doraemonj.github.io/Users/tangqiang/dj/content/books/p331.png&#34; alt=&#34;p331&#34;&gt;&lt;/p&gt;
 &lt;p&gt;[图片p331]&lt;/p&gt;
 &lt;p&gt;投资的第一个原则是寻求利润；第二个是与市场相关；第三个是利用时间。第四条原则是什么？就是十九世纪伟大的经济学家威廉-斯坦利-杰文斯所规定的：『一般来说，只做别人正在做的事情是愚蠢的，因为几乎可以肯定有太多的人在做同样的事情。』&lt;/p&gt;
 &lt;p&gt;近年来，这被发展为逆向原则，认为大多数人通常是错误的。在我们看来，杰文斯的表述更为准确，它几乎适用于所有经济活动，而不仅仅是投资。如果一个投资者是一个早起寻找蘑菇的人，他不会在人群中寻找蘑菇；如果他在寻找良好的价值，他不会在价格已经被时尚推高的地方找到它。&lt;/p&gt;
@@ -2830,18 +2830,18 @@ Keystone International Milloport
 &lt;p&gt;詹姆斯-戴尔-戴维森和威廉-里斯-莫格爵士编辑并出版了《战略投资》，这是世界上表现最好的投资信件之一。戴维森是全国纳税人联盟的创始人和主席，也是平衡预算制宪会议的推动者。戴维森还是《赫尔伯特金融文摘》的创始主席，该杂志是对投资建议的盈利能力进行评级和分析的权威金融期刊。他是四家公司的董事，并经常担任电视评论员。他曾为《华尔街日报》和国家杂志撰稿，是《挤压》一书的作者，该书于1982年由Summit出版。&lt;/p&gt;
 &lt;p&gt;威廉-里斯-莫格爵士是世界上一些最富有的投资者的财务顾问。他曾是《伦敦时报》的编辑，以及英国广播公司的副主席。1951年，他是牛津大学联盟的主席。1968年至1972年，他是牛津大学纳菲尔德学院的客座研究员。他现在是英国艺术委员会的主席，这是一个独立的政府机构，每年的预算为2亿美元。威廉爵士是通用电气公司（General Electric Company, PLC）的董事，也是西德威克出版社（Sidgwick &amp;amp; Jackson）的主席。他也是Pickering &amp;amp; Chatto的经营者，该公司是伦敦主要的古书商之一。他是《统治的错误》的作者。世界通货膨胀的危机。&lt;/p&gt;
 &lt;p&gt;全书完&lt;/p&gt;
-- http://doraemonj.github.io/books/blood_in_the_streets/ - </description>
+- https://doraemonj.github.io/books/blood_in_the_streets/ - </description>
         </item>
     
     
     
         <item>
         <title>《Calibre 快速入门指南》</title>
-        <link>http://doraemonj.github.io/books/calibre_quick_start/</link>
+        <link>https://doraemonj.github.io/books/calibre_quick_start/</link>
         <pubDate>Fri, 04 Feb 2022 10:07:48 +0800</pubDate>
         
-        <guid>http://doraemonj.github.io/books/calibre_quick_start/</guid>
-        <description>Mixoo 米库 http://doraemonj.github.io/books/calibre_quick_start/ -&lt;p&gt;本书为第四版，采用知识共享 署名-相同方式共享 4.0 国际许可协议。&lt;/p&gt;
+        <guid>https://doraemonj.github.io/books/calibre_quick_start/</guid>
+        <description>Mixoo 米库 https://doraemonj.github.io/books/calibre_quick_start/ -&lt;p&gt;本书为第四版，采用知识共享 署名-相同方式共享 4.0 国际许可协议。&lt;/p&gt;
 &lt;h1 id=&#34;简介&#34;&gt;简介&lt;/h1&gt;
 &lt;p&gt;Calibre是一个开源的电子书管理工具。简单地说，Calibre允许你组织你的电子书库，将电子书转换为各种格式，并与你的电子书阅读器互动，所有这些都是以一种直观和友好的方式。它兼容微软Windows 8以上版本&amp;ndash;以及苹果的macOS（和各种口味的Linux）。它是由Kovid Goyal创建的，他仍然领导着它的开发。世界各地的许多人，包括我自己，都为calibre的发展做出了贡献。在本指南和在线文档中，你会看到 &amp;ldquo;calibre &amp;ldquo;而不是 &amp;ldquo;Calibre&amp;rdquo;。这是Kovid选择的惯例，所以我们就用这个。&lt;/p&gt;
 &lt;p&gt;calibre的目的是简化对你的电子书库的管理。它通过几种方式实现这一目的。&lt;/p&gt;
@@ -2977,18 +2977,18 @@ Keystone International Milloport
 &lt;p&gt;寻找帮助的第一个地方是 &amp;ldquo;首选项 &amp;ldquo;对话框。所有选项都有明确的描述，而且有很多选项。如果你想改变Calibre的某些东西，可能已经有一个选项了。熟悉首选项也是一个好主意，因为它的一部分，如转换，只是默认值，并将在不同的时间呈现给你，以便在每本电子书的基础上进行微调。&lt;/p&gt;
 &lt;p&gt;下一个要看的地方是 &lt;a href=&#34;https://manual.calibre-ebook.com&#34;&gt;在线用户手册&lt;/a&gt;。点击工具条上的 &amp;ldquo;帮助 &amp;ldquo;按钮，在浏览器中打开用户手册。用户手册中有大量的信息，包括常见问题的提示和解决方案。查看calibre &lt;a href=&#34;https://manual.calibre-ebook.com/faq.html&#34;&gt;FAQ&lt;/a&gt;，了解常见问题的答案，也是一个好主意。&lt;/p&gt;
 &lt;p&gt;最后，还有&lt;a href=&#34;https://www.mobileread.com/&#34;&gt;Mobileread&lt;/a&gt;上的&lt;a href=&#34;https://www.mobileread.com/forums/forumdisplay.php?f=166&#34;&gt;calibre论坛&lt;/a&gt;，这是官方帮助论坛。有许多知识渊博的用户会回答问题。另外，Kovid和我本人也积极参与帮助新的和老的用户。如果你有问题或需要帮助，这是最好的地方。如果你发现了一个bug或者想申请一个新的功能，可以在论坛上提出来，但是把它提交到项目的&lt;a href=&#34;https://bugs.launchpad.net/calibre&#34;&gt;bug/问题跟踪系统&lt;/a&gt;也是一个好主意。论坛上的帖子往往会随着时间的推移而丢失，而跟踪系统可以让我们很容易地看到哪些地方需要修复或工作。&lt;/p&gt;
-- http://doraemonj.github.io/books/calibre_quick_start/ - </description>
+- https://doraemonj.github.io/books/calibre_quick_start/ - </description>
         </item>
     
     
     
         <item>
         <title>《通往奴役之路》</title>
-        <link>http://doraemonj.github.io/books/the_road_to_serfdom/</link>
+        <link>https://doraemonj.github.io/books/the_road_to_serfdom/</link>
         <pubDate>Wed, 02 Feb 2022 10:07:48 +0800</pubDate>
         
-        <guid>http://doraemonj.github.io/books/the_road_to_serfdom/</guid>
-        <description>Mixoo 米库 http://doraemonj.github.io/books/the_road_to_serfdom/ -&lt;h2 id=&#34;编辑部前言&#34;&gt;编辑部前言&lt;/h2&gt;
+        <guid>https://doraemonj.github.io/books/the_road_to_serfdom/</guid>
+        <description>Mixoo 米库 https://doraemonj.github.io/books/the_road_to_serfdom/ -&lt;h2 id=&#34;编辑部前言&#34;&gt;编辑部前言&lt;/h2&gt;
 &lt;p&gt;《哈耶克作品集》的第一卷是哈耶克写的最后一本书《致命的自负》。它在两个方面是第一卷：它是该系列的第一卷，也是第一本出版的书，在1988年。创始总编辑是哲学家W-W-巴特利三世，他最初设想该系列将包含22卷&amp;ndash;至少，这是在描述《致命的自负》中计划的系列的材料中指出的。明智的是，巴特利添加了一个限制性条款，即 &amp;ldquo;该计划是临时的&amp;rdquo;。现在预计总共将有19卷，但最初的限制性条款仍然适用。&lt;/p&gt;
 &lt;p&gt;自1988年以来，发生了很多事情。在巴特利的编辑下，第二卷于1991年出版，但这是一份遗稿，巴特利于1990年2月死于癌症。此后不久，Stephen Kresge接任总编辑一职，在他的领导下，又出版了五卷。该系列的各卷并没有按照数字顺序出现：到目前为止，已经出版了第1、3、4、5、6、9和10卷。&lt;/p&gt;
 &lt;p&gt;2002年春天，斯蒂芬-克雷格问我是否有兴趣成为下一任总编辑。在哈耶克家族以及芝加哥大学出版社和Routledge的代表都签字同意后，我的工作开始了。第一年左右的时间里，我把编辑材料从加利福尼亚转移到北卡罗来纳州，重新考虑各卷的顺序，与现有的和潜在的各卷编辑建立关系，并寻求资金来支持这个项目。&lt;/p&gt;
@@ -4185,18 +4185,18 @@ C. Hartley Grattan先生
 &lt;p&gt;芝加哥大学出版社的一些人在本卷的准备过程中协助了我。凯瑟琳-比伯帮助我在大学档案中寻找材料，我的编辑亚历克斯-施瓦茨以无数方式帮助我完成了这个项目。&lt;/p&gt;
 &lt;p&gt;我最后一次见到哈耶克的儿子劳伦斯是在2004年6月在剑桥大学国王学院举行的纪念《通往奴役之路》出版60周年的会议上。在会议结束时，我们参观了国王教堂的顶部，看看哈耶克和约翰-克拉珀姆在战争期间曾在那里执行过空袭任务。劳伦斯曾是国王教堂的学生，显然他很乐意重温自己早先对教堂屋顶的秘密访问。仅仅三周之后，2004年7月15日，劳伦斯-海耶克因心脏病发作在家中去世。这卷书是为了纪念他。&lt;/p&gt;
 &lt;p&gt;布鲁斯-考德威尔&lt;/p&gt;
-- http://doraemonj.github.io/books/the_road_to_serfdom/ - </description>
+- https://doraemonj.github.io/books/the_road_to_serfdom/ - </description>
         </item>
     
     
     
         <item>
         <title>《别人的钱》</title>
-        <link>http://doraemonj.github.io/books/other_peoples_money/</link>
+        <link>https://doraemonj.github.io/books/other_peoples_money/</link>
         <pubDate>Tue, 01 Feb 2022 15:55:29 +0800</pubDate>
         
-        <guid>http://doraemonj.github.io/books/other_peoples_money/</guid>
-        <description>Mixoo 米库 http://doraemonj.github.io/books/other_peoples_money/ -&lt;h1 id=&#34;前言&#34;&gt;前言&lt;/h1&gt;
+        <guid>https://doraemonj.github.io/books/other_peoples_money/</guid>
+        <description>Mixoo 米库 https://doraemonj.github.io/books/other_peoples_money/ -&lt;h1 id=&#34;前言&#34;&gt;前言&lt;/h1&gt;
 &lt;p&gt;当路易斯 · D · 布兰代斯关于货币信托的系列文章在《哈珀周刊》上发表时，许多人询问如何以更容易理解的永久形式出版。然而，即使没有通过邮件的这种紧迫性，也可以看出这些文章不可避免地构成了一本书，因为它们体现了一个分析和叙述，而这个思想在我们这个时代的伟大工业运动中是美国最专业的。这些调查意味着细心的公众认识到这是对历史的贡献。这是有史以来对我们商业发展的那一部分发表的最清晰和最深刻的论述，正如威尔逊总统和其他智者所说，这一部分已经成为我们最大的问题。我们时代的故事是工业的故事。除非理解利用蒸汽和电力之后的扩张和集中，理解这种变化的巨大用途和巨大的过度，否则未来的任何学者都无法权威地描述我们的时代。在我看来，未来的历史学家不会在我们的当代文献中找到如此精湛的分析，说明为什么集中会误入歧途。我只是许多人中的一个，他们认为布兰代斯先生在经济学领域拥有我们这个时代最具创造性和健全的头脑。当他的文章在《哈珀周刊》上发表时，我有充分的机会了解到，在聪明人中间有多么广泛的信念，即对我们的货币信托的杰出诊断是多年来对当前思想最重要的贡献。&lt;/p&gt;
 &lt;p&gt;『伟大』一词我不会随便使用，我把布兰代斯先生看成是一个『伟大』的人。在他的智力构成中，最重要的因素之一是他对数字的理解。正如该国一位主要金融家对我说的那样：『布兰代斯先生作为律师的伟大是他作为数学家的伟大的一部分』。我对这个问题的看法在《哈珀周刊》的以下社论中得到了充分的说明。&lt;/p&gt;
 &lt;p&gt;算术&lt;/p&gt;
@@ -4717,7 +4717,7 @@ C. Hartley Grattan先生
 &lt;p&gt;威尔逊能够推动通过一些关于商业和信托监管的法律，但在许多方面，由于合并和股票操纵，今天商业世界的条件仍然是一样的。《别人的钱》一书中的许多细节可能已经过时，但它的中心思想仍然是相关的，以至于它在首次出版近90年后仍然在印刷。&lt;/p&gt;
 &lt;p&gt;全文完&lt;/p&gt;
 &lt;p&gt;翻译：deepL.com&lt;/p&gt;
-- http://doraemonj.github.io/books/other_peoples_money/ - </description>
+- https://doraemonj.github.io/books/other_peoples_money/ - </description>
         </item>
     
     

@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mixoo 米库</title>
-    <link>http://doraemonj.github.io/posts/</link>
+    <link>https://doraemonj.github.io/posts/</link>
     <description>Recent content in Posts on Mixoo 米库</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 10 Feb 2022 01:44:07 +0800</lastBuildDate><atom:link href="http://doraemonj.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Feb 2022 01:44:07 +0800</lastBuildDate><atom:link href="https://doraemonj.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>摘记</title>
-      <link>http://doraemonj.github.io/posts/c/</link>
+      <link>https://doraemonj.github.io/posts/c/</link>
       <pubDate>Thu, 10 Feb 2022 01:44:07 +0800</pubDate>
       
-      <guid>http://doraemonj.github.io/posts/c/</guid>
+      <guid>https://doraemonj.github.io/posts/c/</guid>
       <description>$$ 2^3=8 $$</description>
     </item>
     
     <item>
       <title>摘记</title>
-      <link>http://doraemonj.github.io/posts/2022-02-09/</link>
+      <link>https://doraemonj.github.io/posts/2022-02-09/</link>
       <pubDate>Wed, 09 Feb 2022 01:44:07 +0800</pubDate>
       
-      <guid>http://doraemonj.github.io/posts/2022-02-09/</guid>
+      <guid>https://doraemonj.github.io/posts/2022-02-09/</guid>
       <description>安装Mac台式机的Typora失败，因为没有连外网服务器。。。看来要给大白电脑买电梯了； 学习如何把md文件转化为HTML，上网pip找到两个</description>
     </item>
     
     <item>
       <title>摘记</title>
-      <link>http://doraemonj.github.io/posts/2022-02-08/</link>
+      <link>https://doraemonj.github.io/posts/2022-02-08/</link>
       <pubDate>Tue, 08 Feb 2022 01:44:07 +0800</pubDate>
       
-      <guid>http://doraemonj.github.io/posts/2022-02-08/</guid>
+      <guid>https://doraemonj.github.io/posts/2022-02-08/</guid>
       <description>Bypass the censorship and unseal the seal 绕开审查，揭开封印 Mixoo 米库 一个月内弃用印象笔记 五指山下猴 思惟游移术 斗战胜佛 双拼——rime架构的介绍文章 The problem is, if we don’t deal with</description>
     </item>
     
