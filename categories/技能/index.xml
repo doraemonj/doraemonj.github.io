@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技能 on Mixoo 米库</title>
+    <link>http://example.org/categories/%E6%8A%80%E8%83%BD/</link>
+    <description>Recent content in 技能 on Mixoo 米库</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 15 Feb 2022 13:38:16 +0800</lastBuildDate><atom:link href="http://example.org/categories/%E6%8A%80%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《提问的智慧》</title>
+      <link>http://example.org/books/how_to_ask_questions/</link>
+      <pubDate>Tue, 15 Feb 2022 13:38:16 +0800</pubDate>
+      
+      <guid>http://example.org/books/how_to_ask_questions/</guid>
+      <description>原文链结：How To Ask Questions The Smart Way 译者：王刚 弃权申明 许多项目的网站在如何取得帮助的部分链接了本文，这没有关系，也正是我们想要的。但如果你是该项目生</description>
+    </item>
+    
+    <item>
+      <title>《血流成河》</title>
+      <link>http://example.org/books/blood_in_the_streets/</link>
+      <pubDate>Mon, 07 Feb 2022 10:07:48 +0800</pubDate>
+      
+      <guid>http://example.org/books/blood_in_the_streets/</guid>
+      <description>买入的最佳时机是血流成河的时候。——内森-M-罗斯柴尔德 简介 人有两方面问题：一是人不能学习太复杂的真理；二十他太容易忘记简单的真理。—— 瑞贝</description>
+    </item>
+    
+    <item>
+      <title>《Calibre 快速入门指南》</title>
+      <link>http://example.org/books/calibre_quick_start/</link>
+      <pubDate>Fri, 04 Feb 2022 10:07:48 +0800</pubDate>
+      
+      <guid>http://example.org/books/calibre_quick_start/</guid>
+      <description>本书为第四版，采用知识共享 署名-相同方式共享 4.0 国际许可协议。 简介 Calibre是一个开源的电子书管理工具。简单地说，Calibre允许你组织</description>
+    </item>
+    
+  </channel>
+</rss>

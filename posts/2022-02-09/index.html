@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html><head>
+<title>摘记</title>
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="description" content="2022-02-09">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+<script src="/vendor/js/jquery.min.js" ></script>
+<script src="/vendor/js/popper.min.js" ></script>
+<script src="/vendor/js/bootstrap.min.js" ></script>
+<script src="/vendor/js/smooth-scroll.polyfills.min.js" ></script>
+<link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+<script src="/vendor/js/vue.min.js" ></script>
+
+
+
+
+<link rel="stylesheet" href="http://example.org/scss/journal.min.ebffb8bc663074d9be2ae412afd845f5d51f7476b8c7c75ccd6caf0352de28e7.css" integrity="sha256-6/&#43;4vGYwdNm&#43;KuQSr9hF9dUfdHa4x8dczWyvA1LeKOc=" media="screen">
+
+
+
+<link rel="stylesheet" href="http://example.org/scss/dark-mode.min.7ecba69f8dacfdebdd9e8de588dc5cc8a99040c5413ed0e30d0abaa3d77b175d.css" integrity="sha256-fsumn42s/evdno3liNxcyKmQQMVBPtDjDQq6o9d7F10=" media="screen">
+
+
+<script src="http://example.org//js/loadCSS.js"></script>
+<script>
+  loadCSS("https://fonts.googleapis.com/css?family=Lora|Montserrat|Fira+Mono|Noto+Serif+SC|Material+Icons");
+</script>
+
+<script src="http://example.org//js/table.js"></script>
+
+
+
+
+<script src="http://example.org//js/toc.js"></script>
+
+
+
+
+
+
+
+
+</head><body>
+    	<div id="app"><div ref="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head false" href="http://example.org/">
+    
+        <div class="nav-title">
+            Mixoo 米库
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/books/">
+                藏书
+            </a>
+            
+        
+            
+            
+            
+                
+            
+            
+            
+            <a class="a-block nav-link-item active" href="/posts/">
+                摘记
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/tags/">
+                标签
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/about/">
+                关于
+            </a>
+            
+        
+    </div>
+
+    
+
+    <div class="nav-footer">
+        帮你做自己的书库
+<br><br>
+&copy;
+	
+	2022 Mixoo 米库
+	
+
+    </div>
+    
+</div><div ref="extraContainer" class="extra-container">
+    
+    
+    <div class="toc animated-visibility" :class="{ invisible: scrollY <= 140 }">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		     
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#github-%e4%b8%ba%e7%bc%96%e7%a8%8b%e4%b8%96%e7%95%8c%e5%b8%a6%e6%9d%a5%e4%ba%86%e4%bb%80%e4%b9%88%e6%94%b9%e5%8f%98" v-on:click="closeDrawer" id="github-为编程世界带来了什么改变-nav">
+										 《GitHub 为编程世界带来了什么改变？》
+									</a>
+								</li>
+						
+							</ul>
+						
+					
+				
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#github-%e7%9a%84%e6%95%b0%e6%8d%ae" v-on:click="closeDrawer" id="github-的数据-nav">
+										 GitHub 的数据
+									</a>
+								</li>
+						
+							</ul>
+						
+							</ul>
+						
+					
+				
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#%e7%a4%be%e4%bc%9a%e5%8c%96%e7%bc%96%e7%a8%8b" v-on:click="closeDrawer" id="社会化编程-nav">
+										 社会化编程
+									</a>
+								</li>
+						
+							</ul>
+						
+							</ul>
+						
+					
+				
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#pull-request" v-on:click="closeDrawer" id="pull-request-nav">
+										 Pull Request
+									</a>
+								</li>
+						
+							</ul>
+						
+							</ul>
+						
+					
+				
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#%e6%b1%a0%e5%bb%ba%e5%bc%ba%e7%9a%84%e5%8f%a6%e4%b8%80%e7%af%87%e5%8d%9a%e5%ae%a2%e6%96%87%e7%ab%a0" v-on:click="closeDrawer" id="池建强的另一篇博客文章-nav">
+										 池建强的另一篇博客文章
+									</a>
+								</li>
+						
+							</ul>
+						
+							</ul>
+						
+					
+				
+			
+	</div>
+
+</div>
+    
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+        <a class="pagination-action" v-on:click="toggleDarkMode">
+            <i class="material-icons pagination-action-icon" v-if="isDarkMode">
+                brightness_4
+            </i>
+            <i class="material-icons pagination-action-icon" v-else="isDarkMode">
+                brightness_7
+            </i>
+        </a>
+        
+        
+    </div>
+</div><div class="single-column-drawer-container" ref="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/books/">
+                    藏书
+                </a>
+                
+            
+                
+                
+                
+                    
+                
+                
+                
+                <a class="a-block drawer-menu-item active" href="/posts/">
+                    摘记
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/tags/">
+                    标签
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/about/">
+                    关于
+                </a>
+                
+            
+            
+            <div class="toc">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		     
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#github-%e4%b8%ba%e7%bc%96%e7%a8%8b%e4%b8%96%e7%95%8c%e5%b8%a6%e6%9d%a5%e4%ba%86%e4%bb%80%e4%b9%88%e6%94%b9%e5%8f%98" v-on:click="closeDrawer" id="github-为编程世界带来了什么改变-nav">
+										 《GitHub 为编程世界带来了什么改变？》
+									</a>
+								</li>
+						
+							</ul>
+						
+					
+				
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#github-%e7%9a%84%e6%95%b0%e6%8d%ae" v-on:click="closeDrawer" id="github-的数据-nav">
+										 GitHub 的数据
+									</a>
+								</li>
+						
+							</ul>
+						
+							</ul>
+						
+					
+				
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#%e7%a4%be%e4%bc%9a%e5%8c%96%e7%bc%96%e7%a8%8b" v-on:click="closeDrawer" id="社会化编程-nav">
+										 社会化编程
+									</a>
+								</li>
+						
+							</ul>
+						
+							</ul>
+						
+					
+				
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#pull-request" v-on:click="closeDrawer" id="pull-request-nav">
+										 Pull Request
+									</a>
+								</li>
+						
+							</ul>
+						
+							</ul>
+						
+					
+				
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#%e6%b1%a0%e5%bb%ba%e5%bc%ba%e7%9a%84%e5%8f%a6%e4%b8%80%e7%af%87%e5%8d%9a%e5%ae%a2%e6%96%87%e7%ab%a0" v-on:click="closeDrawer" id="池建强的另一篇博客文章-nav">
+										 池建强的另一篇博客文章
+									</a>
+								</li>
+						
+							</ul>
+						
+							</ul>
+						
+					
+				
+			
+	</div>
+
+</div>
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav ref="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div ref="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a ref="navTitle" class="navbar-brand" href="http://example.org/">
+            Mixoo 米库
+        </a>
+        
+        <button type="button" class="nav-darkmode-toggle" v-on:click="toggleDarkMode">
+            <i class="material-icons" v-if="isDarkMode">
+                brightness_4
+            </i>
+            <i class="material-icons" v-else="isDarkMode">
+                brightness_7
+            </i>
+        </button>
+        
+    </div>
+</nav>
+<div class="single-column-header-container" ref="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="http://example.org/">
+        <div class="single-column-header-title">Mixoo 米库</div>
+        
+
+    </a>
+</div>
+            <div id="content">
+<div ref="streamContainer" class="stream-container">
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            
+            
+            
+
+            <div class="post-head-wrapper-text-only"
+                 style="background-image: url('/')">
+                <div class="post-title">
+                    摘记
+
+                    <div class="post-meta">
+
+                        
+                        <time itemprop="datePublished">
+                            2022-02-09 01:44
+                        </time>
+                        
+
+                        
+                            Tom
+                        
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="post-body-wrapper">
+                <div class="post-body">
+                    <ul>
+<li>安装Mac台式机的Typora失败，因为没有连外网服务器。。。看来要给大白电脑买电梯了；</li>
+<li>学习如何把md文件转化为HTML，上网pip找到两个工具：pip install markdown 和 pip install importlib；首先当然是Typora的自动转换功能。</li>
+<li>解决了Mac电脑硬盘空间占用过大的问题，解决工具是一款名叫『OmniDiskSweeper』的工具；</li>
+<li>了解到『代码』和『脚本』的区别，找到一个好类比：『常规编译型的代码是奔跑的人，而脚本是骑马的人，脚本解释器就是他的坐骑，真正跑起来的是马而不是人。』</li>
+<li>今天的撤销了印象笔记的续订，到2022年10月7日到期后必须把所有资料移到github上，这周就要把Hugo做的网站搬到github上去。</li>
+<li>关于『开源』解释的类比：Mac驱动的系统可以让你得到一辆车，但缺点是你不能打开引擎盖看里面是什么。</li>
+<li>又设置了下鼠须管，增加『什么』、『什么事』这类单词，让输入更加流畅，</li>
+<li>开源的好处：Given enough eyeballs, all bugs are shallow. –Linus’s Law</li>
+<li>明天开始好好弄Hugo网页，还有python代码，要追上进度了~</li>
+</ul>
+<p>$$ 2^2 = 4 $$ 这世界上一直存在一条路，让我们的能力从平庸到杰出，这条路漫长而且艰辛，只有少数人愿意走下去，所以，优秀的人永远是少数。——MacTalk·人生元编程（池建强）</p>
+<h1 id="github-为编程世界带来了什么改变">《GitHub 为编程世界带来了什么改变？》</h1>
+<p>——池建强 2018年1月5日</p>
+<p><a href="https://medium.com/@chijianqiang/github-%E4%B8%BA%E7%BC%96%E7%A8%8B%E4%B8%96%E7%95%8C%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88%E6%94%B9%E5%8F%98-134ad547ebf5">https://medium.com/@chijianqiang/github-%E4%B8%BA%E7%BC%96%E7%A8%8B%E4%B8%96%E7%95%8C%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88%E6%94%B9%E5%8F%98-134ad547ebf5</a></p>
+<p>几天不写文章，感觉手有点生。说起来坚持真是件困难的事，每次中断写作之后最顺理成章的事情就是再中断一会，但内心肯定是纠结的，毕竟 MacTalk 一直在坚持输出。从 2012 年 12 月 15 日推送了第一条信息算起，五个年头过去了。弹指一挥间，鬓角的白头发都长出来了，<strong>也不知道还有多少读者是 2012 年就订阅的</strong>，也许有更多人早就不看了吧。</p>
+<p>新年第一篇，写写 GitHub，这个主题很早就想写了。</p>
+<h2 id="github-的数据">GitHub 的数据</h2>
+<p>去年十月份，也是就是「极客时间」上线的那个月，GitHub 发布了 2017 年度的 Octoverse 观察报告，有很多数据非常值得关注。比如：</p>
+<p>GitHub 目前已经拥有 2400 万用户，横跨 200 个国家，其中 130 万为学生开发者。另外，GitHub 上还拥有 150 万组织和 6700 万 Repositories。自 2016 年 9 月以来，GitHub 上新增了 670 万名开发者、10 亿次 Commit、2530 万个活跃项目、1250 万个活跃 Issue 和 130 万次新 PR(Pull Request)。</p>
+<p>这些数据展示了技术的生命力和开发者旺盛的创新精神。值得一提的时，2017年 GitHub 新增了 70 万中国用户，整个亚洲地区的 GitHub 用户总数是 710 万。这说明了随着国内开源的项目越来越多，质量越来越高，使用 GitHub 的中国组织和个人用户正不断增长。</p>
+<p>但这远远不够，比如 MacTalk 的工程师读者，有多少人有自己的 GitHub 账户呢？又有多少提交过代码呢？恐怕比例并不太高，也就是说，GitHub 的增长空间依然巨大。越来越多的人编程伊始，就会到 GitHub 上找项目去学习。2017 年，上百万的学生和老师把 GitHub 当成了学习与教学的地方。</p>
+<p>GitHub 正在践行他们的宗旨：<strong>社会化编程</strong>。很多复制 GitHub 的产品最终都败走麦城，很大程度上都是因为它们不具备社会化编程的特质，也许这些创业者从开始就没想到社会化编程的概念吧。</p>
+<p><img src="https://doraemonj.github.io/Users/tangqiang/Documents/typora/0*4P0G_S_F-RcvYmQo..jpeg" alt="img"></p>
+<p>梵高，海滩上的渔船</p>
+<h2 id="社会化编程">社会化编程</h2>
+<p>GitHub 总部位于旧金山，Logo 是一个猫咪和章鱼的混合体，在这个网站上有很多 Logo 变体，非常有趣，事实上，GitHub 已经在程序员群体形成了一种独特的文化。</p>
+<p><a href="https://octodex.github.com/">https://octodex.github.com</a></p>
+<p>很多人最初接触 GitHub 会以为这是个 Git 仓库的网络公开版本，实际上 GitHub 和 Git 完全是两码事，Git 是类似 CSV 或 SVN 的代码版本管理工具，而 GitHub 提供的是服务能力，除了代码托管，GitHub 还提供了一系列协作功能，帮助开发者或开发团队实现高效率高品质的代码编写。除了开源项目，很多著名的企业都在基于 GitHub 的企业版研发和管理自己的产品和服务。</p>
+<p>不夸张的说，GitHub 的出现让现代世界的软件开发发生了翻天覆地的变化，说是一场革命也不为过。</p>
+<p>GitHub 之前，出现过很多协作软件，程序员们虽然「文人相轻」，每次有编程语言之争就冲上去和别人打的灰头土脸满地找 bug，但在工具方面却不会亏待自己，他们开发出了各种各样的版本管理软件、bug 跟踪系统、代码审查工具、邮件讨论组、即时通讯工具等等，为了完成一次良好的协作，程序员们把这些工具组合起来依次使用，其难度系数相当于跳水向后翻腾一周半转体三周半。</p>
+<p>当二爷这样的产品经理过来询问「上周提了一个 bug 怎么还没修复」的时候，程序员们自豪的说：「我们还在邮件组里讨论由谁来修复」。</p>
+<p>GitHub 的出现解决了所有的问题，Git 完成代码托管，Issue 用来进行 bug 跟踪和管理，Pull Request 实现了协作开发、Code Review 和 交流功能，Wiki 和 扩展的 Markdown 格式 GFM 可以编写优雅的开发文档……</p>
+<p>GitHub 服务的出现，为开源世界带来了社会化编程的概念，这个概念影响了全世界众多程序员和技术团队。什么是社会化编程呢？就是在自由、开源、民主的环境下，一群陌生的程序员通过网络和协作的方式共同开发和维护一个软件产品。</p>
+<p>真正有生命力的开源软件都是基于社会化编程的方式构建出来的，现在很多大公司因为 KPI 也会把自己的一些代码放到 GitHub 上，但那更多是一场代码秀，而不是真正的开源。</p>
+<blockquote>
+<p><em>话外音：一般来说，每个成功的开源项目都有一些核心的开发者来完成代码 Merge 管理和协作平衡等工作，不过 GitHub 上却有个非常有趣的项目叫做 ChaosBot（</em> <a href="https://github.com/Chaosthebot"><em>https://github.com/Chaosthebot</em></a> <em>），这是一个完全没人干预的社会化项目实验。</em></p>
+<p><em>项目规则是这样的，首先 Fork 一份代码，然后进行代码修改，提交一个 pull request。如果这个 pull request 在社区里获得了大多数的赞同，这个 PR 就会被自动 Merge，然后 ChaosBot 就自动更新代码并重启自己。如果无法重启就算死亡一次，目前 ChaosBot 已经死亡了 16 次。</em></p>
+<p><em>这个项目获得了 2471 个 Star。</em></p>
+</blockquote>
+<p>GitHub 是如何实现这种社会化编程的模式呢？这里就必须说一说 Pull Request 了。</p>
+<h2 id="pull-request">Pull Request</h2>
+<p>Pull Request 采用了一种精巧的设计，让开发者实现了真正的代码对话：Talk is cheap, show me the code.</p>
+<p>很多开发者把 GiuHub 当 Git 用，在账户里建个仓库扔些代码就以为是开源了。如果你没用过 Pull Request 与别人协作过，也没有 Merge 过别人的代码，那就不是个真正的 GitHub 程序员。</p>
+<p>什么是 Pull Request 呢？举例来说，比如你写了一篇论文，想找人做 Review，你保留了原本，他拿走了副本进行修改。这里的原本就是仓库，拿走副本的行为就是 fork，然后人家基于副本进行修改和批注，叫 commit，最后把修改好的副本提交给你，这就是一次 pull request。你根据副本内容修正原本，这叫 merge。</p>
+<p>程序员们常常管 Pull Request 叫做 PR。一次完整的 PR 过程是这样的：</p>
+<p>1、你在使用或参与一个开源项目，想要开发功能或修复 bug，首先要 fork 这个项目的仓库，然后通过 clone 命令得到一份本地代码。2、创建特性分支，编写代码增加功能或修复 bug 并进行 commit。3、发起 pull request 给原仓库请求合并。4、开发者们可以基于这个 pull request 分宾主落座并进行气氛友好祥和的交流，比如「你改错了，你妹改对，你代码这么烂还想 Merge，做梦去吧」等等。</p>
+<p>5、如果你竟然改对了，原仓库管理员就会把你的代码 merge 到他的项目里，你就成为了这个项目的贡献者之一。你编写的代码就有可能被全世界的程序员使用，这是社会化编程最大的乐趣之一。</p>
+<p>GitHub 的 Pull Request 不但能够轻松查看代码的前后差别，还可以针对每一行代码进行评论和交流，细节一览无余。Code Review 变成了一件充满乐趣的事情，同时开源代码质量也最大程度的得到了保障。</p>
+<p>PR 的设计为工程师的协作带来了革命性的变化，这种影响不止在开源世界，很多企业开发自己的商业化产品和服务都采用了这种方式，并做出了惊人的商业成就。</p>
+<p>所以，一个优秀的开源项目不仅仅要看它的 Star 数，还要看有多少活跃的 Issue 和多少次 PR。</p>
+<blockquote>
+<p><em>Issue、Wiki、Pulse、Graphs、Network 等都是 GitHub 的功能特性，不再一一介绍。</em></p>
+</blockquote>
+<p>GitHub 提供了一种更为开放和自由的编写代码和协作方式，势必吸引更多人的人加入到编程领域，我相信未来一定是个人人懂点编程的时代。</p>
+<p>做为一个在技术社区和开源世界受益良多老程序员，有必要在新年伊始，介绍和推荐一下这个优秀的代码社区。</p>
+<p>2018年，你加入 GitHub 了吗？</p>
+<p><em>Originally published at</em> <a href="https://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&amp;mid=2650713852&amp;idx=1&amp;sn=543e6461789c86550e21a84f7baa5b25&amp;chksm=bec060af89b7e9b93daa082d33506ddba27acf6d66c3ee6627864f2280ab9e6a28f8a26a483e"><em>mp.weixin.qq.com</em></a><em>.</em></p>
+<h2 id="池建强的另一篇博客文章">池建强的另一篇博客文章</h2>
+<p>安托万·德·圣·埃克苏佩里（《小王子》的作者）关于物质和人的关系：</p>
+<p>世间只有一种真正的奢望，那便是人与人之间的诚挚关系。如果仅仅为物质利益而工作，那么我们就是给自身建造起监狱。我们关在里面，孤孤单单，只守着不能给我们任何生活价值的冥钱。我若是在记忆中搜寻给我留下长久回味的往事，若是总结一下我所经历的重要时刻，那么可以肯定，我忆起的那些时刻，都不是任何财富提供给我的。</p>
+<p>——《人和大地》</p>
+<p>『我们对自身的了解，来自大地，更多于来自全部的书本。因为大地桀骛不驯。人在跟障碍较量时，才发现自己的价值。但是为了克服障碍，人需要一个工具。需要一把木刨或铁犁。农民在劳动中，逐渐窥探到自然界的一些奥秘，他所挖掘的真理却是无处不在的』——安托万·德·圣·埃克苏佩里《人和大地》</p>
+<p>VPN技术最开始不是用来翻墙的，而是通信数据加密，VPN始于国外，在国外是一个正规的IT产业，需求对象是公司的机密通信和注重信息安全的个人，它的核心任务是<strong>保障用户的数据安全</strong>，国内用户使用它翻墙只是近年来衍生出的次要任务，当然国内的很多企业单位都会使用VPN技术保证信息安全。从这个角度讲VPN技术因为商用原因不会被封杀，只是会屏蔽流量特征明显的境外服务器IP，一般VPN大厂可以通过不断改进算法和更换服务器IP解决。</p>
+<p>来源：https://github.com/vpncn/vpncn.github.io</p>
+<p>构建了一个信息防监控闭环：</p>
+<p>有密码的系统——不联网的输入法——加密内核浏览器——shadowsockx</p>
+
+            
+
+            
+            
+
+            
+            
+                </div>
+            </div>
+
+            <nav class="post-pagination">
+
+                
+                <a class="newer-posts" href="http://example.org/posts/2022-02-08/">
+                    上一篇<br>摘记
+                </a>
+                
+
+                
+                <a class="older-posts" href="http://example.org/posts/c/">
+                    下一篇<br>摘记
+                </a>
+                
+
+
+            </nav>
+            <div class="post-comment-wrapper">
+                
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+            </div><div id="single-column-footer">帮你做自己的书库
+<br><br>
+&copy;
+	
+	2022 Mixoo 米库
+	
+</div>
+    	</div>
+    <script src="http://example.org//js/journal.js"></script>
+    </body>
+</html>

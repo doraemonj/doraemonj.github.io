@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>哈耶克 on Mixoo 米库</title>
+    <link>http://example.org/tags/%E5%93%88%E8%80%B6%E5%85%8B/</link>
+    <description>Recent content in 哈耶克 on Mixoo 米库</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 02 Feb 2022 10:07:48 +0800</lastBuildDate><atom:link href="http://example.org/tags/%E5%93%88%E8%80%B6%E5%85%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《通往奴役之路》</title>
+      <link>http://example.org/books/the_road_to_serfdom/</link>
+      <pubDate>Wed, 02 Feb 2022 10:07:48 +0800</pubDate>
+      
+      <guid>http://example.org/books/the_road_to_serfdom/</guid>
+      <description>编辑部前言 《哈耶克作品集》的第一卷是哈耶克写的最后一本书《致命的自负》。它在两个方面是第一卷：它是该系列的第一卷，也是第一本出版的书，在19</description>
+    </item>
+    
+  </channel>
+</rss>

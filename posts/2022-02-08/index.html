@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html><head>
+<title>摘记</title>
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="description" content="2022-02-08">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+<script src="/vendor/js/jquery.min.js" ></script>
+<script src="/vendor/js/popper.min.js" ></script>
+<script src="/vendor/js/bootstrap.min.js" ></script>
+<script src="/vendor/js/smooth-scroll.polyfills.min.js" ></script>
+<link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+<script src="/vendor/js/vue.min.js" ></script>
+
+
+
+
+<link rel="stylesheet" href="http://example.org/scss/journal.min.ebffb8bc663074d9be2ae412afd845f5d51f7476b8c7c75ccd6caf0352de28e7.css" integrity="sha256-6/&#43;4vGYwdNm&#43;KuQSr9hF9dUfdHa4x8dczWyvA1LeKOc=" media="screen">
+
+
+
+<link rel="stylesheet" href="http://example.org/scss/dark-mode.min.7ecba69f8dacfdebdd9e8de588dc5cc8a99040c5413ed0e30d0abaa3d77b175d.css" integrity="sha256-fsumn42s/evdno3liNxcyKmQQMVBPtDjDQq6o9d7F10=" media="screen">
+
+
+<script src="http://example.org//js/loadCSS.js"></script>
+<script>
+  loadCSS("https://fonts.googleapis.com/css?family=Lora|Montserrat|Fira+Mono|Noto+Serif+SC|Material+Icons");
+</script>
+
+<script src="http://example.org//js/table.js"></script>
+
+
+
+
+<script src="http://example.org//js/toc.js"></script>
+
+
+
+
+
+
+
+
+</head><body>
+    	<div id="app"><div ref="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head false" href="http://example.org/">
+    
+        <div class="nav-title">
+            Mixoo 米库
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/books/">
+                藏书
+            </a>
+            
+        
+            
+            
+            
+                
+            
+            
+            
+            <a class="a-block nav-link-item active" href="/posts/">
+                摘记
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/tags/">
+                标签
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/about/">
+                关于
+            </a>
+            
+        
+    </div>
+
+    
+
+    <div class="nav-footer">
+        帮你做自己的书库
+<br><br>
+&copy;
+	
+	2022 Mixoo 米库
+	
+
+    </div>
+    
+</div><div ref="extraContainer" class="extra-container">
+    
+    
+    <div class="toc animated-visibility" :class="{ invisible: scrollY <= 140 }">
+
+
+</div>
+    
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+        <a class="pagination-action" v-on:click="toggleDarkMode">
+            <i class="material-icons pagination-action-icon" v-if="isDarkMode">
+                brightness_4
+            </i>
+            <i class="material-icons pagination-action-icon" v-else="isDarkMode">
+                brightness_7
+            </i>
+        </a>
+        
+        
+    </div>
+</div><div class="single-column-drawer-container" ref="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/books/">
+                    藏书
+                </a>
+                
+            
+                
+                
+                
+                    
+                
+                
+                
+                <a class="a-block drawer-menu-item active" href="/posts/">
+                    摘记
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/tags/">
+                    标签
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/about/">
+                    关于
+                </a>
+                
+            
+            
+            <div class="toc">
+
+
+</div>
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav ref="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div ref="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a ref="navTitle" class="navbar-brand" href="http://example.org/">
+            Mixoo 米库
+        </a>
+        
+        <button type="button" class="nav-darkmode-toggle" v-on:click="toggleDarkMode">
+            <i class="material-icons" v-if="isDarkMode">
+                brightness_4
+            </i>
+            <i class="material-icons" v-else="isDarkMode">
+                brightness_7
+            </i>
+        </button>
+        
+    </div>
+</nav>
+<div class="single-column-header-container" ref="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="http://example.org/">
+        <div class="single-column-header-title">Mixoo 米库</div>
+        
+
+    </a>
+</div>
+            <div id="content">
+<div ref="streamContainer" class="stream-container">
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            
+            
+            
+
+            <div class="post-head-wrapper-text-only"
+                 style="background-image: url('/')">
+                <div class="post-title">
+                    摘记
+
+                    <div class="post-meta">
+
+                        
+                        <time itemprop="datePublished">
+                            2022-02-08 01:44
+                        </time>
+                        
+
+                        
+                            Tom
+                        
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="post-body-wrapper">
+                <div class="post-body">
+                    <blockquote>
+<p>Bypass the censorship and unseal the seal</p>
+<p>绕开审查，揭开封印</p>
+</blockquote>
+<p>Mixoo 米库</p>
+<p><strong>一个月内弃用印象笔记</strong></p>
+<p>五指山下猴</p>
+<p>思惟游移术</p>
+<p>斗战胜佛</p>
+<p>双拼——rime架构的介绍文章</p>
+<blockquote>
+<p>The problem is, if we don’t deal with politics, politics will deal with us.</p>
+</blockquote>
+<p>DRM的反对者</p>
+<blockquote>
+<p>Home Taping Is Killing Music图标的一个简易模仿。</p>
+<p>“设计式缺陷”（Defective by Design）的成员在反对DRM。 许多组织、个人和计算机科学家都反对DRM。两位著名的DRM反对者，其一是约翰·沃克，就像他的著作《数字出版许可》中说的那样：“到底要多强大的老大哥和媒体才能把这个因特网魔鬼塞回瓶子里呢？（How big brother and big media can put the Internet genie back in the bottle）”[56]另一位是理查德·斯托曼，曾在著作《阅读权利》[57]中主张：“DRM是典型的恶意功能——这个功能设计时就是为了伤害它的用户，因此我们绝不能容忍。”。[58]其他著名的反对者包括在英国建立了反DRM组织的剑桥大学教授罗斯·安德森，在微软园区发表演讲批判DRM的作家科利·多克托罗[59]。</p>
+</blockquote>
+<blockquote>
+<p>You will get rich by giving society what it wants but does not yet know how to get. At scale. —— Naval Ravikant</p>
+<p>你将通过给社会提供它想要、但不知道如何大规模制造的东西而致富。—— 纳瓦尔-拉维坎特</p>
+</blockquote>
+<blockquote>
+<p>If you take care of your customers, they will take care of your business.</p>
+</blockquote>
+<blockquote>
+<p>—— Sorry, our entire budget went to excellent customer service.</p>
+</blockquote>
+<p>广告（黄帮）</p>
+<p>『中国人，用隐私换效率』——李彦宏</p>
+
+            
+
+            
+            
+
+            
+            
+                </div>
+            </div>
+
+            <nav class="post-pagination">
+
+                
+                <a class="newer-posts" href="http://example.org/books/blood_in_the_streets/">
+                    上一篇<br>《血流成河》
+                </a>
+                
+
+                
+                <a class="older-posts" href="http://example.org/posts/2022-02-09/">
+                    下一篇<br>摘记
+                </a>
+                
+
+
+            </nav>
+            <div class="post-comment-wrapper">
+                
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+            </div><div id="single-column-footer">帮你做自己的书库
+<br><br>
+&copy;
+	
+	2022 Mixoo 米库
+	
+</div>
+    	</div>
+    <script src="http://example.org//js/journal.js"></script>
+    </body>
+</html>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Mixoo 米库</title>
+    <link>http://example.org/authors/</link>
+    <description>Recent content in Authors on Mixoo 米库</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 15 Feb 2022 13:38:16 +0800</lastBuildDate><atom:link href="http://example.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eric S. Raymond, Rick Moen</title>
+      <link>http://example.org/authors/eric-s.-raymond-rick-moen/</link>
+      <pubDate>Tue, 15 Feb 2022 13:38:16 +0800</pubDate>
+      
+      <guid>http://example.org/authors/eric-s.-raymond-rick-moen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tom</title>
+      <link>http://example.org/authors/tom/</link>
+      <pubDate>Thu, 10 Feb 2022 01:44:07 +0800</pubDate>
+      
+      <guid>http://example.org/authors/tom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Dale Davidson, Sir William Rees-Mogg</title>
+      <link>http://example.org/authors/james-dale-davidson-sir-william-rees-mogg/</link>
+      <pubDate>Mon, 07 Feb 2022 10:07:48 +0800</pubDate>
+      
+      <guid>http://example.org/authors/james-dale-davidson-sir-william-rees-mogg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Schember</title>
+      <link>http://example.org/authors/john-schember/</link>
+      <pubDate>Fri, 04 Feb 2022 10:07:48 +0800</pubDate>
+      
+      <guid>http://example.org/authors/john-schember/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>哈耶克</title>
+      <link>http://example.org/authors/%E5%93%88%E8%80%B6%E5%85%8B/</link>
+      <pubDate>Wed, 02 Feb 2022 10:07:48 +0800</pubDate>
+      
+      <guid>http://example.org/authors/%E5%93%88%E8%80%B6%E5%85%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Louis D. Brandeis</title>
+      <link>http://example.org/authors/louis-d.-brandeis/</link>
+      <pubDate>Tue, 01 Feb 2022 15:55:29 +0800</pubDate>
+      
+      <guid>http://example.org/authors/louis-d.-brandeis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
