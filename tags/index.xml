@@ -2,224 +2,224 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mixoo 米库</title>
-    <link>http://example.org/tags/</link>
+    <link>http://doraemonj.github.io/tags/</link>
     <description>Recent content in Tags on Mixoo 米库</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 15 Feb 2022 13:38:16 +0800</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Feb 2022 13:38:16 +0800</lastBuildDate><atom:link href="http://doraemonj.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ask</title>
-      <link>http://example.org/tags/ask/</link>
+      <link>http://doraemonj.github.io/tags/ask/</link>
       <pubDate>Tue, 15 Feb 2022 13:38:16 +0800</pubDate>
       
-      <guid>http://example.org/tags/ask/</guid>
+      <guid>http://doraemonj.github.io/tags/ask/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eric S. Raymond</title>
-      <link>http://example.org/tags/eric-s.-raymond/</link>
+      <link>http://doraemonj.github.io/tags/eric-s.-raymond/</link>
       <pubDate>Tue, 15 Feb 2022 13:38:16 +0800</pubDate>
       
-      <guid>http://example.org/tags/eric-s.-raymond/</guid>
+      <guid>http://doraemonj.github.io/tags/eric-s.-raymond/</guid>
       <description></description>
     </item>
     
     <item>
       <title>question</title>
-      <link>http://example.org/tags/question/</link>
+      <link>http://doraemonj.github.io/tags/question/</link>
       <pubDate>Tue, 15 Feb 2022 13:38:16 +0800</pubDate>
       
-      <guid>http://example.org/tags/question/</guid>
+      <guid>http://doraemonj.github.io/tags/question/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rick Moen</title>
-      <link>http://example.org/tags/rick-moen/</link>
+      <link>http://doraemonj.github.io/tags/rick-moen/</link>
       <pubDate>Tue, 15 Feb 2022 13:38:16 +0800</pubDate>
       
-      <guid>http://example.org/tags/rick-moen/</guid>
+      <guid>http://doraemonj.github.io/tags/rick-moen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>提问</title>
-      <link>http://example.org/tags/%E6%8F%90%E9%97%AE/</link>
+      <link>http://doraemonj.github.io/tags/%E6%8F%90%E9%97%AE/</link>
       <pubDate>Tue, 15 Feb 2022 13:38:16 +0800</pubDate>
       
-      <guid>http://example.org/tags/%E6%8F%90%E9%97%AE/</guid>
+      <guid>http://doraemonj.github.io/tags/%E6%8F%90%E9%97%AE/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capital</title>
-      <link>http://example.org/tags/capital/</link>
+      <link>http://doraemonj.github.io/tags/capital/</link>
       <pubDate>Mon, 07 Feb 2022 10:07:48 +0800</pubDate>
       
-      <guid>http://example.org/tags/capital/</guid>
+      <guid>http://doraemonj.github.io/tags/capital/</guid>
       <description></description>
     </item>
     
     <item>
       <title>investment</title>
-      <link>http://example.org/tags/investment/</link>
+      <link>http://doraemonj.github.io/tags/investment/</link>
       <pubDate>Mon, 07 Feb 2022 10:07:48 +0800</pubDate>
       
-      <guid>http://example.org/tags/investment/</guid>
+      <guid>http://doraemonj.github.io/tags/investment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>资本</title>
-      <link>http://example.org/tags/%E8%B5%84%E6%9C%AC/</link>
+      <link>http://doraemonj.github.io/tags/%E8%B5%84%E6%9C%AC/</link>
       <pubDate>Mon, 07 Feb 2022 10:07:48 +0800</pubDate>
       
-      <guid>http://example.org/tags/%E8%B5%84%E6%9C%AC/</guid>
+      <guid>http://doraemonj.github.io/tags/%E8%B5%84%E6%9C%AC/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Calibre</title>
-      <link>http://example.org/tags/calibre/</link>
+      <link>http://doraemonj.github.io/tags/calibre/</link>
       <pubDate>Fri, 04 Feb 2022 10:07:48 +0800</pubDate>
       
-      <guid>http://example.org/tags/calibre/</guid>
+      <guid>http://doraemonj.github.io/tags/calibre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>handbook</title>
-      <link>http://example.org/tags/handbook/</link>
+      <link>http://doraemonj.github.io/tags/handbook/</link>
       <pubDate>Fri, 04 Feb 2022 10:07:48 +0800</pubDate>
       
-      <guid>http://example.org/tags/handbook/</guid>
+      <guid>http://doraemonj.github.io/tags/handbook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>快速入门</title>
-      <link>http://example.org/tags/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</link>
+      <link>http://doraemonj.github.io/tags/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</link>
       <pubDate>Fri, 04 Feb 2022 10:07:48 +0800</pubDate>
       
-      <guid>http://example.org/tags/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</guid>
+      <guid>http://doraemonj.github.io/tags/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>手册</title>
-      <link>http://example.org/tags/%E6%89%8B%E5%86%8C/</link>
+      <link>http://doraemonj.github.io/tags/%E6%89%8B%E5%86%8C/</link>
       <pubDate>Fri, 04 Feb 2022 10:07:48 +0800</pubDate>
       
-      <guid>http://example.org/tags/%E6%89%8B%E5%86%8C/</guid>
+      <guid>http://doraemonj.github.io/tags/%E6%89%8B%E5%86%8C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>master</title>
-      <link>http://example.org/tags/master/</link>
+      <link>http://doraemonj.github.io/tags/master/</link>
       <pubDate>Wed, 02 Feb 2022 10:07:48 +0800</pubDate>
       
-      <guid>http://example.org/tags/master/</guid>
+      <guid>http://doraemonj.github.io/tags/master/</guid>
       <description></description>
     </item>
     
     <item>
       <title>哈耶克</title>
-      <link>http://example.org/tags/%E5%93%88%E8%80%B6%E5%85%8B/</link>
+      <link>http://doraemonj.github.io/tags/%E5%93%88%E8%80%B6%E5%85%8B/</link>
       <pubDate>Wed, 02 Feb 2022 10:07:48 +0800</pubDate>
       
-      <guid>http://example.org/tags/%E5%93%88%E8%80%B6%E5%85%8B/</guid>
+      <guid>http://doraemonj.github.io/tags/%E5%93%88%E8%80%B6%E5%85%8B/</guid>
       <description></description>
     </item>
     
     <item>
       <title>社会制度</title>
-      <link>http://example.org/tags/%E7%A4%BE%E4%BC%9A%E5%88%B6%E5%BA%A6/</link>
+      <link>http://doraemonj.github.io/tags/%E7%A4%BE%E4%BC%9A%E5%88%B6%E5%BA%A6/</link>
       <pubDate>Wed, 02 Feb 2022 10:07:48 +0800</pubDate>
       
-      <guid>http://example.org/tags/%E7%A4%BE%E4%BC%9A%E5%88%B6%E5%BA%A6/</guid>
+      <guid>http://doraemonj.github.io/tags/%E7%A4%BE%E4%BC%9A%E5%88%B6%E5%BA%A6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>选择</title>
-      <link>http://example.org/tags/%E9%80%89%E6%8B%A9/</link>
+      <link>http://doraemonj.github.io/tags/%E9%80%89%E6%8B%A9/</link>
       <pubDate>Wed, 02 Feb 2022 10:07:48 +0800</pubDate>
       
-      <guid>http://example.org/tags/%E9%80%89%E6%8B%A9/</guid>
+      <guid>http://doraemonj.github.io/tags/%E9%80%89%E6%8B%A9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bank</title>
-      <link>http://example.org/tags/bank/</link>
+      <link>http://doraemonj.github.io/tags/bank/</link>
       <pubDate>Tue, 01 Feb 2022 15:55:29 +0800</pubDate>
       
-      <guid>http://example.org/tags/bank/</guid>
+      <guid>http://doraemonj.github.io/tags/bank/</guid>
       <description></description>
     </item>
     
     <item>
       <title>banker</title>
-      <link>http://example.org/tags/banker/</link>
+      <link>http://doraemonj.github.io/tags/banker/</link>
       <pubDate>Tue, 01 Feb 2022 15:55:29 +0800</pubDate>
       
-      <guid>http://example.org/tags/banker/</guid>
+      <guid>http://doraemonj.github.io/tags/banker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>captital</title>
-      <link>http://example.org/tags/captital/</link>
+      <link>http://doraemonj.github.io/tags/captital/</link>
       <pubDate>Tue, 01 Feb 2022 15:55:29 +0800</pubDate>
       
-      <guid>http://example.org/tags/captital/</guid>
+      <guid>http://doraemonj.github.io/tags/captital/</guid>
       <description></description>
     </item>
     
     <item>
       <title>combine</title>
-      <link>http://example.org/tags/combine/</link>
+      <link>http://doraemonj.github.io/tags/combine/</link>
       <pubDate>Tue, 01 Feb 2022 15:55:29 +0800</pubDate>
       
-      <guid>http://example.org/tags/combine/</guid>
+      <guid>http://doraemonj.github.io/tags/combine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>invest</title>
-      <link>http://example.org/tags/invest/</link>
+      <link>http://doraemonj.github.io/tags/invest/</link>
       <pubDate>Tue, 01 Feb 2022 15:55:29 +0800</pubDate>
       
-      <guid>http://example.org/tags/invest/</guid>
+      <guid>http://doraemonj.github.io/tags/invest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>money</title>
-      <link>http://example.org/tags/money/</link>
+      <link>http://doraemonj.github.io/tags/money/</link>
       <pubDate>Tue, 01 Feb 2022 15:55:29 +0800</pubDate>
       
-      <guid>http://example.org/tags/money/</guid>
+      <guid>http://doraemonj.github.io/tags/money/</guid>
       <description></description>
     </item>
     
     <item>
       <title>钱</title>
-      <link>http://example.org/tags/%E9%92%B1/</link>
+      <link>http://doraemonj.github.io/tags/%E9%92%B1/</link>
       <pubDate>Tue, 01 Feb 2022 15:55:29 +0800</pubDate>
       
-      <guid>http://example.org/tags/%E9%92%B1/</guid>
+      <guid>http://doraemonj.github.io/tags/%E9%92%B1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag1</title>
-      <link>http://example.org/tags/tag1/</link>
+      <link>http://doraemonj.github.io/tags/tag1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/tag1/</guid>
+      <guid>http://doraemonj.github.io/tags/tag1/</guid>
       <description></description>
     </item>
     

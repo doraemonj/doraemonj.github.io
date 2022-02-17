@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rick Moen on Mixoo 米库</title>
-    <link>http://example.org/tags/rick-moen/</link>
+    <link>http://doraemonj.github.io/tags/rick-moen/</link>
     <description>Recent content in Rick Moen on Mixoo 米库</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 15 Feb 2022 13:38:16 +0800</lastBuildDate><atom:link href="http://example.org/tags/rick-moen/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Feb 2022 13:38:16 +0800</lastBuildDate><atom:link href="http://doraemonj.github.io/tags/rick-moen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>《提问的智慧》</title>
-      <link>http://example.org/books/how_to_ask_questions/</link>
+      <link>http://doraemonj.github.io/books/how_to_ask_questions/</link>
       <pubDate>Tue, 15 Feb 2022 13:38:16 +0800</pubDate>
       
-      <guid>http://example.org/books/how_to_ask_questions/</guid>
+      <guid>http://doraemonj.github.io/books/how_to_ask_questions/</guid>
       <description>原文链结：How To Ask Questions The Smart Way 译者：王刚 弃权申明 许多项目的网站在如何取得帮助的部分链接了本文，这没有关系，也正是我们想要的。但如果你是该项目生</description>
     </item>
     
