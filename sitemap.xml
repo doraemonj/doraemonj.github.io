@@ -2,16 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://doraemonj.github.io/tags/ask/</loc>
-    <lastmod>2022-02-15T13:38:16+08:00</lastmod>
-  </url><url>
     <loc>https://doraemonj.github.io/authors/</loc>
-    <lastmod>2022-02-15T13:38:16+08:00</lastmod>
+    <lastmod>2022-02-18T11:46:29+08:00</lastmod>
   </url><url>
     <loc>https://doraemonj.github.io/books/</loc>
-    <lastmod>2022-02-15T13:38:16+08:00</lastmod>
+    <lastmod>2022-02-18T11:46:29+08:00</lastmod>
   </url><url>
     <loc>https://doraemonj.github.io/categories/</loc>
+    <lastmod>2022-02-18T11:46:29+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/tags/learn/</loc>
+    <lastmod>2022-02-18T11:46:29+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/categories/learning/</loc>
+    <lastmod>2022-02-18T11:46:29+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/</loc>
+    <lastmod>2022-02-18T11:46:29+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/authors/peter-c.-brown/</loc>
+    <lastmod>2022-02-18T11:46:29+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/tags/self-learning/</loc>
+    <lastmod>2022-02-18T11:46:29+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/tags/skill/</loc>
+    <lastmod>2022-02-18T11:46:29+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/categories/skill/</loc>
+    <lastmod>2022-02-18T11:46:29+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/tags/</loc>
+    <lastmod>2022-02-18T11:46:29+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/books/make_it_stick/</loc>
+    <lastmod>2022-02-18T11:46:29+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2022-02-18T11:46:29+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/tags/ask/</loc>
     <lastmod>2022-02-15T13:38:16+08:00</lastmod>
   </url><url>
     <loc>https://doraemonj.github.io/tags/eric-s.-raymond/</loc>
@@ -20,19 +50,10 @@
     <loc>https://doraemonj.github.io/authors/eric-s.-raymond-rick-moen/</loc>
     <lastmod>2022-02-15T13:38:16+08:00</lastmod>
   </url><url>
-    <loc>https://doraemonj.github.io/</loc>
-    <lastmod>2022-02-15T13:38:16+08:00</lastmod>
-  </url><url>
     <loc>https://doraemonj.github.io/tags/question/</loc>
     <lastmod>2022-02-15T13:38:16+08:00</lastmod>
   </url><url>
     <loc>https://doraemonj.github.io/tags/rick-moen/</loc>
-    <lastmod>2022-02-15T13:38:16+08:00</lastmod>
-  </url><url>
-    <loc>https://doraemonj.github.io/categories/skill/</loc>
-    <lastmod>2022-02-15T13:38:16+08:00</lastmod>
-  </url><url>
-    <loc>https://doraemonj.github.io/tags/</loc>
     <lastmod>2022-02-15T13:38:16+08:00</lastmod>
   </url><url>
     <loc>https://doraemonj.github.io/books/how_to_ask_questions/</loc>
@@ -43,27 +64,6 @@
   </url><url>
     <loc>https://doraemonj.github.io/tags/%E6%8F%90%E9%97%AE/</loc>
     <lastmod>2022-02-15T13:38:16+08:00</lastmod>
-  </url><url>
-    <loc>https://doraemonj.github.io/about/</loc>
-    <lastmod>2022-02-15T01:44:07+08:00</lastmod>
-  </url><url>
-    <loc>https://doraemonj.github.io/about/aboutus/</loc>
-    <lastmod>2022-02-15T01:44:07+08:00</lastmod>
-  </url><url>
-    <loc>https://doraemonj.github.io/posts/</loc>
-    <lastmod>2022-02-10T01:44:07+08:00</lastmod>
-  </url><url>
-    <loc>https://doraemonj.github.io/authors/tom/</loc>
-    <lastmod>2022-02-10T01:44:07+08:00</lastmod>
-  </url><url>
-    <loc>https://doraemonj.github.io/posts/c/</loc>
-    <lastmod>2022-02-10T01:44:07+08:00</lastmod>
-  </url><url>
-    <loc>https://doraemonj.github.io/posts/2022-02-09/</loc>
-    <lastmod>2022-02-09T01:44:07+08:00</lastmod>
-  </url><url>
-    <loc>https://doraemonj.github.io/posts/2022-02-08/</loc>
-    <lastmod>2022-02-08T01:44:07+08:00</lastmod>
   </url><url>
     <loc>https://doraemonj.github.io/tags/capital/</loc>
     <lastmod>2022-02-07T10:07:48+08:00</lastmod>
@@ -151,9 +151,5 @@
   </url><url>
     <loc>https://doraemonj.github.io/tags/%E9%92%B1/</loc>
     <lastmod>2022-02-01T15:55:29+08:00</lastmod>
-  </url><url>
-    <loc>https://doraemonj.github.io/test-toml/</loc>
-  </url><url>
-    <loc>https://doraemonj.github.io/tags/tag1/</loc>
   </url>
 </urlset>
