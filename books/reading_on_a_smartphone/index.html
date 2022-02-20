@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html><head>
+<title>《自然》杂志论文：用智能手机阅读会影响叹息的产生、大脑活动和理解力</title>
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="description" content="Reading on a smartphone affects sigh generation, brain activity, and comprehension">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+<script src="/vendor/js/jquery.min.js" ></script>
+<script src="/vendor/js/popper.min.js" ></script>
+<script src="/vendor/js/bootstrap.min.js" ></script>
+<script src="/vendor/js/smooth-scroll.polyfills.min.js" ></script>
+<link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+<script src="/vendor/js/vue.min.js" ></script>
+
+
+
+
+<link rel="stylesheet" href="https://doraemonj.github.io/scss/journal.min.ebffb8bc663074d9be2ae412afd845f5d51f7476b8c7c75ccd6caf0352de28e7.css" integrity="sha256-6/&#43;4vGYwdNm&#43;KuQSr9hF9dUfdHa4x8dczWyvA1LeKOc=" media="screen">
+
+
+
+<link rel="stylesheet" href="https://doraemonj.github.io/scss/dark-mode.min.7ecba69f8dacfdebdd9e8de588dc5cc8a99040c5413ed0e30d0abaa3d77b175d.css" integrity="sha256-fsumn42s/evdno3liNxcyKmQQMVBPtDjDQq6o9d7F10=" media="screen">
+
+
+<script src="https://doraemonj.github.io//js/loadCSS.js"></script>
+<script>
+  loadCSS("https://fonts.googleapis.com/css?family=Lora|Montserrat|Fira+Mono|Noto+Serif+SC|Material+Icons");
+</script>
+
+<script src="https://doraemonj.github.io//js/table.js"></script>
+
+
+
+
+<script src="https://doraemonj.github.io//js/toc.js"></script>
+
+
+
+
+
+
+
+
+</head><body>
+    	<div id="app"><div ref="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head false" href="https://doraemonj.github.io/">
+    
+        <div class="nav-title">
+            Mixoo 米库
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+            
+                
+            
+            
+            
+            <a class="a-block nav-link-item active" href="/books/">
+                藏书
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/about/">
+                关于
+            </a>
+            
+        
+    </div>
+
+    
+
+    <div class="nav-footer">
+        帮你做自己的书库
+<br><br>
+&copy;
+	
+	2022 Mixoo 米库
+	
+
+    </div>
+    
+</div><div ref="extraContainer" class="extra-container">
+    
+    
+    <div class="toc animated-visibility" :class="{ invisible: scrollY <= 140 }">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		     
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#%e6%91%98%e8%a6%81" v-on:click="closeDrawer" id="摘要-nav">
+										 摘要
+									</a>
+								</li>
+						
+							</ul>
+						
+							</ul>
+						
+					
+				
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#%e7%ae%80%e4%bb%8b" v-on:click="closeDrawer" id="简介-nav">
+										 简介
+									</a>
+								</li>
+						
+							</ul>
+						
+							</ul>
+						
+					
+				
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#%e7%a0%94%e7%a9%b6%e7%bb%93%e6%9e%9c" v-on:click="closeDrawer" id="研究结果-nav">
+										 研究结果
+									</a>
+								</li>
+						
+							</ul>
+						
+							</ul>
+						
+					
+				
+			
+	</div>
+
+</div>
+    
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+        <a class="pagination-action" v-on:click="toggleDarkMode">
+            <i class="material-icons pagination-action-icon" v-if="isDarkMode">
+                brightness_4
+            </i>
+            <i class="material-icons pagination-action-icon" v-else="isDarkMode">
+                brightness_7
+            </i>
+        </a>
+        
+        
+    </div>
+</div><div class="single-column-drawer-container" ref="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+            
+                
+                
+                
+                    
+                
+                
+                
+                <a class="a-block drawer-menu-item active" href="/books/">
+                    藏书
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/about/">
+                    关于
+                </a>
+                
+            
+            
+            <div class="toc">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		     
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#%e6%91%98%e8%a6%81" v-on:click="closeDrawer" id="摘要-nav">
+										 摘要
+									</a>
+								</li>
+						
+							</ul>
+						
+							</ul>
+						
+					
+				
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#%e7%ae%80%e4%bb%8b" v-on:click="closeDrawer" id="简介-nav">
+										 简介
+									</a>
+								</li>
+						
+							</ul>
+						
+							</ul>
+						
+					
+				
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#%e7%a0%94%e7%a9%b6%e7%bb%93%e6%9e%9c" v-on:click="closeDrawer" id="研究结果-nav">
+										 研究结果
+									</a>
+								</li>
+						
+							</ul>
+						
+							</ul>
+						
+					
+				
+			
+	</div>
+
+</div>
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav ref="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div ref="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a ref="navTitle" class="navbar-brand" href="https://doraemonj.github.io/">
+            Mixoo 米库
+        </a>
+        
+        <button type="button" class="nav-darkmode-toggle" v-on:click="toggleDarkMode">
+            <i class="material-icons" v-if="isDarkMode">
+                brightness_4
+            </i>
+            <i class="material-icons" v-else="isDarkMode">
+                brightness_7
+            </i>
+        </button>
+        
+    </div>
+</nav>
+<div class="single-column-header-container" ref="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="https://doraemonj.github.io/">
+        <div class="single-column-header-title">Mixoo 米库</div>
+        
+
+    </a>
+</div>
+            <div id="content">
+<div ref="streamContainer" class="stream-container">
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            
+            
+            
+
+            <div class="post-head-wrapper-text-only"
+                 style="background-image: url('/')">
+                <div class="post-title">
+                    《自然》杂志论文：用智能手机阅读会影响叹息的产生、大脑活动和理解力
+
+                    <div class="post-meta">
+
+                        
+                        <time itemprop="datePublished">
+                            2022-02-20
+                        </time>
+                        
+
+                        <br>
+
+                        
+                            Reading on a smartphone affects sigh generation, brain activity, and comprehension
+                        
+
+                        <br>
+
+                        
+                            Motoyasu Honma, Yuri Masaoka, Natsuko Iizuka, Sayaka Wada, Sawa Kamimura, Akira Yoshikawa, Rika Moriya, Shotaro Kamijo &amp; Masahiko Izumizaki 
+                        
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="post-body-wrapper">
+                <div class="post-body">
+                    <p>论文作者：本间元康、正冈尤里、饭冢夏子、和田沙耶加、上村泽、吉川明、森谷里香、上条正太郎和泉崎正彦</p>
+<p>翻译：DeepL.com</p>
+<h2 id="摘要">摘要</h2>
+<p>电子设备已经成为我们日常生活中不可缺少的一部分，而它们的消极方面也有报道。其中一个缺点是，使用电子设备阅读时，阅读理解能力会下降；造成这种性能缺陷的原因尚不清楚。在这项研究中，我们通过同时测量34名健康人在阅读过程中的呼吸和大脑活动，调查了使用智能手机阅读时理解力下降的原因。我们发现，与在纸质媒介上阅读相比，在智能手机上阅读会引起更少的叹息，促进大脑前额叶皮质的过度活动，并导致理解力下降。此外，在智能手机上阅读会影响叹气的频率，但不会影响正常的呼吸，这表明正常的呼吸和叹气的产生是由受视觉环境不同影响的途径所介导的。路径分析表明，叹息抑制和前额叶皮层的过度活动之间的互动关系导致理解力下降。这些发现为认知功能的呼吸介导机制提供了新的见解。</p>
+<h2 id="简介">简介</h2>
+<p>近年来，在电子设备上阅读和学习已经变得越来越普遍。虽然电子设备给人类带来了巨大的好处，但它们也会造成眼睛疲劳和头痛，并导致阅读理解能力下降。基础研究中已经报道了视觉环境和认知表现之间的联系。用电动设备阅读时，理解力下降可能是由于注意力集中程度差或感觉处理电路不同，这可能与生理状态有关，包括大脑和生理活动水平。即使文本内容相同，阅读理解也可能因视觉环境的不同而不同。因为当涉及到感觉整合或跨模式时，视觉对其他感官有主导性的影响，视觉输入也可能影响大脑状态和生理状况。因此，在视觉环境和认知表现之间的关系中，大脑活动和生理变化可能作为中介变量存在。</p>
+<p>我们把呼吸和大脑活动作为潜在的中介因素来关注。以前的研究表明，大脑的过度活动与叙事内容的理解能力差有关。许多研究报告了呼吸和各种认知功能之间的关联。**在这些研究中，发现呼吸和认知功能之间存在着相互的关系。呼吸受认知负荷或情绪（压力和焦虑）的影响，改变了呼吸的深度和节奏。反之，呼吸模式会影响额叶皮层和海马体的功能，从而影响记忆的形成。**对呼吸的关注也被证明可以提高记忆的表现。此外，大脑的活动是与呼吸周期相适应的。然而，没有研究对视觉环境和呼吸之间的关系进行研究。根据感官间的整合机制，我们知道视觉信息可以改变来自其他感官（触觉、味觉、嗅觉和听觉）的信息。然而，来自其他感官的信息很少影响到视觉。这些发现表明，视觉比其他感官更有优势，视觉环境很有可能影响各种功能，包括呼吸系统的功能。</p>
+<p>**鉴于使用数字设备会降低认知能力的发现，视觉环境很可能会影响认知能力。**关于视觉环境和认知表现之间的级联过程，视觉环境和大脑功能；大脑功能和认知表现；呼吸和认知表现；以及呼吸和大脑功能20之间的关系已被明确确立。然而，目前还不清楚视觉环境是如何影响呼吸和大脑功能的。因此，本研究以探索性的方式研究了其中的机制。具体来说，我们旨在探索和证明视觉环境和呼吸之间的关系，以及视觉环境和大脑功能之间的关系，以阐明假设使用数字设备降低认知能力的现象。</p>
+<p>如果一个特定的视觉环境对呼吸功能和（或）大脑功能产生负面影响，再加上大脑和呼吸活动之间的互动关系，上述过程有可能对认知表现产生负面影响（图1）。这项探索性研究通过同时测量34名健康人的大脑和呼吸活动来研究电子设备的使用对阅读理解的影响。</p>
+<h2 id="研究结果">研究结果</h2>
+<p>为了研究使用电子设备时阅读理解能力下降的原因，我们准备了一个重复测量（交叉）设计，包括四个条件，涉及两种媒体（智能手机和纸张）和从不同文本（小说A和B；见补充文本）中提取的两个句子的组合。一个试验由四个环节组成：阅读前的静止状态、阅读、阅读后的静止状态和阅读测试（图1a）。额叶脑活动（两个通道）由功能性近红外光谱（NIRS）测量，而呼吸活动（六个指标）和新陈代谢模式（两个指标）由呼吸空气监测仪测量（见 &ldquo;方法&rdquo;）。</p>
+<p><img src="/images/41598_2022_5605_Fig1_HTML.webp" alt="41598_2022_5605_Fig1_HTML">
+图1
+与纸质媒介相比，使用智能手机的阅读分数有所下降。(a) 每个试验包括四个环节：阅读前的休息状态，阅读，阅读后的休息状态，以及阅读测试。阅读时间不限，阅读前/后的休息状态为两分钟。(b) 对于阅读测试的分数，媒介的主效应是显著的，而小说的主效应和交互效应则不显著。在小说A和B的句子中，使用智能手机媒介的得分低于使用纸张媒介的得分（*P &lt; 0.05）。(c, d) 在阅读时间或参与者眼睛与设备之间的观察距离方面，没有观察到媒介或小说的主效应或交互效应。误差条表示平均值的标准误差。S智能手机，P纸张，A小说A，B小说B。</p>
+<p>全尺寸图片
+对于阅读得分，在交叉设计上，重复测量方差分析（RM-ANOVA）显示，阅读媒介影响阅读得分（F1,32 = 26.445，P &lt; 0.0001），而小说的主效应没有。事后检验显示，在小说A和B中，使用纸质媒介的分数高于使用智能手机的分数（P &lt; 0.05，图1b）。对于阅读时间（图1c）或参与者眼睛与设备之间的观察距离（图1d），没有观察到媒介或小说的主要或交互效应。</p>
+<p>在我们测量的六种呼吸模式（图2a）和两种代谢模式中，阅读期间的潮气量与阅读课后和之前的潮气量相比有所下降，而使用纸质媒介的阅读期间叹息声有所增加（图2b）。RM-ANOVA显示，在潮气量（图2c，会话：F2,67 = 8.821，P &lt; 0.0001）、吸气时间（图2d，会话：F2,67 = 8.639，P &lt; 0. 0001），呼气时间（图2e，会话：F2,67 = 6.212，P &lt; 0.0001），呼吸频率（图2f，会话：F2,67 = 5.3622，P &lt; 0.0001）；对于叹气次数，也存在着媒介、会话和交互的影响（图2g，媒介。F2,67 = 26.623, P &lt; 0.0001；会话。F2,67 = 6.530, P &lt; 0.0001; 互动。F2,134 = 9.169, P &lt; 0.0001）。事后检验显示，无论哪种媒介，阅读期间的潮气量、吸气时间和呼气时间都比休息状态下的减少，而呼吸频率则增加（所有P &lt; 0.05）。使用纸质媒介阅读时的叹气次数比使用智能手机阅读时的叹气次数多（所有P &lt; 0.05）。在整个疗程中，没有观察到分钟通气量、氧气消耗或潮气末梢二氧化碳的变化（补充图2a-c）。此外，对于在一次试验中出现两次或更多叹息的情况，计算了叹息之间的间隔时间（40次试验中的121个点），并比较了四种条件下的平均值（阅读环节中的智能手机/纸张和小说A/B）。方差分析表明，不同条件之间没有明显差异（补充图3）。</p>
+<p>图2
+图2
+与纸张相比，使用智能手机阅读时叹息被抑制。(a) 一个典型的例子，来自一个参与者的原始呼吸信号。(b) 一名参与者在使用智能手机和纸质媒体的阅读会议之前、期间和之后的潮气量和叹息的代表性模式。(c-e)与会前和会后相比，无论采用何种媒介，阅读会话期间的平均潮气量、吸气时间和呼气时间都有所减少（*P &lt; 0.05）。(f) 与会前和会后相比，阅读过程中的呼吸频率增加（*P &lt; 0.05）。(g) 与使用智能手机时相比，在使用纸质媒介的阅读环节中，叹气次数增加，在使用两种媒介的阅读环节后，叹气次数增加（*P &lt; 0.05）。误差条表示平均值的标准误差。S智能手机，P纸张。</p>
+<p>全尺寸图片
+我们发现，在阅读过程中，用NIRS记录的活动比阅读前和阅读后的活动都有所增加，在用智能手机阅读时，比用纸质媒介阅读时有所增加（图3a）。RM-ANOVA显示，在通道1（左探针）中没有媒介或交互作用的主效应；然而，有一个显著的会议主效应（F2,67 = 17.119，P &lt; 0.0001）。在通道2（右探针）中，没有媒介或交互作用的主效应，而有一个显着的会议的主效应（F2,67 = 10.430，P &lt; 0.0001）。事后检验显示，与休息状态相比，左（P&lt;0.05，图3b）和右（P&lt;0.05，图3c）探针的阅读活动都有所增加。此外，在左边的探针上，用智能手机阅读时的活动比用纸质媒介阅读时的活动要高（所有P &lt; 0.05）。</p>
+<p>图3
+图3
+用智能手机阅读时，额头周围的大脑活动增加。(a) 阅读前、阅读中和阅读后，左侧探针上功能性近红外光谱（NIRS）活动的代表性模式。(b, c) RM-ANOVA显示，与阅读前和阅读后相比，在使用智能手机媒介的阅读过程中，左、右探针记录的NIRS活动有所增加。媒介之间的差异在左侧探针中清晰可见（*P &lt; 0.05）。误差条表示平均值的标准误差。S智能手机，P纸。</p>
+<p>全尺寸图片
+我们进行了路径分析，即利用路径图确定变量之间的因果关系，以研究阅读分数的机制路线。六个呼吸指标、两个代谢指标、两个NIRS指标和阅读分数被设定为观察变量。在最合适的模型中（图4，拟合指数=0.881），左侧NIRS通道活动与叹气次数之间存在协变量关系（P=0.021）。此外，左侧NIRS通道活动与它对阅读分数的影响之间有直接关系（P = 0.003）。左侧NIRS通道活动的增加与叹气次数的减少相关。此外，当左侧NIRS通道活动增加时，阅读得分较低。</p>
+<p>图4
+图4
+路径分析中的一个级联过程。六个呼吸指标（分钟通气量、潮气量、呼吸频率、吸气时间、呼气时间和叹气次数）、两个代谢模式（氧气消耗和潮气末梢二氧化碳）、阅读时段的两个NIRS指标（右/左）和阅读得分被设定为观察变量。在最合适的模型中（拟合指数=0.881），左侧NIRS通道活动与叹气次数之间存在协变量关系（P=0.021），而右侧NIRS通道活动与其对阅读得分的影响之间存在直接关系（P=0.003）。数字为标准化路径系数的平均值。</p>
+<p>全尺寸图片
+讨论
+目前的研究复制了之前报道的发现，即用智能手机阅读导致的阅读成绩低于用纸质媒介阅读3,4。呼吸系统的结果显示，无论使用何种媒介，在阅读过程中，平均潮气量减少，呼吸变得浅而快，而与使用纸质媒介的阅读相比，在智能手机上阅读时叹气的次数减少，即使是在进行同样的阅读行为。就NIRS数据而言，与阅读前的休息状态相比，无论采用何种媒介，智能手机和纸张的前额活动在阅读过程中都有所增加；此外，与使用纸张媒介的阅读过程相比，使用智能手机时的活动有所增加。以前的研究表明，叹气的次数随着认知负荷的增加而增加14,21。在我们的研究中，在纸质媒介上进行认知性阅读活动时，叹气次数增加，而在智能手机上阅读时则减少。这一发现表明，与在纸质媒介上的阅读相比，在智能手机上的阅读可能导致了叹息的抑制。此外，路径分析表明，叹息抑制和前额叶皮层的过度活动之间的互动关系导致了理解力的下降。</p>
+<p>如果在纸上或智能手机上阅读时，大脑功能在句法处理方面是共同的，那么在目前的结果中，使用智能手机时前额叶皮质的活动可能会增强。活动，尤其是左侧的活动，可能反映了左半球在处理阅读方面的主要活动22,23。据报道，前额叶皮层的过度活动与不同受试者对叙述内容的理解能力差有关9,10。本研究结果显示，与使用纸质媒介时相比，使用智能手机时观察到前额叶皮层的过度活动，而认知能力较低的结果也支持这一发现。一般来说，前额皮层的活动增加表明大脑经历了认知负荷。然而，前额叶皮层的过度活动表明，大脑处于沉重的认知负荷之下24。关于在纸质媒介上的阅读，适度的认知负荷可能产生了叹息（或深呼吸），这似乎恢复了呼吸变异性的增加和对前额叶大脑活动的控制。相反，在智能手机上阅读时，强烈的认知负荷可能已经抑制了叹息的产生，导致前额叶皮质的过度活动。注意力和呼吸功能在大脑内的兴奋点有一个共同的中心25,26。叹气也与工作量的增加有关，而呼吸的变异性通过叹气恢复到健康的规律性27,28。叹气可能与执行功能的改善有关。这些结果表明，与纸质媒介相比，在智能手机上阅读理解能力的下降可能至少部分是由叹气的减少和前额叶活动的增加造成。</p>
+<p>这项研究考察了视觉环境对认知功能的影响，我们还发现了一个意想不到的次要发现。呼吸节律发生是一个新兴的属性，涉及脑干内的起搏器神经元和呼吸节律形成的核心区域，称为前伯兹格复合体（preBötC）29。此外，人们普遍认为，叹息的产生是由一个与正常呼吸不同的机制所介导的。虽然一项经典的研究报告说，双侧迷走神经横断术取消了叹气30，但另一项研究观察到，双侧迷走神经横断术31后两小时，麻醉猫仍有自发的叹气，这导致了对迷走神经在叹气中的作用的一些争论。最近的一份报告提出，叹气是由小鼠的两个平行的弹力素样神经肽途径调节的，即神经素B和胃泌素释放肽，它们介导呼吸控制中心之间的信号传递32。这些神经元投射到preBötC，激活preBötC受体可使叹息增加约10倍，而抑制该受体则可取消叹息。另外，对受体的操作对正常呼吸没有影响，证实了正常呼吸和叹息是由不同的途径介导的。基于这项研究，我们的发现表明，阅读的视觉环境会影响叹息的产生，但不会影响正常呼吸。</p>
+<p>是什么原因导致使用智能手机的叹息发生率下降？其中一个可能的原因是智能手机所发出的蓝光。对蓝光有反应的内在光敏视网膜神经节细胞（ipRGCs）会投射到各种脑区，如调节唤醒和学习的脐周核33。蓝光也会导致被迫持续注意34。此外，最近的一项流行病学研究报告称，暴露在智能手机的蓝光下与唤醒和焦虑的增加有关35。使用智能手机时叹息声的减少和大脑的过度活动可能是由于蓝光暴露导致ipRGC活动的持续认知负荷造成的。需要进一步研究蓝光对呼吸和大脑活动的影响。</p>
+<p>根据路径分析的结果（补充图5），本研究对视觉环境和认知表现之间的关系提供了一个新的视角。关于在纸质媒介上的阅读，适度的认知负荷可能会产生叹息（或深呼吸），似乎可以恢复呼吸的变异性和对前额叶大脑活动的控制。相反，在智能手机上阅读可能需要持续的任务注意34，急性认知负荷可能抑制叹息的产生，导致前额叶皮层的过度活动。已发现叹气与各种认知功能有关13,27,28，并可能重置呼吸变异性36,37。这种复位也可能与执行功能的改善有关14。</p>
+<p>目前的研究有几个局限性。首先，我们的实验没有涉及任何主观认知负荷的测量。基于在智能手机和纸质媒体上阅读时叹气次数和大脑活动的差异，很可能在认知负荷方面也存在差异。在未来，有必要评估认知负荷指数，并研究呼吸和大脑活动之间的关系。第二，我们没有控制翻页时的动作，也没有控制为保持对文本的注意力而做的指向性动作。这些身体动作可能对本指数有一些影响。在未来，这种身体上的限制应该被考虑在内。</p>
+<p>本研究结果表明，在智能手机设备上阅读理解能力的降低可能是由于叹息减少和前额叶皮层活动过度造成的，尽管对智能手机以外的电子设备的影响还有待证实。最近的报告表明，由于与大流行病有关的封锁，智能手机和其他电子设备的使用一直在增加，有迹象表明这对睡眠和身体活动产生了负面影响38,39。本研究中检测到的视觉环境、呼吸/脑部活动和认知表现之间的关系可能表明电子设备的使用对人体的负面影响之一。如果智能手机的负面影响是真的，那么在阅读时进行深呼吸可能是有益的，因为叹气，不管是自愿的还是不自愿的，都能调节紊乱的呼吸36。</p>
+<p>材料和方法
+参与者
+本研究得到了昭和大学医学院伦理委员会的批准，并根据《赫尔辛基宣言》的原则进行（试验标识符号：2179）。34名日本大学生在实验前提供了书面知情同意书。所有参与者都是右手主导，没有神经或精神疾病史（20名女性；平均年龄=20.4，标准差=0.8）。参与者有正常的视力，有/无矫正。</p>
+<p>实验设计和环境
+在这项研究中，认知表现是通过一次试验结束后的阅读理解测试的分数来评估的。生理条件包括呼吸（呼吸模式、叹气次数和新陈代谢模式）和大脑功能（通过NIRS进行前额叶活动）。视觉环境的因素包括智能手机和纸质媒体。为了研究使用智能手机阅读的影响，我们设置了四个条件，涉及两种媒体（智能手机和纸张）和两个句子（小说A和B；见补充文本）的组合（图1a）。参与者在每个条件下随机进行两次试验，以避免媒介和小说条件的重复（例如，如果第一次试验是智能手机上的小说A，第二次试验是纸上的小说B）（补充图4）。所有条件都是平衡的，基于媒介类型和小说类型不重叠的条件。一个试验包括四个环节：阅读前的休息状态、阅读中、阅读后的休息状态和阅读测试。参与者被要求坐下，他们的躯干和手臂被固定。在阅读过程中，他们被要求在指定的媒介上阅读指定的小说。在休息状态的环节中，参与者被要求睁开眼睛，看着一面墙。随后，他们进行阅读测试，包括十个与小说内容有关的问题。他们还被要求在所有环节中用鼻子呼吸。阅读时间没有限制，在阅读前/后有两分钟的休息状态。在实验结束时，参与者被问及他们以前是否读过实验中使用的小说。所有参与者都回答说他们从未读过这些小说。</p>
+<p>观察距离由参与者的方便决定，实验者测量设备和参与者的眼睛之间的距离。媒介和小说的因素对阅读时间和观察距离没有影响。每本小说都源于同一作者村上春树所写的两本小说中的一段（小说A：《挪威的森林》，1987年，3060个日文字符；或小说B：《无色的多崎月和他的朝圣岁月》，2013年，3067个日文字符）。智能手机的面板尺寸为5.0英寸（分辨率像素：高：1920，宽：1080），文字尺寸为0.85度。纸介质上的文字大小与智能手机上的文字大小相同。此外，纸介质的重量（148克）和外框（高：144毫米，宽：72毫米，厚：8.6毫米）也与智能手机的相同。</p>
+<p>参与者在额头上戴着带子以测量大脑活动，在口鼻周围戴着面具以测量呼吸。NIRS（Hb13-2，ASTEM，日本神奈川）包括两个用于测量大脑活动的探头，从左、右前额皮层进行测量40,41。NIRS计算额头上的氧合血红蛋白浓度[mM]。该探头由一个发光的LED和一个光电二极管组成，光电二极管接收通过身体传输的光线。通过量化身体组织中的光散射和透射的空间斜率来估计氧化和脱氧血红蛋白的数量。</p>
+<p>一个气垫面罩（AMA104，Minato Medical Science，日本大阪）被连接到头带（KBN0226，Minato Medical Science，日本大阪），一个传感器（热线流量计，Minato Medical Science，日本：呼吸管直径和长度。5毫米，205厘米）连接到呼吸监测仪（Aeromonitor AE-280，Minato Medical Science，日本），用于测量呼吸模式和代谢42。用软件（AT Window，Minato Medical Science，日本）计算逐次呼吸的测量，并通过AD转换器（PowerLab，AD Instruments，新西兰）由另一个软件（Lab Chart，AD Instruments，新西兰）同时测量原始呼吸信号。呼吸监测仪计算了六个呼吸模式的指标：潮气量（呼吸深度，[ml]），呼吸频率（每分钟呼吸次数，[n/min]），吸气时间（吸气时间，[s]），呼气时间（呼气时间，[s]），分钟通气量（每分钟通气率，[l]），叹气次数（深呼吸，[n]），以及两个代谢模式的指标（氧气消耗[ml]，潮末二氧化碳[%]）。一声叹息被定义为至少两倍于每个时段的平均潮气量43。对叹气之间的间隔时间进行分析，分析仅限于在一次试验中发生两次或两次以上叹气的情况。</p>
+<p>统计数据
+我们进行了RM-ANOVA和事后t检验，以检验媒介（智能手机和纸张）和小说句子（小说A和B）对阅读测试得分、阅读时间、观看距离和叹息间隔时间的主效应和交互作用。他们还针对媒介（智能手机和纸张）和会话条件（阅读前、阅读中和阅读后）对呼吸（潮气量、吸气时间、呼气时间、呼吸频率、分钟通气量、潮气末梢二氧化碳、氧气消耗和叹气次数）和大脑功能（前额叶皮层的左右活动）进行了研究。所有测试都是双尾的。结果以平均数±平均数的标准误差表示。JMP Pro 16.0（SAS Institute, Inc）用于RM-ANOVA。统计学意义标准被定义为调整后的P&lt;0.05，并经Bonferroni校正。通过路径分析计算6个呼吸指标、2个代谢指标、2个NIRS指标和理解力评分之间的关系。模型的拟合度是用近似值的均方根确定的。AMOS 27.0被用于路径分析。</p>
+<p>数据提供
+论文中提供了补充资料以支持目前的结果。本研究中使用的分析方法基本上是这类数据的标准方法。支持本研究结果的其他数据可向相应作者索取。</p>
+<p>参考文献</p>
+
+            
+
+            
+            
+
+            
+            
+                </div>
+            </div>
+
+            <nav class="post-pagination">
+
+                
+                <a class="newer-posts" href="https://doraemonj.github.io/books/make_it_stick/">
+                    上一篇<br>《让所学和你相关》
+                </a>
+                
+
+                
+                <a class="older-posts">
+                    本页为最新上架
+                </a>
+                
+
+
+            </nav>
+            <div class="post-comment-wrapper">
+                
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+            </div><div id="single-column-footer">帮你做自己的书库
+<br><br>
+&copy;
+	
+	2022 Mixoo 米库
+	
+</div>
+    	</div>
+    <script src="https://doraemonj.github.io//js/journal.js"></script>
+    </body>
+</html>
