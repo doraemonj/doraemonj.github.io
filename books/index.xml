@@ -6,7 +6,16 @@
     <description>Recent content in Books on Mixoo 米库</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 20 Feb 2022 10:44:07 +0800</lastBuildDate><atom:link href="https://doraemonj.github.io/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Feb 2022 10:07:48 +0800</lastBuildDate><atom:link href="https://doraemonj.github.io/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《Introduction to Hugo Templating》</title>
+      <link>https://doraemonj.github.io/books/hugo_templating/</link>
+      <pubDate>Tue, 22 Feb 2022 10:07:48 +0800</pubDate>
+      
+      <guid>https://doraemonj.github.io/books/hugo_templating/</guid>
+      <description>Hugo uses Go’s html/template and text/template libraries as the basis for the templating. The following is only a primer on Go Templates. For an in-depth look into Go Templates, check the official Go docs. Go Templates provide an extremely simple template language that adheres to the belief that only the most basic of logic belongs in the template or view layer. Basic Syntax Go Templates are HTML</description>
+    </item>
+    
     <item>
       <title>《自然》杂志论文：用智能手机阅读会影响叹息的产生、大脑活动和理解力</title>
       <link>https://doraemonj.github.io/books/reading_on_a_smartphone/</link>

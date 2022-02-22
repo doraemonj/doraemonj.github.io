@@ -2,25 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://doraemonj.github.io/books/</loc>
+    <lastmod>2022-02-22T10:07:48+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/categories/</loc>
+    <lastmod>2022-02-22T10:07:48+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/tags/hugo/</loc>
+    <lastmod>2022-02-22T10:07:48+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/categories/hugo/</loc>
+    <lastmod>2022-02-22T10:07:48+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/tags/introduction/</loc>
+    <lastmod>2022-02-22T10:07:48+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/</loc>
+    <lastmod>2022-02-22T10:07:48+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/categories/skill/</loc>
+    <lastmod>2022-02-22T10:07:48+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/tags/</loc>
+    <lastmod>2022-02-22T10:07:48+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/books/hugo_templating/</loc>
+    <lastmod>2022-02-22T10:07:48+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/tags/%E5%85%A5%E9%97%A8/</loc>
+    <lastmod>2022-02-22T10:07:48+08:00</lastmod>
+  </url><url>
     <loc>https://doraemonj.github.io/categories/article/</loc>
     <lastmod>2022-02-20T10:44:07+08:00</lastmod>
   </url><url>
     <loc>https://doraemonj.github.io/authors/</loc>
     <lastmod>2022-02-20T10:44:07+08:00</lastmod>
   </url><url>
-    <loc>https://doraemonj.github.io/books/</loc>
-    <lastmod>2022-02-20T10:44:07+08:00</lastmod>
-  </url><url>
     <loc>https://doraemonj.github.io/tags/brain/</loc>
     <lastmod>2022-02-20T10:44:07+08:00</lastmod>
   </url><url>
-    <loc>https://doraemonj.github.io/categories/</loc>
-    <lastmod>2022-02-20T10:44:07+08:00</lastmod>
-  </url><url>
     <loc>https://doraemonj.github.io/tags/comprehension/</loc>
-    <lastmod>2022-02-20T10:44:07+08:00</lastmod>
-  </url><url>
-    <loc>https://doraemonj.github.io/</loc>
     <lastmod>2022-02-20T10:44:07+08:00</lastmod>
   </url><url>
     <loc>https://doraemonj.github.io/authors/motoyasu-honma-yuri-masaoka-natsuko-iizuka-sayaka-wada-sawa-kamimura-akira-yoshikawa-rika-moriya-shotaro-kamijo-masahiko-izumizaki/</loc>
@@ -30,9 +51,6 @@
     <lastmod>2022-02-20T10:44:07+08:00</lastmod>
   </url><url>
     <loc>https://doraemonj.github.io/tags/smarphone/</loc>
-    <lastmod>2022-02-20T10:44:07+08:00</lastmod>
-  </url><url>
-    <loc>https://doraemonj.github.io/tags/</loc>
     <lastmod>2022-02-20T10:44:07+08:00</lastmod>
   </url><url>
     <loc>https://doraemonj.github.io/books/reading_on_a_smartphone/</loc>
@@ -51,9 +69,6 @@
     <lastmod>2022-02-18T11:46:29+08:00</lastmod>
   </url><url>
     <loc>https://doraemonj.github.io/tags/skill/</loc>
-    <lastmod>2022-02-18T11:46:29+08:00</lastmod>
-  </url><url>
-    <loc>https://doraemonj.github.io/categories/skill/</loc>
     <lastmod>2022-02-18T11:46:29+08:00</lastmod>
   </url><url>
     <loc>https://doraemonj.github.io/books/make_it_stick/</loc>
@@ -179,5 +194,8 @@
   </url><url>
     <loc>https://doraemonj.github.io/tags/%E9%92%B1/</loc>
     <lastmod>2022-02-01T15:55:29+08:00</lastmod>
+  </url><url>
+    <loc>https://doraemonj.github.io/mises_books/</loc>
+    <priority>0</priority>
   </url>
 </urlset>

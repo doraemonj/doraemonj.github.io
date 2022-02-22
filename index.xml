@@ -5,9 +5,81 @@
     <description>Recent content on Mixoo 米库</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 20 Feb 2022 10:44:07 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 22 Feb 2022 10:07:48 +0800</lastBuildDate>
     
         <atom:link href="https://doraemonj.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>《Introduction to Hugo Templating》</title>
+        <link>https://doraemonj.github.io/books/hugo_templating/</link>
+        <pubDate>Tue, 22 Feb 2022 10:07:48 +0800</pubDate>
+        
+        <guid>https://doraemonj.github.io/books/hugo_templating/</guid>
+        <description>Mixoo 米库 https://doraemonj.github.io/books/hugo_templating/ -&lt;p&gt;Hugo uses Go’s &lt;code&gt;html/template&lt;/code&gt; and &lt;code&gt;text/template&lt;/code&gt; libraries as the basis for the templating.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The following is only a primer on Go Templates. For an in-depth look into Go Templates, check the official &lt;a href=&#34;https://golang.org/pkg/text/template/&#34;&gt;Go docs&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Go Templates provide an extremely simple template language that adheres to the belief that only the most basic of logic belongs in the template or view layer.&lt;/p&gt;
+&lt;h2 id=&#34;basic-syntax&#34;&gt;Basic Syntax&lt;/h2&gt;
+&lt;p&gt;Go Templates are HTML files with the addition of &lt;a href=&#34;https://gohugo.io/variables/&#34;&gt;variables&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/functions/&#34;&gt;functions&lt;/a&gt;. Go Template variables and functions are accessible within &lt;code&gt;{{ }}&lt;/code&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;access-a-predefined-variable&#34;&gt;Access a Predefined Variable&lt;/h3&gt;
+&lt;p&gt;A &lt;em&gt;predefined variable&lt;/em&gt; could be a variable already existing in the current scope (like the &lt;code&gt;.Title&lt;/code&gt; example in the &lt;a href=&#34;https://gohugo.io/templates/introduction/#variables&#34;&gt;Variables&lt;/a&gt; section below) or a custom variable (like the &lt;code&gt;$address&lt;/code&gt; example in that same section).&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-go-html-template&#34; data-lang=&#34;go-html-template&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;.Title&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;$address&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Parameters for functions are separated using spaces. The general syntax is:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-go-html-template&#34; data-lang=&#34;go-html-template&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;FUNCTION&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;ARG1&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;ARG2&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;..&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The following example calls the add function with inputs of 1 and 2:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-go-html-template&#34; data-lang=&#34;go-html-template&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;add&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;1&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;2&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Methods and Fields are Accessed via dot Notation
+Accessing the Page Parameter bar defined in a piece of content’s front matter.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-go-html-template&#34; data-lang=&#34;go-html-template&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;.Params.bar&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Parentheses Can be Used to Group Items Together&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-go-html-template&#34; data-lang=&#34;go-html-template&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;or&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;isset&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;.Params&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;alt&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;isset&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;.Params&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;caption&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt; Caption &lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;end&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;A Single Statement Can be Split over Multiple Lines&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-go-html-template&#34; data-lang=&#34;go-html-template&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;or&lt;/span&gt; 
+  &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;isset&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;.Params&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;alt&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; 
+  &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;isset&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;.Params&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;caption&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;
+&lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Raw String Literals Can Include Newlines&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-go-html-template&#34; data-lang=&#34;go-html-template&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;$msg&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;:=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;`Line one.
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Line two.`&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;variables&#34;&gt;Variables&lt;/h3&gt;
+&lt;p&gt;Each Go Template gets a data object. In Hugo, each template is passed a Page. In the below example, .Title is one of the elements accessible in that Page variable.&lt;/p&gt;
+&lt;p&gt;With the Page being the default scope of a template, the Title element in current scope (. – “the dot&amp;quot;) is accessible simply by the dot-prefix (.Title):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-go-html-template&#34; data-lang=&#34;go-html-template&#34;&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;.Title&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Values can also be stored in custom variables and referenced later:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The custom variables need to be prefixed with $.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-go-html-template&#34; data-lang=&#34;go-html-template&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;$address&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;:=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;123 Main St.&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;$address&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;For Hugo v0.47 and older versions, variables defined inside if conditionals and similar are not visible on the outside. See &lt;a href=&#34;https://github.com/golang/go/issues/10608&#34;&gt;&lt;strong&gt;Here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Hugo has created a workaround for this issue in Scratch.x&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;For Hugo v0.48 and newer, variables can be re-defined using the new = operator (new in Go 1.11).&lt;/p&gt;
+&lt;p&gt;Below example will work only in these newer Hugo versions. The example prints “Var is Hugo Home” on the home page, and “Var is Hugo Page” on all other pages:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-go-html-template&#34; data-lang=&#34;go-html-template&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;$var&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;:=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hugo Page&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;.IsHome&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+    &lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;$var&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hugo Home&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;end&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+Var is &lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;$var&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;查看&lt;a href=&#34;https://gohugo.io/templates/introduction/&#34;&gt;原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;https://gohugo.io/templates/introduction/&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;layouts/partials/future-events.html&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-go-html-template&#34; data-lang=&#34;go-html-template&#34;&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&amp;gt;Future Events&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&amp;gt;
+&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;ul&lt;/span&gt;&amp;gt;
+  &lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;range&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;where&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;where&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;site&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;.RegularPages&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Type&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;events&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Params.start_date&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;gt&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;now&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+    &lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;$startDate&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;:=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;.Params.start_date&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;time&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;.Format&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;:date_medium&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;li&lt;/span&gt;&amp;gt;
+      &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;.RelPermalink&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&amp;gt;&lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;.LinkTitle&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&amp;gt; - &lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;$startDate&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+    &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;li&lt;/span&gt;&amp;gt;
+  &lt;span style=&#34;color:#75715e&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;end&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;}}&lt;/span&gt;
+&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;ul&lt;/span&gt;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;- https://doraemonj.github.io/books/hugo_templating/ - </description>
+        </item>
     
     
     
@@ -28,11 +100,11 @@
 &lt;p&gt;如果一个特定的视觉环境对呼吸功能和（或）大脑功能产生负面影响，再加上大脑和呼吸活动之间的互动关系，上述过程有可能对认知表现产生负面影响（图1）。这项探索性研究通过同时测量34名健康人的大脑和呼吸活动来研究电子设备的使用对阅读理解的影响。&lt;/p&gt;
 &lt;h2 id=&#34;研究结果&#34;&gt;研究结果&lt;/h2&gt;
 &lt;p&gt;为了研究使用电子设备时阅读理解能力下降的原因，我们准备了一个重复测量（交叉）设计，包括四个条件，涉及两种媒体（智能手机和纸张）和从不同文本（小说A和B；见补充文本）中提取的两个句子的组合。一个试验由四个环节组成：阅读前的静止状态、阅读、阅读后的静止状态和阅读测试（图1a）。额叶脑活动（两个通道）由功能性近红外光谱（NIRS）测量，而呼吸活动（六个指标）和新陈代谢模式（两个指标）由呼吸空气监测仪测量（见 &amp;ldquo;方法&amp;rdquo;）。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://doraemonj.github.io/41598_2022_5605_Fig1_HTML.webp&#34; alt=&#34;41598_2022_5605_Fig1_HTML&#34;&gt;
-图1
-与纸质媒介相比，使用智能手机的阅读分数有所下降。(a) 每个试验包括四个环节：阅读前的休息状态，阅读，阅读后的休息状态，以及阅读测试。阅读时间不限，阅读前/后的休息状态为两分钟。(b) 对于阅读测试的分数，媒介的主效应是显著的，而小说的主效应和交互效应则不显著。在小说A和B的句子中，使用智能手机媒介的得分低于使用纸张媒介的得分（*P &amp;lt; 0.05）。(c, d) 在阅读时间或参与者眼睛与设备之间的观察距离方面，没有观察到媒介或小说的主效应或交互效应。误差条表示平均值的标准误差。S智能手机，P纸张，A小说A，B小说B。&lt;/p&gt;
-&lt;p&gt;全尺寸图片
-对于阅读得分，在交叉设计上，重复测量方差分析（RM-ANOVA）显示，阅读媒介影响阅读得分（F1,32 = 26.445，P &amp;lt; 0.0001），而小说的主效应没有。事后检验显示，在小说A和B中，使用纸质媒介的分数高于使用智能手机的分数（P &amp;lt; 0.05，图1b）。对于阅读时间（图1c）或参与者眼睛与设备之间的观察距离（图1d），没有观察到媒介或小说的主要或交互效应。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://doraemonj.github.io/41598_2022_5605_Fig1_HTML.webp&#34; alt=&#34;41598_2022_5605_Fig1_HTML&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://doraemonj.github.io/Users/tangqiang/dj/content/books/41598_2022_5605_Fig1_HTML-5452204.webp&#34; alt=&#34;41598_2022_5605_Fig1_HTML&#34;&gt;&lt;img src=&#34;&#34; alt=&#34;&#34;&gt;图1&lt;/p&gt;
+&lt;p&gt;与纸质媒介相比，使用智能手机的阅读分数有所下降。(a) 每个试验包括四个环节：阅读前的休息状态，阅读，阅读后的休息状态，以及阅读测试。阅读时间不限，阅读前/后的休息状态为两分钟。(b) 对于阅读测试的分数，媒介的主效应是显著的，而小说的主效应和交互效应则不显著。在小说A和B的句子中，使用智能手机媒介的得分低于使用纸张媒介的得分（*P &amp;lt; 0.05）。(c, d) 在阅读时间或参与者眼睛与设备之间的观察距离方面，没有观察到媒介或小说的主效应或交互效应。误差条表示平均值的标准误差。S智能手机，P纸张，A小说A，B小说B。&lt;/p&gt;
+&lt;h2 id=&#34;全尺寸图片&#34;&gt;全尺寸图片&lt;/h2&gt;
+&lt;p&gt;对于阅读得分，在交叉设计上，重复测量方差分析（RM-ANOVA）显示，阅读媒介影响阅读得分（F1,32 = 26.445，P &amp;lt; 0.0001），而小说的主效应没有。事后检验显示，在小说A和B中，使用纸质媒介的分数高于使用智能手机的分数（P &amp;lt; 0.05，图1b）。对于阅读时间（图1c）或参与者眼睛与设备之间的观察距离（图1d），没有观察到媒介或小说的主要或交互效应。&lt;/p&gt;
 &lt;p&gt;在我们测量的六种呼吸模式（图2a）和两种代谢模式中，阅读期间的潮气量与阅读课后和之前的潮气量相比有所下降，而使用纸质媒介的阅读期间叹息声有所增加（图2b）。RM-ANOVA显示，在潮气量（图2c，会话：F2,67 = 8.821，P &amp;lt; 0.0001）、吸气时间（图2d，会话：F2,67 = 8.639，P &amp;lt; 0. 0001），呼气时间（图2e，会话：F2,67 = 6.212，P &amp;lt; 0.0001），呼吸频率（图2f，会话：F2,67 = 5.3622，P &amp;lt; 0.0001）；对于叹气次数，也存在着媒介、会话和交互的影响（图2g，媒介。F2,67 = 26.623, P &amp;lt; 0.0001；会话。F2,67 = 6.530, P &amp;lt; 0.0001; 互动。F2,134 = 9.169, P &amp;lt; 0.0001）。事后检验显示，无论哪种媒介，阅读期间的潮气量、吸气时间和呼气时间都比休息状态下的减少，而呼吸频率则增加（所有P &amp;lt; 0.05）。使用纸质媒介阅读时的叹气次数比使用智能手机阅读时的叹气次数多（所有P &amp;lt; 0.05）。在整个疗程中，没有观察到分钟通气量、氧气消耗或潮气末梢二氧化碳的变化（补充图2a-c）。此外，对于在一次试验中出现两次或更多叹息的情况，计算了叹息之间的间隔时间（40次试验中的121个点），并比较了四种条件下的平均值（阅读环节中的智能手机/纸张和小说A/B）。方差分析表明，不同条件之间没有明显差异（补充图3）。&lt;/p&gt;
 &lt;p&gt;图2
 图2
@@ -2352,11 +2424,7 @@ Crouch, C. H., Fagen, A. P., Callan, J. P., &amp;amp; Mazur, E. （2004）。课
         <pubDate>Tue, 15 Feb 2022 01:44:07 +0800</pubDate>
         
         <guid>https://doraemonj.github.io/about/a/</guid>
-        <description>Mixoo 米库 https://doraemonj.github.io/about/a/ -&lt;p&gt;建立属于你自己的图书馆，走一条少有人走的路，我们帮你。&lt;/p&gt;
-&lt;p&gt;联系我们：&lt;/p&gt;
-&lt;p&gt;Mixin Messeger：29273&lt;/p&gt;
-&lt;p&gt;Mixin 机器人：7000104144&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://mixin.one/messenger&#34;&gt;Mixin 下载链接&lt;/a&gt;&lt;/p&gt;
+        <description>Mixoo 米库 https://doraemonj.github.io/about/a/ -&lt;p&gt;建立你自己的图书馆&lt;/p&gt;
 - https://doraemonj.github.io/about/a/ - </description>
         </item>
     
@@ -6529,6 +6597,8 @@ C. Hartley Grattan先生
 &lt;p&gt;翻译：deepL.com&lt;/p&gt;
 - https://doraemonj.github.io/books/other_peoples_money/ - </description>
         </item>
+    
+    
     
     
   </channel>
