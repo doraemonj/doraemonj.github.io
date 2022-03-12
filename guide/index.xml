@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>全部指南 - 定制你自己的图书馆</title>
+        <link>https://doraemonj.github.io/guide/</link>
+        <description>全部指南 | 定制你自己的图书馆</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 12 Mar 2022 16:12:16 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/guide/" rel="self" type="application/rss+xml" /><item>
+    <title>如何解决『Automator』文件夹操作失灵问题</title>
+    <link>https://doraemonj.github.io/guide/how_to_fix_automator_folder_actions_not_working/</link>
+    <pubDate>Sat, 12 Mar 2022 16:12:16 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/guide/how_to_fix_automator_folder_actions_not_working/</guid>
+    <description><![CDATA[How To Fix Automator Folder Actions Not Working]]></description>
+</item></channel>
+</rss>

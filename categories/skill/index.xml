@@ -1,56 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>skill on Mixoo 米库</title>
-    <link>https://doraemonj.github.io/categories/skill/</link>
-    <description>Recent content in skill on Mixoo 米库</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
-    <lastBuildDate>Tue, 22 Feb 2022 10:07:48 +0800</lastBuildDate><atom:link href="https://doraemonj.github.io/categories/skill/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>《Introduction to Hugo Templating》</title>
-      <link>https://doraemonj.github.io/books/hugo_templating/</link>
-      <pubDate>Tue, 22 Feb 2022 10:07:48 +0800</pubDate>
-      
-      <guid>https://doraemonj.github.io/books/hugo_templating/</guid>
-      <description>Hugo uses Go’s html/template and text/template libraries as the basis for the templating. The following is only a primer on Go Templates. For an in-depth look into Go Templates, check the official Go docs. Go Templates provide an extremely simple template language that adheres to the belief that only the most basic of logic belongs in the template or view layer. Basic Syntax Go Templates are HTML</description>
-    </item>
-    
-    <item>
-      <title>《让所学和你相关》</title>
-      <link>https://doraemonj.github.io/books/make_it_stick/</link>
-      <pubDate>Fri, 18 Feb 2022 11:46:29 +0800</pubDate>
-      
-      <guid>https://doraemonj.github.io/books/make_it_stick/</guid>
-      <description>前言 一般来说，人们的学习方式都是错误的。对我们如何学习和记忆的实证研究表明，我们对如何学习所认为的福音，在很大程度上是白费功夫。即使是主要工</description>
-    </item>
-    
-    <item>
-      <title>《提问的智慧》</title>
-      <link>https://doraemonj.github.io/books/how_to_ask_questions/</link>
-      <pubDate>Tue, 15 Feb 2022 13:38:16 +0800</pubDate>
-      
-      <guid>https://doraemonj.github.io/books/how_to_ask_questions/</guid>
-      <description>译者：王刚 弃权申明 许多项目的网站在如何取得帮助的部分链接了本文，这没有关系，也正是我们想要的。但如果你是该项目生成此链接的网管，请在链接附近</description>
-    </item>
-    
-    <item>
-      <title>《血流成河》</title>
-      <link>https://doraemonj.github.io/books/blood_in_the_streets/</link>
-      <pubDate>Mon, 07 Feb 2022 10:07:48 +0800</pubDate>
-      
-      <guid>https://doraemonj.github.io/books/blood_in_the_streets/</guid>
-      <description>买入的最佳时机是血流成河的时候。——内森-M-罗斯柴尔德 简介 人有两方面问题：一是人不能学习太复杂的真理；二十他太容易忘记简单的真理。—— 瑞贝</description>
-    </item>
-    
-    <item>
-      <title>《Calibre 快速入门指南》</title>
-      <link>https://doraemonj.github.io/books/calibre_quick_start/</link>
-      <pubDate>Fri, 04 Feb 2022 10:07:48 +0800</pubDate>
-      
-      <guid>https://doraemonj.github.io/books/calibre_quick_start/</guid>
-      <description>本书为第四版，采用知识共享 署名-相同方式共享 4.0 国际许可协议。 简介 Calibre是一个开源的电子书管理工具。简单地说，Calibre允许你组织</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>skill - 分类 - 定制你自己的图书馆</title>
+        <link>https://doraemonj.github.io/categories/skill/</link>
+        <description>skill - 分类 - 定制你自己的图书馆</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 18 Feb 2022 11:46:29 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/categories/skill/" rel="self" type="application/rss+xml" /><item>
+    <title>让所学和你相关</title>
+    <link>https://doraemonj.github.io/make_it_stick/</link>
+    <pubDate>Fri, 18 Feb 2022 11:46:29 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/make_it_stick/</guid>
+    <description><![CDATA[Make it Stick: The Science of Successful Learning]]></description>
+</item><item>
+    <title>提问的智慧</title>
+    <link>https://doraemonj.github.io/how_to_ask_questions/</link>
+    <pubDate>Tue, 15 Feb 2022 13:38:16 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/how_to_ask_questions/</guid>
+    <description><![CDATA[How to Ask Questions: The Smart Way]]></description>
+</item><item>
+    <title>Calibre 快速入门指南</title>
+    <link>https://doraemonj.github.io/calibre_quick_start/</link>
+    <pubDate>Fri, 04 Feb 2022 10:07:48 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/calibre_quick_start/</guid>
+    <description><![CDATA[Calibre Quick Start Guide]]></description>
+</item></channel>
 </rss>

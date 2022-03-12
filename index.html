@@ -1,455 +1,290 @@
 <!DOCTYPE html>
-<html><head>
+<html lang="zh-CN">
+    <head>
 	<meta name="generator" content="Hugo 0.88.1" />
-<title>Mixoo 米库</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <title>定制你自己的图书馆</title><meta name="Description" content="智能译书·自动朗读·永久藏书"><meta property="og:title" content="定制你自己的图书馆" />
+<meta property="og:description" content="智能译书·自动朗读·永久藏书" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://doraemonj.github.io/" /><meta property="og:image" content="https://doraemonj.github.io/logo.png"/><meta property="og:site_name" content="定制你自己的图书馆" />
 
-<meta charset="utf-8">
-<meta name="X-UA-Compatible" content="IE=edge">
-<meta name="google-site-verification" content="">
-<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
-<meta content="telephone=no" name="format-detection">
-<meta name="description" content="">
-<meta name="renderer" content="webkit">
-<meta name="theme-color" content="#ffffff">
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://doraemonj.github.io/logo.png"/>
 
+<meta name="twitter:title" content="定制你自己的图书馆"/>
+<meta name="twitter:description" content="智能译书·自动朗读·永久藏书"/>
+<meta name="application-name" content="定制你自己的图书馆">
+<meta name="apple-mobile-web-app-title" content="定制你自己的图书馆"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://doraemonj.github.io/" /><link rel="alternate" href="/index.xml" type="application/rss+xml" title="定制你自己的图书馆">
+    <link rel="feed" href="/index.xml" type="application/rss+xml" title="定制你自己的图书馆"><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "url": "https:\/\/doraemonj.github.io\/","inLanguage": "zh-CN","author": {
+                "@type": "Person",
+                "name": "Mixoo"
+            },"description": "智能译书·自动朗读·永久藏书","name": "定制你自己的图书馆"
+    }
+    </script></head>
+    <body header-desktop="fixed" header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
 
-
-
-<script src="/vendor/js/jquery.min.js" ></script>
-<script src="/vendor/js/popper.min.js" ></script>
-<script src="/vendor/js/bootstrap.min.js" ></script>
-<script src="/vendor/js/smooth-scroll.polyfills.min.js" ></script>
-<link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
-<script src="/vendor/js/vue.min.js" ></script>
-
-
-
-
-<link rel="stylesheet" href="https://doraemonj.github.io/scss/journal.min.ebffb8bc663074d9be2ae412afd845f5d51f7476b8c7c75ccd6caf0352de28e7.css" integrity="sha256-6/&#43;4vGYwdNm&#43;KuQSr9hF9dUfdHa4x8dczWyvA1LeKOc=" media="screen">
-
-
-
-<link rel="stylesheet" href="https://doraemonj.github.io/scss/dark-mode.min.7ecba69f8dacfdebdd9e8de588dc5cc8a99040c5413ed0e30d0abaa3d77b175d.css" integrity="sha256-fsumn42s/evdno3liNxcyKmQQMVBPtDjDQq6o9d7F10=" media="screen">
-
-
-<script src="https://doraemonj.github.io//js/loadCSS.js"></script>
-<script>
-  loadCSS("https://fonts.googleapis.com/css?family=Lora|Montserrat|Fira+Mono|Noto+Serif+SC|Material+Icons");
-</script>
-
-<script src="https://doraemonj.github.io//js/table.js"></script>
-
-
-
-
-<style>
-  .toc{
-    display: none !important;
-  }
-</style>
-
-
-
-
-
-
-
-
-</head><body>
-    	<div id="app"><div ref="sideContainer" class="side-container">
-    
-    <a class="a-block nav-head active" href="https://doraemonj.github.io/">
-    
-        <div class="nav-title">
-            Mixoo 米库
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="定制你自己的图书馆">定制你的私人图书馆</a>
         </div>
-        
-    </a>
-
-    <div class="nav-link-list">
-        
-        
-            
-            
-            
-            
-            
-            <a class="a-block nav-link-item false" href="/books/">
-                藏书
-            </a>
-            
-        
-            
-            
-            
-            
-            
-            <a class="a-block nav-link-item false" href="/about/">
-                关于
-            </a>
-            
-        
-    </div>
-
-    
-
-    <div class="nav-footer">
-        帮你做自己的书库
-<br><br>
-&copy;
-	
-	2022 Mixoo 米库
-	
-
-    </div>
-    
-</div><div ref="extraContainer" class="extra-container">
-    
-    
-    <div class="pagination">
-        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
-            <i class="material-icons pagination-action-icon">
-                keyboard_arrow_up
-            </i>
-        </a>
-        
-        <a class="pagination-action" v-on:click="toggleDarkMode">
-            <i class="material-icons pagination-action-icon" v-if="isDarkMode">
-                brightness_4
-            </i>
-            <i class="material-icons pagination-action-icon" v-else="isDarkMode">
-                brightness_7
-            </i>
-        </a>
-        
-        
-        
-            <div class="pagination-indicator">
-                <span style="text-align: center">
-                    1<br><div style="display: inline-block; transform: rotate(-28deg)">-</div><br>2
-                </span>
-            </div>
-            
-            
-
-            
-            <a class="pagination-action" href="/page/2/">
-                <i class="material-icons pagination-action-icon">
-                    chevron_right
-                </i>
-            </a>
-            
-        
-        
-    </div>
-</div><div class="single-column-drawer-container" ref="drawer"
-     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
-    <div class="drawer-content">
-        <div class="drawer-menu">
-            
-            
-            
-                
-                
-                
-                
-                
-                <a class="a-block drawer-menu-item false" href="/books/">
-                    藏书
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"> 藏书 </a><a class="menu-item" href="/guide/"> 指南 </a><a class="menu-item" href="/tags/"> 标签 </a><a class="menu-item" href="/categories/"> 分类 </a><a class="menu-item" href="/about/"> 关于 </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item language" title="选择语言">简体中文<i class="fas fa-chevron-right fa-fw"></i>
+                        <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/" selected>简体中文</option><option value="/en/">English</option></select>
+                    </a><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="第一次搜有点慢，以后就快了..." id="search-input-desktop">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="搜索">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="清空">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-desktop">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+                    <i class="fas fa-adjust fa-fw"></i>
                 </a>
-                
-            
-                
-                
-                
-                
-                
-                <a class="a-block drawer-menu-item false" href="/about/">
-                    关于
-                </a>
-                
-            
-            
-        </div>
-    </div>
-</div>
-<transition name="fade">
-    <div v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
-</transition>
-<nav ref="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
-    <div ref="navBackground" class="nav-background"></div>
-    <div class="container container-narrow nav-content">
-        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
-            <i class="material-icons">
-                menu
-            </i>
-        </button>
-        <a ref="navTitle" class="navbar-brand" href="https://doraemonj.github.io/">
-            Mixoo 米库
-        </a>
-        
-        <button type="button" class="nav-darkmode-toggle" v-on:click="toggleDarkMode">
-            <i class="material-icons" v-if="isDarkMode">
-                brightness_4
-            </i>
-            <i class="material-icons" v-else="isDarkMode">
-                brightness_7
-            </i>
-        </button>
-        
-    </div>
-</nav>
-<div class="single-column-header-container" ref="pageHead"
-     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
-    <a href="https://doraemonj.github.io/">
-        <div class="single-column-header-title">Mixoo 米库</div>
-        
-
-    </a>
-</div>
-            <div id="content">
-
-<div ref="streamContainer" class="stream-container">
-    <div class="post-list-container post-list-container-no-background">
-        
-            
-            <a href="https://doraemonj.github.io/books/the_housing_boom_and_bust_zh/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                《房地产的繁荣与萧条》
-                            </div>
-                            <div class="post-item-summary">
-                                The Housing Boom and Bust
-                            </div>
-
-                            
-                        </div>
-                        
-                        
-                    </div>
-                </div>
-            
-        
-            
-            <a href="https://doraemonj.github.io/books/understanding_media/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                《理解媒体》
-                            </div>
-                            <div class="post-item-summary">
-                                Understanding Media: The Extension
-                            </div>
-
-                            
-                        </div>
-                        
-                        
-                    </div>
-                </div>
-            
-        
-            
-            <a href="https://doraemonj.github.io/books/human_action/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                《人的行为》
-                            </div>
-                            <div class="post-item-summary">
-                                Human Action: A Treatise On Economics
-                            </div>
-
-                            
-                        </div>
-                        
-                        
-                    </div>
-                </div>
-            
-        
-            
-            <a href="https://doraemonj.github.io/books/hugo_templating/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                《Introduction to Hugo Templating》
-                            </div>
-                            <div class="post-item-summary">
-                                
-                            </div>
-
-                            
-                        </div>
-                        
-                        
-                    </div>
-                </div>
-            
-        
-            
-            <a href="https://doraemonj.github.io/books/reading_on_a_smartphone/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                《自然》杂志论文：用智能手机阅读会影响叹息的产生、大脑活动和理解力
-                            </div>
-                            <div class="post-item-summary">
-                                Reading on a smartphone affects sigh generation, brain activity, and comprehension
-                            </div>
-
-                            
-                        </div>
-                        
-                        
-                    </div>
-                </div>
-            
-        
-            
-            <a href="https://doraemonj.github.io/books/make_it_stick/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                《让所学和你相关》
-                            </div>
-                            <div class="post-item-summary">
-                                Make it Stick: The Science of Successful Learning
-                            </div>
-
-                            
-                        </div>
-                        
-                        
-                    </div>
-                </div>
-            
-        
-            
-            <a href="https://doraemonj.github.io/books/how_to_ask_questions/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                《提问的智慧》
-                            </div>
-                            <div class="post-item-summary">
-                                How To Ask Questions The Smart way
-                            </div>
-
-                            
-                        </div>
-                        
-                        
-                    </div>
-                </div>
-            
-        
-            
-            <a href="https://doraemonj.github.io/about/a/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                帮你创建你自己的书库
-                            </div>
-                            <div class="post-item-summary">
-                                终身学习，形影不离
-                            </div>
-
-                            
-                        </div>
-                        
-                        
-                    </div>
-                </div>
-            
-        
-            
-            <a href="https://doraemonj.github.io/books/blood_in_the_streets/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                《血流成河》
-                            </div>
-                            <div class="post-item-summary">
-                                Blood in the Streets: Investment Profits in a Word Gone Mad
-                            </div>
-
-                            
-                        </div>
-                        
-                        
-                    </div>
-                </div>
-            
-        
-            
-            <a href="https://doraemonj.github.io/books/calibre_quick_start/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                《Calibre 快速入门指南》
-                            </div>
-                            <div class="post-item-summary">
-                                Calibre Quick Start Guide
-                            </div>
-
-                            
-                        </div>
-                        
-                        
-                    </div>
-                </div>
-            
-        
-        </a>
-    </div>
-</div>
-
             </div>
-
-<div class="pagination">
-    
-    <a class="pagination-action" style="opacity:0">
-    
-        <i class="material-icons pagination-action-icon">
-            chevron_left
-        </i>
-    </a>
-
-        <div class="pagination-indicator">
-            <span>1/2</span>
         </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="定制你自己的图书馆">定制你的私人图书馆</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><div class="search-wrapper">
+                    <div class="search mobile" id="search-mobile">
+                        <input type="text" placeholder="第一次搜有点慢，以后就快了..." id="search-input-mobile">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="搜索">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="清空">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-mobile">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </div>
+                    <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+                        取消
+                    </a>
+                </div><a class="menu-item" href="/posts/" title="">藏书</a><a class="menu-item" href="/guide/" title="">指南</a><a class="menu-item" href="/tags/" title="">标签</a><a class="menu-item" href="/categories/" title="">分类</a><a class="menu-item" href="/about/" title="">关于</a><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a><a href="javascript:void(0);" class="menu-item" title="选择语言">简体中文<i class="fas fa-chevron-right fa-fw"></i>
+                    <select class="language-select" onchange="location = this.value;"><option value="/" selected>简体中文</option><option value="/en/">English</option></select>
+                </a></div>
+    </div>
+</header>
+<div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+</div>
+<main class="main">
+                <div class="container"><div class="page home" posts><div class="home-profile"><h2 class="home-subtitle"><div id="id-1" class="typeit"></div></h2></div>
+<article class="single summary" itemscope itemtype="http://schema.org/Article"><div class="featured-image-preview">
+            <a href="/the_housing_boom_and_bust/"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/The_Housing_Boom_and_Bust.png"
+        data-srcset="https://doraemonj.github.io/pics/The_Housing_Boom_and_Bust.png, https://doraemonj.github.io/pics/The_Housing_Boom_and_Bust.png 1.5x, https://doraemonj.github.io/pics/The_Housing_Boom_and_Bust.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/The_Housing_Boom_and_Bust.png"
+        title="https://doraemonj.github.io/pics/The_Housing_Boom_and_Bust.png" /></a>
+        </div><span class="single-title" itemprop="name headline">
+        <a href="/the_housing_boom_and_bust/">房地产的繁荣与萧条</a>
+    </span><div class="content">The Housing Boom and Bust</div><div class="post-meta"><span class="post-author"><a href="/the_housing_boom_and_bust/" title="Author" rel=" author" class="author"><i class=" "></i>Thomas Sowell</a>
+</span>
+    </div>
+
+
+
+    <div class="content"><span class="post-publish"><time datetime="2022-03-06">2022-03-06</time> 译</span></div>
+
 
         
-        <a class="pagination-action" href="/page/2/"
-           style="opacity:1">
+</article>
+<article class="single summary" itemscope itemtype="http://schema.org/Article"><div class="featured-image-preview">
+            <a href="/understanding_media/"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/understanding_media.png"
+        data-srcset="https://doraemonj.github.io/pics/understanding_media.png, https://doraemonj.github.io/pics/understanding_media.png 1.5x, https://doraemonj.github.io/pics/understanding_media.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/understanding_media.png"
+        title="https://doraemonj.github.io/pics/understanding_media.png" /></a>
+        </div><span class="single-title" itemprop="name headline">
+        <a href="/understanding_media/">理解媒体</a>
+    </span><div class="content">Understanding Media: The Extension</div><div class="post-meta"><span class="post-author"><a href="/understanding_media/" title="Author" rel=" author" class="author"><i class=" "></i>Marshall McLuhan</a>
+</span>
+    </div>
+
+
+
+    <div class="content"><span class="post-publish"><time datetime="2022-03-06">2022-03-06</time> 译</span></div>
+
+
         
-                <i class="material-icons pagination-action-icon">
-                    chevron_right
-                </i>
+</article>
+<article class="single summary" itemscope itemtype="http://schema.org/Article"><div class="featured-image-preview">
+            <a href="/human_action/"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/human_action.png"
+        data-srcset="https://doraemonj.github.io/pics/human_action.png, https://doraemonj.github.io/pics/human_action.png 1.5x, https://doraemonj.github.io/pics/human_action.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/human_action.png"
+        title="https://doraemonj.github.io/pics/human_action.png" /></a>
+        </div><span class="single-title" itemprop="name headline">
+        <a href="/human_action/">人的行为</a>
+    </span><div class="content">Human Action: A Treatise On Economics</div><div class="post-meta"><span class="post-author"><a href="/human_action/" title="Author" rel=" author" class="author"><i class=" "></i>Ludwig von Mises</a>
+</span>
+    </div>
+
+
+
+    <div class="content"><span class="post-publish"><time datetime="2022-02-23">2022-02-23</time> 译</span></div>
+
+
+        
+</article>
+<article class="single summary" itemscope itemtype="http://schema.org/Article"><div class="featured-image-preview">
+            <a href="/make_it_stick/"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/make_it_stick.png"
+        data-srcset="https://doraemonj.github.io/pics/make_it_stick.png, https://doraemonj.github.io/pics/make_it_stick.png 1.5x, https://doraemonj.github.io/pics/make_it_stick.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/make_it_stick.png"
+        title="https://doraemonj.github.io/pics/make_it_stick.png" /></a>
+        </div><span class="single-title" itemprop="name headline">
+        <a href="/make_it_stick/">让所学和你相关</a>
+    </span><div class="content">Make it Stick: The Science of Successful Learning</div><div class="post-meta"><span class="post-author"><a href="/make_it_stick/" title="Author" rel=" author" class="author"><i class=" "></i>Peter C. Brown</a>
+</span>
+    </div>
+
+
+
+    <div class="content"><span class="post-publish"><time datetime="2022-02-18">2022-02-18</time> 译</span></div>
+
+
+        
+</article>
+<article class="single summary" itemscope itemtype="http://schema.org/Article"><div class="featured-image-preview">
+            <a href="/how_to_ask_questions/"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/how_to_ask_questions.png"
+        data-srcset="https://doraemonj.github.io/pics/how_to_ask_questions.png, https://doraemonj.github.io/pics/how_to_ask_questions.png 1.5x, https://doraemonj.github.io/pics/how_to_ask_questions.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/how_to_ask_questions.png"
+        title="https://doraemonj.github.io/pics/how_to_ask_questions.png" /></a>
+        </div><span class="single-title" itemprop="name headline">
+        <a href="/how_to_ask_questions/">提问的智慧</a>
+    </span><div class="content">How to Ask Questions: The Smart Way</div><div class="post-meta"><span class="post-author"><a href="/how_to_ask_questions/" title="Author" rel=" author" class="author"><i class=" "></i>Eric S. Raymond & Rick Moen</a>
+</span>
+    </div>
+
+
+
+    <div class="content"><span class="post-publish"><time datetime="2022-02-15">2022-02-15</time> 译</span></div>
+
+
+        
+</article>
+<article class="single summary" itemscope itemtype="http://schema.org/Article"><div class="featured-image-preview">
+            <a href="/blood_in_the_streets/"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/blood_in_the_steets.png"
+        data-srcset="https://doraemonj.github.io/pics/blood_in_the_steets.png, https://doraemonj.github.io/pics/blood_in_the_steets.png 1.5x, https://doraemonj.github.io/pics/blood_in_the_steets.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/blood_in_the_steets.png"
+        title="https://doraemonj.github.io/pics/blood_in_the_steets.png" /></a>
+        </div><span class="single-title" itemprop="name headline">
+        <a href="/blood_in_the_streets/">血流成河</a>
+    </span><div class="content">Blood in the Streets: Investment Profits in a Word Gone Mad</div><div class="post-meta"><span class="post-author"><a href="/blood_in_the_streets/" title="Author" rel=" author" class="author"><i class=" "></i>James Dale Davidson, Sir William Rees-Mogg</a>
+</span>
+    </div>
+
+
+
+    <div class="content"><span class="post-publish"><time datetime="2022-02-07">2022-02-07</time> 译</span></div>
+
+
+        
+</article>
+<article class="single summary" itemscope itemtype="http://schema.org/Article"><div class="featured-image-preview">
+            <a href="/calibre_quick_start/"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/calibre.png"
+        data-srcset="https://doraemonj.github.io/pics/calibre.png, https://doraemonj.github.io/pics/calibre.png 1.5x, https://doraemonj.github.io/pics/calibre.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/calibre.png"
+        title="https://doraemonj.github.io/pics/calibre.png" /></a>
+        </div><span class="single-title" itemprop="name headline">
+        <a href="/calibre_quick_start/">Calibre 快速入门指南</a>
+    </span><div class="content">Calibre Quick Start Guide</div><div class="post-meta"><span class="post-author"><a href="/calibre_quick_start/" title="Author" rel=" author" class="author"><i class=" "></i>John Schember</a>
+</span>
+    </div>
+
+
+
+    <div class="content"><span class="post-publish"><time datetime="2022-02-04">2022-02-04</time> 译</span></div>
+
+
+        
+</article>
+<article class="single summary" itemscope itemtype="http://schema.org/Article"><div class="featured-image-preview">
+            <a href="/other_peoples_money/"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/other_peoples_money.png"
+        data-srcset="https://doraemonj.github.io/pics/other_peoples_money.png, https://doraemonj.github.io/pics/other_peoples_money.png 1.5x, https://doraemonj.github.io/pics/other_peoples_money.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/other_peoples_money.png"
+        title="https://doraemonj.github.io/pics/other_peoples_money.png" /></a>
+        </div><span class="single-title" itemprop="name headline">
+        <a href="/other_peoples_money/">别人的钱</a>
+    </span><div class="content">Other People&rsquo;s Money: and How the Bankers Use it</div><div class="post-meta"><span class="post-author"><a href="/other_peoples_money/" title="Author" rel=" author" class="author"><i class=" "></i>Louis D. Brandeis</a>
+</span>
+    </div>
+
+
+
+    <div class="content"><span class="post-publish"><time datetime="2022-02-01">2022-02-01</time> 译</span></div>
+
+
+        
+</article>
+</div></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="links"><a href="https://github.com/doraemonj" title="GitHub" target="_blank" rel="noopener noreffer me"><i class="fab fa-github-alt fa-fw"></i></a>
+<a href="mailto:chrishowardaka@gmail.com" title="Email" rel=" me"><i class="far fa-envelope fa-fw"></i></a>
+</div></div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="回到顶部">
+                <i class="fas fa-arrow-up fa-fw"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="查看评论">
+                <i class="fas fa-comment fa-fw"></i>
             </a>
-</div>
-
-
-<div id="single-column-footer">帮你做自己的书库
-<br><br>
-&copy;
-	
-	2022 Mixoo 米库
-	
-</div>
-    	</div>
-    <script src="https://doraemonj.github.io//js/journal.js"></script>
-    </body>
+        </div><link rel="stylesheet" href="/lib/katex/katex.min.css"><link rel="stylesheet" href="/lib/katex/copy-tex.min.css"><script type="text/javascript" src="/lib/smooth-scroll/smooth-scroll.min.js"></script><script type="text/javascript" src="/lib/autocomplete/autocomplete.min.js"></script><script type="text/javascript" src="/lib/lunr/lunr.min.js"></script><script type="text/javascript" src="/lib/lunr/lunr.stemmer.support.min.js"></script><script type="text/javascript" src="/lib/lunr/lunr.zh.min.js"></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lib/sharer/sharer.min.js"></script><script type="text/javascript" src="/lib/typeit/typeit.min.js"></script><script type="text/javascript" src="/lib/katex/katex.min.js"></script><script type="text/javascript" src="/lib/katex/auto-render.min.js"></script><script type="text/javascript" src="/lib/katex/copy-tex.min.js"></script><script type="text/javascript" src="/lib/katex/mhchem.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"复制到剪贴板","maxShownLines":10},"data":{"id-1":"极速译 · 随时听"},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"highlightTag":"em","lunrIndexURL":"/index.json","lunrLanguageCode":"zh","lunrSegmentitURL":"/lib/lunr/lunr.segmentit.js","maxResultLength":10,"noResultsFound":"没有找到结果","snippetLength":50,"type":"lunr"},"typeit":{"cursorChar":"","cursorSpeed":1000,"data":{"id-1":["id-1"]},"duration":100,"speed":90}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
 </html>

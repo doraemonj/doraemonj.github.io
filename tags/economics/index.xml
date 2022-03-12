@@ -1,20 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>economics on Mixoo 米库</title>
-    <link>https://doraemonj.github.io/tags/economics/</link>
-    <description>Recent content in economics on Mixoo 米库</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
-    <lastBuildDate>Wed, 23 Feb 2022 09:46:29 +0800</lastBuildDate><atom:link href="https://doraemonj.github.io/tags/economics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>《人的行为》</title>
-      <link>https://doraemonj.github.io/books/human_action/</link>
-      <pubDate>Wed, 23 Feb 2022 09:46:29 +0800</pubDate>
-      
-      <guid>https://doraemonj.github.io/books/human_action/</guid>
-      <description>简介 1.经济学和实践学 经济学是所有科学中最年轻的科学。在过去的两百年里，确实有许多新的科学从古希腊人熟悉的学科中出现。然而，这里发生的事情仅</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>economics - 标签 - 定制你自己的图书馆</title>
+        <link>https://doraemonj.github.io/tags/economics/</link>
+        <description>economics - 标签 - 定制你自己的图书馆</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 23 Feb 2022 09:46:29 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/tags/economics/" rel="self" type="application/rss+xml" /><item>
+    <title>人的行为</title>
+    <link>https://doraemonj.github.io/human_action/</link>
+    <pubDate>Wed, 23 Feb 2022 09:46:29 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/human_action/</guid>
+    <description><![CDATA[Human Action: A Treatise On Economics]]></description>
+</item></channel>
 </rss>
