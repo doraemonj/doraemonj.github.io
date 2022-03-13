@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://doraemonj.github.io/guide/</loc><lastmod>2022-03-12T16:12:16&#43;08:00</lastmod><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/guide/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/guide/"
@@ -11,7 +11,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/guide/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/categories/</loc><lastmod>2022-03-12T16:12:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/categories/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/categories/"
@@ -19,6 +19,28 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/categories/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/tags/git/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/categories/git/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/tags/git-delete-files/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/tags/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://doraemonj.github.io/en/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://doraemonj.github.io/tags/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/guide/git_rm/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://doraemonj.github.io/en/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://doraemonj.github.io/"
                     /></url><url>
             <loc>https://doraemonj.github.io/tags/folder-actions/</loc><lastmod>2022-03-12T16:12:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
@@ -74,15 +96,6 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/tags/not-work/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/</loc><lastmod>2022-03-12T16:12:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://doraemonj.github.io/en/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://doraemonj.github.io/tags/"
-                    /></url><url>
             <loc>https://doraemonj.github.io/tags/workflow/</loc><lastmod>2022-03-12T16:12:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -110,15 +123,6 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/guide/how_to_fix_automator_folder_actions_not_working/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/</loc><lastmod>2022-03-12T16:12:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://doraemonj.github.io/en/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://doraemonj.github.io/"
-                    /></url><url>
             <loc>https://doraemonj.github.io/about/</loc><lastmod>2022-03-07T12:28:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -128,7 +132,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/about/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/boom/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/tags/boom/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/tags/boom/"
@@ -137,7 +141,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/tags/boom/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/media/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/tags/media/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/tags/media/"
@@ -146,7 +150,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/tags/media/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/categories/media/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/categories/media/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/categories/media/"
@@ -155,7 +159,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/categories/media/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/posts/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/posts/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/posts/"
@@ -164,7 +168,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/posts/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/real-estate/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/tags/real-estate/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/tags/real-estate/"
@@ -173,8 +177,8 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/tags/real-estate/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/categories/real-estate/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/tags/thomas-sowell/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/categories/real-estate/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://doraemonj.github.io/tags/thomas-sowell/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/tags/thomas-sowell/"
@@ -183,7 +187,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/tags/thomas-sowell/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/%E5%AA%92%E4%BD%93/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/tags/%E5%AA%92%E4%BD%93/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/tags/%E5%AA%92%E4%BD%93/"
@@ -192,7 +196,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/tags/%E5%AA%92%E4%BD%93/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/categories/%E5%AA%92%E4%BD%93/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/categories/%E5%AA%92%E4%BD%93/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/categories/%E5%AA%92%E4%BD%93/"
@@ -201,7 +205,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/categories/%E5%AA%92%E4%BD%93/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/%E6%88%BF%E5%9C%B0%E4%BA%A7/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/tags/%E6%88%BF%E5%9C%B0%E4%BA%A7/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/tags/%E6%88%BF%E5%9C%B0%E4%BA%A7/"
@@ -210,7 +214,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/tags/%E6%88%BF%E5%9C%B0%E4%BA%A7/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/the_housing_boom_and_bust/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/the_housing_boom_and_bust/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/the_housing_boom_and_bust/"
@@ -219,7 +223,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/the_housing_boom_and_bust/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/understanding_media/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/understanding_media/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/understanding_media/"
