@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://doraemonj.github.io/en/categories/</loc><lastmod>2022-03-12T16:12:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/en/categories/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://doraemonj.github.io/categories/"
@@ -11,7 +11,7 @@
                     hreflang="en"
                     href="https://doraemonj.github.io/en/categories/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/en/</loc><lastmod>2022-03-12T16:12:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/en/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://doraemonj.github.io/"
@@ -19,6 +19,52 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://doraemonj.github.io/en/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/en/tags/git/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://doraemonj.github.io/tags/git/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://doraemonj.github.io/en/tags/git/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/en/categories/git/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://doraemonj.github.io/categories/git/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://doraemonj.github.io/en/categories/git/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/en/tags/git-delete/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/en/guide/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://doraemonj.github.io/guide/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://doraemonj.github.io/en/guide/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/en/guide/git_rm/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://doraemonj.github.io/guide/git_rm/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://doraemonj.github.io/en/guide/git_rm/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/en/tags/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://doraemonj.github.io/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://doraemonj.github.io/en/tags/"
                     /></url><url>
             <loc>https://doraemonj.github.io/en/tags/folder-actions/</loc><lastmod>2022-03-12T16:12:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
@@ -37,15 +83,6 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://doraemonj.github.io/en/categories/folder-actions/"
-                    /></url><url>
-            <loc>https://doraemonj.github.io/en/guide/</loc><lastmod>2022-03-12T16:12:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://doraemonj.github.io/guide/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://doraemonj.github.io/en/guide/"
                     /></url><url>
             <loc>https://doraemonj.github.io/en/guide/how_to_fix_automator_folder_actions_not_working/</loc><lastmod>2022-03-12T16:12:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
@@ -91,15 +128,6 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://doraemonj.github.io/en/tags/not-work/"
-                    /></url><url>
-            <loc>https://doraemonj.github.io/en/tags/</loc><lastmod>2022-03-12T16:12:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://doraemonj.github.io/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://doraemonj.github.io/en/tags/"
                     /></url><url>
             <loc>https://doraemonj.github.io/en/tags/workflow/</loc><lastmod>2022-03-12T16:12:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
