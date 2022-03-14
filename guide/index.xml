@@ -12,19 +12,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/pics/guide_001_create_github_account.png" referrerpolicy="no-referrer">
             </div>自建图书馆第1步：拥有Github帐号]]></description>
-</item><item>
-    <title>如何删除Git文件、而保留本地文件</title>
-    <link>https://doraemonj.github.io/guide/git_rm/</link>
-    <pubDate>Sun, 13 Mar 2022 19:04:50 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/guide/git_rm/</guid>
-    <description><![CDATA[删除Git文件]]></description>
-</item><item>
-    <title>如何解决『Automator』文件夹操作失灵问题</title>
-    <link>https://doraemonj.github.io/guide/how_to_fix_automator_folder_actions_not_working/</link>
-    <pubDate>Sat, 12 Mar 2022 16:12:16 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/guide/how_to_fix_automator_folder_actions_not_working/</guid>
-    <description><![CDATA[How To Fix Automator Folder Actions Not Working]]></description>
 </item></channel>
 </rss>
