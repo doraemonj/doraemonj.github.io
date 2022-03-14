@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Github - 标签 - 定制你自己的图书馆</title>
+        <link>https://doraemonj.github.io/tags/github/</link>
+        <description>Github - 标签 - 定制你自己的图书馆</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 14 Mar 2022 13:32:50 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/tags/github/" rel="self" type="application/rss+xml" /><item>
+    <title>如何注册Github帐号</title>
+    <link>https://doraemonj.github.io/guide/create_github_account/</link>
+    <pubDate>Mon, 14 Mar 2022 13:32:50 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/guide/create_github_account/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/guide_001_create_github_account.png" referrerpolicy="no-referrer">
+            </div>自建图书馆第1步：拥有Github帐号]]></description>
+</item></channel>
+</rss>
