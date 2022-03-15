@@ -1,9 +1,7 @@
 # 如何注册Github Pages
 
 
-书接[上文](https://doraemonj.github.io/guide/create_github_account/)，既然你已经拥有了独一无二的Github帐号，有没有想过为什么帐号必须独一无二？那是为了让独一无二的你拥有一个独一无二的图书馆。
-
-如果你的用户名是 `doraemonfile` ，那么最终图书馆网址是：
+书接[上文](https://doraemonj.github.io/guide/create_github_account/)，你已经拥有独一无二的Github帐号，如果你的用户名是 `doraemonfile` ，那么，你的图书馆网址就是：
 
 > doraemonfile.github.io
 
@@ -21,13 +19,13 @@ Github里有个概念——『仓库』（repository）音标：[rɪ'pɔzitəri]
 
 ![screenshot_20220315_110513](https://doraemonj.github.io/pics/screenshot_20220315_110513.png)
 
-勾选 『Add a README file』选项，点击『新建仓库』。出现以下页面，说明创建成功：
+勾选 『Add a README file』选项，点击『新建仓库』，如果创建成功，会出现以下页面：
 
 ![screenshot_20220315_112129](https://doraemonj.github.io/pics/screenshot_20220315_112129.png)
 
 ## 2. 检查，新建的仓库
 
-满心欢喜，打开网址 `doraemonfile.github.io`
+打开网址 `doraemonfile.github.io`
 
 ![screenshot_20220315_113025](https://doraemonj.github.io/pics/screenshot_20220315_113025.png)
 
