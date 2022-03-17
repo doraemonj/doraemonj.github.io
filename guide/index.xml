@@ -3,25 +3,7 @@
         <title>全部指南 - 定制你自己的图书馆</title>
         <link>https://doraemonj.github.io/guide/</link>
         <description>全部指南 | 定制你自己的图书馆</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 15 Mar 2022 16:14:50 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/guide/" rel="self" type="application/rss+xml" /><item>
-    <title>如何注册Github帐号</title>
-    <link>https://doraemonj.github.io/guide/create_github_account/</link>
-    <pubDate>Tue, 15 Mar 2022 16:14:50 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/guide/create_github_account/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/guide_001_create_github_account.png" referrerpolicy="no-referrer">
-            </div>自建图书馆第1步：拥有Github帐号]]></description>
-</item><item>
-    <title>如何注册Github Pages</title>
-    <link>https://doraemonj.github.io/guide/create_github_pages/</link>
-    <pubDate>Tue, 15 Mar 2022 16:04:50 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/guide/create_github_pages/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/guide_002_create_github_pages.png" referrerpolicy="no-referrer">
-            </div>自建图书馆第2步：注册Github Pages]]></description>
-</item><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 15 Mar 2022 13:30:50 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/guide/" rel="self" type="application/rss+xml" /><item>
     <title>如何接收Pull Request</title>
     <link>https://doraemonj.github.io/guide/merge_pull_request/</link>
     <pubDate>Tue, 15 Mar 2022 13:30:50 &#43;0800</pubDate>
@@ -30,5 +12,23 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/pics/guide_003_pull_request.png" referrerpolicy="no-referrer">
             </div>自建图书馆第2步：注册Github Pages]]></description>
+</item><item>
+    <title>如何注册Github Pages</title>
+    <link>https://doraemonj.github.io/guide/create_github_pages/</link>
+    <pubDate>Mon, 14 Mar 2022 16:04:50 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/guide/create_github_pages/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/guide_002_create_github_pages.png" referrerpolicy="no-referrer">
+            </div>自建图书馆第2步：注册Github Pages]]></description>
+</item><item>
+    <title>如何注册Github帐号</title>
+    <link>https://doraemonj.github.io/guide/create_github_account/</link>
+    <pubDate>Sun, 13 Mar 2022 16:14:50 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/guide/create_github_account/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/guide_001_create_github_account.png" referrerpolicy="no-referrer">
+            </div>自建图书馆第1步：拥有Github帐号]]></description>
 </item></channel>
 </rss>
