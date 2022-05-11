@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Github - 分类 - Toms Park | 汤的公园</title>
+        <title>Github - 分类 - 机器猫J | Doraemonj</title>
         <link>https://doraemonj.github.io/categories/github/</link>
-        <description>Github - 分类 - Toms Park | 汤的公园</description>
+        <description>Github - 分类 - 机器猫J | Doraemonj</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 15 Mar 2022 13:30:50 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/categories/github/" rel="self" type="application/rss+xml" /><item>
     <title>如何接收Pull Request</title>
     <link>https://doraemonj.github.io/guide/merge_pull_request/</link>

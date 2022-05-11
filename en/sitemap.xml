@@ -11,15 +11,6 @@
                     hreflang="en"
                     href="https://doraemonj.github.io/en/categories/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/en/</loc><lastmod>2022-05-11T15:13:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://doraemonj.github.io/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://doraemonj.github.io/en/"
-                    /></url><url>
             <loc>https://doraemonj.github.io/en/guide/</loc><lastmod>2022-05-11T15:13:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -48,6 +39,15 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://doraemonj.github.io/en/tags/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/en/</loc><lastmod>2022-05-11T15:13:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://doraemonj.github.io/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://doraemonj.github.io/en/"
                     /></url><url>
             <loc>https://doraemonj.github.io/en/tags/git/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
