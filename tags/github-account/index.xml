@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Github account - 标签 - 定制你自己的图书馆</title>
+        <title>Github account - 标签 - Toms Park | 汤的公园</title>
         <link>https://doraemonj.github.io/tags/github-account/</link>
-        <description>Github account - 标签 - 定制你自己的图书馆</description>
+        <description>Github account - 标签 - Toms Park | 汤的公园</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 13 Mar 2022 16:14:50 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/tags/github-account/" rel="self" type="application/rss+xml" /><item>
     <title>如何注册Github帐号</title>
     <link>https://doraemonj.github.io/guide/create_github_account/</link>
