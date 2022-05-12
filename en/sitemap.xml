@@ -11,25 +11,25 @@
                     hreflang="en"
                     href="https://doraemonj.github.io/en/categories/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/en/guide/</loc><lastmod>2022-05-11T15:13:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://doraemonj.github.io/guide/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://doraemonj.github.io/en/guide/"
-                    /></url><url>
             <loc>https://doraemonj.github.io/en/tags/immigrate/</loc><lastmod>2022-05-11T15:13:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/en/categories/immigrate/</loc><lastmod>2022-05-11T15:13:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/en/guide/daily_001/</loc><lastmod>2022-05-11T15:13:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/en/daily_001/</loc><lastmod>2022-05-11T15:13:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://doraemonj.github.io/guide/daily_001/"
+                        href="https://doraemonj.github.io/daily_001/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://doraemonj.github.io/en/guide/daily_001/"
+                    href="https://doraemonj.github.io/en/daily_001/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/en/posts/</loc><lastmod>2022-05-11T15:13:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://doraemonj.github.io/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://doraemonj.github.io/en/posts/"
                     /></url><url>
             <loc>https://doraemonj.github.io/en/tags/</loc><lastmod>2022-05-11T15:13:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
@@ -60,7 +60,7 @@
                     /></url><url>
             <loc>https://doraemonj.github.io/en/categories/git/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://doraemonj.github.io/en/tags/git-delete/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://doraemonj.github.io/en/guide/git_rm/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://doraemonj.github.io/en/git_rm/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://doraemonj.github.io/en/about/</loc><lastmod>2022-03-07T12:28:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -96,15 +96,6 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://doraemonj.github.io/en/categories/media/"
-                    /></url><url>
-            <loc>https://doraemonj.github.io/en/posts/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://doraemonj.github.io/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://doraemonj.github.io/en/posts/"
                     /></url><url>
             <loc>https://doraemonj.github.io/en/tags/real-estate/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"

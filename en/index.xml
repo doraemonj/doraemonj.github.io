@@ -6,6 +6,20 @@
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 11 May 2022 15:13:10 &#43;0800</lastBuildDate>
             <atom:link href="https://doraemonj.github.io/en/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Immigrate Daily 001: Beginning</title>
+    <link>https://doraemonj.github.io/en/daily_001/</link>
+    <pubDate>Wed, 11 May 2022 15:13:10 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://doraemonj.github.io/en/daily_001/</guid>
+    <description><![CDATA[Starting now]]></description>
+</item><item>
+    <title>How to Delete a Git File or Folder While Keeping the Local Ones</title>
+    <link>https://doraemonj.github.io/en/git_rm/</link>
+    <pubDate>Sun, 13 Mar 2022 19:04:50 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://doraemonj.github.io/en/git_rm/</guid>
+    <description><![CDATA[delete Git files or folders]]></description>
+</item><item>
     <title>The Housing Boom and Bust</title>
     <link>https://doraemonj.github.io/en/the_housing_boom_and_bust/</link>
     <pubDate>Sun, 06 Mar 2022 13:00:48 &#43;0800</pubDate>

@@ -5,10 +5,10 @@
         <description>Git - 标签 - 机器猫J · Doraemonj</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 14 Mar 2022 16:04:50 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/tags/git/" rel="self" type="application/rss+xml" /><item>
     <title>如何注册Github Pages</title>
-    <link>https://doraemonj.github.io/guide/create_github_pages/</link>
+    <link>https://doraemonj.github.io/create_github_pages/</link>
     <pubDate>Mon, 14 Mar 2022 16:04:50 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://doraemonj.github.io/guide/create_github_pages/</guid>
+    <guid>https://doraemonj.github.io/create_github_pages/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/pics/guide_002_create_github_pages.png" referrerpolicy="no-referrer">
             </div>自建图书馆第2步：注册Github Pages]]></description>

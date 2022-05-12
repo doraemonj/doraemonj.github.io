@@ -5,10 +5,10 @@
         <description>Github account - 标签 - 机器猫J · Doraemonj</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 13 Mar 2022 16:14:50 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/tags/github-account/" rel="self" type="application/rss+xml" /><item>
     <title>如何注册Github帐号</title>
-    <link>https://doraemonj.github.io/guide/create_github_account/</link>
+    <link>https://doraemonj.github.io/create_github_account/</link>
     <pubDate>Sun, 13 Mar 2022 16:14:50 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://doraemonj.github.io/guide/create_github_account/</guid>
+    <guid>https://doraemonj.github.io/create_github_account/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/pics/guide_001_create_github_account.png" referrerpolicy="no-referrer">
             </div>自建图书馆第1步：拥有Github帐号]]></description>
