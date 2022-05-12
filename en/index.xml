@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>机器猫J | Doraemonj</title>
+        <title>机器猫J · Doraemonj</title>
         <link>https://doraemonj.github.io/en/</link>
-        <description>机器猫J | Doraemonj</description>
+        <description>机器猫J · Doraemonj</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 11 May 2022 15:13:10 &#43;0800</lastBuildDate>
             <atom:link href="https://doraemonj.github.io/en/index.xml" rel="self" type="application/rss+xml" />
         <item>
