@@ -3,30 +3,9 @@
         <title>DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/</link>
         <description>DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 13 May 2022 16:22:40 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 13 Mar 2022 19:04:50 &#43;0800</lastBuildDate>
             <atom:link href="https://doraemonj.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Registed Stack Overflow</title>
-    <link>https://doraemonj.github.io/dairy_003/</link>
-    <pubDate>Fri, 13 May 2022 16:22:40 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://doraemonj.github.io/dairy_003/</guid>
-    <description><![CDATA[Immigrate Diary 003]]></description>
-</item><item>
-    <title>Immigrate Diary 002: Start by collecting job information</title>
-    <link>https://doraemonj.github.io/dairy_002/</link>
-    <pubDate>Thu, 12 May 2022 22:23:01 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://doraemonj.github.io/dairy_002/</guid>
-    <description><![CDATA[Collecting and gathering]]></description>
-</item><item>
-    <title>Beginning</title>
-    <link>https://doraemonj.github.io/dairy_001/</link>
-    <pubDate>Wed, 11 May 2022 15:13:10 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://doraemonj.github.io/dairy_001/</guid>
-    <description><![CDATA[Diary 001: Starting now]]></description>
-</item><item>
     <title>How to Delete a Git File or Folder While Keeping the Local Ones</title>
     <link>https://doraemonj.github.io/git_rm/</link>
     <pubDate>Sun, 13 Mar 2022 19:04:50 &#43;0800</pubDate>
