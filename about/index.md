@@ -1,12 +1,14 @@
-# 关于我们
+# About me
 
 
-乱世现场移民表演
+Gone with the Wind Live Immigration Show
 
-你好，我是Chris，这里有一个装满书的图书馆在等着你。在一小时内人工翻译书籍，并且随时待命，为你自动朗读书籍。
+Hi, I'm Chris. there is a library full of books waiting for you. Translating books in an hour artificially, and reading books aloud automatically at any time.
 
-联系我们：
+Contact us：
 
 - Mixin: 29273
-- MIxin 机器人: 7000104144
-- 邮箱: chrishowardaka@gmail.com
+- MIxin Bot: 7000104144
+- Email: chrishowardaka@gmail.com
+
+

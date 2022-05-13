@@ -2,85 +2,94 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://doraemonj.github.io/categories/</loc><lastmod>2022-05-12T22:23:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/categories/</loc><lastmod>2022-05-13T16:22:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://doraemonj.github.io/en/categories/"
+                        href="https://doraemonj.github.io/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://doraemonj.github.io/categories/"
+                    href="https://doraemonj.github.io/zh-cn/categories/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/posts/</loc><lastmod>2022-05-12T22:23:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/</loc><lastmod>2022-05-13T16:22:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://doraemonj.github.io/en/posts/"
+                        href="https://doraemonj.github.io/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://doraemonj.github.io/posts/"
+                    href="https://doraemonj.github.io/zh-cn/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/</loc><lastmod>2022-05-12T22:23:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/posts/</loc><lastmod>2022-05-13T16:22:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://doraemonj.github.io/en/tags/"
+                        href="https://doraemonj.github.io/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://doraemonj.github.io/tags/"
+                    href="https://doraemonj.github.io/zh-cn/posts/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/</loc><lastmod>2022-05-12T22:23:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/tags/</loc><lastmod>2022-05-13T16:22:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://doraemonj.github.io/en/"
+                        href="https://doraemonj.github.io/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://doraemonj.github.io/"
+                    href="https://doraemonj.github.io/zh-cn/tags/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/%E7%A7%BB%E6%B0%91/</loc><lastmod>2022-05-12T22:23:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/categories/%E7%A7%BB%E6%B0%91/</loc><lastmod>2022-05-12T22:23:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/dairy_002/</loc><lastmod>2022-05-12T22:23:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/tags/%E5%87%86%E5%A4%87/</loc><lastmod>2022-05-13T16:22:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/categories/%E5%87%86%E5%A4%87/</loc><lastmod>2022-05-13T16:22:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/dairy_003/</loc><lastmod>2022-05-13T16:22:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://doraemonj.github.io/en/dairy_002/"
+                        href="https://doraemonj.github.io/dairy_003/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://doraemonj.github.io/dairy_002/"
+                    href="https://doraemonj.github.io/zh-cn/dairy_003/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/dairy_001/</loc><lastmod>2022-05-11T15:13:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/dairy_002/</loc><lastmod>2022-05-12T22:23:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://doraemonj.github.io/en/dairy_001/"
+                        href="https://doraemonj.github.io/dairy_002/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://doraemonj.github.io/dairy_001/"
+                    href="https://doraemonj.github.io/zh-cn/dairy_002/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/github/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://doraemonj.github.io/categories/github/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://doraemonj.github.io/tags/pull-request/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://doraemonj.github.io/merge_pull_request/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://doraemonj.github.io/tags/git/</loc><lastmod>2022-03-14T16:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/dairy_001/</loc><lastmod>2022-05-11T15:13:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://doraemonj.github.io/en/tags/git/"
+                        href="https://doraemonj.github.io/dairy_001/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://doraemonj.github.io/tags/git/"
+                    href="https://doraemonj.github.io/zh-cn/dairy_001/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/github-pages/</loc><lastmod>2022-03-14T16:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://doraemonj.github.io/create_github_pages/</loc><lastmod>2022-03-14T16:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://doraemonj.github.io/tags/github-account/</loc><lastmod>2022-03-13T16:14:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://doraemonj.github.io/create_github_account/</loc><lastmod>2022-03-13T16:14:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://doraemonj.github.io/about/</loc><lastmod>2022-03-07T12:28:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/tags/github/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/categories/github/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/tags/pull-request/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/merge_pull_request/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/tags/git/</loc><lastmod>2022-03-14T16:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://doraemonj.github.io/en/about/"
+                        href="https://doraemonj.github.io/tags/git/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://doraemonj.github.io/about/"
+                    href="https://doraemonj.github.io/zh-cn/tags/git/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/tags/github-pages/</loc><lastmod>2022-03-14T16:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/create_github_pages/</loc><lastmod>2022-03-14T16:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/tags/github-account/</loc><lastmod>2022-03-13T16:14:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/create_github_account/</loc><lastmod>2022-03-13T16:14:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/about/</loc><lastmod>2022-03-07T12:28:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://doraemonj.github.io/about/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://doraemonj.github.io/zh-cn/about/"
                     /></url></urlset>

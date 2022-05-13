@@ -1,50 +1,37 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>机器猫J · Doraemonj</title>
+        <title>DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/</link>
-        <description>机器猫J · Doraemonj</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 12 May 2022 22:23:07 &#43;0800</lastBuildDate>
+        <description>DoraemonJ’s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 13 May 2022 16:22:40 &#43;0800</lastBuildDate>
             <atom:link href="https://doraemonj.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>移民日记002：从搜集招聘信息开始</title>
-    <link>https://doraemonj.github.io/dairy_002/</link>
-    <pubDate>Thu, 12 May 2022 22:23:07 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/dairy_002/</guid>
-    <description><![CDATA[搜集]]></description>
+    <title>Registed Stack Overflow</title>
+    <link>https://doraemonj.github.io/dairy_003/</link>
+    <pubDate>Fri, 13 May 2022 16:22:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://doraemonj.github.io/dairy_003/</guid>
+    <description><![CDATA[Immigrate Diary 003]]></description>
 </item><item>
-    <title>移民日记001：开始</title>
+    <title>Immigrate Diary 002: Start by collecting job information</title>
+    <link>https://doraemonj.github.io/dairy_002/</link>
+    <pubDate>Thu, 12 May 2022 22:23:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://doraemonj.github.io/dairy_002/</guid>
+    <description><![CDATA[Collecting and gathering]]></description>
+</item><item>
+    <title>Beginning</title>
     <link>https://doraemonj.github.io/dairy_001/</link>
     <pubDate>Wed, 11 May 2022 15:13:10 &#43;0800</pubDate>
-    <author>作者</author>
+    <author>Author</author>
     <guid>https://doraemonj.github.io/dairy_001/</guid>
-    <description><![CDATA[起步]]></description>
+    <description><![CDATA[Diary 001: Starting now]]></description>
 </item><item>
-    <title>如何接收Pull Request</title>
-    <link>https://doraemonj.github.io/merge_pull_request/</link>
-    <pubDate>Tue, 15 Mar 2022 13:30:50 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/merge_pull_request/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/guide_003_pull_request.png" referrerpolicy="no-referrer">
-            </div>自建图书馆第2步：注册Github Pages]]></description>
-</item><item>
-    <title>如何注册Github Pages</title>
-    <link>https://doraemonj.github.io/create_github_pages/</link>
-    <pubDate>Mon, 14 Mar 2022 16:04:50 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/create_github_pages/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/guide_002_create_github_pages.png" referrerpolicy="no-referrer">
-            </div>自建图书馆第2步：注册Github Pages]]></description>
-</item><item>
-    <title>如何注册Github帐号</title>
-    <link>https://doraemonj.github.io/create_github_account/</link>
-    <pubDate>Sun, 13 Mar 2022 16:14:50 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/create_github_account/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/guide_001_create_github_account.png" referrerpolicy="no-referrer">
-            </div>自建图书馆第1步：拥有Github帐号]]></description>
+    <title>How to Delete a Git File or Folder While Keeping the Local Ones</title>
+    <link>https://doraemonj.github.io/git_rm/</link>
+    <pubDate>Sun, 13 Mar 2022 19:04:50 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://doraemonj.github.io/git_rm/</guid>
+    <description><![CDATA[delete Git files or folders]]></description>
 </item></channel>
 </rss>

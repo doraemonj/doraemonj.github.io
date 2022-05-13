@@ -1,17 +1,15 @@
-# 移民日记002：从搜集招聘信息开始
+# Immigrate Diary 002: Start by collecting job information
 
 
+### 2022-05-12 To-Do List
 
+-   [x] Learn to use writing checkboxes in Typora: ` - [ ] `, note that there are three spaces: one after the minus sign `-`; one between a pair of square brackets, and one to the right of the right square bracket. has been added to Squirrel which is a Chinese input method, press the `f` and `x` keys to automatically display `- [ ]` and the checkbox in Typora.
 
-### 2022-05-12 待办事项
+-   [x] Buy an Apple ID of USA. Yes, no one out of China can know the travail of touch the Internet easily.
 
--   [x] 学会在Typora中使用复选框：` - [ ] `，注意，这里有三个空格：减号 `-` 后有一个空格；一对方括号之间有一个空格，右方括号右边还有一个空格。已加入鼠须管配置文件中，按下`f`和`x`两个键，自动显示`-   [ ]` ，在Typora中自动显示复选框
+-   [x] Down load Twitter, Facebook, Gmail, Instagram, linkedin...
 
--   [x] 购买美帝苹果id
-
--   [x] 下载twitter、Facebook、Gmail、Instagram
-
--   [x] 搜集其他招工网站（共计6+1：linkedin）
+-   [x] Gathering recruiting sites（6+1：linkedin）
 
     SUPERVISA: www.supervisa.ai
 
@@ -25,23 +23,15 @@
 
     Kijiji: www.kijiji.ca
 
-    已注册linkedin帐号: chrishowardaka@gmail.com
+    Registered linkedin account: chrishowardaka@gmail.com
 
--   [x] 已注册glassdoor帐号（chrishowardaka@gmail.com，Google帐号登陆）
+-   [x] Registered glassdoor account（chrishowardaka@gmail.com，Google account registered）
 
--   [x] 重设网站（doraemonj）结构，修改网站结构（不删书，重建搜索引擎索引）
--   [x] Gitalk安装、故障排除（已用disqus替代，写文章，）
--   [x] 隐藏所有无关藏书
--   [x] 帮助Amy注册代理（购买，安装，使用），使用境外id安装YouTube, Twitter, DeepL, linkedin, Facebook
--   [x] 移民日记002（应聘加拿大，双语上传）
--   [x] 启动雅思培训计划，每天19:00-19:30为英语上课时间
-
-
-
-
-
-
-
-
+-   [x] Reset website (doraemonj) structure, modify website structure. No book deletion, rebuild search engine index. These books are the ones which had been translated by myself and DeepL in the past 3 months.
+-   [x] Gitalk installation, debugging (have replaced with disqus, write article,)
+-   [x] Hide all irrelevant collections
+-   [x] Help Amy register agent (buy, install, use), install YouTube, Twitter, DeepL, linkedin, Facebook using offshore id
+-   [x] Immigration Diary 002 (apply for job in Canada, bilingual upload)
+-   [x] IELTS training program launched, daily English classes from 19:00-19:30
 
 

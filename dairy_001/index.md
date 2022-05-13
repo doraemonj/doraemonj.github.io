@@ -1,23 +1,19 @@
-# 移民日记001：开始
+# Beginning
 
 
-2022年5月11日，开始准备移民。
+On May 11, 2022, I started preparing for migration.
 
-前期比较过多个移民目标地，有美国、日本、澳大利亚、新西兰、加拿大，结合自身情况，决定先往加拿大发展。
+After comparing several immigration targets in the previous period, including the United States, Japan, Australia, New Zealand and Canada, I decided to move to the latter one, taking into account my own situation.
 
-优势：接纳移民的人数比较多，偏IT技术，适合我，如果碰巧也同样适合你，那么你可以把我当成探雷针。
+Advantages: The number of immigrants admitted is relatively high, especially IT technology, which suits me. And if it happens to be equally suitable for you, then you can use me as a test agent.
 
-缺点：气候偏冷，易发地震。BC（不列颠哥伦比亚）省处于环太平洋火山地震带上，
+Disadvantages: Cold and prone to earthquakes, BC (British Columbia) is in the Pacific Rim volcanic earthquake zone.
 
-博主本人条件：
+Blogger's own conditions:
 
-男，37周岁，国产普通本科，国内银行工作14年，其中有3年数据分析工作经验。
+Male, 37 years old. With a bachelor degree of Economics of an Chinese university. I have worked for three banks for 14 years, including 3 years of data analysis work experience.
 
-后续将以中英文形式更新blog。
-
-
-
-
+The blog will be updated in bilingual format later:  English and Chinese .
 
 
 
