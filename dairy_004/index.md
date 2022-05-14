@@ -72,7 +72,7 @@ for el in new_en:
 
 ### Effect
 
-At last, we got what we need:
+At last, we got what we need: from short sentence to long.
 
 ![](https://doraemonj.github.io/pics/screenshot_20220514_113746.png)
 
