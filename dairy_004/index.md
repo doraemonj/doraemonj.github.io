@@ -9,11 +9,18 @@ The first obstable seemed to recite sentences by heart. Unfortunately, it's not.
 
 When I scratched dozens of sentences from YouTube in an English and Chinese spaced format, I found my little princess can not read the first sentence in a while through my help.
 
+### Background
+
 ![](https://doraemonj.github.io/pics/screenshot_20220514_112220.png)
+<div align="center"><font color='gray'>Fig 1: Original file: Not ordered</font></div>
+
+
 
 The first sentence seemed a bit long for a ten-year-old Chinese girl.
 
 So I use Python to find the shortest sentence out, and put them to the upmost position.
+
+### Code
 
 ```python
 # Mission: Filter the sentences with the fewest words to the upmost
@@ -63,4 +70,11 @@ for el in new_en:
         f.write(f"{dic[el]}\n\n")               # Chinese sentence corresponds to English ones
 ```
 
+### Effect
+
+At last, we got what we need:
+
+![](https://doraemonj.github.io/pics/screenshot_20220514_113746.png)
+
+<div align="center"><font color='gray'>Fig 2: Ordered file from short to long</font></div>
 
