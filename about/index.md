@@ -29,8 +29,8 @@ Have a wonderful journey~
 
 ### Contact me
 
-- Mixin: 29273
-- MIxin Robot: 7000104144
+- Mixin messenger: 29273
+- MIxin robot: 7000104144
 - Twitter: ChrisHowardaka
 - Email: chrishowardaka@gmail.com
 
