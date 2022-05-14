@@ -30,7 +30,7 @@ Have a wonderful journey~
 ### Contact me
 
 - Mixin: 29273
-- MIxin Bot: 7000104144
+- MIxin Robot: 7000104144
 - Twitter: ChrisHowardaka
 - Email: chrishowardaka@gmail.com
 
