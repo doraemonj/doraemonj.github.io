@@ -12,7 +12,7 @@ To remove a file from Git version control while keeping the local file.
 ​	git rm file_path --cached
 ​	```
 
-3. 进行commit，将文件从版本库中删掉：
+3. Commit: Delete the file from the git version:
 
 ​		```
 ​	git commit -m "delete the file"
