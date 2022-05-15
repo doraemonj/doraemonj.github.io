@@ -7,6 +7,7 @@
 -   [x] 学会剪切并上线了bilibili和YouTube视频，而且放在了自己的博客中：[详见本文](https://doraemonj.github.io/zh-cn/discovery-channel-full-episodes-the-truth-about-the-bermuda-triangle/)。
 -   [x] 学会了bilibili的视频配字幕
 -   [x] 开始在Stack Overflow上[答题](https://stackoverflow.com/questions/68885174/hugo-expanding-fenced-code-in-a-post-by-default/72246339#72246339)
+-   [x] 在Google上登记了[主页](https://doraemonj.github.io/)
 -   [x] 继续拖延了英文版的Resume和CV，怎么回事？
 -   [x] 继续读了雅思900句中的72句
 -   [x] 今天Alice心情不佳，放假没学英语、历史和思想史
