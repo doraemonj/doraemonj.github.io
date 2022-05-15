@@ -36,3 +36,12 @@ Next recommendation movie in YouTube:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTQ3Ko9ZKg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 See you next time, Alice.
+
+
+最后，测试下不同代码下的视频显示框，明显感觉shortcode更实用，因为视频框大小能根据窗口大小自动调整，不信你试试看~
+
+以下为短代码
+
+{{< youtube sGIm0-dQd8M >}}
+
+{{< bilibili BV1Rz411i7bN >}}
