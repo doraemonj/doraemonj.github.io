@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://doraemonj.github.io/zh-cn/categories/</loc><lastmod>2022-05-15T21:09:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/categories/</loc><lastmod>2022-05-16T13:14:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/categories/"
@@ -11,7 +11,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/zh-cn/categories/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/zh-cn/</loc><lastmod>2022-05-15T21:09:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/</loc><lastmod>2022-05-16T13:14:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/"
@@ -20,7 +20,9 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/zh-cn/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/zh-cn/posts/</loc><lastmod>2022-05-15T21:09:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/tags/english-learning/</loc><lastmod>2022-05-16T13:14:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/categories/english-learning/</loc><lastmod>2022-05-16T13:14:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/posts/</loc><lastmod>2022-05-16T13:14:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/posts/"
@@ -29,7 +31,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/zh-cn/posts/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/zh-cn/tags/</loc><lastmod>2022-05-15T21:09:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/tags/</loc><lastmod>2022-05-16T13:14:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/tags/"
@@ -38,11 +40,10 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/zh-cn/tags/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/zh-cn/tags/%E5%87%86%E5%A4%87/</loc><lastmod>2022-05-15T21:09:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/zh-cn/categories/%E5%87%86%E5%A4%87/</loc><lastmod>2022-05-15T21:09:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/%E5%86%99%E7%AE%80%E5%8E%86%E7%9A%84%E4%BA%94%E5%A4%A7%E9%93%81%E5%BE%8B/</loc><lastmod>2022-05-16T13:14:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/tags/%E5%87%86%E5%A4%87/</loc><lastmod>2022-05-16T13:14:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/categories/%E5%87%86%E5%A4%87/</loc><lastmod>2022-05-16T13:14:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/zh-cn/dairy_005/</loc><lastmod>2022-05-15T21:09:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/zh-cn/tags/english-learning/</loc><lastmod>2022-05-15T14:37:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/zh-cn/categories/english-learning/</loc><lastmod>2022-05-15T14:37:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/zh-cn/discovery-channel-full-episodes-the-truth-about-the-bermuda-triangle/</loc><lastmod>2022-05-15T14:37:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/zh-cn/dairy_004/</loc><lastmod>2022-05-14T21:22:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
