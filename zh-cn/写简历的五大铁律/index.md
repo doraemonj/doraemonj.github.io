@@ -1,4 +1,4 @@
-# Write an Incredible Resume: 5 Golden Rules!
+# Write an Incredible Resume: 5 Golden Rules
 
 
 Source from YouTube：
