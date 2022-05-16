@@ -5,8 +5,6 @@ Source from YouTube：
 
 {{< youtube Tt08KmFfIYQ >}}
 
-
-
 One of the biggest issues with resume tips from the internet is that most of it is subjective. What works for me might not work for you and vice versa. 
 
 So when Austin Belcak released his findings from analyzing 125,484 resumes, I got excited because data to a large extent takes the guesswork out of the equation. 
@@ -43,7 +41,7 @@ Let's start with number one
 
 Here's a graph that completely blew me away.
 
-![screenshot_20220516_134718](https://doraemonj.github.io/pics/screenshot_20220516_134718.png)
+<div align = "center"><img src="https://doraemonj.github.io/pics/screenshot_20220516_134718.png" alt="screenshot_20220516_134718" style="zoom: 32%;" /></div>
 
 At first glance, the implication seems to be pretty simple. Having a LinkedIn profile linked on your resume, gives you much higher chance of landing a job interview.
 
@@ -66,7 +64,7 @@ And that's not all.
 
 You might also notice that as job level increase, the gap in callback rates decreased between job applicants. 
 
-![](https://doraemonj.github.io/pics/screenshot_20220516_135933.png)
+<div align = "center"><img src="https://doraemonj.github.io/pics/screenshot_20220516_135933.png" style="zoom:33%;" /></div>
 
 This suggests that having a strong LinkedIn profile is more important for entry-level job seekers compared to their higher level peers. 
 
@@ -91,8 +89,7 @@ This makes sense because there's usually a Skill/Interest section at the bottom 
 To make sure you're also including relevant soft skills, you can take a look at Udemy's workplace trends report or CNBC summery, and see which of the Top ten in-demand soft skills are applicable to you, and include those as well.
 
 ### Include Measurable Results
-
-![screenshot_20220516_145107](https://doraemonj.github.io/pics/screenshot_20220516_145107.png)
+<div align = "center"><img src="https://doraemonj.github.io/pics/screenshot_20220516_145107.png" style="zoom:30%;" /></div>
 
 Number three include measurable results in your bullet points. The study shows that 26% of resumes, including five or more instances of measures, while 36%, more than a third, didn't include a single qualifiable results. 
 
@@ -106,11 +103,10 @@ There's a popular XYZ Resume Bullet Point Formula.
 
 **Accomplished [X] as measured by [Y], by doing [Z]**
 
-
-
-
-
-
+>   <div align = "center"><b>CONTENT MARKETING MANAGER</b></div>
+>
+>   Drove 2,500 organic sign-ups to our monthly newsletter	
+>   by A/B testing content layout and collaborating with co-marketing partners, representing a 43% quarter-on-quarter increase"	
 
 For example, if you're a concept marketing manager, your bullet point might look like this.
 
@@ -121,12 +117,10 @@ Pro tip, a lot of you might be working on projects that might not have a direct 
 ### Keep Length Between 475-600 Words
 
 Number four, keep your resume length between 475-600 words.
-
-![screenshot_20220516_150808](https://doraemonj.github.io/pics/screenshot_20220516_150808.png)
+<div align = "center"><img src="https://doraemonj.github.io/pics/screenshot_20220516_150808.png" style="zoom:25%;" /></div>
 
 **A.** This is because the research has shown that resumes in that sweet spot saw double the interviews of those that were outside of those ranges.
-
-![screenshot_20220516_151101](https://doraemonj.github.io/pics/screenshot_20220516_151101.png)
+<div align = "center"><img src="https://doraemonj.github.io/pics/screenshot_20220516_151101.png" style="zoom:25%;" /></div>
 
 **B.** 77% of the resumes from awesome study had either fewer than 475 words or more than 600, meaning from a purely statistical standpoint, you're automatically in a stronger position versus other candidates If you have a 500 word resume.
 
