@@ -11,7 +11,11 @@
 
     语法修改在[grammarly.com](https://grammarly.com/)上检查，翻译工作基本仰仗[DeepL.com](https://deepL.com/)，两者的免费版服务均已足够。
 
--   [x] LinkedIn今天早上批准了我的申请，从今天开始，我就正式成为Chris Howard了，今天下午提交资料。
+-   [x] LinkedIn今天早上批准了我的申请，从今天开始，我就正式成为Chris Howard了，下午更新了在LinkedIn上的资料、完成了[LinkedIn版简历](https://doraemonj.github.io/docs/Resume-Chris-Howard-LinkedIn.pdf)，并且发了一条post：
+
+    >   Finding a foreign job is a full-time job.
+
+    ![](https://doraemonj.github.io/pics/screenshot_20220518_162717.png)
 
 ### 后续待完成事项
 
