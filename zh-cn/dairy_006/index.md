@@ -3,7 +3,7 @@
 
 ### 今日已完成事项
 
--   [x] 完成英文版的[Resume](https://doraemonj.github.io/docs/Resume-2022-05-17.pdf)，并写了推送[文章](https://doraemonj.github.io/dairy_005/)。
+-   [x] 完成英文[Resume](https://doraemonj.github.io/docs/Resume-2022-05-17.pdf)第一版，并写了[推送文章](https://doraemonj.github.io/dairy_005/)，以后简历会不定期更新，命名为Resume_latest.pdf，放在[这里](https://doraemonj.github.io/docs/Resume_latest.pdf)，你也可以通过我的[GitHub仓库](https://github.com/doraemonj/doraemonj.github.io/tree/main/docs)查看。
 
 -   [x] 和Amy、Alice一起观看了崔永元的华盛顿演讲：
 
