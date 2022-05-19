@@ -68,12 +68,13 @@
 
     -   [x] Indeed：已递交简历，下载简历格式
 
-    -   [x] Workopolis：在workopolis上发了四封Resume
+    -   [x] Workopolis：在workopolis上发了五封Resume
 
         1.   第一封发往英属哥伦比亚大学（University of British Columbia）Business Analyst II, Data & Reporting，看下要求还是隔得很远，要求有商业智能（BI）的开发经验，我只是试试。
         2.   第二封发往卑诗省无家可归者服务协会（HSABC） Homelessness Services Association of BC Researcher & Data Analyst
         3.   第三家是一家没有名字的商业智能（BI)公司，要求有关系型数据库的经验，会Tableau，和我的本职工作关系不是很大。
         4.   第四家是币安，惊呆了，12天以前的招聘，可能已经招完了，不管，继续投吧。
+        5.   第五家是健康数据联盟
 
         Workopolis的搜索功能还是很强大的，点赞。
 
@@ -105,10 +106,4 @@
 
 
 <font color='red'> 老样子，核心是聚焦</font>
-
-
-
-
-
--   [ ] 注册supervisa.ai，显示504ERROR，帐号是chadtang1985@gmail.com
 
