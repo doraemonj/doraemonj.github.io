@@ -3,7 +3,21 @@
         <title>全部文章 - DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/zh-cn/posts/</link>
         <description>全部文章 | DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 18 May 2022 12:40:26 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 19 May 2022 10:14:23 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>孤独大脑：稳赚的原理</title>
+    <link>https://doraemonj.github.io/zh-cn/priciples_of_earn_stably/</link>
+    <pubDate>Thu, 19 May 2022 10:14:23 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/zh-cn/priciples_of_earn_stably/</guid>
+    <description><![CDATA[煮熟的鸭子飞得快]]></description>
+</item><item>
+    <title>每天事项清单</title>
+    <link>https://doraemonj.github.io/zh-cn/dairy_008/</link>
+    <pubDate>Thu, 19 May 2022 09:51:26 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/zh-cn/dairy_008/</guid>
+    <description><![CDATA[日记008]]></description>
+</item><item>
     <title>再次修缮简历</title>
     <link>https://doraemonj.github.io/zh-cn/dairy_007/</link>
     <pubDate>Wed, 18 May 2022 12:40:26 &#43;0800</pubDate>
@@ -59,21 +73,5 @@
     <author>作者</author>
     <guid>https://doraemonj.github.io/zh-cn/dairy_002/</guid>
     <description><![CDATA[日记002]]></description>
-</item><item>
-    <title>开始</title>
-    <link>https://doraemonj.github.io/zh-cn/dairy_001/</link>
-    <pubDate>Wed, 11 May 2022 15:13:10 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/zh-cn/dairy_001/</guid>
-    <description><![CDATA[日记001]]></description>
-</item><item>
-    <title>如何接收Pull Request</title>
-    <link>https://doraemonj.github.io/zh-cn/merge_pull_request/</link>
-    <pubDate>Tue, 15 Mar 2022 13:30:50 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/zh-cn/merge_pull_request/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/guide_003_pull_request.png" referrerpolicy="no-referrer">
-            </div>自建图书馆第2步：注册Github Pages]]></description>
 </item></channel>
 </rss>
