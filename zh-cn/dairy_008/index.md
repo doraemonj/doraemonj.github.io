@@ -61,13 +61,28 @@
 ### 今日已完成事项
 
 -   [ ] 在加拿大招工网站上投简历8份
-    -   [ ] SUPERVISA
-    -   [ ] Job Bank
-    -   [ ] Indeed
-    -   [ ] Workopolis
+
+    -   [ ] SUPERVISA: 未通过测试，网站反馈无适合我的work项目，所以没给我写简历的机会。
+
+    -   [x] Job Bank：已递交简历，下载简历格式
+
+    -   [x] Indeed：已递交简历，下载简历格式
+
+    -   [x] Workopolis：在workopolis上发了四封Resume
+
+        1.   第一封发往英属哥伦比亚大学（University of British Columbia）Business Analyst II, Data & Reporting，看下要求还是隔得很远，要求有商业智能（BI）的开发经验，我只是试试。
+        2.   第二封发往卑诗省无家可归者服务协会（HSABC） Homelessness Services Association of BC Researcher & Data Analyst
+        3.   第三家是一家没有名字的商业智能（BI)公司，要求有关系型数据库的经验，会Tableau，和我的本职工作关系不是很大。
+        4.   第四家是币安，惊呆了，12天以前的招聘，可能已经招完了，不管，继续投吧。
+
+        Workopolis的搜索功能还是很强大的，点赞。
+
     -   [ ] Randstad
+
     -   [ ] Kijiji
+
     -   [ ] monster.com
+
     -   [ ] hotjobs.com
 
 
@@ -90,4 +105,10 @@
 
 
 <font color='red'> 老样子，核心是聚焦</font>
+
+
+
+
+
+-   [ ] 注册supervisa.ai，显示504ERROR，帐号是chadtang1985@gmail.com
 
