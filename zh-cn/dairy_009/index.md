@@ -10,14 +10,14 @@
 -   [ ] 准备面试英语，分段读熟讲熟
 
     -   [ ] Presentation：自我介绍
+    -   [ ] 梳理面试问题集
     -   [ ] 从分段经历（小故事）
     -   [ ] 对数据分析业务的观点
     -   [ ] 价值观
 
--   [ ] 每日搜集招聘网站反馈（今日增加后4个）：
+-   [x] 每日搜集招聘网站反馈（今日增加后4个）：
 
     -   [x] 查看LinkedIn上的posts10+，点赞5+，回复2个+
-    -   [x] SUPERVISA
     -   [x] Job Bank
     -   [x] Indeed
     -   [x] Workopolis
@@ -25,7 +25,7 @@
     -   [ ] Kijiji
     -   [ ] monster.com
     -   [ ] hotjobs.com
-
+    
 -   [ ] 在Stack Overflow上回答问题（或提出问题）
 
 -   [x] 推送GitHub帐号
@@ -38,7 +38,7 @@
 
     -   [ ] 西方思想史：
     -   [ ] 历史：
-    -   [ ] 英语：
+    -   [ ] 英语：今天看了个[崔永元的演讲](https://www.youtube.com/watch?v=IFWmlvojXLg)，决定尝试英语笑话集的学习模式，尽量把课程做得好玩。
 
 -   [x] 自己读书
 
@@ -61,18 +61,10 @@
 
     -   [x] Workopolis：在workopolis上发了五封Resume
 
-        1.   第一封发往英属哥伦比亚大学（University of British Columbia）Business Analyst II, Data & Reporting，看下要求还是隔得很远，要求有商业智能（BI）的开发经验，我只是试试。
-        2.   第二封发往卑诗省无家可归者服务协会（HSABC） Homelessness Services Association of BC Researcher & Data Analyst
-        3.   第三家是一家没有名字的商业智能（BI)公司，要求有关系型数据库的经验，会Tableau，和我的本职工作关系不是很大。
-        4.   第四家是币安，惊呆了，12天以前的招聘，可能已经招完了，不管，继续投吧。
-        5.   第五家是健康数据联盟
-
-        Workopolis的搜索功能还是很强大的，点赞。
-
     -   [ ] Randstad
-
+    
     -   [ ] Kijiji
-
+    
     -   [ ] monster.com
 
     -   [ ] hotjobs.com
@@ -80,14 +72,12 @@
 
 ### 后续待完成事项
 
--   [ ] 工作任务清单排序：
+-   [ ] 准备面试问题集
 -   [ ] Python代码上传Github，写README.md文件，案例双语展示
 
     -   [ ] 自动翻译项目
 -   [ ] blog网页项目
 -   [ ] 后续把翻译项目写进Python系列
-
-
 
 -   [ ] 待调整藏书后，修改搜索引擎配置（清理搜索引擎配置，写文章，当然需要中英双语）
 -   [ ] 每周两篇思想史文章翻译（双语上传）

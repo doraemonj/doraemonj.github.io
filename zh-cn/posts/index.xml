@@ -3,7 +3,16 @@
         <title>全部文章 - DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/zh-cn/posts/</link>
         <description>全部文章 | DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 20 May 2022 11:22:26 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 20 May 2022 13:14:23 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>好玩英语：段子英语教学实验</title>
+    <link>https://doraemonj.github.io/zh-cn/funny_english_001/</link>
+    <pubDate>Fri, 20 May 2022 13:14:23 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/zh-cn/funny_english_001/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/funny-english.png" referrerpolicy="no-referrer">
+            </div>I&rsquo;m not addicted to English]]></description>
+</item><item>
     <title>每天事项清单</title>
     <link>https://doraemonj.github.io/zh-cn/dairy_009/</link>
     <pubDate>Fri, 20 May 2022 11:22:26 &#43;0800</pubDate>
@@ -66,12 +75,5 @@
     <author>作者</author>
     <guid>https://doraemonj.github.io/zh-cn/dairy_004/</guid>
     <description><![CDATA[日记004]]></description>
-</item><item>
-    <title>注册Stack Overflow</title>
-    <link>https://doraemonj.github.io/zh-cn/dairy_003/</link>
-    <pubDate>Fri, 13 May 2022 16:22:26 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/zh-cn/dairy_003/</guid>
-    <description><![CDATA[日记003]]></description>
 </item></channel>
 </rss>
