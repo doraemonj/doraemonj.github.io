@@ -5,9 +5,11 @@
 
 -   [x] 读英语100句三遍（使用零碎时间，比如砍柴、烧水、做饭、休息……）
 
--   [ ] 英文句库搜集：平时注意搜集各场景的句子，如电影台词、解说词、名人Twitter、LinkedIn、YouTube、原版书等。
+-   [x] 英文句库搜集：平时注意搜集各场景的句子，如电影台词、解说词、名人Twitter、LinkedIn、YouTube、原版书等。
 
--   [ ] 准备面试英语，分段读熟讲熟
+    今天已开始搜集，从Funny-English
+
+-   [ ] 准备面试英语，分段读熟讲熟（晚上做）
 
     -   [ ] Presentation：自我介绍
     -   [ ] 梳理面试问题集
@@ -20,12 +22,12 @@
     -   [x] 查看LinkedIn上的posts10+，点赞5+，回复2个+
     -   [x] Job Bank
     -   [x] Indeed
-    -   [x] Workopolis
+    -   [x] Workopolis - 今天投了三份简历
     -   [ ] Randstad
     -   [ ] Kijiji
     -   [ ] monster.com
     -   [ ] hotjobs.com
-    
+
 -   [ ] 在Stack Overflow上回答问题（或提出问题）
 
 -   [x] 推送GitHub帐号
@@ -34,11 +36,21 @@
 
 -   [x] 写日记，记录进度
 
--   [ ] 和Amy、Alice讲课（记录留档备查）
+-   [x] 和Amy、Alice讲课（记录留档备查）
 
-    -   [ ] 西方思想史：
-    -   [ ] 历史：
-    -   [ ] 英语：今天看了个[崔永元的演讲](https://www.youtube.com/watch?v=IFWmlvojXLg)，决定尝试英语笑话集的学习模式，尽量把课程做得好玩。
+    -   [x] 西方思想史：[忒修斯之船隐喻，人为何不能踏入同一条河流](https://www.ixigua.com/6956915456842138150?logTag=e7bd8727d2f212ac0492)
+
+    -   [x] 历史：
+
+    -   [x] 英语：今天看了个[崔永元的演讲](https://www.youtube.com/watch?v=IFWmlvojXLg)，决定尝试英语笑话集的学习模式，尽量把课程做得好玩。Google一下，俯拾皆是：
+
+        >   [Funny Tweets & Social Media Examples From 17 Real Brands](https://blog.hubspot.com/marketing/funny-brands-social-media)
+        >
+        >   [75 of the Funniest Tweets on the Internet](https://www.rd.com/article/funny-tweets/)
+        >
+        >   [101 Short Jokes Anyone Can Remember](https://www.rd.com/list/short-jokes/)
+
+        
 
 -   [x] 自己读书
 
