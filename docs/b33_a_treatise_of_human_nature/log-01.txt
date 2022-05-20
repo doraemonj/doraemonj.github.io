@@ -1,0 +1,174 @@
+00000001 2022-04-04 22:14:29 c 00 - <html>
+00000001 2022-04-04 22:14:29 p 00 - 
+
+00000002 2022-04-04 22:14:29 c 00 - <head>
+00000002 2022-04-04 22:14:29 p 00 - 
+
+00000003 2022-04-04 22:14:29 c 00 - <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+00000003 2022-04-04 22:14:29 p 00 - 
+
+00000004 2022-04-04 22:14:29 c 00 - <link href="style.css" rel="stylesheet" type="text/css"/>
+00000004 2022-04-04 22:14:29 p 00 - 
+
+00000005 2022-04-04 22:14:31 s 02 - <title>A Treatise of Human Nature</title>
+00000005 2022-04-04 22:14:31 r 02 - <title>人性的论述</title>
+
+00000006 2022-04-04 22:14:31 c 00 - </head>
+00000006 2022-04-04 22:14:31 p 00 - 
+
+00000007 2022-04-04 22:14:31 c 00 - <body>
+00000007 2022-04-04 22:14:31 p 00 - 
+
+00000008 2022-04-04 22:14:31 c 00 - <div class="calibre" id="calibre_link-355">
+00000008 2022-04-04 22:14:31 p 00 - 
+
+00000010 2022-04-04 22:14:33 c 01 - <h1 class="calibre1 en">A TREATISE OF <br class="calibre2"/>HUMAN NATURE</h1><br class="calibre3"/>
+00000010 2022-04-04 22:14:33 p 01 - <h1 class="calibre1 cn"><br class="calibre2"/>人性的论述</h1><br class="calibre3"/>
+
+00000011 2022-04-04 22:14:36 c 01 - <h2 class="calibre4 en">BY </h2>
+00000011 2022-04-04 22:14:36 p 01 - <h2 class="calibre4 cn">报道 </h2>
+
+00000012 2022-04-04 22:14:38 c 01 - <h2 class="calibre4 en">DAVID HUME</h2><br class="calibre3"/>
+00000012 2022-04-04 22:14:38 p 01 - <h2 class="calibre4 cn">DAVID HUME</h2><br class="calibre3"/>
+
+00000013 2022-04-04 22:14:41 c 01 - <h4 class="calibre5 en">1739-1740</h4>
+00000013 2022-04-04 22:14:41 p 01 - <h4 class="calibre5 cn">1739-1740</h4>
+
+00000015 2022-04-04 22:14:41 c 00 - <div class="calibre3">
+00000015 2022-04-04 22:14:41 p 00 - 
+
+00000017 2022-04-04 22:14:41 c 00 - </div>
+00000017 2022-04-04 22:14:41 p 00 - 
+
+00000018 2022-04-04 22:14:41 c 00 - </div>
+00000018 2022-04-04 22:14:41 p 00 - 
+
+00000019 2022-04-04 22:14:41 c 00 - <div class="calibre" id="calibre_link-413">
+00000019 2022-04-04 22:14:41 p 00 - 
+
+00000020 2022-04-04 22:14:43 c 01 - <h5 class="calibre8 en">A Treatise of Human Nature <br class="calibre3"/>By David Hume.<br class="calibre3"/>This edition was created and published by Global Grey<br class="calibre3"/>©GlobalGrey 2020<br class="calibre3"/>Get more free ebooks at<br class="calibre3"/><a href="https://www.globalgreyebooks.com/index.html"><img alt="Global Grey logo" class="calibre9" src="images/000000.png"/></a><br class="calibre3"/><a href="https://www.globalgreyebooks.com/index.html">globalgreyebooks.com</a></h5>
+00000020 2022-04-04 22:14:43 p 01 - <h5 class="calibre8 cn">A Treatise of Human Nature<br class="calibre3"/>作者：David Hume。<br class="calibre3"/>此版本由Global Grey创建和出版<br class="calibre3"/>©GlobalGrey 2020<br class="calibre3"/>获取更多免费电子书，请访问<br class="calibre3"/><a href="https://www.globalgreyebooks.com/index.html"><img alt="Global Grey logo" class="calibre9" src="images/000000.png"/></a><br class="calibre3"/><a href="https://www.globalgreyebooks.com/index.html">Globalgreyebooks.com</a></h5>
+
+00000021 2022-04-04 22:14:43 c 00 - <div class="calibre3">
+00000021 2022-04-04 22:14:43 p 00 - 
+
+00000023 2022-04-04 22:14:43 c 00 - </div>
+00000023 2022-04-04 22:14:43 p 00 - 
+
+00000024 2022-04-04 22:14:43 c 00 - </div>
+00000024 2022-04-04 22:14:43 p 00 - 
+
+00000025 2022-04-04 22:14:43 c 00 - <div class="calibre" id="calibre_link-21">
+00000025 2022-04-04 22:14:43 p 00 - 
+
+00000026 2022-04-04 22:14:45 c 01 - <h1 class="block_1" id="calibre_link-464 en">Contents</h1>
+00000026 2022-04-04 22:14:45 p 01 - <h1 class="block_1" id="calibre_link-464 cn">内容</h1>
+
+00000027 2022-04-04 22:14:46 c 01 - <p class="block_2 en"> </p>
+00000027 2022-04-04 22:14:46 p 01 - <p class="block_2 cn"> </p>
+
+00000028 2022-04-04 22:14:49 c 01 - <p class="block_3 en"><a class="text_2" href="#calibre_link-22">Introduction</a></p>
+00000028 2022-04-04 22:14:49 p 01 - <p class="block_3 cn"><a class="text_2" href="#calibre_link-22">简介</a></p>
+
+00000029 2022-04-04 22:14:50 c 01 - <p class="block_3 en"><a class="text_2" href="#calibre_link-23">BOOK 1: OF THE UNDERSTANDING</a></p>
+00000029 2022-04-04 22:14:50 p 01 - <p class="block_3 cn"><a class="text_2" href="#calibre_link-23">第一本书：《理解》。</a></p>
+
+00000030 2022-04-04 22:14:53 c 01 - <p class="block_4 en"><a class="text_2" href="#calibre_link-24">PART 1: OF IDEAS; THEIR ORIGIN, COMPOSITION, ABSTRACTION, CONNEXION, &amp;C</a></p>
+00000030 2022-04-04 22:14:53 p 01 - <p class="block_4 cn"><a class="text_2" href="#calibre_link-24">第一部分：思想；它们的起源、组成、抽象、联系等。</a></p>
+
+00000031 2022-04-04 22:14:55 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-25">Section 1. Of The Origin Of Our Ideas</a></p>
+00000031 2022-04-04 22:14:55 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-25">第一节。关于我们的思想的起源</a></p>
+
+00000032 2022-04-04 22:14:56 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-26">Section 2. Division Of The Subject</a></p>
+00000032 2022-04-04 22:14:56 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-26">第2节。主题的划分</a></p>
+
+00000033 2022-04-04 22:14:59 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-27">Section 3. Of The Ideas Of The Memory And Imagination</a></p>
+00000033 2022-04-04 22:14:59 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-27">第三节。记忆和想象力的概念</a></p>
+
+00000034 2022-04-04 22:15:01 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-28">Section 4. Of The Connexion Or Association Of Ideas</a></p>
+00000034 2022-04-04 22:15:01 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-28">第4节。思想的联系或关联</a></p>
+
+00000035 2022-04-04 22:15:02 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-29">Section 5. Of Relations</a></p>
+00000035 2022-04-04 22:15:02 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-29">第5节。关系</a></p>
+
+00000036 2022-04-04 22:15:05 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-30">Section 6. Of Modes And Substances</a></p>
+00000036 2022-04-04 22:15:05 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-30">第6节。模式和物质</a></p>
+
+00000037 2022-04-04 22:15:08 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-31">Section 7. Of Abstract Ideas</a></p>
+00000037 2022-04-04 22:15:08 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-31">第7节。关于抽象概念</a></p>
+
+00000038 2022-04-04 22:15:10 c 01 - <p class="block_4 en"><a class="text_2" href="#calibre_link-32">PART 2: OF THE IDEAS OF SPACE AND TIME</a></p>
+00000038 2022-04-04 22:15:10 p 01 - <p class="block_4 cn"><a class="text_2" href="#calibre_link-32">第二部分：关于空间和时间的观念</a></p>
+
+00000039 2022-04-04 22:15:12 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-33">Section 1. Of The Infinite Divisibility Of Our Ideas Of Space And Time</a></p>
+00000039 2022-04-04 22:15:12 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-33">第一节。关于我们的空间和时间观念的无限可分性</a></p>
+
+00000040 2022-04-04 22:15:14 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-34">Section 2. Of The Infinite Divisibility Of Space And Time</a></p>
+00000040 2022-04-04 22:15:14 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-34">第2节。关于空间和时间的无限可分性</a></p>
+
+00000041 2022-04-04 22:15:16 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-35">Section 3. Of The Other Qualities Of Our Ideas Of Space And Time</a></p>
+00000041 2022-04-04 22:15:16 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-35">第3节。我们的空间和时间观念的其他特性</a></p>
+
+00000042 2022-04-04 22:15:18 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-36">Section 4. Objections Answer'd</a></p>
+00000042 2022-04-04 22:15:18 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-36">第4节。反对意见的答复</a></p>
+
+00000043 2022-04-04 22:15:20 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-37">Section 5. The Same Subject Continu'd</a></p>
+00000043 2022-04-04 22:15:20 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-37">第五节。同一主题继续进行</a></p>
+
+00000044 2022-04-04 22:15:22 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-38">Section 6. Of The Idea Of Existence, And Of External Existence</a></p>
+00000044 2022-04-04 22:15:22 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-38">第6节。关于存在的概念和外部存在的概念</a></p>
+
+00000045 2022-04-04 22:15:24 c 01 - <p class="block_4 en"><a class="text_2" href="#calibre_link-39">PART 3: OF KNOWLEDGE AND PROBABILITY</a></p>
+00000045 2022-04-04 22:15:24 p 01 - <p class="block_4 cn"><a class="text_2" href="#calibre_link-39">第三部分。知识与概率的关系</a></p>
+
+00000046 2022-04-04 22:15:26 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-40">Section 1. Of Knowledge</a></p>
+00000046 2022-04-04 22:15:26 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-40">第一节。关于知识</a></p>
+
+00000047 2022-04-04 22:15:28 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-41">Section 2. Of Probability; And Of The Idea Of Cause And Effect</a></p>
+00000047 2022-04-04 22:15:28 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-41">第二节。概率；以及因果关系的概念</a></p>
+
+00000048 2022-04-04 22:15:30 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-42">Section 3. Why A Cause Is Always Necessary</a></p>
+00000048 2022-04-04 22:15:30 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-42">第3节。为什么总是需要有一个原因</a></p>
+
+00000049 2022-04-04 22:15:32 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-43">Section 4. Of The Component Parts Of Our Reasonings Concerning Cause And Effect</a></p>
+00000049 2022-04-04 22:15:32 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-43">第4节。我们关于因果关系的推理的组成部分</a></p>
+
+00000050 2022-04-04 22:15:34 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-44">Section 5. Of The Impressions Of The Senses And Memory</a></p>
+00000050 2022-04-04 22:15:34 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-44">第5节。感官的印象和记忆</a></p>
+
+00000051 2022-04-04 22:15:37 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-45">Section 6. Of The Inference From The Impression To The Idea</a></p>
+00000051 2022-04-04 22:15:37 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-45">第6节。从印象到理念的推论</a></p>
+
+00000052 2022-04-04 22:15:39 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-46">Section 7. Of The Nature Of The Idea Or Belief</a></p>
+00000052 2022-04-04 22:15:39 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-46">第7节。观念或信仰的性质</a></p>
+
+00000053 2022-04-04 22:15:41 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-47">Section 8. Of The Causes Of Belief</a></p>
+00000053 2022-04-04 22:15:41 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-47">第8节。信仰的原因</a></p>
+
+00000054 2022-04-04 22:15:43 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-48">Section 9. Of The Effects Of Other Relations And Other Habits</a></p>
+00000054 2022-04-04 22:15:43 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-48">第9节。其他关系和其他习惯的影响</a></p>
+
+00000055 2022-04-04 22:15:44 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-49">Section 10. Of The Influence Of Belief</a></p>
+00000055 2022-04-04 22:15:44 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-49">第10节。信仰的影响</a></p>
+
+00000056 2022-04-04 22:15:47 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-50">Section 11. Of The Probability Of Chances</a></p>
+00000056 2022-04-04 22:15:47 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-50">第11节。机会的概率</a></p>
+
+00000057 2022-04-04 22:15:49 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-51">Section 12. Of The Probability Of Causes</a></p>
+00000057 2022-04-04 22:15:49 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-51">第12节。关于原因的概率</a></p>
+
+00000058 2022-04-04 22:15:51 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-52">Section 13. Of Unphilosophical Probability</a></p>
+00000058 2022-04-04 22:15:51 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-52">第13节。非哲学性的概率</a></p>
+
+00000059 2022-04-04 22:15:53 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-53">Section 14. Of The Idea Of Necessary Connexion</a></p>
+00000059 2022-04-04 22:15:53 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-53">第14节。关于必要的联系的概念</a></p>
+
+00000060 2022-04-04 22:15:55 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-54">Section 15. Rules By Which To Judge Of Causes And Effects</a></p>
+00000060 2022-04-04 22:15:55 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-54">第15节。判断原因和影响的规则</a></p>
+
+00000061 2022-04-04 22:15:58 c 01 - <p class="block_5 en"><a class="text_2" href="#calibre_link-55">Section 16. Of The Reason Of Animals</a></p>
+00000061 2022-04-04 22:15:58 p 01 - <p class="block_5 cn"><a class="text_2" href="#calibre_link-55">第16节。关于动物的理由</a></p>
+
+00000062 2022-04-04 22:15:59 c 01 - <p class="block_4 en"><a class="text_2" href="#calibre_link-56">PART 4: OF THE SCEPTICAL AND OTHER SYSTEMS OF PHILOSOPHY</a></p>
+00000062 2022-04-04 22:15:59 p 01 - <p class="block_4 cn"><a class="text_2" href="#calibre_link-56">第四部分：关于怀疑论和其他哲学体系</a></p>
+

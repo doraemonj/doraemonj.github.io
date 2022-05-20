@@ -1,0 +1,83 @@
+<html>
+ 2  <head>
+ 3   <title>使用HTML的锚点链接定位到具体的内容</title>
+ 4  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+ 5  </head>
+ 6  <body>
+ 7     <h1>目录导航</h1>
+ 8     <dl>
+ 9         <!--设置锚点：<a href="#title0">一、JAVA流式输入/输出原理</a>
+10         点击这个超链接时就会自动定位到<h2 id="title0" name="title0">一、JAVA流式输入/输出原理</h2>这个标题所在的位置
+11         -->
+12         <dt><a href="#title0">一、JAVA流式输入/输出原理</a></dt>
+13         <dt><a href="#title1">二、输入输出流分类</a></dt>
+14         <dt><a href="#title2">三、节点流和处理流</a></dt>
+15             <dd><a href="#title3">3.1.节点流类型</a></dd>
+16             <dd><a href="#title4">3.2.处理流类型</a></dd>
+17         <dt><a href="#title5">四、InputStream(输入流)</a></dt>
+18             <dd><a href="#title6">4.1.InputStream的基本方法</a></dd>
+19         <dt><a href="#title7">五、OutputStream(输出流)</a></dt>
+20             <dd><a href="#title8">5.1.OutputStream的基本方法</a></dd>
+21         <dt><a href="#title9">六、Reader流</a></dt>
+22             <dd><a href="#title10">6.1.Reader的基本方法</a></dd>
+23         <dt><a href="#title11">七、Writer流</a></dt>
+24             <dd><a href="#title12">7.1.Writer的基本方法</a></dd>
+25         <dt><a href="#title13">八、节点流讲解</a></dt>
+26         <dt><a href="#title14">九、处理流讲解</a></dt>
+27             <dd><a href="#title15">9.1.第一种处理流——缓冲流(Buffering)</a></dd>
+28             <dd><a href="#title16">9.2.第二种处理流——转换流</a></dd>
+29             <dd><a href="#title17">9.3.第三种处理流——数据流</a></dd>
+30             <dd><a href="#title18">9.4.打印流——Print</a></dd>
+31             <dd><a href="#title19">9.5. 对象流——Object</a></dd>
+32         <dt><a href="#title20">十、IO流总结</a></dt>
+33     </dl>
+34     <hr/>
+35     <div style="background-color:Red; width:100%;height:150px;">
+36         <!--经过测试发现，使用name的形式添加锚点在IE8和火狐下都不起作用，要设置Id才起作用
+37         为了兼容，还是将name属性和id属性都一起写上，并且属性值设置成相同
+38         -->
+39         <h2 id="title0" name="title0">一、JAVA流式输入/输出原理</h2>
+40     </div>
+41     <div style="background-color:Yellow; width:100%;height:150px;">
+42         <h2 name="title1" id="title1">二、输入输出流分类</h2>
+43     </div>
+44     <div style="background-color:Silver; width:100%;height:150px;">
+45         <h2 name="title2" id="title2">三、节点流和处理流</h2>
+46         <h3 name="title3" id="title3">3.1.节点流类型</h3>
+47         <h3 name="title4" id="title4">3.2.处理流类型</h3>
+48     </div>
+49     <div style="background-color:Aqua; width:100%;height:150px;">
+50         <h2 name="title5" id="title5">四、InputStream(输入流)</h2>
+51         <h3 name="title6" id="title6">4.1.InputStream的基本方法</h3>
+52     </div>
+53     <div style="background-color:Fuchsia; width:100%;height:150px;">
+54         <h2 name="title7" id="title7">五、OutputStream(输出流)</h2>
+55         <h3 name="title8" id="title8">5.1.OutputStream的基本方法</h3>
+56     </div>
+57     <div style="background-color:Green; width:100%;height:150px;">
+58         <h2 name="title9" id="title9">六、Reader流</h2>
+59         <h3 name="title10" id="title10">6.1.Reader的基本方法</h3>
+60     </div>
+61     <div style="background-color:Blue; width:100%;height:150px;">
+62         <h2 name="title11" id="title11">七、Writer流</h2>
+63         <h3 name="title12" id="title12">7.1.Writer的基本方法</h3>
+64     </div>
+65     <div style="background-color:Olive; width:100%;height:150px;">
+66         <h2 name="title13" id="title13">八、节点流讲解</h2>
+67     </div>
+68     <div style="background-color:Green; width:100%;height:150px;">
+69         <h2 name="title14" id="title14">九、处理流讲解</h2>
+70         <h3 name="title15" id="title15">9.1.第一种处理流——缓冲流(Buffering)</h3>
+71         <h3 name="title16" id="title16">9.2.第二种处理流——转换流</h3>
+72         <h3 name="title17" id="title17">9.3.第三种处理流——数据流</h3>
+73         <h3 name="title18" id="title18">9.4.打印流——Print</h3>
+74         <h3 name="title19" id="title19">9.5. 对象流——Object</h3>
+75     </div>
+76     <div style="background-color:Purple; width:100%;height:150px;">
+77         <h2 name="title20" id="title20">十、IO流总结</h2>
+78     </div>
+79     <div style="height:130px;">&nbsp;</div>
+80     <div style="height:130px;">&nbsp;</div>
+81     <div style="height:130px;">&nbsp;</div>
+82  </body>
+83 </html>

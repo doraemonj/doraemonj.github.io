@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">04ce071a-3a40-4c57-b65f-6b675984f86d</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04ce071a-3a40-4c57-b65f-6b675984f86d</dc:identifier>
+        <dc:title>The Discovery of Society (Randall Collins,</dc:title>
+        <dc:creator opf:file-as="Zhi, Wei" opf:role="aut">Wei Zhi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.35.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>zh</dc:language>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide/>
+</package>

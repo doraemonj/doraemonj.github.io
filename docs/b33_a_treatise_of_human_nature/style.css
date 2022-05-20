@@ -1,0 +1,90 @@
+
+        body{
+            width: 100%;
+            margin: 1em auto;
+            font-family: "Kaiti SC", Georgia, 'Times New Roman', Times, serif;
+            font-size: 25px;
+          }     
+        h1.en, h2.en, h3.en, h4.en, h5.en, h6.en,p.en{
+        /* display: none; */
+        }        
+        p{
+        margin-bottom: 1em !important;
+        font-size: 18px !important;
+        padding-left: 10px;
+        padding-right: 1px;
+        text-indent:2em;
+        }  
+        p.cn{
+        letter-spacing: 0.1em;
+        padding: 20px;
+        }
+        p.en{
+            padding: 20px;
+        }  
+        p.chap, p.chap1{
+        padding: 0;
+        padding-left: 50px;
+        padding-right: 20px;
+        }
+        img{
+        width: 90% !important;
+        text-align: center !important;
+        }
+        h1,h2,h3,h4,h5,h6{
+        text-align:center;
+        /* font-weight: bold; */
+        }
+        a{
+            font-size: 20px;
+            color: rgba(0, 0, 255, .75) ;
+        }
+        a:hover{
+            color: rgba(255, 0, 0, .9);
+            text-decoration-line: none;
+        }
+        .bottom{
+        width: 100%;
+        border: 0 solid transparent;
+        font-size: 25px;
+        overflow: hidden;
+        }
+        .top{
+        margin-bottom: -9999px;
+        padding-bottom: 9999px;
+        width: 50%;
+        font-size: 20px;
+        float: left;
+        /* overflow:hidden; */
+        }
+        /* 白昼版 */
+        /* .left{
+        background-color: rgba(223,205,229,.6);
+        color: rgba(0,0,0,.77);
+        font-size: 0.7em;
+        }
+        .right{
+        background-color: rgba(223,205,229,.5);
+        color: rgba(0,0,0,.77);
+        border-width: 5px;
+        } */
+        /* 黑夜版 */
+        .left{
+        background-color: rgba(46,48,51,1);
+        color: rgba(184, 191, 198, .8);
+        font-size: 0.7em;
+        }
+        .right{
+        background-color: rgba(55,59,63,1);
+        color: rgba(184, 191, 198, .8);
+        border-width: 5px;
+        }
+        a{
+            font-size: 20px;
+            color: rgba(255, 255, 255, .93);;
+        }
+        a:hover{
+            color: rgba(255, 0, 0, .9);
+            text-decoration-line: none;
+        }
+    

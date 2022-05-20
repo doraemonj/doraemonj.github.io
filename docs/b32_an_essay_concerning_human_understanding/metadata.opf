@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9cbc8702-25ee-4537-8407-82e3523d8794</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9cbc8702-25ee-4537-8407-82e3523d8794</dc:identifier>
+        <dc:title>An Essay Concerning Humane Understanding, Volume 1 / MDCXC, Based on the 2nd Edition, Books 1 and 2</dc:title>
+        <dc:creator opf:file-as="Locke, John" opf:role="aut">John Locke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.35.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-31T16:00:00+00:00</dc:date>
+        <dc:rights>Public domain in the USA.</dc:rights>
+        <dc:language>zh</dc:language>
+        <dc:subject>Knowledge</dc:subject>
+        <dc:subject>Theory of -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
