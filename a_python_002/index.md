@@ -25,9 +25,9 @@ We use:
 
 
 
-#### One-demension array
+#### One-demension arrays
 
-We create one dimension array in Python Console with inputting this command:
+We create a one-dimension array in Python Console with inputting this command:
 
 >   np.array([1,2,3], dtype=float)
 
@@ -39,7 +39,7 @@ This is our first one dimension array, aka "vector". It's useful, but not now.
 
 
 
-#### Two-demension array
+#### Two-demension arrays
 
 Then, let's make a two dimension array with Numpy:
 
@@ -54,7 +54,7 @@ This is a two dimension array.
 
 
 
-#### Arithmetic progression array
+#### Arithmetic progression arrays
 
 Also, we made an arithmetic progression with a step length of 0.5:
 
@@ -103,7 +103,7 @@ Feedback:
 
 
 
-#### Repeated array
+#### Repeated arrays
 
 Repeat every elments in array for two times: 
 
