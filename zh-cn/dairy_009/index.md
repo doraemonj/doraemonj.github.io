@@ -30,7 +30,7 @@
 
 -   [x] 推送GitHub帐号
 
--   [ ] 写英文文章，完成英文100篇教案：Python、SQL、翻译项目代码拆解。sw
+-   [x] 写英文文章，完成英文100篇教案：Python、SQL、翻译项目代码拆解。今天写完一篇：[How to Prepare Data with Numpy in Python](https://doraemonj.github.io/a_python_002/).
 
 -   [x] 写日记，记录进度
 
@@ -42,21 +42,12 @@
 
 -   [x] 自己读书
 
-    -   [x] 读孤独大脑昨天微信公众号文章[『稳赚』的原理](https://doraemonj.github.io/zh-cn/priciples_of_earn_stably/)，收获有两点：
+    -   [x] 继续读Naval的文字，酣畅淋漓，举个例子：
 
-        1、买卖选择权是概率原理支配下的一门生意，我们可以通过平时的可以练习，在关键时刻迅速做出未经训练之人所无法理解的优秀解，完成无风险套利的操作。
+        >   Humans evoled as hunters and gatherers where we all worked for ourselves. It's only at the beginning of agriculture we became more hierarchical. The Industrial Revolution and factories made us extremely hierarchical because one individual couldn't necessarily own or build a factory, but now, thanks to the internet, we're going back to an age where more and more people can work for themselves. I would rather be a failed entrepreneur than someone who never tried. Because even a failed entrepreneur has the skill set to make it on their own.
 
-        2、风险未发生时的冗余管理，看似牺牲了利润，但关键时刻可以防止自己被一击必杀，这是风险管理最核心的地方。虽然我原来的所工作的地方叫作『风险管理和控制部』，但实际情况常常是：我们既管理不了风险，也控制不了风险，我们只能承担风险。而承担风险的可行方式之一是：花风光时所少赚到资源买一条濒死前的活路。
+        >   人类进化为狩猎者和采集者，我们都为自己工作。只是在农业开始时，我们才变得更有等级观念。工业革命和工厂使我们变得极度等级化，因为一个人不一定能拥有或建造一个工厂，但现在由于互联网的出现，我们又回到了一个越来越多的人可以为自己工作的时代。我宁愿做一个失败的企业家，也不愿做一个从未尝试过的人。因为即使是一个失败的企业家，也有自己的技能，可以靠自己的力量去实现他的理想。
 
-        原文里有这样三句话，比较点醒人：
-
-        >   ​	1）不要为了期望的收益而承受高于其对价的风险。
-        >
-        >   ​	2）就投资而言，『鲁棒性』是指：我们的下注不应完全押宝于自己对未来预测正确，而是即使你预测错了，仍能受到概率的保护，甚至已然可以赚钱。
-        >
-        >   ​	3）金融领域风险管理的本质，不在于追求正确的预测，而在于**改变赔付关系**，因此只要在赔付关系上有利于自身，哪怕降低预测精度也无妨。（引自戴国晨的译文）
-
-    -   [x] 读*Persuasive Technology*一书，看电子游戏的设计如何吸引人一路玩下去。
 
 ### 今日已完成事项
 

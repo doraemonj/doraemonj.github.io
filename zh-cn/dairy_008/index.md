@@ -64,9 +64,9 @@
 
     -   [ ] SUPERVISA: 未通过测试，网站反馈无适合我的work项目，所以没给我写简历的机会。
 
-    -   [x] Job Bank：已递交简历，下载简历格式
+    -   [x] Job Bank：已递交[简历](https://doraemonj.github.io/docs/JobBank_Resume_20220519.rtf)。
 
-    -   [x] Indeed：已递交简历，下载简历格式
+    -   [x] Indeed：已递交[简历](https://doraemonj.github.io/docs/Indeed_Resume_20220519.pdf)。
 
     -   [x] Workopolis：在workopolis上发了五封Resume
 
