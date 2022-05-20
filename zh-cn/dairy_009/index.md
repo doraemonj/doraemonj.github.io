@@ -7,7 +7,7 @@
 
 -   [x] 英文句库搜集：平时注意搜集各场景的句子，如电影台词、解说词、名人Twitter、LinkedIn、YouTube、原版书等。
 
-    今天已开始搜集，从Funny-English
+    今天已开始搜集，从[Funny-English第一篇](https://doraemonj.github.io/zh-cn/funny_english_001/)开始
 
 -   [ ] 准备面试英语，分段读熟讲熟（晚上做）
 
@@ -71,7 +71,7 @@
 
     -   [x] Indeed：已递交简历，下载简历格式
 
-    -   [x] Workopolis：在workopolis上发了五封Resume
+    -   [x] Workopolis：在workopolis上发了三封Resume
 
     -   [ ] Randstad
     
@@ -95,8 +95,4 @@
 -   [ ] 每周两篇思想史文章翻译（双语上传）
 
 -   [ ] 更新手机Mixin Messager（暂无法更新，可能需要香港帐号，待议）
-
-
-
-<font color='red'> 老样子，核心是聚焦</font>
 
