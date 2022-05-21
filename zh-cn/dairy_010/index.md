@@ -42,18 +42,11 @@
 
 -   [x] 和Amy、Alice讲课（记录留档备查）
 
-    -   [x] 西方思想史：
+    -   [x] 西方思想史：[推翻相对论：格局小了，我们的民科有多野？](https://www.ixigua.com/6976943154519867911?logTag=c85236ef44145d010026)
 
     -   [x] 历史：史记《礼记本纪》
 
-    -   [x] 英语：今天看了个[崔永元的演讲](https://www.youtube.com/watch?v=IFWmlvojXLg)，决定尝试英语笑话集的学习模式，尽量把课程做得好玩。Google一下，俯拾皆是：
-
-        >   [Funny Tweets & Social Media Examples From 17 Real Brands](https://blog.hubspot.com/marketing/funny-brands-social-media)
-        >
-        >   [75 of the Funniest Tweets on the Internet](https://www.rd.com/article/funny-tweets/)
-        >
-        >   [101 Short Jokes Anyone Can Remember](https://www.rd.com/list/short-jokes/)
-
+    -   [x] 英语：继续学[百慕大的一分钟课](https://www.bilibili.com/video/BV1KR4y1P7ga/)
 
 
 ### 后续待完成事项
