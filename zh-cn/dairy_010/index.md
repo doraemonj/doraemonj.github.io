@@ -5,8 +5,6 @@
 
 今天读了一本书[The Almanack of Naval Ravikant](https://doraemonj.github.io/docs/b15_the_almanack_of_naval_ravikant_final/The-Almanack-of-Naval-Ravikant_Final.pdf)的小半部分，这本书读起来不累，而且原文爽口，所以我费尽心机，没有译成中文，直接读原文很提神。我特地用A4纸打印了全书，这本书不但排版悦目，而且字体让瞳孔放大，视网膜躺平，在万般舒适中读完了其中两小本散装书。
 
-![](https://doraemonj.github.io/docs/b15_the_almanack_of_naval_ravikant_final/naval_ravikant_2.jpeg)
-
 三件重要的事因为读书而忘记做了，一是面试英语文章还是没有准备起来；二是Python的文章今天还没写，三是投简历。一抬头时间已是16:50，烧饭去。
 
 -   [x] 读英语100句三遍（使用零碎时间，比如砍柴、烧水、做饭、休息……）
