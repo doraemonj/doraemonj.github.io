@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://doraemonj.github.io/categories/</loc><lastmod>2022-05-21T09:32:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/categories/</loc><lastmod>2022-05-22T13:44:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://doraemonj.github.io/zh-cn/categories/"
@@ -11,7 +11,7 @@
                     hreflang="en"
                     href="https://doraemonj.github.io/categories/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/</loc><lastmod>2022-05-21T09:32:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/</loc><lastmod>2022-05-22T13:44:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://doraemonj.github.io/zh-cn/"
@@ -20,7 +20,9 @@
                     hreflang="en"
                     href="https://doraemonj.github.io/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/posts/</loc><lastmod>2022-05-21T09:32:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/a_python_003/</loc><lastmod>2022-05-22T13:44:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/tags/numpy/</loc><lastmod>2022-05-22T13:44:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/posts/</loc><lastmod>2022-05-22T13:44:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://doraemonj.github.io/zh-cn/posts/"
@@ -29,10 +31,9 @@
                     hreflang="en"
                     href="https://doraemonj.github.io/posts/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/python/</loc><lastmod>2022-05-21T09:32:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/categories/python/</loc><lastmod>2022-05-21T09:32:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/six_other_ebook_translation_examples/</loc><lastmod>2022-05-21T09:32:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/tags/</loc><lastmod>2022-05-21T09:32:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/tags/python/</loc><lastmod>2022-05-22T13:44:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/categories/python/</loc><lastmod>2022-05-22T13:44:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/tags/</loc><lastmod>2022-05-22T13:44:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://doraemonj.github.io/zh-cn/tags/"
@@ -41,9 +42,9 @@
                     hreflang="en"
                     href="https://doraemonj.github.io/tags/"
                     /></url><url>
+            <loc>https://doraemonj.github.io/six_other_ebook_translation_examples/</loc><lastmod>2022-05-21T09:32:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/translate_an_ebook_into_other_language/</loc><lastmod>2022-05-20T16:24:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/a_python_002/</loc><lastmod>2022-05-20T09:51:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/tags/numpy/</loc><lastmod>2022-05-20T09:51:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/dairy_005/</loc><lastmod>2022-05-17T21:47:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
