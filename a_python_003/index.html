@@ -5,8 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="robots" content="noodp" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
-        <title>How to Index and Transform in Numpy Arrays? - DoraemonJ’s Blog</title><meta name="Description" content="DoraemonJ’s Blog"><meta property="og:title" content="How to Index and Transform in Numpy Arrays?" />
-<meta property="og:description" content="Index and transform of arrays" />
+        <title>How to Select and Transform Numpy Arrays? - DoraemonJ’s Blog</title><meta name="Description" content="DoraemonJ’s Blog"><meta property="og:title" content="How to Select and Transform Numpy Arrays?" />
+<meta property="og:description" content="10 ways to operate Numpy array" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://doraemonj.github.io/a_python_003/" /><meta property="og:image" content="https://doraemonj.github.io/logo.png"/><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2022-05-22T13:44:34+08:00" />
@@ -15,8 +15,8 @@
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://doraemonj.github.io/logo.png"/>
 
-<meta name="twitter:title" content="How to Index and Transform in Numpy Arrays?"/>
-<meta name="twitter:description" content="Index and transform of arrays"/>
+<meta name="twitter:title" content="How to Select and Transform Numpy Arrays?"/>
+<meta name="twitter:description" content="10 ways to operate Numpy array"/>
 <meta name="application-name" content="DoraemonJ’s Blog">
 <meta name="apple-mobile-web-app-title" content="DoraemonJ’s Blog"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -24,12 +24,12 @@
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
-        "headline": "How to Index and Transform in Numpy Arrays?",
+        "headline": "How to Select and Transform Numpy Arrays?",
         "inLanguage": "en",
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/doraemonj.github.io\/a_python_003\/"
-        },"genre": "posts","keywords": "Python, Numpy","wordcount":  325 ,
+        },"genre": "posts","keywords": "Python, Numpy","wordcount":  365 ,
         "url": "https:\/\/doraemonj.github.io\/a_python_003\/","datePublished": "2022-05-22T13:44:34+08:00","dateModified": "2022-05-22T13:44:34+08:00","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
@@ -108,7 +108,7 @@
                 <div class="container"><div class="toc" id="toc-auto">
             <h2 class="toc-title">Contents</h2>
             <div class="toc-content" id="toc-content-auto"></div>
-        </div><article class="page single"><h1 class="single-title animated flipInX">How to Index and Transform in Numpy Arrays?</h1><div class="post-meta">
+        </div><article class="page single"><h1 class="single-title animated flipInX">How to Select and Transform Numpy Arrays?</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fa"></i>DoraemonJ</a>
 </span>&nbsp;<span class="post-category">included in <a href="/categories/python/"><i class="far fa-folder fa-fw"></i>Python</a></span></div>
             <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2022-05-22">2022-05-22</time>&nbsp;</div>
@@ -121,15 +121,15 @@
   <ul>
     <li>
       <ul>
-        <li><a href="#how-to-index-or-select-elements-in-array">How to index or select elements in array?</a>
+        <li><a href="#how-to-select-elements-in-array">How to select elements in array?</a>
           <ul>
             <li><a href="#select-a-column">Select a column</a></li>
             <li><a href="#select-multiple-columns">Select multiple columns</a></li>
             <li><a href="#select-a-row">Select a row</a></li>
             <li><a href="#select-multiple-rows">Select multiple rows</a></li>
             <li><a href="#select-a-specific-element">Select a specific element</a></li>
-            <li><a href="#single-condition">Single condition</a></li>
-            <li><a href="#multiple-conditions">Multiple conditions</a></li>
+            <li><a href="#select-in-single-condition">Select in single condition</a></li>
+            <li><a href="#select-in-multiple-conditions">Select in multiple conditions</a></li>
           </ul>
         </li>
         <li><a href="#how-to-transform-the-array">How to transform the array?</a>
@@ -157,7 +157,7 @@
 <blockquote>
 <p>array([[0, 1],<br />          [2, 3],<br />          [4, 5]])</p>
 </blockquote>
-<h3 id="how-to-index-or-select-elements-in-array">How to index or select elements in array?</h3>
+<h3 id="how-to-select-elements-in-array">How to select elements in array?</h3>
 <h4 id="select-a-column">Select a column</h4>
 <p>If you want to select a column, say, the rightmost column <code>1,3,5</code>:</p>
 <blockquote>
@@ -203,7 +203,7 @@
 <blockquote>
 <p>3</p>
 </blockquote>
-<h4 id="single-condition">Single condition</h4>
+<h4 id="select-in-single-condition">Select in single condition</h4>
 <p>Select a row in which the rightmost elment is greater than 2:</p>
 <blockquote>
 <p>arr[arr[:, 1]&gt;2,]</p>
@@ -213,7 +213,7 @@
 <p>array([[2, 3],<br />
            [4, 5]])</p>
 </blockquote>
-<h4 id="multiple-conditions">Multiple conditions</h4>
+<h4 id="select-in-multiple-conditions">Select in multiple conditions</h4>
 <p>Select a row that meets both conditions, which are the rightmost elment is greater than 2 and the rightmost elment is less than 4:</p>
 <blockquote>
 <p>arr[(arr[:,1]&gt;2) &amp; (arr[:, 1]&lt;4),]</p>
@@ -256,11 +256,17 @@
 <blockquote>
 <p>arr.flatten()</p>
 </blockquote>
-<p>Feedback:</p>
+<p>or:</p>
+<blockquote>
+<p>arr.ravel()</p>
+</blockquote>
+<p>Feedback the same as below:</p>
 <blockquote>
 <p>array([0, 1, 2, 3, 4, 5])</p>
 </blockquote>
-<p><code>.flatten()</code> function takes us a one-dimension array.</p>
+<p><code>.flatten()</code>  and <code>.ravel()</code> functions take us the same one-dimension array.</p>
+<p>Notice: ravel usually returns a view into the existing array (sometimes it returns a copy). Flatten returns a new array.</p>
+<p>Have a good time, and see you next article.</p>
 </div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">

@@ -4,12 +4,12 @@
         <link>https://doraemonj.github.io/tags/numpy/</link>
         <description>Numpy - Tag - DoraemonJ’s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 22 May 2022 13:44:34 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/tags/numpy/" rel="self" type="application/rss+xml" /><item>
-    <title>How to Index and Transform in Numpy Arrays?</title>
+    <title>How to Select and Transform Numpy Arrays?</title>
     <link>https://doraemonj.github.io/a_python_003/</link>
     <pubDate>Sun, 22 May 2022 13:44:34 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://doraemonj.github.io/a_python_003/</guid>
-    <description><![CDATA[Index and transform of arrays]]></description>
+    <description><![CDATA[10 ways to operate Numpy array]]></description>
 </item><item>
     <title>How to Prepare Data with Numpy in Python</title>
     <link>https://doraemonj.github.io/a_python_002/</link>

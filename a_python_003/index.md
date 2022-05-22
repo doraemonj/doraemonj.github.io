@@ -1,4 +1,4 @@
-# How to Index and Transform in Numpy Arrays?
+# How to Select and Transform Numpy Arrays?
 
 
 In [previous post](https://doraemonj.github.io/a_python_002/), we learnt how to create arrays with numpy. Today we're going to talk about how to index and transform numpy arrays.
@@ -15,7 +15,7 @@ Feedback:
 
 >   array([[0, 1],<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [2, 3],<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [4, 5]])
 
-### How to index or select elements in array?
+### How to select elements in array?
 
 #### Select a column
 
@@ -64,7 +64,7 @@ Feedback:
 
 >   3
 
-#### Single condition
+#### Select in single condition
 
 Select a row in which the rightmost elment is greater than 2:
 
@@ -75,7 +75,7 @@ Feedback:
 >   array([[2, 3],<br />
 >   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; [4, 5]])
 
-#### Multiple conditions
+#### Select in multiple conditions
 
 Select a row that meets both conditions, which are the rightmost elment is greater than 2 and the rightmost elment is less than 4:
 
@@ -122,15 +122,19 @@ or
 
 >   arr.flatten()
 
-Feedback:
+or:
+
+>   arr.ravel()
+
+Feedback the same as below:
 
 >   array([0, 1, 2, 3, 4, 5])
 
-`.flatten()` function takes us a one-dimension array.
+`.flatten()`  and `.ravel()` functions take us the same one-dimension array. 
 
+Notice: ravel usually returns a view into the existing array (sometimes it returns a copy). Flatten returns a new array. 
 
-
-
+Have a good time, and see you next article.
 
 
 
