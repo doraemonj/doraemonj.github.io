@@ -1,6 +1,8 @@
 # Naval：挣钱不能靠卖时间，而要靠思维杠杆
 
 
+![](https://doraemonj.github.io/pics/create_your_brand.jpeg)
+
 今天继续读[The Almanack of Naval Ravikant](https://doraemonj.github.io/docs/b15_the_almanack_of_naval_ravikant_final/The-Almanack-of-Naval-Ravikant_Final.pdf)第三部分Take on accountability。要学会Sell and Build：
 
 >   You'd be the last one to get paid for your time. The time that you put in, the capital you put into the company, these are at risk.
