@@ -1,4 +1,4 @@
-# Liberty Arts Academy for Amy and Alice
+# 通识教育仓库
 
 
 >   2022年05月23日开始，我给我们家的Amy和Alice准备一个长期、甚至是超长期的专栏，涵盖思想、历史、人文、逻辑、艺术等，基本脉络是沿着Liberty Arts（通识教育、博雅教育、自由技艺）的方向走。以后的文章、视频、感悟、争论……都叠在这个文档里。
@@ -171,53 +171,9 @@ Naval Ravikant Reacts to the Current Education System
 
 ---
 
-#### 罗永浩上课录音：2006
+#### 罗永浩2006年寒假版上课录音
 
 {{< youtube  LhnqyN5Pey4>}}
-
-2006 寒假班list：
-
-01.开场白<br />
-02.诗 01:41<br />
-03.兽化 03:01<br />
-04.笨 04:59<br />
-05.恐惧攻击 06:40<br />
-06.十八个月 09:31<br />
-07.出头鸟 17:25<br />
-08.核武器 19:02<br />
-09.盗版 21:24<br />
-10.宽容 24:41<br />
-11.分裂 26:19<br />
-12.错觉 27:09<br />
-13.心理素质 28:20<br />
-14.托马斯佩恩 30:53<br />
-15.骗子 43:01<br />
-16.中性词 46:45<br />
-17.非暴力示威 48:13<br />
-18.素食 50:23<br />
-19.童心 51:58<br />
-20.日本 54:48<br />
-21.男女平等 01:03:46<br />
-22.信仰 01:17:32<br />
-23.福娃 01:26:08<br />
-24.计划生育 01:30:02<br />
-25.内功 01:32:18<br />
-26.文学 01:35:54<br />
-27.迷恋 01:42:17<br />
-28.打官司 01:43:53<br />
-29.wonder 01:53:28<br />
-30.不限速 01:55:33<br />
-31.原则 01:58:13<br />
-32.乌龟 02:03:57<br />
-33.记忆法 02:08:10<br />
-34.脏话 02:10:47<br />
-35.三年灾害 02:15:58<br />
-36.原罪 02:22:28<br />
-37.发脾气 02:25:44<br />
-38.海洋公有 02:26:37<br />
-39.生理反应 02:32:28<br />
-40.关于民主泛滥 02:36:10<br />
-41.卢梭是干嘛的 02:41:58<br />
 
 老罗荐书：
 
@@ -225,17 +181,19 @@ Naval Ravikant Reacts to the Current Education System
 
 Ethnic America: A History
 
-引爆点
+**引爆点：小东西如何造成大不同？**
 
 The Tipping Point: How Little Things Can Make a Big Difference
 
-异类:不一样的成功启示录(新版) (格拉德威尔系列) Kindle电子书
+**异类：不一样的成功启示录**
 
 Outliers: The Story of Success
 
-无价：洞悉大众心理玩转价格游戏
+**无价：洞悉大众心理玩转价格游戏**
 
 Priceless: The Myth of Fair Value (and How to Take Advantage of It)
+
+---
 
 罗永浩：吉林大学演讲（大约2009年）
 
@@ -256,6 +214,10 @@ Priceless: The Myth of Fair Value (and How to Take Advantage of It)
 {{< youtube  gk4uO6VauJo>}}
 
 ---
+
+
+
+### 后续待学习人物清单
 
 陈志武
 
