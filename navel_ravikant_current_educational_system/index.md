@@ -1,4 +1,4 @@
-# Naval Ravikants: Current educational system is completely obsolete
+# Naval Ravikants: Current Educational System is Completely Obsolete
 
 
 This article is from a YouTube interview to Naval Ravicant.
@@ -80,3 +80,5 @@ Maybe we should teach practical of construction of technology. Maybe everyone in
 So, we just haven't kept up and I have to believe that we can change the system, but we're not, but you never change the system by taking the existing thing and reworking it. 
 
 I don't believe I've been in silicon valley in tech business long enough to know that you're better of changing it just by creating something brand new.
+
+
