@@ -45,6 +45,12 @@
 
 ![screenshot_20220524_124417](https://doraemonj.github.io/pics/screenshot_20220524_124417.png)
 
+<font color='red'>以后苹果电脑上工作要分三页，对应每天要做的三项功课：</font>
+
+1）日记；2）通识课；3）代码课
+
+否则影响工作效率，不专注。
+
 
 
 ### 今日待完成事项

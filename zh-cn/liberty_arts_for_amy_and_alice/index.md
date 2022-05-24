@@ -215,7 +215,19 @@ Priceless: The Myth of Fair Value (and How to Take Advantage of It)
 
 ---
 
+#### 柯文哲（从医生到台北市長）：从科学看人类行为
 
+逻辑运算、真假值表、机率、贝叶斯定理、量子力学
+
+{{< youtube  UDAc5M4nTk8>}}
+
+---
+
+#### 贝佐斯：1999年
+
+Jeff Bezos In 1999 On Amazon's Plans Before The Dotcom Crash
+
+{{< youtube  GltlJO56S1g>}}
 
 ### 后续待学习人物清单
 
@@ -250,6 +262,8 @@ Priceless: The Myth of Fair Value (and How to Take Advantage of It)
 
 
 Linus
+
+贝佐斯
 
 村上春树
 

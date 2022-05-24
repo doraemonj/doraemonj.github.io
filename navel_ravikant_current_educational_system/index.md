@@ -11,7 +11,7 @@ Naval Ravikant: I think there's no question.
 
 #### It's completely obsolete.
 
-Education system is a path-dependent outcome from the need for daycare, from the need for prisons, for college ange males who would otherwise overrun society, and cause a lot of havoc.
+Education system is a path-dependent outcome from the need for daycare, from the need for prisons, for college aged males who would otherwise overrun society, and cause a lot of havoc.
 
 The original medieval universities had guard towers that face inwards. 
 
