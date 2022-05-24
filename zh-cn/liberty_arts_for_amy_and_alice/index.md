@@ -73,3 +73,25 @@ YouTube评论摘选
 
 >   华人三国中，就中国最惨了😭
 
+
+
+
+
+#### The Full Story of Naval Ravikant | The Angel Philosopher
+
+
+
+{{< youtube  mGY2To_HW98>}}
+
+
+
+
+
+
+
+#### Naval Ravikant Reacts to the Current Education System
+
+支持中文字幕
+
+{{< youtube  _YltxkgTyvE>}}
+
