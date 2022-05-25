@@ -374,7 +374,15 @@ add：Canton-sardine / 268 Keefer St，#071 at LG level，Vancouver
 
 ---
 
+#### 陷阱
+
+{{< youtube  a8olcxpY6Xw>}}
+
+---
+
 #### 伯罗奔尼撒战争
+
+{{< youtube  wIBSJvfeipA>}}
 
 ---
 
@@ -384,9 +392,19 @@ add：Canton-sardine / 268 Keefer St，#071 at LG level，Vancouver
 
 #### 斯巴达
 
+{{< youtube  0nLwUhr9kWs>}}
+
 ---
 
 #### 希罗多德
+
+---
+
+#### 平地惊雷：笛卡尔如何用纯思维演绎恢宏世界？
+
+思想史万有引力
+
+{{< youtube  3yyFIbzjoRQ>}}
 
 ---
 
@@ -418,7 +436,7 @@ add：Canton-sardine / 268 Keefer St，#071 at LG level，Vancouver
 
 ---
 
-陈丹青：新加坡演讲
+陈丹青：新加坡演讲b
 
 {{< youtube  zH0uDuZniCc>}}
 
