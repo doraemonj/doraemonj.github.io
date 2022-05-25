@@ -7,7 +7,11 @@
 
 >   Reading science, math, and philosophy one hour per day will likely put you at the upper echelon of human success within seven years.
 
+>   Read what you love until you love to read.
 
+>   Reading a book isn't a race -- the better the book, the more slowly it should be absorbed.
+
+>
 
 <font color='red'>以后苹果电脑上工作要分三页，对应每天要做的三项功课：</font>
 
