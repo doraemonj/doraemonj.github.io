@@ -93,9 +93,6 @@ BTC, ETH, LTC, EOS： DOT, XIN, MOB, BOX 和 DOGE：
     -   [ ] 自动翻译项目
 -   [ ] blog网页项目
 -   [ ] 后续把翻译项目写进Python系列
-
--   [ ] 
 -   [ ] 每周两篇思想史文章翻译（双语上传）
-
 -   [ ] 更新手机Mixin Messager（暂无法更新，可能需要香港帐号，待议）
 

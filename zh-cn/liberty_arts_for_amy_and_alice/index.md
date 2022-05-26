@@ -83,11 +83,23 @@ YouTube评论摘选
 
 ### 2022-05-26
 
-### 加拿大 移民 | 大学老师移民做焊工
+#### 思想史：达芬奇（上）：拖稿狂魔是如何练成的？
 
-公交车上一件小事，让他彻底下定移民决心
+{{< youtube  6asLUtlk4Oo>}}
 
-{{< youtube  Nf8v2WSJMzQ>}}
+#### 思想史：达芬奇（下）：从神曲到人曲的赞歌
+
+{{< youtube  03H9LTJpa6I>}}
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -118,6 +130,14 @@ The Full Story of Naval Ravikant | The Angel Philosopher
 Naval Ravikant Reacts to the Current Education System
 
 {{< youtube  _YltxkgTyvE>}}
+
+---
+
+#### 加拿大 移民 | 大学老师移民做焊工
+
+公交车上一件小事，让他彻底下定移民决心
+
+{{< youtube  Nf8v2WSJMzQ>}}
 
 ---
 
