@@ -1,11 +1,11 @@
 # Mary Celestia, Constellation, Montana
 
 
-Discovery Channel: 
+**Discovery Channel**
 
-Full Episodes: The Truth about the Bermuda Triangle
+**Full Episodes: The Truth about the Bermuda Triangle**
 
-<img src="https://www.thebermudian.com/wp-content/uploads/2019/08/1067_001.jpg" alt="1067_001" style="zoom:50%;" />
+![](https://www.thebermudian.com/wp-content/uploads/2019/08/1067_001.jpg)
 
 First, the Mary Celestia an iron-hulled steamship was carrying supplies in the American Civil War.
 
