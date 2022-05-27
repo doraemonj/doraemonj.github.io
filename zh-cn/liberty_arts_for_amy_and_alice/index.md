@@ -378,6 +378,8 @@ add：Canton-sardine / 268 Keefer St，#071 at LG level，Vancouver
 
 #### 文艺复兴
 
+{{< youtube v9Fsgr2dgDU>}}
+
 ---
 
 #### 大航海时代
@@ -408,9 +410,15 @@ add：Canton-sardine / 268 Keefer St，#071 at LG level，Vancouver
 
 ---
 
-#### 陷阱
+#### 修昔底德陷阱
+
+大国角斗，从修昔底德陷阱开始
 
 {{< youtube  a8olcxpY6Xw>}}
+
+马斯克谈中国
+
+{{< youtube OmVZmOhrb28>}}
 
 ---
 
@@ -462,7 +470,17 @@ add：Canton-sardine / 268 Keefer St，#071 at LG level，Vancouver
 
 ---
 
+#### 集装箱为什么不倒？
 
+{{< youtube 3dZmTSSOMEs>}}
+
+---
+
+#### 雅思口语9分
+
+IELTS Speaking test band score of 9 with feedback
+
+{{< youtube u9cggZHjwS4>}}
 
 
 
