@@ -3,9 +3,16 @@
         <title>DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/zh-cn/</link>
         <description>DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 27 May 2022 12:14:26 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 27 May 2022 22:06:26 &#43;0800</lastBuildDate>
             <atom:link href="https://doraemonj.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Easy choice, hard life. Hard choice, easy life.</title>
+    <link>https://doraemonj.github.io/zh-cn/dairy_016/</link>
+    <pubDate>Fri, 27 May 2022 22:06:26 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/zh-cn/dairy_016/</guid>
+    <description><![CDATA[日记016]]></description>
+</item><item>
     <title>通识地图002：西方思想史的东方引路人</title>
     <link>https://doraemonj.github.io/zh-cn/liberty_arts_capsule_002/</link>
     <pubDate>Fri, 27 May 2022 12:14:26 &#43;0800</pubDate>
@@ -70,12 +77,5 @@
     <author>作者</author>
     <guid>https://doraemonj.github.io/zh-cn/liberty_arts_capsule_001/</guid>
     <description><![CDATA[A Repository Accumulates Here: For Amy and Alice]]></description>
-</item><item>
-    <title>每天事项清单</title>
-    <link>https://doraemonj.github.io/zh-cn/dairy_009/</link>
-    <pubDate>Fri, 20 May 2022 11:22:26 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/zh-cn/dairy_009/</guid>
-    <description><![CDATA[日记009]]></description>
 </item></channel>
 </rss>
