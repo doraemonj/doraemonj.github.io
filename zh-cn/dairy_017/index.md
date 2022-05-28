@@ -37,7 +37,7 @@ P169提到Wim Hof 和 Tim Ferriss 两个大神合体，讲述了如何克服体�
 
 那么我也很好奇、很跟风，准备有时间看一遍，如果你先看了，可以在这里留言给我，谢谢。往下拉，这里的确可以留言的，如果你没看到留言板，那可能需要多一点科学。
 
-继续看书，讲四种冥想方法：
+继续看书，谈到几种冥想方法：
 
 >   1.   Nonjudgmental Awareness: accept the moment you're in without making judgments.
 
@@ -46,8 +46,6 @@ P169提到Wim Hof 和 Tim Ferriss 两个大神合体，讲述了如何克服体�
 >   Life-hack: When in bed, meditate. Either you will have a deep meditation or fall asleep. Victory either way.
 
 >   3.   Close your eyes one hour a day.
-
->   4.   
 
 
 
@@ -58,6 +56,7 @@ P169提到Wim Hof 和 Tim Ferriss 两个大神合体，讲述了如何克服体�
 -   [ ] Python代码上传Github，写README.md文件，案例双语展示
 
     -   [ ] 自动翻译项目
+-   [ ] 转型至Go语言写翻译代码
 -   [ ] blog网页项目
 -   [ ] 后续把翻译项目写进Python系列
 -   [ ] 每周两篇思想史文章翻译（双语上传）
