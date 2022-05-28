@@ -23,12 +23,6 @@
 
 ---
 
-#### 思想史：普罗米修斯的故事 | 关于文明的关键隐喻
-
-{{< youtube 65o8ic2qnlk>}}
-
----
-
 ### 2022-05-28
 
 ---
@@ -52,6 +46,16 @@ MAGIC KIDS! | Britain's Got Talent
 #### 罗翔：细思极恐的《西游记》，唐僧身世之迷
 
 {{< youtube  LgkM6mGgNyM>}}
+
+---
+
+### 2022-05-29
+
+---
+
+#### 思想史：普罗米修斯的故事 | 关于文明的关键隐喻
+
+{{< youtube 65o8ic2qnlk>}}
 
 ---
 
@@ -79,7 +83,7 @@ MAGIC KIDS! | Britain's Got Talent
 
 ---
 
-### 2022-05-29
+### 2022-05-30
 
 ---
 
@@ -97,19 +101,7 @@ MAGIC KIDS! | Britain's Got Talent
 
 ---
 
-
-
----
-
-
-
-
-
 ### 待学习材料
-
----
-
-
 
 ---
 
@@ -184,10 +176,6 @@ Naval Ravikant Reacts to the Current Education System
 **10：平等 (3:24:45)**
 
 **11：多元主义 (3:47:39)**
-
----
-
-
 
 ---
 
