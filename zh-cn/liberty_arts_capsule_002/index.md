@@ -87,7 +87,20 @@
 
 ### 待学习材料
 
+---
 
+#### 视觉：关于对称性的令人震惊的解释
+
+Big Think：A mind-blowing explanation of symmetry
+
+{{< youtube sMg4XJG2XyY>}}
+
+---
+#### 儿童魔术表演
+
+MAGIC KIDS! | Britain's Got Talent
+
+{{< youtube sduW4eOc1A8>}}
 
 ---
 
@@ -115,7 +128,9 @@ Naval Ravikant Reacts to the Current Education System
 
 ---
 
+#### 记录片：富人孩子在拼命学习，穷人孩子却在混日子
 
+{{< youtube zT-X-R-6RBs>}}
 
 ---
 
