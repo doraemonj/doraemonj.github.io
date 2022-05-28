@@ -2,6 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://doraemonj.github.io/zh-cn/about/</loc><lastmod>2022-05-29T01:05:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://doraemonj.github.io/about/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://doraemonj.github.io/zh-cn/about/"
+                    /></url><url>
             <loc>https://doraemonj.github.io/zh-cn/categories/</loc><lastmod>2022-05-28T20:28:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -108,13 +117,4 @@
             <loc>https://doraemonj.github.io/zh-cn/tags/github-pages/</loc><lastmod>2022-03-14T16:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://doraemonj.github.io/zh-cn/create_github_pages/</loc><lastmod>2022-03-14T16:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://doraemonj.github.io/zh-cn/tags/github-account/</loc><lastmod>2022-03-13T16:14:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://doraemonj.github.io/zh-cn/create_github_account/</loc><lastmod>2022-03-13T16:14:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://doraemonj.github.io/zh-cn/about/</loc><lastmod>2022-03-07T12:28:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://doraemonj.github.io/about/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://doraemonj.github.io/zh-cn/about/"
-                    /></url></urlset>
+            <loc>https://doraemonj.github.io/zh-cn/create_github_account/</loc><lastmod>2022-03-13T16:14:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
