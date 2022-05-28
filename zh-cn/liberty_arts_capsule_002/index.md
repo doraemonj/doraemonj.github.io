@@ -33,6 +33,28 @@
 
 ---
 
+#### 视觉：关于对称性的令人震惊的解释
+
+Big Think：A mind-blowing explanation of symmetry
+
+{{< youtube sMg4XJG2XyY>}}
+
+---
+
+#### 儿童魔术表演
+
+MAGIC KIDS! | Britain's Got Talent
+
+{{< youtube sduW4eOc1A8>}}
+
+---
+
+#### 罗翔：细思极恐的《西游记》，唐僧身世之迷
+
+{{< youtube  LgkM6mGgNyM>}}
+
+---
+
 #### 什么是Liberty Arts？
 
 {{< youtube DyjZ1hZLf4Y>}}
@@ -75,9 +97,7 @@
 
 ---
 
-#### 罗翔：细思极恐的《西游记》，唐僧身世之迷
 
-{{< youtube  LgkM6mGgNyM>}}
 
 ---
 
@@ -89,18 +109,7 @@
 
 ---
 
-#### 视觉：关于对称性的令人震惊的解释
 
-Big Think：A mind-blowing explanation of symmetry
-
-{{< youtube sMg4XJG2XyY>}}
-
----
-#### 儿童魔术表演
-
-MAGIC KIDS! | Britain's Got Talent
-
-{{< youtube sduW4eOc1A8>}}
 
 ---
 
@@ -554,6 +563,10 @@ IELTS Speaking test band score of 9 with feedback
 余华
 
 严复
+
+易中天
+
+
 
 
 
