@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <title>Mixin生态里如何卖空？ - DoraemonJ’s Blog</title><meta name="Description" content="DoraemonJ’s Blog"><meta property="og:title" content="Mixin生态里如何卖空？" />
+<meta property="og:description" content="浅尝辄止，谨慎为妙" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://doraemonj.github.io/zh-cn/how_to_short_sell_in_mixin/" /><meta property="og:image" content="https://doraemonj.github.io/logo.png"/><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-05-27T17:48:26+08:00" />
+<meta property="article:modified_time" content="2022-05-27T17:48:26+08:00" /><meta property="og:site_name" content="DoraemonJ’s Blog" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://doraemonj.github.io/logo.png"/>
+
+<meta name="twitter:title" content="Mixin生态里如何卖空？"/>
+<meta name="twitter:description" content="浅尝辄止，谨慎为妙"/>
+<meta name="application-name" content="DoraemonJ’s Blog">
+<meta name="apple-mobile-web-app-title" content="DoraemonJ’s Blog"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://doraemonj.github.io/zh-cn/how_to_short_sell_in_mixin/" /><link rel="prev" href="https://doraemonj.github.io/zh-cn/liberty_arts_capsule_002/" /><link rel="next" href="https://doraemonj.github.io/zh-cn/dairy_016/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Mixin生态里如何卖空？",
+        "inLanguage": "zh-CN",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/doraemonj.github.io\/zh-cn\/how_to_short_sell_in_mixin\/"
+        },"genre": "posts","keywords": "Mixin","wordcount":  2288 ,
+        "url": "https:\/\/doraemonj.github.io\/zh-cn\/how_to_short_sell_in_mixin\/","datePublished": "2022-05-27T17:48:26+08:00","dateModified": "2022-05-27T17:48:26+08:00","publisher": {
+            "@type": "Organization",
+            "name": ""},"author": {
+                "@type": "Person",
+                "name": "DoraemonJ"
+            },"description": ""
+    }
+    </script></head>
+    <body header-desktop="fixed" header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/zh-cn/" title="DoraemonJ’s Blog">DoraemonJ’s Blog</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/zh-cn/posts/"> 文章 </a><a class="menu-item" href="/zh-cn/tags/"> 标签 </a><a class="menu-item" href="/zh-cn/categories/"> 分类 </a><a class="menu-item" href="/zh-cn/about/"> 关于 </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item language" title="选择语言">简体中文<i class="fas fa-chevron-right fa-fw"></i>
+                        <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/zh-cn/how_to_short_sell_in_mixin/" selected>简体中文</option></select>
+                    </a><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="中文搜索特别快" id="search-input-desktop">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="搜索">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="清空">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-desktop">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+                    <i class="fas fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/zh-cn/" title="DoraemonJ’s Blog">DoraemonJ’s Blog</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><div class="search-wrapper">
+                    <div class="search mobile" id="search-mobile">
+                        <input type="text" placeholder="中文搜索特别快" id="search-input-mobile">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="搜索">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="清空">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-mobile">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </div>
+                    <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+                        取消
+                    </a>
+                </div><a class="menu-item" href="/zh-cn/posts/" title="">文章</a><a class="menu-item" href="/zh-cn/tags/" title="">标签</a><a class="menu-item" href="/zh-cn/categories/" title="">分类</a><a class="menu-item" href="/zh-cn/about/" title="">关于</a><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a><a href="javascript:void(0);" class="menu-item" title="选择语言">简体中文<i class="fas fa-chevron-right fa-fw"></i>
+                    <select class="language-select" onchange="location = this.value;"><option value="/zh-cn/how_to_short_sell_in_mixin/" selected>简体中文</option></select>
+                </a></div>
+    </div>
+</header>
+<div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+</div>
+<main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">目录</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animated flipInX">Mixin生态里如何卖空？</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="/zh-cn/" title="Author" rel=" author" class="author"><i class="fa"></i>DoraemonJ</a>
+</span>&nbsp;<span class="post-category">类别 <a href="/zh-cn/categories/mixin%E7%94%9F%E6%80%81%E8%A7%82%E5%AF%9F/"><i class="far fa-folder fa-fw"></i>Mixin生态观察</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2022-05-27">2022-05-27</time>&nbsp;</div>
+        </div><div class="details toc" id="toc-static"  kept="">
+                <div class="details-summary toc-title">
+                    <span>目录</span>
+                    <span><i class="details-icon fas fa-angle-right"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#第一步领取pando-seed">第一步：领取Pando Seed</a></li>
+        <li><a href="#第二步获得pusd">第二步：获得pUSD</a>
+          <ul>
+            <li><a href="#1直接交易">1）直接交易</a></li>
+            <li><a href="#2获取pusd">2）获取pUSD</a></li>
+          </ul>
+        </li>
+        <li><a href="#3获取待卖空的目标币">3、获取待卖空的目标币</a></li>
+        <li><a href="#4卖出借贷货币">4、：卖出借贷货币</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><p>我们常说：牛短熊长。放眼看长周期：90%的时间里价格低于历史高点，甚至价格低于大多数资金的成本线是更普遍的情况。</p>
+<p>所以除了『持有』之外，多年来，交易者们渴望出现新的生存工具，『卖空』应运而生。</p>
+<p>预期价格上涨，李佳琪告诉我们：买它。预期价格下跌，卖空告诉我们：卖它，下跌后，用更便宜的价格把这些币买回来，一卖一买之间的差价就是你的利润额。</p>
+<p>没有错，即使你没有这种币，你依然可以卖它，这就是『卖空』。</p>
+<p>当然，如果看错了方向，币价上涨，那这价差会是负数，也就是你的损失额。</p>
+<p>今天我们不谈风险，只谈工具：Mixin生态里，如何卖空你所没有的币？</p>
+<h3 id="第一步领取pando-seed">第一步：领取Pando Seed</h3>
+<p>关注Pando Seed机器人（7000104113）</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/IMG_4810.PNG"
+        data-srcset="https://doraemonj.github.io/pics/IMG_4810.PNG, https://doraemonj.github.io/pics/IMG_4810.PNG 1.5x, https://doraemonj.github.io/pics/IMG_4810.PNG 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/IMG_4810.PNG"
+        title="https://doraemonj.github.io/pics/IMG_4810.PNG" /></p>
+<p>点击<code>获取Pando Seed</code>按钮，另取种子（seed），每天可领三次，每次1.024个，目前看领一次就足够了，因为每次交易只消耗0.00000001个种子（Pando Seed）。</p>
+<p>如果没领种子，后续操作会一分钱难倒英雄汉。</p>
+<h3 id="第二步获得pusd">第二步：获得pUSD</h3>
+<p>如果你已经有pUSD就直接跳往第三步。pUSD是Mixin生态稳定币，可以通过两个方法获取：</p>
+<h4 id="1直接交易">1）直接交易</h4>
+<p>关注4swap机器人（7000103537）</p>
+<p>点击主页下方<code>流动池</code>，搜索『pUSD』，搜索交易对：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/IMG_4811.PNG"
+        data-srcset="https://doraemonj.github.io/pics/IMG_4811.PNG, https://doraemonj.github.io/pics/IMG_4811.PNG 1.5x, https://doraemonj.github.io/pics/IMG_4811.PNG 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/IMG_4811.PNG"
+        title="https://doraemonj.github.io/pics/IMG_4811.PNG" /></p>
+<p>如果这个交易对里有你所持有的币，比如sBTC-pUSD，那么，你可以用你持有的币（比如BTC）换到pUSD：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/IMG_4812.PNG"
+        data-srcset="https://doraemonj.github.io/pics/IMG_4812.PNG, https://doraemonj.github.io/pics/IMG_4812.PNG 1.5x, https://doraemonj.github.io/pics/IMG_4812.PNG 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/IMG_4812.PNG"
+        title="https://doraemonj.github.io/pics/IMG_4812.PNG" /></p>
+<p>这样的好处是，你可以获取不会孳生利息的pUSD；坏处是，如果你原来持有的币价格上涨，那么本该有的浮盈你就看不见了。</p>
+<p>如果你不想承担上述坏处，那么你需要放弃上述好处。也就是支付一些pUSD的利息，同时，你需要抵押你手中的币。</p>
+<p>我们来看方法二：</p>
+<h4 id="2获取pusd">2）获取pUSD</h4>
+<p>关注Pando Leaf机器人（7000103924）</p>
+<p>添加金库，『金库』的意思是相当于把抵押物放进保险箱。</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/IMG_4813.jpg"
+        data-srcset="https://doraemonj.github.io/pics/IMG_4813.jpg, https://doraemonj.github.io/pics/IMG_4813.jpg 1.5x, https://doraemonj.github.io/pics/IMG_4813.jpg 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/IMG_4813.jpg"
+        title="https://doraemonj.github.io/pics/IMG_4813.jpg" /></p>
+<p>我抵押0.05个BTC，生成100个pUSD：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/IMG_4814.PNG"
+        data-srcset="https://doraemonj.github.io/pics/IMG_4814.PNG, https://doraemonj.github.io/pics/IMG_4814.PNG 1.5x, https://doraemonj.github.io/pics/IMG_4814.PNG 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/IMG_4814.PNG"
+        title="https://doraemonj.github.io/pics/IMG_4814.PNG" /></p>
+<p>点击屏幕下方<code>存入资产以生成</code>：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/IMG_4815.PNG"
+        data-srcset="https://doraemonj.github.io/pics/IMG_4815.PNG, https://doraemonj.github.io/pics/IMG_4815.PNG 1.5x, https://doraemonj.github.io/pics/IMG_4815.PNG 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/IMG_4815.PNG"
+        title="https://doraemonj.github.io/pics/IMG_4815.PNG" /></p>
+<p>按照系统设定年化4.5%的利率，这100个pUSD是每分钟都需要支付0.00000856pUSD的利息，这利息怎么算？</p>
+<p>年利率4.5%，每年支付利息4.5个pUSD，那换算成每天的利息是4.5pUSD ÷ 365天 = 0.01232877pUSD</p>
+<p>每天1440分钟，那么每分钟利息：0.01232877pUSD ÷ 1440分钟/天 = 0.00000856pUSD。</p>
+<p>看起来很小，但是资金量一大、时间一长，就很吓人。比如100万美元用满一年，那么一年后的利息并不是单纯的4.5万美元，而会比4.5万美元大，因为它并不是每年计息，而每分钟都在利滚利。</p>
+<p><strong>注意，这里稳定币需要使用pUSD，而不是USDT，因为后者无法进一步抵押。</strong></p>
+<h3 id="3获取待卖空的目标币">3、获取待卖空的目标币</h3>
+<p>关注Pando Rings（7000104159）：抵押pUSD，获取待卖空的币。</p>
+<p>今天UNI下跌8.48%，我认为它跌得不错，还会再跌，于是卖空1个试试：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/IMG_4816.PNG"
+        data-srcset="https://doraemonj.github.io/pics/IMG_4816.PNG, https://doraemonj.github.io/pics/IMG_4816.PNG 1.5x, https://doraemonj.github.io/pics/IMG_4816.PNG 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/IMG_4816.PNG"
+        title="https://doraemonj.github.io/pics/IMG_4816.PNG" /></p>
+<p>卖空，在Pando Rings里完成三步：</p>
+<p>1）存入pUSD：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/IMG_4817.PNG"
+        data-srcset="https://doraemonj.github.io/pics/IMG_4817.PNG, https://doraemonj.github.io/pics/IMG_4817.PNG 1.5x, https://doraemonj.github.io/pics/IMG_4817.PNG 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/IMG_4817.PNG"
+        title="https://doraemonj.github.io/pics/IMG_4817.PNG" /></p>
+<p>选择『供应并质押所有』选项：</p>
+<p><img src="https://doraemonj.github.io/pics/IMG_4818.PNG"  /></p>
+<p>点击屏幕下方『确认』后，系统处理有点慢，请耐心等待：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/IMG_4819.PNG"
+        data-srcset="https://doraemonj.github.io/pics/IMG_4819.PNG, https://doraemonj.github.io/pics/IMG_4819.PNG 1.5x, https://doraemonj.github.io/pics/IMG_4819.PNG 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/IMG_4819.PNG"
+        title="https://doraemonj.github.io/pics/IMG_4819.PNG" /></p>
+<p>2）办理抵押手续：</p>
+<p>抵押率越低越安全</p>
+<p>3）借出UNI</p>
+<h3 id="4卖出借贷货币">4、：卖出借贷货币</h3>
+<p>在4swap上把那个UNI换成pUSD，或者USDT等其他你想持有的币种。</p>
+<p>在4.84美元的位置卖了1个UNI：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/IMG_4820.PNG"
+        data-srcset="https://doraemonj.github.io/pics/IMG_4820.PNG, https://doraemonj.github.io/pics/IMG_4820.PNG 1.5x, https://doraemonj.github.io/pics/IMG_4820.PNG 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/IMG_4820.PNG"
+        title="https://doraemonj.github.io/pics/IMG_4820.PNG" /></p>
+<p>点击『交易』按钮，完成交易，收到机器人提示：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/IMG_4822.jpg"
+        data-srcset="https://doraemonj.github.io/pics/IMG_4822.jpg, https://doraemonj.github.io/pics/IMG_4822.jpg 1.5x, https://doraemonj.github.io/pics/IMG_4822.jpg 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/IMG_4822.jpg"
+        title="https://doraemonj.github.io/pics/IMG_4822.jpg" /></p>
+<p>这个演示过程没有使用杠杆，而是选择了近乎绝对安全的策略：20倍的资产呵护——100美元保护4.84美元的空头头寸。</p>
+<p>但如果哪天UNI涨了21倍，我的这单就被刺穿，因为我要花101.64美元的pUSD把1个UNI买回来换给交易对手，以及支付期间孳生的利息，才能了解这笔交易。交易商不会允许这样的事情发生。</p>
+<p>于是Pando Rings和我事先约定好，当质押率超过75%的时候，他就会在拍卖市场上帮我叫卖我的质押物：100个pUSD，以买回UNI，这就是强行平仓。</p>
+<p>强行平仓意味着资金生命的终结，如果每个美元都是一个士兵，那么强平就是团灭，交易者从策略层面避免被强平。</p>
+<p>理论上，卖空的风险比单纯买入大得多，因为买入最多归零，而卖空可能因为暴涨而刺穿所有风控纺线，甚至牵连交易商。</p>
+<p>如果价格涨得太快，以至于Pando Rings来不及以一定的价格买回UNI，那么多出的损失就要Pando Rings承担，这就是为什么交易商一定会把质押率阈值设定在100%以下，他们赚的每一块钱里，都有引火上身时的救治成本。</p>
+<p>一个健全的市场，需要多空双方共同培植，如果买入者需要风险教育是理所应当，那么卖空者的教育甚至可以认为是需要强制的，因为没有哪个文明会因为个体的长期无畏伤亡而繁荣，区块链金融市场因为它效率更高，杀人更快，所以尤其如此</p>
+<p>作为一个工具，『卖空』的目的是在熊市获利，但获利本身并不是第一目的，第一目的是生存，卖空可能直接无法生存。</p>
+<p>所以，在资本和智慧积累并不是十分雄厚的阶段，还是谨慎为妙，浅尝辄止。</p>
+<p>卖空两小时后，UNI价格从4.84跌到4.77，我买入一个UNI，准备平仓：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/IMG_4823.jpg"
+        data-srcset="https://doraemonj.github.io/pics/IMG_4823.jpg, https://doraemonj.github.io/pics/IMG_4823.jpg 1.5x, https://doraemonj.github.io/pics/IMG_4823.jpg 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/IMG_4823.jpg"
+        title="https://doraemonj.github.io/pics/IMG_4823.jpg" /></p>
+<p>借入的UNI在这两小时里产生了不起眼的利息，所以只买1个UNI是不够平仓的，得继续在4swap上买一丝丝UNI，折合人民币不到1分钱，但必须买，这是对金融游戏时间规则的遵守。</p>
+<p>在Pando Rings完成还款，有些超额支付款项会退回到你帐户：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/IMG_4824.PNG"
+        data-srcset="https://doraemonj.github.io/pics/IMG_4824.PNG, https://doraemonj.github.io/pics/IMG_4824.PNG 1.5x, https://doraemonj.github.io/pics/IMG_4824.PNG 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/IMG_4824.PNG"
+        title="https://doraemonj.github.io/pics/IMG_4824.PNG" /></p>
+<p>所以，一圈忙下来，我赚了0.07723822美元（pUSD）：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/IMG_4825.jpg"
+        data-srcset="https://doraemonj.github.io/pics/IMG_4825.jpg, https://doraemonj.github.io/pics/IMG_4825.jpg 1.5x, https://doraemonj.github.io/pics/IMG_4825.jpg 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/IMG_4825.jpg"
+        title="https://doraemonj.github.io/pics/IMG_4825.jpg" /></p>
+<p>虽然绝对收益只有0.077美元，不过因为其实本金100美元和2小时的用时，所以综合算下年化收益率高达333%，但这依然没什么了不起，因为这利润背后隐藏着穿仓风险。</p>
+<p>正所谓『久走夜路要撞鬼』，对于卖空交易，还是浅尝辄止，谨慎为上，君子不立危墙之下。</p>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>更新于 2022-05-27</span>
+            </div>
+            <div class="post-info-license"></div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md"></div>
+            <div class="post-info-share">
+                <span></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/zh-cn/tags/mixin/">Mixin</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/zh-cn/">主页</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/zh-cn/liberty_arts_capsule_002/" class="prev" rel="prev" title="通识地图002：西方思想史的东方引路人"><i class="fas fa-angle-left fa-fw"></i>通识地图002：西方思想史的东方引路人</a>
+            <a href="/zh-cn/dairy_016/" class="next" rel="next" title="Easy choice, hard life. Hard choice, easy life.">Easy choice, hard life. Hard choice, easy life.<i class="fas fa-angle-right fa-fw"></i></a></div>
+</div>
+<div id="comments"><div id="disqus_thread" class="comment"></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://disqus.com/?ref_noscript">Disqus</a>.
+            </noscript></div></article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="links"><a href="https://github.com/doraemonj" title="GitHub" target="_blank" rel="noopener noreffer me"><i class="fab fa-github-alt fa-fw"></i></a>
+<a href="https://twitter.com/ChrisHowardaka" title="Twitter" target="_blank" rel="noopener noreffer me"><i class="fab fa-twitter fa-fw"></i></a>
+<a href="https://stackoverflow.com/users/19108034" title="Stack Overflow" target="_blank" rel="noopener noreffer me"><i class="fab fa-codepen fa-fw"></i></a>
+<a href="mailto:chrishowardaka@gmail.com" title="Email" rel=" me"><i class="far fa-envelope fa-fw"></i></a>
+</div></div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="回到顶部">
+                <i class="fas fa-arrow-up fa-fw"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="查看评论">
+                <i class="fas fa-comment fa-fw"></i>
+            </a>
+        </div><link rel="stylesheet" href="/lib/katex/katex.min.css"><link rel="stylesheet" href="/lib/katex/copy-tex.min.css"><script type="text/javascript" src="https://doraemonj.disqus.com/embed.js" defer></script><script type="text/javascript" src="/lib/smooth-scroll/smooth-scroll.min.js"></script><script type="text/javascript" src="/lib/autocomplete/autocomplete.min.js"></script><script type="text/javascript" src="/lib/algoliasearch/algoliasearch-lite.umd.min.js"></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lib/sharer/sharer.min.js"></script><script type="text/javascript" src="/lib/katex/katex.min.js"></script><script type="text/javascript" src="/lib/katex/auto-render.min.js"></script><script type="text/javascript" src="/lib/katex/copy-tex.min.js"></script><script type="text/javascript" src="/lib/katex/mhchem.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"复制到剪贴板","maxShownLines":50},"comment":{},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"algoliaAppID":"NXTYKU1SMH","algoliaIndex":"new-index-1647494341","algoliaSearchKey":"d28b83e5fcea4023c2c073c5e9ec3535","highlightTag":"em","maxResultLength":10,"noResultsFound":"没有找到结果","snippetLength":50,"type":"algolia"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>
