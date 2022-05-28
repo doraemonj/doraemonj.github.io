@@ -3,7 +3,7 @@
 
 ### 今日已完成事项
 
--   [x] 一上午，又修缮了几轮简历，更新到[第八版](https://doraemonj.github.io/docs/Resume-2022-05-18.pdf)，更新了内容，检查了语法，增加了照片，以后这里保留[最新版](https://doraemonj.github.io/docs/Resume_latest.pdf)，最后还翻译出了[中文简历](https://doraemonj.github.io/docs/Resume_latest_cn.pdf)。
+-   [x] 一上午，又修缮了几轮简历，更新到[第八版](https://doraemonj.github.io/docs/Resume-2022-05-18.pdf)，更新了内容，检查了语法，增加了照片，以后这里保留[最新版](https://doraemonj.github.io/docs/Resume_latest.pdf)，最后还翻译了中文版。
 
     花了19.99美元在[novoresume.com](https://novoresume.com/)上做份简历真的很值，节省了不少时间。虽然看起来花了不少时间，但注意力都放在内容上，形式上花的时间接近零，因为没怎么操心。
 
