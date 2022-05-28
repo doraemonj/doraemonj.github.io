@@ -3,7 +3,14 @@
         <title>全部文章 - DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/zh-cn/posts/</link>
         <description>全部文章 | DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 28 May 2022 08:48:26 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 28 May 2022 20:28:26 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>一起思想事故是如何发生的？</title>
+    <link>https://doraemonj.github.io/zh-cn/an_idea_accident/</link>
+    <pubDate>Sat, 28 May 2022 20:28:26 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/zh-cn/an_idea_accident/</guid>
+    <description><![CDATA[用思想抵抗那些迷惑我们的思想]]></description>
+</item><item>
     <title>Breath is a gateway into your autonomic nervous system.</title>
     <link>https://doraemonj.github.io/zh-cn/dairy_017/</link>
     <pubDate>Sat, 28 May 2022 08:48:26 &#43;0800</pubDate>
@@ -66,14 +73,5 @@
     <author>作者</author>
     <guid>https://doraemonj.github.io/zh-cn/dairy_010/</guid>
     <description><![CDATA[日记010]]></description>
-</item><item>
-    <title>好玩英语：段子英语教学实验</title>
-    <link>https://doraemonj.github.io/zh-cn/funny_english_001/</link>
-    <pubDate>Fri, 20 May 2022 13:14:23 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/zh-cn/funny_english_001/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/funny-english.png" referrerpolicy="no-referrer">
-            </div>I&rsquo;m not addicted to English]]></description>
 </item></channel>
 </rss>
