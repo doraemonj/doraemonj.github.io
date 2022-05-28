@@ -1,4 +1,4 @@
-# Easy choice, hard life. Hard choice, easy life.
+# Naval：轻松选择，艰难生活；艰难选择，轻松生活
 
 
 ### 今日功课
@@ -7,6 +7,7 @@
 
 >   Easy choice, hard life. Hard choice, easy life.
 >
+>   轻松选择，艰难生活；艰难选择，轻松生活。
 
 写了篇关于在Mixin环境做空的文章，发表在Mixin机器人（7000104144）上，请登录查阅。
 

@@ -1,4 +1,4 @@
-# Breath is a gateway into your autonomic nervous system.
+# Naval：呼吸是进入你的自主神经系统的通道
 
 
 ### 今日功课
@@ -6,6 +6,8 @@
 继续读书，Navel Ravikant的宝典第五部分P168-182，关于Meditation and Mental Strength：
 
 >   Breath is a gateway into your autonomic nervous system.
+>
+>   呼吸是进入你的自主神经系统的通道。
 
 autonomic [ ˌɔːtə'nɒmɪk ] adj.自主的，不受意志支配的
 
