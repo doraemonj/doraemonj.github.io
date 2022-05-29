@@ -3,9 +3,16 @@
         <title>DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/zh-cn/</link>
         <description>DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 28 May 2022 20:28:26 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 29 May 2022 18:31:26 &#43;0800</lastBuildDate>
             <atom:link href="https://doraemonj.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>逻辑谬误列表和翻译史人物清单</title>
+    <link>https://doraemonj.github.io/zh-cn/dairy_018/</link>
+    <pubDate>Sun, 29 May 2022 18:31:26 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/zh-cn/dairy_018/</guid>
+    <description><![CDATA[日记018]]></description>
+</item><item>
     <title>一起思想事故是如何发生的？</title>
     <link>https://doraemonj.github.io/zh-cn/an_idea_accident/</link>
     <pubDate>Sat, 28 May 2022 20:28:26 &#43;0800</pubDate>
@@ -43,12 +50,12 @@
 </item><item>
     <title>研究Pando Rings</title>
     <link>https://doraemonj.github.io/zh-cn/dairy_015/</link>
-    <pubDate>Wed, 25 May 2022 17:45:26 &#43;0800</pubDate>
+    <pubDate>Thu, 26 May 2022 14:41:16 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://doraemonj.github.io/zh-cn/dairy_015/</guid>
     <description><![CDATA[日记015]]></description>
 </item><item>
-    <title>继续读Naval Ravikant宝典</title>
+    <title>苹果电脑工作区分页</title>
     <link>https://doraemonj.github.io/zh-cn/dairy_014/</link>
     <pubDate>Wed, 25 May 2022 17:45:26 &#43;0800</pubDate>
     <author>作者</author>
@@ -68,12 +75,5 @@
     <author>作者</author>
     <guid>https://doraemonj.github.io/zh-cn/dairy_012/</guid>
     <description><![CDATA[日记012]]></description>
-</item><item>
-    <title>Naval：挣钱不能靠卖时间，而要靠思维杠杆</title>
-    <link>https://doraemonj.github.io/zh-cn/dairy_011/</link>
-    <pubDate>Sun, 22 May 2022 21:18:26 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/zh-cn/dairy_011/</guid>
-    <description><![CDATA[日记011]]></description>
 </item></channel>
 </rss>
