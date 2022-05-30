@@ -53,6 +53,10 @@ MAGIC KIDS! | Britain's Got Talent
 
 ---
 
+读书：[逻辑课的消亡](https://doraemonj.github.io/zh-cn/logic_vanished/)
+
+---
+
 #### 思想史：普罗米修斯的故事 | 关于文明的关键隐喻
 
 {{< youtube 65o8ic2qnlk>}}
