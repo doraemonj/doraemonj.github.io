@@ -69,6 +69,10 @@
 
 >   Inspiration is perishable -- act on it immediatelyl.
 
+
+
+### 五本待译书目
+
 在[宝典](https://doraemonj.github.io/docs/b15_the_almanack_of_naval_ravikant_final/The-Almanack-of-Naval-Ravikant_Final.pdf)最后一章中，Naval向我们推荐了几本书，我先找了5本，后期准备翻译：
 
 1.   [The Sovereign Individual: Mastering the Transition to the Information Age](https://doraemonj.github.io/docs/b21_the_sovereign_individual/the_sovereign_Individual.pdf)
