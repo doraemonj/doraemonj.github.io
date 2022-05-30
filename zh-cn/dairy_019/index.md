@@ -1,13 +1,27 @@
-# Naval：最难之事不是去做你想做的事，而是去了解你想做的事
+# Naval：自由是我的核心价值观
 
 
 ### 今日功课
 
-今天继续读Naval Ravikant
+继续读Naval Ravikant
+
+>   Almost everything that people read these days is designed for social approval. I know people who have read one hundred regurgitated books on evolution and they’ve never read Darwin. Think of the number of macroeconomists out there. Most of them have read tons of treatises in economics but haven’t read any Adam Smith.
+>
+>   如今，人们阅读的几乎所有东西，都被设计为社会允许他们阅读的东西。有些人读了一百本关于进化论的反刍书籍，但他们从未读过达尔文。那些宏观经济学家们读过大量的经济学论文，没读过亚当 · 斯密的却大有人在。
+
+>   People who live far below their means enjoy a freedom that people busy upgrading their lifestyles can’t fathom. A taste of freedom can make you unemployable.
+
+>   The hardest thing is not doing what you want -- it's knowing what you want.
+>
+>   最难之事不是去做你想做的事，而是去了解你想做的事。
 
 
 
-上午把昨晚内部分享的 逻辑课的消亡 一文搬到了博客上，值得多年后再读。
+上午把昨晚内部分享的 [逻辑课的消亡](https://doraemonj.github.io/zh-cn/logic_vanished/) 一文搬到了博客上，值得多年后再读。
+
+
+
+
 
 
 ### 后续待完成事项
