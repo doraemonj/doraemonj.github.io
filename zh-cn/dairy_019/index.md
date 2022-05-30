@@ -73,15 +73,15 @@
 
 1.   [The Sovereign Individual: Mastering the Transition to the Information Age](https://doraemonj.github.io/docs/b21_the_sovereign_individual/the_sovereign_Individual.pdf)
 
-James Dale Davidson and Lord William Rees-Mogg
-
 这本传说中的币圈圣经，其实我在去年10月就已经翻译好了，但由于是全自动机译版，从版式到文字，我个人并不满意，所以没有发布，但是由于做成了适合手机阅读的版本，所以让我穿梭在地铁和高铁间时，轻松看完，带给我的大脑震憾比高铁和地铁都大。今天先把[粗错手机中文版](https://doraemonj.github.io/docs/b21_the_sovereign_individual/The_Sovereign_Individua_中文手机阅读版.pdf)挂出来充充数，后期再译。
 
-2.   [The Beginning of Infinity Explanations That Transform the World](https://doraemonj.github.io/docs/b50_the_begging_of_infinity/The Beginning of Infinity Explanations That Transform the World (David Deutsch) (z-lib.org).mobi)
+2.   [The Beginning of Infinity Explanations That Transform the World](https://doraemonj.github.io/docs/b50_the_beginning_of_infinity/the_beginning_of_infinity_explanations_that_transform_the_world.epub)
 
-3.   [The Rational Optimist How Prosperity Evolves](https://doraemonj.github.io/docs/b51_the_rational_optimist_how_prosperity_evolves/The Rational Optimist How Prosperity Evolves (Matt Ridley) (z-lib.org).epub)
-4.   [Six Easy Pieces Essentials of Physics Explained by Its Most Brilliant Teacher](https://doraemonj.github.io/docs/b52_six_easy_pieces_essentials_of_physics_explained_by_its_most_brilliant_teacher/Six Easy Pieces Essentials of Physics Explained by Its Most Brilliant Teacher (Richard P. Feynman, Robert B. Leighton etc.) (z-lib.org).epub)
-5.   [The Lessons of History](https://doraemonj.github.io/docs/b53_the_lessons_of_history/The Lessons of History (Will Durant, Ariel Durant) (z-lib.org).epub)
+3.   [The Rational Optimist How Prosperity Evolves](https://doraemonj.github.io/docs/b51_the_rational_optimist_how_prosperity_evolves/the_rational_optimist_how_prosperity_evolves.epub)
+
+4.   [Six Easy Pieces Essentials of Physics Explained by Its Most Brilliant Teacher](https://doraemonj.github.io/docs/b52_six_easy_pieces_essentials_of_physics_explained_by_its_most_brilliant_teacher/six_easy_pieces_essentials_of_physics_explained_by_its_most_brilliant_teacher.epub)
+
+5.   [The Lessons of History](https://doraemonj.github.io/docs/b53_the_lessons_of_history/the_lessons_of_history.epub)
 
 
 
