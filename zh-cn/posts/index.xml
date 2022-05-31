@@ -3,19 +3,26 @@
         <title>全部文章 - DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/zh-cn/posts/</link>
         <description>全部文章 | DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 01 Jun 2022 06:53:26 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 01 Jun 2022 07:06:03 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>日记021</title>
+    <link>https://doraemonj.github.io/zh-cn/dairy_021/</link>
+    <pubDate>Wed, 01 Jun 2022 07:06:03 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/zh-cn/dairy_021/</guid>
+    <description><![CDATA[日记021]]></description>
+</item><item>
     <title>通识地图003：</title>
     <link>https://doraemonj.github.io/zh-cn/liberty_arts_map_003/</link>
     <pubDate>Wed, 01 Jun 2022 06:53:26 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://doraemonj.github.io/zh-cn/liberty_arts_map_003/</guid>
-    <description><![CDATA[通识地图003：]]></description>
+    <description><![CDATA[让儿童节从探索宇宙开始]]></description>
 </item><item>
     <title>翻译电子书教程01：使用calibre转换格式</title>
-    <link>https://doraemonj.github.io/zh-cn/translation_tutorial/</link>
+    <link>https://doraemonj.github.io/zh-cn/translation_tutorial_01/</link>
     <pubDate>Tue, 31 May 2022 21:45:26 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://doraemonj.github.io/zh-cn/translation_tutorial/</guid>
+    <guid>https://doraemonj.github.io/zh-cn/translation_tutorial_01/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/pics/calibre.png" referrerpolicy="no-referrer">
             </div>calibre是个好东西]]></description>
@@ -72,12 +79,5 @@
     <author>作者</author>
     <guid>https://doraemonj.github.io/zh-cn/an_idea_accident/</guid>
     <description><![CDATA[用思想抵抗那些迷惑我们的思想]]></description>
-</item><item>
-    <title>Naval：呼吸是进入你的自主神经系统的通道</title>
-    <link>https://doraemonj.github.io/zh-cn/dairy_017/</link>
-    <pubDate>Sat, 28 May 2022 08:48:26 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/zh-cn/dairy_017/</guid>
-    <description><![CDATA[日记017]]></description>
 </item></channel>
 </rss>

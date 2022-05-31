@@ -13,9 +13,7 @@
 >
 >   ——[政经孙老师](https://www.youtube.com/post/UgkxDurkAdyYYlhwUJnmlfdjdwl_ZYEijP_b)
 
-
-
-
+在五月还剩半个小时的时候，发布了[翻译项目文章第一篇](https://doraemonj.github.io/zh-cn/translation_tutorial/)。
 
 
 ### 后续待完成事项
