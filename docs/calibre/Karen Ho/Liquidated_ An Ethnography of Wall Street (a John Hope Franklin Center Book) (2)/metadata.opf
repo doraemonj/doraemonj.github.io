@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6600158b-7a67-4d1b-b99f-8753deb4c245</dc:identifier>
+        <dc:title>Liquidated: An Ethnography of Wall Street (a John Hope Franklin Center Book)</dc:title>
+        <dc:creator opf:file-as="Ho, Karen" opf:role="aut">Karen Ho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.35.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-21T16:00:00+00:00</dc:date>
+        <dc:publisher>Duke University Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">0575bfe5-2f65-4c4f-8017-ea052457f57d</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>book</dc:subject>
+        <dc:subject>ebook</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Karen Ho&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-05-31T09:25:23.375001+00:00"/>
+        <meta name="calibre:title_sort" content="Liquidated: An Ethnography of Wall Street (a John Hope Franklin Center Book)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

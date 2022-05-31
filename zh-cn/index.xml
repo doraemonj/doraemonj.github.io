@@ -3,9 +3,25 @@
         <title>DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/zh-cn/</link>
         <description>DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 31 May 2022 08:13:26 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 31 May 2022 15:45:26 &#43;0800</lastBuildDate>
             <atom:link href="https://doraemonj.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>翻译电子书教程01：使用calibre转换格式</title>
+    <link>https://doraemonj.github.io/zh-cn/translation_tutorial/</link>
+    <pubDate>Tue, 31 May 2022 15:45:26 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/zh-cn/translation_tutorial/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/calibre.png" referrerpolicy="no-referrer">
+            </div>calibre是个好东西]]></description>
+</item><item>
+    <title>逻辑能力的高低与误解产生的概率成反比</title>
+    <link>https://doraemonj.github.io/zh-cn/dairy_020/</link>
+    <pubDate>Tue, 31 May 2022 12:18:26 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/zh-cn/dairy_020/</guid>
+    <description><![CDATA[日记020]]></description>
+</item><item>
     <title>形似神似，让人疑似</title>
     <link>https://doraemonj.github.io/zh-cn/logical_fallacy_002/</link>
     <pubDate>Tue, 31 May 2022 08:13:26 &#43;0800</pubDate>
@@ -29,7 +45,7 @@
     <pubDate>Mon, 30 May 2022 11:54:26 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://doraemonj.github.io/zh-cn/dairy_019/</guid>
-    <description><![CDATA[自由是核心价值观]]></description>
+    <description><![CDATA[日记019]]></description>
 </item><item>
     <title>言九林：逻辑课的消亡</title>
     <link>https://doraemonj.github.io/zh-cn/logic_vanished/</link>
@@ -65,19 +81,5 @@
     <author>作者</author>
     <guid>https://doraemonj.github.io/zh-cn/dairy_016/</guid>
     <description><![CDATA[日记016]]></description>
-</item><item>
-    <title>Mixin生态里如何卖空？</title>
-    <link>https://doraemonj.github.io/zh-cn/how_to_short_sell_in_mixin/</link>
-    <pubDate>Fri, 27 May 2022 17:48:26 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/zh-cn/how_to_short_sell_in_mixin/</guid>
-    <description><![CDATA[浅尝辄止，谨慎为妙]]></description>
-</item><item>
-    <title>通识地图002：西方思想史的东方引路人</title>
-    <link>https://doraemonj.github.io/zh-cn/liberty_arts_capsule_002/</link>
-    <pubDate>Fri, 27 May 2022 12:14:26 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/zh-cn/liberty_arts_capsule_002/</guid>
-    <description><![CDATA[思想史科普第一人]]></description>
 </item></channel>
 </rss>

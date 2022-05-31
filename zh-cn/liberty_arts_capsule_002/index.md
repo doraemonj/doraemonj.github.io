@@ -53,13 +53,21 @@ MAGIC KIDS! | Britain's Got Talent
 
 ---
 
-读书：[逻辑课的消亡](https://doraemonj.github.io/zh-cn/logic_vanished/)
+人肉读书：[逻辑课的消亡](https://doraemonj.github.io/zh-cn/logic_vanished/)
 
 ---
 
-#### 思想史：普罗米修斯的故事 | 关于文明的关键隐喻
+### 2022-05-30
 
-{{< youtube 65o8ic2qnlk>}}
+---
+
+#### 记录片《他乡的童年》：比较中国和丹麦中学教育
+
+{{< youtube Z_WSJUNxPZc>}}
+
+---
+
+### 2022-05-31
 
 ---
 
@@ -79,21 +87,71 @@ MAGIC KIDS! | Britain's Got Talent
 
 ---
 
+#### 思想史：普罗米修斯的故事 | 关于文明的关键隐喻
+
+{{< youtube 65o8ic2qnlk>}}
+
+---
+
+### 2022-06-01
+
+---
+
+#### 卡西尼号宇宙飞船（土星）
+
+记录片：卡西尼号的远征
+
+{{< youtube WPzZlFv71c0>}}
+
+视觉效果不错的音乐短片：
+
+{{< youtube 6VuS45kdLqw>}}
+
+>   Cassini: 
+>
+>   The first unmanned spacecraft entered the orbit of Saturn to study the planet and its system. It was launched on October 15, 1997, and entered the orbit around Saturn on July 1, 2004.
+>
+>   September 15, 2017
+>
+>   After spending over twenty years of space travel, Cassini, under NASA's special design, ended its journey of exploration by plunging into Saturn's upper atomosphere, causing it to burn up.
+>
+>   
+
+---
+
+#### 好奇号宇宙飞船（火星）
+
+Voyage of Curiosity: A Martian Chronicle 4k
+
+{{< youtube qaUhLXolGaI >}}
+
+Tech Bang: 10 Questionable Things NASA Has Found On Mars
+
+---
+
+#### 坚持号宇宙飞船（火星）
+
+Mars: Perseverance Rover - The ingenuity helicopter finds water on Mars during a flight
+
+{{< youtube yIIq3fExjfY>}}
+
+---
+
+#### 旅行者1号宇宙飞船（飞出太阳系）
+
+What Did Voyager 1 See During its Journey Out Of The Solar System? 1977-2019 (4k UHD)
+
+{{< youtube Du5hekU95mY>}}
+
+旅行者1号（Voyager 1）是美国宇航局（NASA）研制的一艘无人外太阳系空间探测器，重825.5kg，于1977年9月5日发射，部分功能截至目前依然正常运作，并持续与NASA的深空网络通信。
+
+---
+
 #### 加拿大 移民 | 大学老师移民做焊工
 
 公交车上一件小事，让他彻底下定移民决心
 
 {{< youtube  Nf8v2WSJMzQ>}}
-
----
-
-### 2022-05-30
-
----
-
-#### 记录片《他乡的童年》：比较中国和丹麦中学教育
-
-{{< youtube Z_WSJUNxPZc>}}
 
 ---
 
@@ -440,15 +498,7 @@ add：Canton-sardine / 268 Keefer St，#071 at LG level，Vancouver
 
 ---
 
-#### 卡西尼号宇宙飞船
 
----
-
-#### 好奇号宇宙飞船
-
----
-
-#### 坚持号宇宙飞船
 
 ---
 
@@ -457,6 +507,8 @@ add：Canton-sardine / 268 Keefer St，#071 at LG level，Vancouver
 ---
 
 #### 属加种差
+
+{{< youtube IcOxaL_o5jU>}}
 
 ---
 
