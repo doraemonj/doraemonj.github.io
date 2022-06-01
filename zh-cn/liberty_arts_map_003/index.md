@@ -9,6 +9,36 @@
 
 ---
 
+#### 加拿大BA省
+
+BANFF Alberta Canada Travel 2021-07-31
+
+{{< youtube kaiYwkoYtXI>}}
+
+---
+
+#### 加拿大城市：Calgary
+
+Top 10 Things to do in Calgary, Alberta 2022 | Canada Travel Guide
+
+{{< youtube DDvywA9JPZM>}}
+
+---
+
+#### Naval Ravikant：Google时代的现代教育已过时
+
+Naval Ravikant Reacts to the Current Education System
+
+{{< youtube  _YltxkgTyvE>}}
+
+---
+
+#### 记录片：富人孩子在拼命学习，穷人孩子却在混日子
+
+{{< youtube zT-X-R-6RBs>}}
+
+---
+
 #### 卡西尼号宇宙飞船（土星）
 
 记录片：卡西尼号的远征
@@ -26,8 +56,10 @@
 >   September 15, 2017
 >
 >   After spending over twenty years of space travel, Cassini, under NASA's special design, ended its journey of exploration by plunging into Saturn's upper atomosphere, causing it to burn up.
->
->   
+
+---
+
+### 2022-06-02
 
 ---
 
@@ -58,22 +90,6 @@ What Did Voyager 1 See During its Journey Out Of The Solar System? 1977-2019 (4k
 {{< youtube Du5hekU95mY>}}
 
 旅行者1号（Voyager 1）是美国宇航局（NASA）研制的一艘无人外太阳系空间探测器，重825.5kg，于1977年9月5日发射，部分功能截至目前依然正常运作，并持续与NASA的深空网络通信。
-
----
-
-#### 加拿大BA省
-
-BANFF Alberta Canada Travel 2021-07-31
-
-{{< youtube kaiYwkoYtXI>}}
-
----
-
-#### 加拿大城市：Calgary
-
-Top 10 Things to do in Calgary, Alberta 2022 | Canada Travel Guide
-
-{{< youtube DDvywA9JPZM>}}
 
 ---
 
@@ -119,17 +135,7 @@ The Full Story of Naval Ravikant | The Angel Philosopher
 
 ---
 
-#### Naval Ravikant：Google时代的现代教育已过时
 
-Naval Ravikant Reacts to the Current Education System
-
-{{< youtube  _YltxkgTyvE>}}
-
----
-
-#### 记录片：富人孩子在拼命学习，穷人孩子却在混日子
-
-{{< youtube zT-X-R-6RBs>}}
 
 ---
 
