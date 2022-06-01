@@ -5,50 +5,50 @@
   "grouped_search_terms": {},
   "tag_browser_hidden_categories": [],
   "library_view books view state": {
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "languages": 11,
+      "last_modified": 10,
+      "ondevice": 0,
+      "pubdate": 9,
+      "publisher": 8,
+      "rating": 5,
+      "series": 7,
+      "size": 4,
+      "tags": 6,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 86,
+      "languages": 0,
+      "last_modified": 0,
+      "pubdate": 81,
+      "publisher": 68,
+      "rating": 55,
+      "series": 55,
+      "size": 90,
+      "tags": 55,
+      "timestamp": 67,
+      "title": 330
+    },
     "hidden_columns": [
       "last_modified",
       "languages"
     ],
-    "last_modified_injected": true,
     "languages_injected": true,
+    "last_modified_injected": true,
     "sort_history": [
       [
         "timestamp",
         false
       ]
-    ],
-    "column_positions": {
-      "ondevice": 0,
-      "title": 1,
-      "authors": 2,
-      "timestamp": 3,
-      "size": 4,
-      "rating": 5,
-      "tags": 6,
-      "series": 7,
-      "publisher": 8,
-      "pubdate": 9,
-      "last_modified": 10,
-      "languages": 11
-    },
-    "column_sizes": {
-      "title": 330,
-      "authors": 86,
-      "timestamp": 67,
-      "size": 90,
-      "rating": 55,
-      "tags": 55,
-      "series": 55,
-      "publisher": 68,
-      "pubdate": 81,
-      "last_modified": 0,
-      "languages": 0
-    },
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    }
+    ]
   },
   "books view split pane state": {
     "column_positions": {
@@ -592,5 +592,11 @@
       ],
       "table": null
     }
-  }
+  },
+  "gui_view_history": [
+    [
+      2,
+      "Liquidated: An Ethnography of Wall Street (a John Hope Franklin Center Book)"
+    ]
+  ]
 }
