@@ -3,7 +3,16 @@
         <title>全部文章 - DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/zh-cn/posts/</link>
         <description>全部文章 | DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 01 Jun 2022 07:16:51 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 01 Jun 2022 14:23:00 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>翻译电子书教程02：使用Python整理文本</title>
+    <link>https://doraemonj.github.io/zh-cn/translation_tutorial_02/</link>
+    <pubDate>Wed, 01 Jun 2022 14:23:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/zh-cn/translation_tutorial_02/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/python_013.png" referrerpolicy="no-referrer">
+            </div>Python：计算机石器时代的铁]]></description>
+</item><item>
     <title>中项不周延，杀人不见血</title>
     <link>https://doraemonj.github.io/zh-cn/logical_fallacy_004/</link>
     <pubDate>Wed, 01 Jun 2022 07:16:51 &#43;0800</pubDate>
@@ -74,12 +83,5 @@
     <author>作者</author>
     <guid>https://doraemonj.github.io/zh-cn/logic_vanished/</guid>
     <description><![CDATA[作为可知世界的生存工具，逻辑为什么会被剥夺60多年？]]></description>
-</item><item>
-    <title>逻辑谬误列表和翻译史人物清单</title>
-    <link>https://doraemonj.github.io/zh-cn/dairy_018/</link>
-    <pubDate>Sun, 29 May 2022 18:31:26 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/zh-cn/dairy_018/</guid>
-    <description><![CDATA[日记018]]></description>
 </item></channel>
 </rss>
