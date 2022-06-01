@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://doraemonj.github.io/zh-cn/categories/</loc><lastmod>2022-06-01T14:23:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/categories/</loc><lastmod>2022-06-01T21:05:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/categories/"
@@ -11,7 +11,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/zh-cn/categories/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/zh-cn/</loc><lastmod>2022-06-01T14:23:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/</loc><lastmod>2022-06-01T21:05:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/"
@@ -20,7 +20,9 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/zh-cn/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/zh-cn/posts/</loc><lastmod>2022-06-01T14:23:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/tags/english-learning/</loc><lastmod>2022-06-01T21:05:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/categories/english-learning/</loc><lastmod>2022-06-01T21:05:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/posts/</loc><lastmod>2022-06-01T21:05:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/posts/"
@@ -29,6 +31,16 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/zh-cn/posts/"
                     /></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/tags/</loc><lastmod>2022-06-01T21:05:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://doraemonj.github.io/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://doraemonj.github.io/zh-cn/tags/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/funny_english_002/</loc><lastmod>2022-06-01T21:05:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/zh-cn/tags/python/</loc><lastmod>2022-06-01T14:23:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -37,15 +49,6 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/zh-cn/tags/python/"
-                    /></url><url>
-            <loc>https://doraemonj.github.io/zh-cn/tags/</loc><lastmod>2022-06-01T14:23:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://doraemonj.github.io/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://doraemonj.github.io/zh-cn/tags/"
                     /></url><url>
             <loc>https://doraemonj.github.io/zh-cn/translation_tutorial_02/</loc><lastmod>2022-06-01T14:23:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/zh-cn/tags/%E8%87%AA%E5%8A%A8%E7%BF%BB%E8%AF%91/</loc><lastmod>2022-06-01T14:23:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
@@ -91,8 +94,6 @@
             <loc>https://doraemonj.github.io/zh-cn/dairy_012/</loc><lastmod>2022-05-23T12:18:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>https://doraemonj.github.io/zh-cn/dairy_011/</loc><lastmod>2022-05-22T21:18:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>https://doraemonj.github.io/zh-cn/dairy_010/</loc><lastmod>2022-05-21T16:53:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>https://doraemonj.github.io/zh-cn/tags/english-learning/</loc><lastmod>2022-05-20T13:14:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>https://doraemonj.github.io/zh-cn/categories/english-learning/</loc><lastmod>2022-05-20T13:14:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>https://doraemonj.github.io/zh-cn/funny_english_001/</loc><lastmod>2022-05-20T13:14:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>https://doraemonj.github.io/zh-cn/liberty_arts_map_001/</loc><lastmod>2022-05-20T12:34:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>https://doraemonj.github.io/zh-cn/dairy_009/</loc><lastmod>2022-05-20T11:22:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
