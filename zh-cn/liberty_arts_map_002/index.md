@@ -91,6 +91,60 @@ Alice看完后惊呼丹麦中学生居然2点放学，太羡慕了。以后给�
 
 ---
 
+### 2022-06-01
+
+---
+
+#### 加拿大BA省
+
+BANFF Alberta Canada Travel 2021-07-31
+
+{{< youtube kaiYwkoYtXI>}}
+
+---
+
+#### 加拿大城市：Calgary
+
+Top 10 Things to do in Calgary, Alberta 2022 | Canada Travel Guide
+
+{{< youtube DDvywA9JPZM>}}
+
+---
+
+#### Naval Ravikant：Google时代的现代教育已过时
+
+Naval Ravikant Reacts to the Current Education System
+
+{{< youtube  _YltxkgTyvE>}}
+
+---
+
+#### 记录片：富人孩子在拼命学习，穷人孩子却在混日子
+
+{{< youtube zT-X-R-6RBs>}}
+
+---
+
+#### 卡西尼号宇宙飞船（土星）
+
+记录片：卡西尼号的远征
+
+{{< youtube WPzZlFv71c0>}}
+
+视觉效果不错的音乐短片：
+
+{{< youtube 6VuS45kdLqw>}}
+
+>   Cassini: 
+>
+>   The first unmanned spacecraft entered the orbit of Saturn to study the planet and its system. It was launched on October 15, 1997, and entered the orbit around Saturn on July 1, 2004.
+>
+>   September 15, 2017
+>
+>   After spending over twenty years of space travel, Cassini, under NASA's special design, ended its journey of exploration by plunging into Saturn's upper atomosphere, causing it to burn up.
+
+---
+
 #### 思想史：普罗米修斯的故事 | 关于文明的关键隐喻
 
 {{< youtube 65o8ic2qnlk>}}

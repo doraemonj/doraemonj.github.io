@@ -1,61 +1,7 @@
 # 通识地图003：
 
 
-6月1日开始新一篇吧，两期测试下来发现5-7天更新一期差不多，太多视频每次翻新加载时间长。
-
----
-
-### 2022-06-01
-
----
-
-#### 加拿大BA省
-
-BANFF Alberta Canada Travel 2021-07-31
-
-{{< youtube kaiYwkoYtXI>}}
-
----
-
-#### 加拿大城市：Calgary
-
-Top 10 Things to do in Calgary, Alberta 2022 | Canada Travel Guide
-
-{{< youtube DDvywA9JPZM>}}
-
----
-
-#### Naval Ravikant：Google时代的现代教育已过时
-
-Naval Ravikant Reacts to the Current Education System
-
-{{< youtube  _YltxkgTyvE>}}
-
----
-
-#### 记录片：富人孩子在拼命学习，穷人孩子却在混日子
-
-{{< youtube zT-X-R-6RBs>}}
-
----
-
-#### 卡西尼号宇宙飞船（土星）
-
-记录片：卡西尼号的远征
-
-{{< youtube WPzZlFv71c0>}}
-
-视觉效果不错的音乐短片：
-
-{{< youtube 6VuS45kdLqw>}}
-
->   Cassini: 
->
->   The first unmanned spacecraft entered the orbit of Saturn to study the planet and its system. It was launched on October 15, 1997, and entered the orbit around Saturn on July 1, 2004.
->
->   September 15, 2017
->
->   After spending over twenty years of space travel, Cassini, under NASA's special design, ended its journey of exploration by plunging into Saturn's upper atomosphere, causing it to burn up.
+从今天开始争取每天花20分钟时间过下丛日云教授的西方文明通论，搭配其他内容，拓宽家人视野。
 
 ---
 
@@ -132,10 +78,6 @@ What Did Voyager 1 See During its Journey Out Of The Solar System? 1977-2019 (4k
 The Full Story of Naval Ravikant | The Angel Philosopher
 
 {{< youtube  mGY2To_HW98>}}
-
----
-
-
 
 ---
 
