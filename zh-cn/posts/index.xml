@@ -3,7 +3,23 @@
         <title>全部文章 - DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/zh-cn/posts/</link>
         <description>全部文章 | DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 01 Jun 2022 21:05:39 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 02 Jun 2022 05:15:42 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>不周延者不得食</title>
+    <link>https://doraemonj.github.io/zh-cn/logical_fallacy_005/</link>
+    <pubDate>Thu, 02 Jun 2022 05:15:42 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/zh-cn/logical_fallacy_005/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/qf_1654064230.png" referrerpolicy="no-referrer">
+            </div>逻辑谬误005：大词不当]]></description>
+</item><item>
+    <title>今天自动翻译的文章一定要写完</title>
+    <link>https://doraemonj.github.io/zh-cn/dairy_022/</link>
+    <pubDate>Thu, 02 Jun 2022 05:11:14 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/zh-cn/dairy_022/</guid>
+    <description><![CDATA[日记022]]></description>
+</item><item>
     <title>好玩英语：外星生命信号</title>
     <link>https://doraemonj.github.io/zh-cn/funny_english_002/</link>
     <pubDate>Wed, 01 Jun 2022 21:05:39 &#43;0800</pubDate>
@@ -69,21 +85,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/pics/qf_1653956219.png" referrerpolicy="no-referrer">
             </div>逻辑谬误002：否定前件]]></description>
-</item><item>
-    <title>为什么不能反向推导？</title>
-    <link>https://doraemonj.github.io/zh-cn/logical_fallacy_001/</link>
-    <pubDate>Tue, 31 May 2022 00:01:26 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/zh-cn/logical_fallacy_001/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/qf_1653926225.png" referrerpolicy="no-referrer">
-            </div>逻辑谬误001：肯定后件]]></description>
-</item><item>
-    <title>Naval：最难之事不是去做你想做的事，而是去理解你想做的事</title>
-    <link>https://doraemonj.github.io/zh-cn/dairy_019/</link>
-    <pubDate>Mon, 30 May 2022 11:54:26 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/zh-cn/dairy_019/</guid>
-    <description><![CDATA[日记019]]></description>
 </item></channel>
 </rss>
