@@ -32,9 +32,9 @@
 
 找到上回已经做的好文件夹：
 
-![screenshot_20220604_073540](/Users/tangqiang/doraemonj/pics/screenshot_20220604_073540.png)
+![screenshot_20220604_073540](https://doraemonj.github.io/pics/screenshot_20220604_073540.png)
 
 在弹出菜单选择`在终端打开`：
 
-<div align="center"><img src="/Users/tangqiang/doraemonj/pics/screenshot_20220531_223358.png" alt="screenshot_20220531_223358" style="zoom:50%;" /></div>
+<div align="center"><img src="https://doraemonj.github.io/pics/screenshot_20220531_223358.png" alt="screenshot_20220531_223358" style="zoom:50%;" /></div>
 
