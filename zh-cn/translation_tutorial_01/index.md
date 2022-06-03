@@ -59,7 +59,9 @@ calibre会在指定文件夹下，生成一个作者名字命名的文件夹。
 
 ### 在终端打开
 
-在弹出的菜单中选择：`在终端中打开`（Windows用户以cmd方式进入）：![screenshot_20220531_223358](https://doraemonj.github.io/pics/screenshot_20220531_223358.png)
+在弹出的菜单中选择：`在终端中打开`（Windows用户以cmd方式进入）：
+
+<div align="center"><img src="https://doraemonj.github.io/pics/screenshot_20220531_223358.png" alt="screenshot_20220531_223358" style="zoom:50%;" /></div>
 
 若完成改名，则在命令行输入`ls`命令弹出如下提示：
 

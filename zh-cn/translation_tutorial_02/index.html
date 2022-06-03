@@ -9,8 +9,8 @@
 <meta property="og:description" content="Python：计算机石器时代的铁" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://doraemonj.github.io/zh-cn/translation_tutorial_02/" /><meta property="og:image" content="https://doraemonj.github.io/logo.png"/><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2022-06-01T14:23:00+08:00" />
-<meta property="article:modified_time" content="2022-06-01T14:23:00+08:00" /><meta property="og:site_name" content="DoraemonJ’s Blog" />
+<meta property="article:published_time" content="2022-06-04T07:23:00+08:00" />
+<meta property="article:modified_time" content="2022-06-04T07:23:00+08:00" /><meta property="og:site_name" content="DoraemonJ’s Blog" />
 
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://doraemonj.github.io/logo.png"/>
@@ -20,7 +20,7 @@
 <meta name="application-name" content="DoraemonJ’s Blog">
 <meta name="apple-mobile-web-app-title" content="DoraemonJ’s Blog"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://doraemonj.github.io/zh-cn/translation_tutorial_02/" /><link rel="prev" href="https://doraemonj.github.io/zh-cn/logical_fallacy_004/" /><link rel="next" href="https://doraemonj.github.io/zh-cn/funny_english_002/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://doraemonj.github.io/zh-cn/translation_tutorial_02/" /><link rel="prev" href="https://doraemonj.github.io/zh-cn/logical_fallacy_007/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
@@ -29,8 +29,8 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/doraemonj.github.io\/zh-cn\/translation_tutorial_02\/"
-        },"genre": "posts","keywords": "Python, 自动翻译","wordcount":  232 ,
-        "url": "https:\/\/doraemonj.github.io\/zh-cn\/translation_tutorial_02\/","datePublished": "2022-06-01T14:23:00+08:00","dateModified": "2022-06-01T14:23:00+08:00","publisher": {
+        },"genre": "posts","keywords": "Python, 自动翻译","wordcount":  567 ,
+        "url": "https:\/\/doraemonj.github.io\/zh-cn\/translation_tutorial_02\/","datePublished": "2022-06-04T07:23:00+08:00","dateModified": "2022-06-04T07:23:00+08:00","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
                 "@type": "Person",
@@ -111,7 +111,7 @@
         </div><article class="page single"><h1 class="single-title animated flipInX">翻译电子书教程02：使用Python整理文本</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/zh-cn/" title="Author" rel=" author" class="author"><i class="fa"></i>DoraemonJ</a>
 </span>&nbsp;<span class="post-category">类别 <a href="/zh-cn/categories/%E8%87%AA%E5%8A%A8%E7%BF%BB%E8%AF%91/"><i class="far fa-folder fa-fw"></i>自动翻译</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2022-06-01">2022-06-01</time>&nbsp;</div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2022-06-04">2022-06-04</time>&nbsp;</div>
         </div><div class="featured-image"><img
         class="lazyload"
         src="/svg/loading.min.svg"
@@ -124,27 +124,53 @@
                     <span>目录</span>
                     <span><i class="details-icon fas fa-angle-right"></i></span>
                 </div>
-                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents"></nav></div>
-            </div><div class="content" id="content"><p><a href="https://doraemonj.github.io/zh-cn/translation_tutorial_01/" target="_blank" rel="noopener noreffer">上回书</a>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#1打开命令行创建python脚本">1、打开命令行，创建Python脚本</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><p><a href="https://doraemonj.github.io/zh-cn/translation_tutorial_01/" target="_blank" rel="noopener noreffer">上回</a>
 我们讲到，想自动翻译外文电子书的第一步，是把书转换为htmlz的格式，也就是html文档的压缩包，在命令行使用unzip解压，可以得到图片文件夹、装饰文件，以及html文本文档</p>
-<p>这回，我们专注html文档，提取其中的纯文本，待传送到搜索引擎翻译。</p>
-<p>当然，我必须作三个假设：</p>
+<p>这回，目标是从html文档提取纯文本，传送到搜索引擎翻译。最简单的方式是：<code>Ctrl</code> + <code>A</code> 全选html文字，<code>ctrl</code> + <code>C</code>粘贴到txt文档。</p>
+<p>但这样有两个问题：</p>
+<blockquote>
+<p>1、如果html文档较大容易死机；
+2、无法自动化，必须人工处理。</p>
+</blockquote>
+<p>为解决这个问题，我们选用人生苦短缓解器的Python处理，开始之前作两个假设：</p>
 <blockquote>
 <p>第一，假设你已装好了Python</p>
 </blockquote>
 <p>我以PyCharm环境举例，如果你装其他任何编译器都行，效果一样。</p>
 <blockquote>
-<p>第二，你已经在python环境装好了bs4包</p>
+<p>第二，你已经在python环境装好了bs4包。</p>
 </blockquote>
-<p>如果没有安装，可以在命令行运行<code>pip3 install beautifulsoup4</code></p>
-<blockquote>
-<p>第三，</p>
-</blockquote>
+<p>这个包是处理html文档的超级工具，有了它相当于你属下凭空多了1000人的文本处理团队，只等你下命令。</p>
+<p>如果没有bs4，可以在命令行运行<code>pip3 install beautifulsoup4</code></p>
+<p>完成准备工作后我们开始。</p>
+<h3 id="1打开命令行创建python脚本">1、打开命令行，创建Python脚本</h3>
+<p>命令行是我们对操作系统发号施令的地方，多数程序员们喜欢命令行，因为所有操作不用鼠标，而且可以批量自动化处理多行命令。</p>
+<p>脚本英文是script，原义指：手稿、草稿。一开始指戏剧或电影的底稿。电影的script是控制人的，而计算机上的script控制的则是计算机。</p>
+<p>找到上回已经做的好文件夹：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/Users/tangqiang/doraemonj/pics/screenshot_20220604_073540.png"
+        data-srcset="/Users/tangqiang/doraemonj/pics/screenshot_20220604_073540.png, /Users/tangqiang/doraemonj/pics/screenshot_20220604_073540.png 1.5x, /Users/tangqiang/doraemonj/pics/screenshot_20220604_073540.png 2x"
+        data-sizes="auto"
+        alt="/Users/tangqiang/doraemonj/pics/screenshot_20220604_073540.png"
+        title="screenshot_20220604_073540" /></p>
+<p>在弹出菜单选择<code>在终端打开</code>：</p>
+<div align="center"><img src="/Users/tangqiang/doraemonj/pics/screenshot_20220531_223358.png" alt="screenshot_20220531_223358" style="zoom:50%;" /></div>
 </div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
-                <span>更新于 2022-06-01</span>
+                <span>更新于 2022-06-04</span>
             </div>
             <div class="post-info-license"></div>
         </div>
@@ -163,8 +189,7 @@
         </section>
     </div>
 
-    <div class="post-nav"><a href="/zh-cn/logical_fallacy_004/" class="prev" rel="prev" title="中项不周延，杀人不见血"><i class="fas fa-angle-left fa-fw"></i>中项不周延，杀人不见血</a>
-            <a href="/zh-cn/funny_english_002/" class="next" rel="next" title="好玩英语：外星生命信号">好玩英语：外星生命信号<i class="fas fa-angle-right fa-fw"></i></a></div>
+    <div class="post-nav"><a href="/zh-cn/logical_fallacy_007/" class="prev" rel="prev" title="卖过期面包是为了保证公司利益？"><i class="fas fa-angle-left fa-fw"></i>卖过期面包是为了保证公司利益？</a></div>
 </div>
 <div id="comments"><div id="disqus_thread" class="comment"></div><noscript>
                 Please enable JavaScript to view the comments powered by <a href="https://disqus.com/?ref_noscript">Disqus</a>.
