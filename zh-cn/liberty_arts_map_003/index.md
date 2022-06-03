@@ -9,78 +9,6 @@
 
 ---
 
-#### 好奇号宇宙飞船（火星）
-
-Voyage of Curiosity: A Martian Chronicle 4k
-
-{{< youtube qaUhLXolGaI >}}
-
-Tech Bang: 10 Questionable Things NASA Has Found On Mars
-
-{{< youtube bW-U3BSqzFQ>}}
-
----
-
-#### 坚持号宇宙飞船（火星）
-
-Mars: Perseverance Rover - The ingenuity helicopter finds water on Mars during a flight
-
-{{< youtube yIIq3fExjfY>}}
-
----
-
-#### 旅行者1号宇宙飞船（飞出太阳系）
-
-What Did Voyager 1 See During its Journey Out Of The Solar System? 1977-2019 (4k UHD)
-
-{{< youtube Du5hekU95mY>}}
-
-旅行者1号（Voyager 1）是美国宇航局（NASA）研制的一艘无人外太阳系空间探测器，重825.5kg，于1977年9月5日发射，部分功能截至目前依然正常运作，并持续与NASA的深空网络通信。
-
----
-
-#### 加拿大 移民 | 大学老师移民做焊工
-
-公交车上一件小事，让他彻底下定移民决心
-
-{{< youtube  Nf8v2WSJMzQ>}}
-
----
-
-#### 李永乐：我为什么当中学老师？清华大学演讲
-
-我是中国人民大学附属中学的一名物理教师，承担一部分物理竞赛培训工作。今天，我非常荣幸能回到母校清华大学，回到我曾经学习和生活过的地方，来给大家讲一讲我的经历。我希望我的经历能为大家的就业提供参考。
-
-{{< youtube  OpQo58RuByI>}}
-
----
-
-#### 李永乐：5岁小女孩提的问题，把李老师也问崩溃了
-
-{{< youtube  qzB1v9z7hk8>}}
-
----
-
-### 待学习材料
-
----
-
-#### 贺卫方演讲：历史深处的忧思
-
->   2016年末，贺卫方赴陕考察学生谌洪果创办的知无知文化空间，并即席发表年关演讲。此片为演讲全程。
-
-{{< youtube  DkbLBgPHKxw>}}
-
----
-
-#### Naval Ravikant 的故事：天使投资哲学家
-
-The Full Story of Naval Ravikant | The Angel Philosopher
-
-{{< youtube  mGY2To_HW98>}}
-
----
-
 #### 丛日云：西方文明通论 之西方政治文明 11集完整版
 
 {{< youtube  b82Ge6eV6Dc>}}
@@ -122,6 +50,122 @@ The Full Story of Naval Ravikant | The Angel Philosopher
 **10：平等 (3:24:45)**
 
 **11：多元主义 (3:47:39)**
+
+---
+
+#### [牛妈小绿：移民加拿大五年七次终成正果](https://m.juwai.com/news/137233)
+
+---
+
+#### 加拿大 移民 | 大学老师移民做焊工
+
+公交车上一件小事，让他彻底下定移民决心
+
+{{< youtube  Nf8v2WSJMzQ>}}
+
+---
+
+跟考拉喝杯酒 | 加拿大 移民 | 留学移民的花费和缺点 
+
+{{< youtube qmvvFks-P3s>}}
+
+跟考拉喝杯酒 |加拿大移民：留学移民要花多少钱？
+
+{{< youtube u7M10_a_CN4>}}
+
+跟考拉喝杯酒 | 上海，一个移民的理由
+
+{{< youtube ZWaZONHJLLY>}}
+
+移民选哪里？
+
+{{< youtube WsFyKWXwki8>}}
+
+从今天起，更激进地推荐移民
+
+{{< youtube PgmC_OEC0Hk>}}
+
+---
+
+#### 思想史：欧洲为什么是美食地狱？
+
+[抖音链接](https://www.douyin.com/video/7017397352264699148)
+
+---
+
+### 2022-06-03
+
+---
+
+#### 好奇号宇宙飞船（火星）
+
+Voyage of Curiosity: A Martian Chronicle 4k
+
+{{< youtube qaUhLXolGaI >}}
+
+Tech Bang: 10 Questionable Things NASA Has Found On Mars
+
+{{< youtube bW-U3BSqzFQ>}}
+
+---
+
+#### 坚持号宇宙飞船（火星）
+
+Mars: Perseverance Rover - The ingenuity helicopter finds water on Mars during a flight
+
+{{< youtube yIIq3fExjfY>}}
+
+---
+
+#### 旅行者1号宇宙飞船（飞出太阳系）
+
+What Did Voyager 1 See During its Journey Out Of The Solar System? 1977-2019 (4k UHD)
+
+{{< youtube Du5hekU95mY>}}
+
+旅行者1号（Voyager 1）是美国宇航局（NASA）研制的一艘无人外太阳系空间探测器，重825.5kg，于1977年9月5日发射，部分功能截至目前依然正常运作，并持续与NASA的深空网络通信。
+
+---
+
+
+
+---
+
+#### 李永乐：我为什么当中学老师？清华大学演讲
+
+我是中国人民大学附属中学的一名物理教师，承担一部分物理竞赛培训工作。今天，我非常荣幸能回到母校清华大学，回到我曾经学习和生活过的地方，来给大家讲一讲我的经历。我希望我的经历能为大家的就业提供参考。
+
+{{< youtube  OpQo58RuByI>}}
+
+---
+
+#### 李永乐：5岁小女孩提的问题，把李老师也问崩溃了
+
+{{< youtube  qzB1v9z7hk8>}}
+
+---
+
+### 待学习材料
+
+---
+
+#### 贺卫方演讲：历史深处的忧思
+
+>   2016年末，贺卫方赴陕考察学生谌洪果创办的知无知文化空间，并即席发表年关演讲。此片为演讲全程。
+
+{{< youtube  DkbLBgPHKxw>}}
+
+---
+
+#### Naval Ravikant 的故事：天使投资哲学家
+
+The Full Story of Naval Ravikant | The Angel Philosopher
+
+{{< youtube  mGY2To_HW98>}}
+
+---
+
+
 
 ---
 
@@ -376,9 +420,7 @@ add：Canton-sardine / 268 Keefer St，#071 at LG level，Vancouver
 
 ---
 
-### 思想史：欧洲为什么是美食地狱？
 
-[抖音链接](https://www.douyin.com/video/7017397352264699148)
 
 ---
 
