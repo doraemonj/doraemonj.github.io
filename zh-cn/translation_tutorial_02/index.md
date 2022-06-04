@@ -115,7 +115,7 @@ for el in txt:
 
 附：
 
-1、Python脚本文件：[proc_html.py](/Users/tangqiang/doraemonj/docs/calibre/Karen_Ho/Liquidated/proc_html.py)
+1、Python脚本文件：[proc_html.py](https://doraemonj.github.io/docs/calibre/Karen_Ho/proc_html.py)
 
 2、电子书纯英文文本：[en.txt](https://doraemonj.github.io/docs/calibre/Karen_Ho/Liquidated/en.txt)
 
