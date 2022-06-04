@@ -48,7 +48,7 @@
 
 在弹出的菜单中选择：`Interpreter Settings`：
 
-<div align="center"><img src="/Users/tangqiang/doraemonj/pics/screenshot_20220604_090939.png" alt="screenshot_20220604_090939" style="zoom:50%;" /></div>
+<div align="center"><img src="https://doraemonj.github.io/pics/screenshot_20220604_090939.png" alt="screenshot_20220604_090939" style="zoom:50%;" /></div>
 
 在弹出的菜单中选择`Project Structure`，删除原路径，
 
