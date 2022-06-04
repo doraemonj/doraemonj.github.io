@@ -10,31 +10,71 @@
 >   1、如果html文档较大容易死机；
 >   2、无法自动化，必须人工处理。
 
-为解决这个问题，我们选用人生苦短缓解器的Python处理，开始之前作两个假设：
+为解决这些问题，我们选用人生苦短缓解器的Python处理，开始之前假设你已装好了Python环境。
 
->   第一，假设你已装好了Python
+我们以PyCharm环境举例，如果你装其他任何编译器都行，效果一样，设置可以跳过中间的配置步骤。
 
-我以PyCharm环境举例，如果你装其他任何编译器都行，效果一样。
+完成准备工作后我们开始：
 
->   第二，你已经在python环境装好了bs4包。
-
-这个包是处理html文档的超级工具，有了它相当于你属下凭空多了1000人的文本处理团队，只等你下命令。
-
-如果没有bs4，可以在命令行运行`pip3 install beautifulsoup4`
-
-完成准备工作后我们开始。
-
-### 1、打开命令行，创建Python脚本
+### 打开命令行，创建Python脚本
 
 命令行是我们对操作系统发号施令的地方，多数程序员们喜欢命令行，因为所有操作不用鼠标，而且可以批量自动化处理多行命令。
 
-脚本英文是script，原义指：手稿、草稿。一开始指戏剧或电影的底稿。电影的script是控制人的，而计算机上的script控制的则是计算机。
+脚本英文是script，原义指：手稿，以前指戏剧或电影的底稿。戏剧的script是控制人的，而计算机上的script则是控制计算机的。区别于那些二进制文件（如windows上的`.exe`文件），脚本仅指**可以直接运行的文本文件**。
 
-找到上回已经做的好文件夹：
+打开[上回](https://doraemonj.github.io/zh-cn/translation_tutorial_01/)已经做的好文件夹：
 
 ![screenshot_20220604_073540](https://doraemonj.github.io/pics/screenshot_20220604_073540.png)
 
-在弹出菜单选择`在终端打开`：
+右下角点击右键，在弹出菜单选择`在终端打开`：
 
 <div align="center"><img src="https://doraemonj.github.io/pics/screenshot_20220531_223358.png" alt="screenshot_20220531_223358" style="zoom:50%;" /></div>
+
+在命令行输入`echo > proc_html.py`：
+![screenshot_20220604_083707](https://doraemonj.github.io/pics/screenshot_20220604_083707.png)
+
+于是，在这个文件夹内出现一个名为proc_html的Python脚本文件：
+![screenshot_20220604_083711](https://doraemonj.github.io/pics/screenshot_20220604_083711.png)
+
+### 配置Python环境路径
+
+右键proc_html.py，以你的Python编译器打开，这里以PyCharm举例：左侧是目录区，右侧是脚本编辑区。
+
+![screenshot_20220604_085706](https://doraemonj.github.io/pics/screenshot_20220604_085706.png)
+
+初次使用，需要在右下角`Configure a Python interpreter`设置环境目录，如果不慎误点取消，还可以点击右下角`Event Log`继续选择：
+
+![screenshot_20220604_085735](https://doraemonj.github.io/pics/screenshot_20220604_085735.png)
+
+在弹出的菜单中选择：`Interpreter Settings`：
+
+<div align="center"><img src="/Users/tangqiang/doraemonj/pics/screenshot_20220604_090939.png" alt="screenshot_20220604_090939" style="zoom:50%;" /></div>
+
+在弹出的菜单中选择`Project Structure`，删除原路径，
+
+![screenshot_20220604_091349](https://doraemonj.github.io/pics/screenshot_20220604_091349.png)
+
+再添加新路径：`/Users/tangqiang/doraemonj/docs/calibre/Karen_Ho/Liquidated`，点击右下角`OK`：
+
+![screenshot_20220604_092512](https://doraemonj.github.io/pics/screenshot_20220604_092512.png)
+
+新路径可以在原路径文件夹框右下角点选`拷贝为路径名称`复制得到：
+
+![screenshot_20220604_083712](https://doraemonj.github.io/pics/screenshot_20220604_083712.png)
+
+完成后点击PyCharm环境下方`Python Console`，若无红字报错，则配置成功：
+
+![screenshot_20220604_093741](https://doraemonj.github.io/pics/screenshot_20220604_093741.png)
+
+### 安装BeautifulSoup
+
+点击PyCharm环境下方`Terminal`按钮，在提示符后输入：`pip3 install BeautifulSoup4`
+
+![screenshot_20220604_094411](https://doraemonj.github.io/pics/screenshot_20220604_094411.png)
+
+如果系统提示DEPRECATION而无法安装，就使用`pip install --upgrade pip`命令在Terminal中更新下。那么，可以继续`pip3 install BeautifulSoup4`命令安装BeautifulSoup4。
+
+BeautifulSoup4（简称bs4）包是处理html文档的超级工具，有了它相当于你属下凭空多了1000人的文本处理团队，随时等你下命令。
+
+### 输入代码
 

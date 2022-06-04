@@ -29,7 +29,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/doraemonj.github.io\/zh-cn\/translation_tutorial_02\/"
-        },"genre": "posts","keywords": "Python, 自动翻译","wordcount":  567 ,
+        },"genre": "posts","keywords": "Python, 自动翻译","wordcount":  1162 ,
         "url": "https:\/\/doraemonj.github.io\/zh-cn\/translation_tutorial_02\/","datePublished": "2022-06-04T07:23:00+08:00","dateModified": "2022-06-04T07:23:00+08:00","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
@@ -128,7 +128,10 @@
   <ul>
     <li>
       <ul>
-        <li><a href="#1打开命令行创建python脚本">1、打开命令行，创建Python脚本</a></li>
+        <li><a href="#打开命令行创建python脚本">打开命令行，创建Python脚本</a></li>
+        <li><a href="#配置python环境路径">配置Python环境路径</a></li>
+        <li><a href="#安装beautifulsoup">安装BeautifulSoup</a></li>
+        <li><a href="#输入代码">输入代码</a></li>
       </ul>
     </li>
   </ul>
@@ -141,21 +144,14 @@
 <p>1、如果html文档较大容易死机；
 2、无法自动化，必须人工处理。</p>
 </blockquote>
-<p>为解决这个问题，我们选用人生苦短缓解器的Python处理，开始之前作两个假设：</p>
-<blockquote>
-<p>第一，假设你已装好了Python</p>
-</blockquote>
-<p>我以PyCharm环境举例，如果你装其他任何编译器都行，效果一样。</p>
-<blockquote>
-<p>第二，你已经在python环境装好了bs4包。</p>
-</blockquote>
-<p>这个包是处理html文档的超级工具，有了它相当于你属下凭空多了1000人的文本处理团队，只等你下命令。</p>
-<p>如果没有bs4，可以在命令行运行<code>pip3 install beautifulsoup4</code></p>
-<p>完成准备工作后我们开始。</p>
-<h3 id="1打开命令行创建python脚本">1、打开命令行，创建Python脚本</h3>
+<p>为解决这些问题，我们选用人生苦短缓解器的Python处理，开始之前假设你已装好了Python环境。</p>
+<p>我们以PyCharm环境举例，如果你装其他任何编译器都行，效果一样，设置可以跳过中间的配置步骤。</p>
+<p>完成准备工作后我们开始：</p>
+<h3 id="打开命令行创建python脚本">打开命令行，创建Python脚本</h3>
 <p>命令行是我们对操作系统发号施令的地方，多数程序员们喜欢命令行，因为所有操作不用鼠标，而且可以批量自动化处理多行命令。</p>
-<p>脚本英文是script，原义指：手稿、草稿。一开始指戏剧或电影的底稿。电影的script是控制人的，而计算机上的script控制的则是计算机。</p>
-<p>找到上回已经做的好文件夹：</p>
+<p>脚本英文是script，原义指：手稿，以前指戏剧或电影的底稿。戏剧的script是控制人的，而计算机上的script则是控制计算机的。区别于那些二进制文件（如windows上的<code>.exe</code>文件），脚本仅指<strong>可以直接运行的文本文件</strong>。</p>
+<p>打开<a href="https://doraemonj.github.io/zh-cn/translation_tutorial_01/" target="_blank" rel="noopener noreffer">上回</a>
+已经做的好文件夹：</p>
 <p><img
         class="lazyload"
         src="/svg/loading.min.svg"
@@ -164,8 +160,96 @@
         data-sizes="auto"
         alt="https://doraemonj.github.io/pics/screenshot_20220604_073540.png"
         title="screenshot_20220604_073540" /></p>
-<p>在弹出菜单选择<code>在终端打开</code>：</p>
+<p>右下角点击右键，在弹出菜单选择<code>在终端打开</code>：</p>
 <div align="center"><img src="https://doraemonj.github.io/pics/screenshot_20220531_223358.png" alt="screenshot_20220531_223358" style="zoom:50%;" /></div>
+<p>在命令行输入<code>echo &gt; proc_html.py</code>：
+<img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220604_083707.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220604_083707.png, https://doraemonj.github.io/pics/screenshot_20220604_083707.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220604_083707.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220604_083707.png"
+        title="screenshot_20220604_083707" /></p>
+<p>于是，在这个文件夹内出现一个名为proc_html的Python脚本文件：
+<img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220604_083711.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220604_083711.png, https://doraemonj.github.io/pics/screenshot_20220604_083711.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220604_083711.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220604_083711.png"
+        title="screenshot_20220604_083711" /></p>
+<h3 id="配置python环境路径">配置Python环境路径</h3>
+<p>右键proc_html.py，以你的Python编译器打开，这里以PyCharm举例：左侧是目录区，右侧是脚本编辑区。</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220604_085706.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220604_085706.png, https://doraemonj.github.io/pics/screenshot_20220604_085706.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220604_085706.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220604_085706.png"
+        title="screenshot_20220604_085706" /></p>
+<p>初次使用，需要在右下角<code>Configure a Python interpreter</code>设置环境目录，如果不慎误点取消，还可以点击右下角<code>Event Log</code>继续选择：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220604_085735.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220604_085735.png, https://doraemonj.github.io/pics/screenshot_20220604_085735.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220604_085735.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220604_085735.png"
+        title="screenshot_20220604_085735" /></p>
+<p>在弹出的菜单中选择：<code>Interpreter Settings</code>：</p>
+<div align="center"><img src="/Users/tangqiang/doraemonj/pics/screenshot_20220604_090939.png" alt="screenshot_20220604_090939" style="zoom:50%;" /></div>
+<p>在弹出的菜单中选择<code>Project Structure</code>，删除原路径，</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220604_091349.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220604_091349.png, https://doraemonj.github.io/pics/screenshot_20220604_091349.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220604_091349.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220604_091349.png"
+        title="screenshot_20220604_091349" /></p>
+<p>再添加新路径：<code>/Users/tangqiang/doraemonj/docs/calibre/Karen_Ho/Liquidated</code>，点击右下角<code>OK</code>：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220604_092512.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220604_092512.png, https://doraemonj.github.io/pics/screenshot_20220604_092512.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220604_092512.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220604_092512.png"
+        title="screenshot_20220604_092512" /></p>
+<p>新路径可以在原路径文件夹框右下角点选<code>拷贝为路径名称</code>复制得到：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220604_083712.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220604_083712.png, https://doraemonj.github.io/pics/screenshot_20220604_083712.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220604_083712.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220604_083712.png"
+        title="screenshot_20220604_083712" /></p>
+<p>完成后点击PyCharm环境下方<code>Python Console</code>，若无红字报错，则配置成功：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220604_093741.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220604_093741.png, https://doraemonj.github.io/pics/screenshot_20220604_093741.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220604_093741.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220604_093741.png"
+        title="screenshot_20220604_093741" /></p>
+<h3 id="安装beautifulsoup">安装BeautifulSoup</h3>
+<p>点击PyCharm环境下方<code>Terminal</code>按钮，在提示符后输入：<code>pip3 install BeautifulSoup4</code></p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220604_094411.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220604_094411.png, https://doraemonj.github.io/pics/screenshot_20220604_094411.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220604_094411.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220604_094411.png"
+        title="screenshot_20220604_094411" /></p>
+<p>如果系统提示DEPRECATION而无法安装，就使用<code>pip install --upgrade pip</code>命令在Terminal中更新下。那么，可以继续<code>pip3 install BeautifulSoup4</code>命令安装BeautifulSoup4。</p>
+<p>BeautifulSoup4（简称bs4）包是处理html文档的超级工具，有了它相当于你属下凭空多了1000人的文本处理团队，随时等你下命令。</p>
+<h3 id="输入代码">输入代码</h3>
 </div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
