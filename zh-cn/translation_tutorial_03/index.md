@@ -21,7 +21,9 @@
 
 虽然DeepL翻译会有低于1%的错误，但综合效果足矣让Google浏览、亚马逊沉默、微软自挂东南枝。不仅超越了江教授生前的认知，而且超越了近代翻译家严复先生所要求的『信、达、雅』——增加了『快』。
 
-另外，DeepL还配备了性能超强的各种接口，不过这些都是我们很久之后才会讨论的内容，今天，我们只做一个极其朴素的功能：上传。
+另外，DeepL还配备了性能超强的各种接口，不过这些都是我们很久之后才会讨论的内容，今天，我们只做一个极其朴素的功能：
+
+### 上传
 
 上传之后自动翻译，顺利的话这本书的翻译耗时约1分钟，点击右侧`打开`按钮：
 
@@ -37,21 +39,13 @@ AI不识字，翻书这么快~
 
 我甚至可以帮你，把译稿放到只属于你自己的图书馆里，就像[这样](https://doraemonj.github.io/zh-cn/liquidated/)。用Edge浏览器在地铁上随时可以召唤小哥哥小姐姐，帮你朗读中文版的英文书，英文版当然也能听，就像[这样](https://doraemonj.github.io/liquidated/)：
 
-![screenshot_20220605_234633](/Users/tangqiang/doraemonj/pics/screenshot_20220605_234633.png)
+![screenshot_20220605_234633](https://doraemonj.github.io/pics/screenshot_20220605_234633.png)
 
 这个时代，科学技术才是帝王将相，我们不必等候出版社那迟来的炬火，靠人恩赐的光亮未必等得到。但别忘了，在科学技术的加持下，我们自己就能发光。
 
 
 
-
-
-
-
-
-
-
-
-
+附：
 
 图1来源：[DeepL vs Google Translate: Which Is Better? Plus How to Use Them (2022)](https://translatepress.com/deepl-vs-google-translate-comparison/)
 
