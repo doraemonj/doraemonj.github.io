@@ -97,6 +97,42 @@
 
 ---
 
+聊天 + 逛街，无通识课
+
+---
+
+### 2022-06-04
+
+---
+
+逛街 + [家庭会议](https://doraemonj.github.io/zh-cn/family_meeting_01/)，无通识课
+
+---
+
+### 2022-06-05
+
+---
+
+主题：颜料的历史
+
+#### 《帝国时代4》经历历史-欧洲中世纪颜料
+
+{{< youtube GsQNdv8h1v4>}}
+
+#### 青绿山水巅峰之作《千里江山图》的颜料究竟有何讲究？
+
+{{< youtube XyYkC58pdFE>}}
+
+
+
+
+
+
+
+
+
+---
+
 #### 好奇号宇宙飞船（火星）
 
 Voyage of Curiosity: A Martian Chronicle 4k
