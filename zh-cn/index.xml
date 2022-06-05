@@ -3,9 +3,16 @@
         <title>DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/zh-cn/</link>
         <description>DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 05 Jun 2022 08:20:14 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 05 Jun 2022 13:46:14 &#43;0800</lastBuildDate>
             <atom:link href="https://doraemonj.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>家庭会议纪要</title>
+    <link>https://doraemonj.github.io/zh-cn/family_meeting_01/</link>
+    <pubDate>Sun, 05 Jun 2022 13:46:14 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/zh-cn/family_meeting_01/</guid>
+    <description><![CDATA[2022-06-04]]></description>
+</item><item>
     <title>开始写逻辑谬误第7篇和自动翻译第3篇</title>
     <link>https://doraemonj.github.io/zh-cn/dairy_025/</link>
     <pubDate>Sun, 05 Jun 2022 08:20:14 &#43;0800</pubDate>
@@ -78,14 +85,5 @@
     <author>作者</author>
     <guid>https://doraemonj.github.io/zh-cn/dairy_022/</guid>
     <description><![CDATA[日记022]]></description>
-</item><item>
-    <title>好玩英语：外星生命信号</title>
-    <link>https://doraemonj.github.io/zh-cn/funny_english_002/</link>
-    <pubDate>Wed, 01 Jun 2022 21:05:39 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/zh-cn/funny_english_002/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/170828-eery-alien-ac-544p.png" referrerpolicy="no-referrer">
-            </div>There are many who think that we might not be alone in this big universe, and chances are that they’re not wrong]]></description>
 </item></channel>
 </rss>
