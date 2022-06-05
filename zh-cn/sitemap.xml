@@ -2,7 +2,16 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://doraemonj.github.io/zh-cn/categories/</loc><lastmod>2022-06-05T19:16:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/tags/capital/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://doraemonj.github.io/tags/capital/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://doraemonj.github.io/zh-cn/tags/capital/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/categories/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/categories/"
@@ -11,7 +20,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/zh-cn/categories/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/zh-cn/</loc><lastmod>2022-06-05T19:16:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/"
@@ -20,7 +29,16 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/zh-cn/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/zh-cn/posts/</loc><lastmod>2022-06-05T19:16:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/tags/investment/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://doraemonj.github.io/tags/investment/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://doraemonj.github.io/zh-cn/tags/investment/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/posts/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/posts/"
@@ -29,7 +47,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/zh-cn/posts/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/zh-cn/tags/</loc><lastmod>2022-06-05T19:16:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/zh-cn/tags/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/tags/"
@@ -37,6 +55,42 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/zh-cn/tags/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/categories/%E6%8A%95%E8%B5%84/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://doraemonj.github.io/categories/%E6%8A%95%E8%B5%84/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://doraemonj.github.io/zh-cn/categories/%E6%8A%95%E8%B5%84/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/liquidated/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://doraemonj.github.io/liquidated/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://doraemonj.github.io/zh-cn/liquidated/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/tags/%E8%B5%84%E6%9C%AC/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://doraemonj.github.io/tags/%E8%B5%84%E6%9C%AC/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://doraemonj.github.io/zh-cn/tags/%E8%B5%84%E6%9C%AC/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/zh-cn/categories/%E8%B5%84%E6%9C%AC/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://doraemonj.github.io/categories/%E8%B5%84%E6%9C%AC/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://doraemonj.github.io/zh-cn/categories/%E8%B5%84%E6%9C%AC/"
                     /></url><url>
             <loc>https://doraemonj.github.io/zh-cn/logical_fallacy_009/</loc><lastmod>2022-06-05T19:16:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/zh-cn/tags/%E9%80%BB%E8%BE%91%E8%B0%AC%E8%AF%AF/</loc><lastmod>2022-06-05T19:16:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>

@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>investment - 标签 - 机器猫J · Doraemonj</title>
+        <title>investment - Tag - DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/tags/investment/</link>
-        <description>investment - 标签 - 机器猫J · Doraemonj</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 07 Feb 2022 10:07:48 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/tags/investment/" rel="self" type="application/rss+xml" /><item>
-    <title>血流成河</title>
-    <link>https://doraemonj.github.io/blood_in_the_streets/</link>
-    <pubDate>Mon, 07 Feb 2022 10:07:48 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/blood_in_the_streets/</guid>
-    <description><![CDATA[Blood in the Streets: Investment Profits in a Word Gone Mad]]></description>
+        <description>investment - Tag - DoraemonJ’s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Jun 2022 23:39:08 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/tags/investment/" rel="self" type="application/rss+xml" /><item>
+    <title>Liquidated: AN ETHNOGRAPHY OF WALL STREET</title>
+    <link>https://doraemonj.github.io/liquidated/</link>
+    <pubDate>Sun, 05 Jun 2022 23:39:08 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://doraemonj.github.io/liquidated/</guid>
+    <description><![CDATA[清算：华尔街的民族志]]></description>
 </item></channel>
 </rss>
