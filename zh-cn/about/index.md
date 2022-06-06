@@ -1,9 +1,9 @@
 # 关于我
 
 
-Hi，我是Chris，很高兴和你这位来自Mixin世界的朋友相遇。
+Hi，我是机器猫，欢迎你的参观，很高兴和你这位来自Mixin世界的朋友相遇。
 
-我这里不仅有一个微型图书馆，而且还可以帮你：
+这里不仅已经存在一个微型图书馆，而且还可以帮你：
 
 ## 建立只属于你自己的图书馆
 
@@ -36,6 +36,7 @@ Hi，我是Chris，很高兴和你这位来自Mixin世界的朋友相遇。
 > 2）[Blood in the Streets](https://doraemonj.github.io/en/blood_in_the_streets/)  -- [血流成河](https://doraemonj.github.io/blood_in_the_streets/) -- James Davidson, William Rees-Mogg<br />
 > 3）[Other People's Money](https://doraemonj.github.io/en/other_peoples_money/) -- [别人的钱](https://doraemonj.github.io/other_peoples_money/) -- Louis D. Brandeis<br />
 > 4）[Understanding Media: The Extension](https://doraemonj.github.io/en/understanding_media/) -- [理解媒体](https://doraemonj.github.io/understanding_media/) -- Marshall McLuhan（麦克卢汉）
+> 5）[Liquidated: An Ethnography of Wall Street](https://doraemonj.github.io/liquidated/)--[清算：华尔街的民族志](https://doraemonj.github.io/zh-cn/liquidated/) -- Karen Ho
 
 2.   #### 左右并排展示版
 
