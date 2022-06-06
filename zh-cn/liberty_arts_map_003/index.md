@@ -39,7 +39,11 @@
 
 ![IMG_4937](https://doraemonj.github.io/pics/IMG_4937.jpg)
 
-这是Alice以指导老师身份的作品，上图从左到右分别是：彩云追彩虹、海浪戏沙滩、海鸥逐夕阳
+这是Alice以指导老师身份的作品，上图从左到右分别是：彩云追彩虹、海浪戏沙滩、海鸥逐夕阳。下图是Amy（上）和我（下）的学习作品：
+
+![IMG_4943](https://doraemonj.github.io/pics/IMG_4943.jpg)
+
+没有错，我的海浪比较大，冲到了草原上~
 
 ---
 
