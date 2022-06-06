@@ -131,14 +131,6 @@ The Full Story of Naval Ravikant | The Angel Philosopher
 
 ---
 
-
-
----
-
-
-
----
-
 #### 贝佐斯：1999年
 
 Jeff Bezos In 1999 On Amazon's Plans Before The Dotcom Crash
@@ -368,117 +360,7 @@ IELTS Speaking test band score of 9 with feedback
 
 ### 后续待学习人物清单
 
-### 陈志武
 
-陈志武：亚洲教育出了什么问题？
-
-{{< youtube  J54lMa_UA7Y>}}
-
-陈志武：谈教育
-
-{{< youtube  xVGiWvktFZQ>}}
-
-陈志武：如何独立思考？
-
-{{< youtube  dp_wj_Y-8ek>}}
-
----
-
-柴静：穹顶之下
-
-{{< youtube  BgEpruEOrFg>}}
-
-柴静采访丁仲礼被问：中国人是不是人？
-
-{{< youtube HnA8fq5ggUg>}}
-
----
-
-陈丹青：新加坡演讲b
-
-{{< youtube  zH0uDuZniCc>}}
-
----
-
-张维迎：语言腐败
-
-{{< youtube  G_eHivAe9jk>}}
-
----
-
-林毅夫
-
-{{< youtube  e3k3B3o8jXU>}}
-
----
-
-林毅夫与张维迎
-
-{{< youtube  faBXa0xmQKw>}}
-
----
-
-
-
-许知远
-
-任志强
-
-曹德旺
-
-
-
-崔永元
-
-{{< youtube iL5dZBFv--o>}}
-
-
-
-方舟子
-
-韩寒
-
-胡舒立
-
-何清涟
-
-胡平
-
-刘晓波
-
-龙应台
-
-刘苏里
-
-茅于轼
-
-余华
-
-严复
-
-易中天
-
-
-
-
-
-
-
-Linus
-
-贝佐斯
-
-村上春树
-
-白求恩
-
-希特勒
-
-丘吉尔
-
-罗斯福
-
-斯大林
 
 ---
 
@@ -528,4 +410,45 @@ Linus
 
 {{< youtube  UDAc5M4nTk8>}}
 
+---
+
+#### 张维迎：语言腐败
+
+{{< youtube  G_eHivAe9jk>}}
+
+---
+
+#### 崔永元
+
+{{< youtube iL5dZBFv--o>}}
+
+---
+
+#### 陈志武
+
+陈志武：亚洲教育出了什么问题？
+
+{{< youtube  J54lMa_UA7Y>}}
+
+陈志武：谈教育
+
+{{< youtube  xVGiWvktFZQ>}}
+
+陈志武：如何独立思考？
+
+{{< youtube  dp_wj_Y-8ek>}}
+
+---
+
+#### 柴静
+
+柴静：穹顶之下
+
+{{< youtube  BgEpruEOrFg>}}
+
+柴静采访丁仲礼被问：中国人是不是人？
+
+{{< youtube HnA8fq5ggUg>}}
+
+---
 
