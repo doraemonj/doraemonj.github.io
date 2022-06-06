@@ -13,7 +13,7 @@
 
 -   [ ] 晚上通识课：颜料的历史
 
--   [ ] 继续看新买的Go的书，对比[go.dev](https://go.dev)，发现还是后者表述清晰一些，而且主页往下拉到中部，还有个编程界面，可以直接运行Go代码：![screenshot_20220606_125604](/Users/tangqiang/doraemonj/pics/screenshot_20220606_125604.png)
+-   [ ] 继续看新买的Go的书，对比[go.dev](https://go.dev)，发现还是后者表述清晰一些，而且主页往下拉到中部，还有个编程界面，可以直接运行Go代码：![screenshot_20220606_125604](https://doraemonj.github.io/pics/screenshot_20220606_125604.png)
 
 
 
