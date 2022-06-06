@@ -123,14 +123,6 @@ What Did Voyager 1 See During its Journey Out Of The Solar System? 1977-2019 (4k
 
 ---
 
-#### 贺卫方演讲：历史深处的忧思
-
->   2016年末，贺卫方赴陕考察学生谌洪果创办的知无知文化空间，并即席发表年关演讲。此片为演讲全程。
-
-{{< youtube  DkbLBgPHKxw>}}
-
----
-
 #### Naval Ravikant 的故事：天使投资哲学家
 
 The Full Story of Naval Ravikant | The Angel Philosopher
@@ -208,17 +200,6 @@ Jeff Bezos In 1999 On Amazon's Plans Before The Dotcom Crash
 【10分鐘了解西方藝術史】| 從中世紀到今天西方藝術都有那些歷史節點？
 
 {{< youtube  kl98bmaMneo>}}
-
----
-
-#### 楊小彥：從具象到抽象——形的意義與客觀物的消失
-
-語言：中文 普通話/國語
-時間：2020年2月22日 星期六 下午3點
-地點：沙甸鹹水埠 / 溫哥華唐人街 奇化街268號 新華中心負一層 071單元
-add：Canton-sardine / 268 Keefer St，#071 at LG level，Vancouver
-
-{{< youtube  dN3ys1y021I>}}
 
 ---
 
@@ -366,97 +347,11 @@ IELTS Speaking test band score of 9 with feedback
 
 ---
 
-### 后续待学习人物清单
-
-
-
----
-
-### 圣杰罗姆
+#### 圣杰罗姆
 
 国立美术馆 – 圣 杰罗姆 安东内洛 达 梅西纳 – 伦敦 – 语音导游 – MyWoWo Travel App
 
 {{< youtube  1meKxR46RSI>}}
-
----
-
-#### 丛日云：西方文明通论 之西方政治文明 11集完整版
-
-{{< youtube  b82Ge6eV6Dc>}}
-
----
-
-#### 罗永浩2006年寒假版上课录音
-
-{{< youtube  LhnqyN5Pey4>}}
-
----
-
-罗永浩：吉林大学演讲（大约2009年）
-
-{{< youtube  9fBMJvVWPeY>}}
-
----
-
-#### 罗振宇：即将到来的阶层社会
-
-2016年9月2日发布
-
-{{< youtube  OemtBmvQSKE>}}
-
----
-
-#### 冯小刚：中国必然再次发生文革
-
-{{< youtube  gk4uO6VauJo>}}
-
----
-
-#### 柯文哲（从医生到台北市長）：从科学看人类行为
-
-逻辑运算、真假值表、机率、贝叶斯定理、量子力学
-
-{{< youtube  UDAc5M4nTk8>}}
-
----
-
-#### 张维迎：语言腐败
-
-{{< youtube  G_eHivAe9jk>}}
-
----
-
-#### 崔永元
-
-{{< youtube iL5dZBFv--o>}}
-
----
-
-#### 陈志武
-
-陈志武：亚洲教育出了什么问题？
-
-{{< youtube  J54lMa_UA7Y>}}
-
-陈志武：谈教育
-
-{{< youtube  xVGiWvktFZQ>}}
-
-陈志武：如何独立思考？
-
-{{< youtube  dp_wj_Y-8ek>}}
-
----
-
-#### 柴静
-
-柴静：穹顶之下
-
-{{< youtube  BgEpruEOrFg>}}
-
-柴静采访丁仲礼被问：中国人是不是人？
-
-{{< youtube HnA8fq5ggUg>}}
 
 ---
 
