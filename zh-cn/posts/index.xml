@@ -3,12 +3,28 @@
         <title>全部文章 - DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/zh-cn/posts/</link>
         <description>全部文章 | DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 06 Jun 2022 12:45:18 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 07 Jun 2022 10:39:59 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>谬误之所以危险，因为看起来好有道理</title>
+    <link>https://doraemonj.github.io/zh-cn/logical_fallacy_010/</link>
+    <pubDate>Tue, 07 Jun 2022 10:39:59 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/zh-cn/logical_fallacy_010/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/qf_1654565027.png" referrerpolicy="no-referrer">
+            </div>逻辑谬误009：互斥前提]]></description>
+</item><item>
     <title>继续写逻辑谬误专栏</title>
     <link>https://doraemonj.github.io/zh-cn/dairy_026/</link>
     <pubDate>Mon, 06 Jun 2022 12:45:18 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://doraemonj.github.io/zh-cn/dairy_026/</guid>
+    <description><![CDATA[日记026]]></description>
+</item><item>
+    <title>继续写逻辑谬误专栏</title>
+    <link>https://doraemonj.github.io/zh-cn/dairy_027/</link>
+    <pubDate>Mon, 06 Jun 2022 12:45:18 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/zh-cn/dairy_027/</guid>
     <description><![CDATA[日记026]]></description>
 </item><item>
     <title>清算：华尔街的民族志</title>
@@ -65,23 +81,5 @@
     <author>作者</author>
     <guid>https://doraemonj.github.io/zh-cn/dairy_024/</guid>
     <description><![CDATA[日记024]]></description>
-</item><item>
-    <title>翻译电子书教程02：使用Python整理文本</title>
-    <link>https://doraemonj.github.io/zh-cn/translation_tutorial_02/</link>
-    <pubDate>Sat, 04 Jun 2022 07:23:00 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/zh-cn/translation_tutorial_02/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/python_013.png" referrerpolicy="no-referrer">
-            </div>Python：计算机石器时代的铁]]></description>
-</item><item>
-    <title>卖过期面包是为了保证公司利益？</title>
-    <link>https://doraemonj.github.io/zh-cn/logical_fallacy_007/</link>
-    <pubDate>Fri, 03 Jun 2022 22:36:42 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/zh-cn/logical_fallacy_007/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/qf_1654259976.png" referrerpolicy="no-referrer">
-            </div>逻辑谬误006：四词谬误]]></description>
 </item></channel>
 </rss>
