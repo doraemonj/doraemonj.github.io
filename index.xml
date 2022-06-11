@@ -3,63 +3,93 @@
         <title>DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/</link>
         <description>DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Jun 2022 23:39:08 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 11 Jun 2022 08:51:59 &#43;0800</lastBuildDate>
             <atom:link href="https://doraemonj.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Liquidated: AN ETHNOGRAPHY OF WALL STREET</title>
+    <title>真金不怕火炼，怕火炼的是不是真金？</title>
+    <link>https://doraemonj.github.io/logical_fallacy_012/</link>
+    <pubDate>Sat, 11 Jun 2022 08:51:59 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/logical_fallacy_012/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/qf_1654908641.png" referrerpolicy="no-referrer">
+            </div>逻辑谬误012：不当换质换位]]></description>
+</item><item>
+    <title>亚里士多德：为什么不能随意交换？</title>
+    <link>https://doraemonj.github.io/logical_fallacy_011/</link>
+    <pubDate>Fri, 10 Jun 2022 10:12:18 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/logical_fallacy_011/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/qf_1654827229.png" referrerpolicy="no-referrer">
+            </div>逻辑谬误011：非法换位]]></description>
+</item><item>
+    <title>神逻辑：牛奶为什么过期？</title>
+    <link>https://doraemonj.github.io/logical_fallacy_010/</link>
+    <pubDate>Wed, 08 Jun 2022 09:46:47 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/logical_fallacy_010/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/qf-1654651706.png" referrerpolicy="no-referrer">
+            </div>逻辑谬误010：无端对立]]></description>
+</item><item>
+    <title>谬误之所以危险，因为看起来好有道理</title>
+    <link>https://doraemonj.github.io/logical_fallacy_009/</link>
+    <pubDate>Tue, 07 Jun 2022 10:39:59 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/logical_fallacy_009/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/qf_1654565027.png" referrerpolicy="no-referrer">
+            </div>逻辑谬误009：互斥前提]]></description>
+</item><item>
+    <title>胡说八道何以四通八达？</title>
+    <link>https://doraemonj.github.io/logical_fallacy_008/</link>
+    <pubDate>Mon, 06 Jun 2022 19:16:53 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/logical_fallacy_008/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/qf_1654427889.png" referrerpolicy="no-referrer">
+            </div>逻辑谬误008：谬误谬误]]></description>
+</item><item>
+    <title>清算：华尔街的民族志</title>
     <link>https://doraemonj.github.io/liquidated/</link>
-    <pubDate>Sun, 05 Jun 2022 23:39:08 &#43;0800</pubDate>
-    <author>Author</author>
+    <pubDate>Sun, 05 Jun 2022 23:40:34 &#43;0800</pubDate>
+    <author>作者</author>
     <guid>https://doraemonj.github.io/liquidated/</guid>
-    <description><![CDATA[清算：华尔街的民族志]]></description>
+    <description><![CDATA[Liquidated: AN ETHNOGRAPHY OF WALL STREET]]></description>
 </item><item>
-    <title>Naval Ravikants: Current Educational System is Completely Obsolete</title>
-    <link>https://doraemonj.github.io/navel_ravikant_current_educational_system/</link>
-    <pubDate>Tue, 24 May 2022 11:24:26 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://doraemonj.github.io/navel_ravikant_current_educational_system/</guid>
-    <description><![CDATA[The desire to learn that&rsquo;s incredibly scarce.]]></description>
+    <title>翻译电子书教程03：上传DeepL翻译</title>
+    <link>https://doraemonj.github.io/translation_tutorial_03/</link>
+    <pubDate>Sun, 05 Jun 2022 15:14:34 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/translation_tutorial_03/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/deepl.001-960x504.png" referrerpolicy="no-referrer">
+            </div>Google浏览、亚马逊沉默、微软自挂东南枝]]></description>
 </item><item>
-    <title>How to Select and Transform Numpy Arrays?</title>
-    <link>https://doraemonj.github.io/a_python_003/</link>
-    <pubDate>Sun, 22 May 2022 13:44:34 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://doraemonj.github.io/a_python_003/</guid>
-    <description><![CDATA[10 ways to operate Numpy array]]></description>
+    <title>家庭会议纪要</title>
+    <link>https://doraemonj.github.io/family_meeting_01/</link>
+    <pubDate>Sun, 05 Jun 2022 13:46:14 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/family_meeting_01/</guid>
+    <description><![CDATA[2022-06-04]]></description>
 </item><item>
-    <title>Six Translation Examples of E-book</title>
-    <link>https://doraemonj.github.io/six_other_ebook_translation_examples/</link>
-    <pubDate>Sat, 21 May 2022 09:32:00 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://doraemonj.github.io/six_other_ebook_translation_examples/</guid>
-    <description><![CDATA[Mass production of translations like mass printing]]></description>
+    <title>悖论无法判断，谬误似是而非</title>
+    <link>https://doraemonj.github.io/logical_fallacy_007/</link>
+    <pubDate>Sun, 05 Jun 2022 05:01:42 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/logical_fallacy_007/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/qf_1654384113.png" referrerpolicy="no-referrer">
+            </div>逻辑谬误007：蒙面人谬误]]></description>
 </item><item>
-    <title>Translate an Ebook into Other Language</title>
-    <link>https://doraemonj.github.io/translate_an_ebook_into_other_language/</link>
-    <pubDate>Fri, 20 May 2022 16:24:00 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://doraemonj.github.io/translate_an_ebook_into_other_language/</guid>
-    <description><![CDATA[DeepL equipped with Python]]></description>
-</item><item>
-    <title>How to Prepare Data with Numpy in Python</title>
-    <link>https://doraemonj.github.io/a_python_002/</link>
-    <pubDate>Fri, 20 May 2022 09:51:34 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://doraemonj.github.io/a_python_002/</guid>
-    <description><![CDATA[A tremendous tool in mathematics]]></description>
-</item><item>
-    <title>Create random-color images with Python</title>
-    <link>https://doraemonj.github.io/a_python_001/</link>
-    <pubDate>Sun, 15 May 2022 19:08:34 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://doraemonj.github.io/a_python_001/</guid>
-    <description><![CDATA[Python is supporting you life]]></description>
-</item><item>
-    <title>Delete a Git File or Folder While Keeping the Local Ones</title>
-    <link>https://doraemonj.github.io/git_rm/</link>
-    <pubDate>Sun, 13 Mar 2022 19:04:50 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://doraemonj.github.io/git_rm/</guid>
-    <description><![CDATA[Delete Git files or folders]]></description>
+    <title>卖过期面包是为了保证公司利益？</title>
+    <link>https://doraemonj.github.io/logical_fallacy_006/</link>
+    <pubDate>Sat, 04 Jun 2022 22:36:42 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/logical_fallacy_006/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/qf_1654259976.png" referrerpolicy="no-referrer">
+            </div>逻辑谬误006：四词谬误]]></description>
 </item></channel>
 </rss>

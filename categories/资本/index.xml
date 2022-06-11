@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>资本 - Category - DoraemonJ’s Blog</title>
+        <title>资本 - 分类 - DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/categories/%E8%B5%84%E6%9C%AC/</link>
-        <description>资本 - Category - DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Jun 2022 23:39:08 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/categories/%E8%B5%84%E6%9C%AC/" rel="self" type="application/rss+xml" /><item>
-    <title>Liquidated: AN ETHNOGRAPHY OF WALL STREET</title>
+        <description>资本 - 分类 - DoraemonJ’s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 05 Jun 2022 23:40:34 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/categories/%E8%B5%84%E6%9C%AC/" rel="self" type="application/rss+xml" /><item>
+    <title>清算：华尔街的民族志</title>
     <link>https://doraemonj.github.io/liquidated/</link>
-    <pubDate>Sun, 05 Jun 2022 23:39:08 &#43;0800</pubDate>
-    <author>Author</author>
+    <pubDate>Sun, 05 Jun 2022 23:40:34 &#43;0800</pubDate>
+    <author>作者</author>
     <guid>https://doraemonj.github.io/liquidated/</guid>
-    <description><![CDATA[清算：华尔街的民族志]]></description>
+    <description><![CDATA[Liquidated: AN ETHNOGRAPHY OF WALL STREET]]></description>
 </item></channel>
 </rss>

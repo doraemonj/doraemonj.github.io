@@ -1,7 +1,7 @@
-# How to Delete a Git File or Folder While Keeping the Local Ones
+# Delete a Git File or Folder While Keeping the Local Ones
 
 
-### 一、Delete a file
+### Delete a file
 
 To remove a file from Git version control while keeping the local file.
 
@@ -12,13 +12,13 @@ To remove a file from Git version control while keeping the local file.
 ​	git rm file_path --cached
 ​	```
 
-3. 进行commit，将文件从版本库中删掉：
+3. Commit: Delete the file from the git version:
 
 ​		```
 ​	git commit -m "delete the file"
 ​	```
 
-### 二、Delete a folder
+### Delete a folder
 
 To remove a folder from Git version control while retaining the local folder, add the `-r` argument:
 
@@ -31,5 +31,4 @@ To remove all files in .gitignore from version control, you need to remove all f
 ​		```git add .```
 
 This way, files in gitignore will be ignored.
-
 

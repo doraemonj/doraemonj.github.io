@@ -1,17 +1,19 @@
 # Mary Celestia, Constellation, Montana
 
 
-Discovery Channel full episodes The Truth about the Bermuda Triangle
+**Discovery Channel**
 
-<img src="https://www.thebermudian.com/wp-content/uploads/2019/08/1067_001.jpg" alt="1067_001" style="zoom:50%;" />
+**Full Episodes: The Truth about the Bermuda Triangle**
 
-First, the Mary Celestia an iron-hulled steamship carrying supplies in the American Civil War.
+![](https://www.thebermudian.com/wp-content/uploads/2019/08/1067_001.jpg)
 
-She left Bermuda, and she came down South Shore and came to her demise right here.
+First, the Mary Celestia an iron-hulled steamship was carrying supplies in the American Civil War.
 
->   Which is a very curious thing because we're literally only under meters I'm sure. 
+She left Bermuda, and she came down South Shore, and came to her demise right here.
 
-It happened on a flat calm day
+>   Which is a very curious thing because we're literally only under meters. I'm sure. 
+
+It happened on a flat calm day.
 
 There's a lot of intrigue about it.
 
@@ -27,12 +29,10 @@ And slightly farther yet another, the Montana.
 
 In fact, according to Philippe's records, numerous wrecks completely encircle Bermuda.
 
-
-
-<iframe width="560" height="315"  src="//player.bilibili.com/player.html?aid=341556560&bvid=BV1KR4y1P7ga&cid=720620644&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+{{< bilibili BV1KR4y1P7ga >}}
 
 Next recommendation movie in YouTube:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cTQ3Ko9ZKg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube cTQ3Ko9ZKg8 >}}
 
-See you next time, Alice.
+See you next time~

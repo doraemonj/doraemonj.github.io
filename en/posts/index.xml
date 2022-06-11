@@ -1,28 +1,63 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Blogs - 机器猫J · Doraemonj</title>
+        <title>All Blogs - DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/en/posts/</link>
-        <description>All Blogs | 机器猫J · Doraemonj</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 12 May 2022 22:23:01 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/en/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Immigrate Diary 002: Start by collecting job information</title>
-    <link>https://doraemonj.github.io/en/dairy_002/</link>
-    <pubDate>Thu, 12 May 2022 22:23:01 &#43;0800</pubDate>
+        <description>All Blogs | DoraemonJ’s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Jun 2022 23:39:08 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/en/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Liquidated: AN ETHNOGRAPHY OF WALL STREET</title>
+    <link>https://doraemonj.github.io/en/liquidated/</link>
+    <pubDate>Sun, 05 Jun 2022 23:39:08 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://doraemonj.github.io/en/dairy_002/</guid>
-    <description><![CDATA[Collecting and gathering]]></description>
+    <guid>https://doraemonj.github.io/en/liquidated/</guid>
+    <description><![CDATA[清算：华尔街的民族志]]></description>
 </item><item>
-    <title>Immigrate Diary 001: Beginning</title>
-    <link>https://doraemonj.github.io/en/dairy_001/</link>
-    <pubDate>Wed, 11 May 2022 15:13:10 &#43;0800</pubDate>
+    <title>Naval Ravikants: Current Educational System is Completely Obsolete</title>
+    <link>https://doraemonj.github.io/en/navel_ravikant_current_educational_system/</link>
+    <pubDate>Tue, 24 May 2022 11:24:26 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://doraemonj.github.io/en/dairy_001/</guid>
-    <description><![CDATA[Starting now]]></description>
+    <guid>https://doraemonj.github.io/en/navel_ravikant_current_educational_system/</guid>
+    <description><![CDATA[The desire to learn that&rsquo;s incredibly scarce.]]></description>
 </item><item>
-    <title>How to Delete a Git File or Folder While Keeping the Local Ones</title>
+    <title>How to Select and Transform Numpy Arrays?</title>
+    <link>https://doraemonj.github.io/en/a_python_003/</link>
+    <pubDate>Sun, 22 May 2022 13:44:34 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://doraemonj.github.io/en/a_python_003/</guid>
+    <description><![CDATA[10 ways to operate Numpy array]]></description>
+</item><item>
+    <title>Six Translation Examples of E-book</title>
+    <link>https://doraemonj.github.io/en/six_other_ebook_translation_examples/</link>
+    <pubDate>Sat, 21 May 2022 09:32:00 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://doraemonj.github.io/en/six_other_ebook_translation_examples/</guid>
+    <description><![CDATA[Mass production of translations like mass printing]]></description>
+</item><item>
+    <title>Translate an Ebook into Other Language</title>
+    <link>https://doraemonj.github.io/en/translate_an_ebook_into_other_language/</link>
+    <pubDate>Fri, 20 May 2022 16:24:00 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://doraemonj.github.io/en/translate_an_ebook_into_other_language/</guid>
+    <description><![CDATA[DeepL equipped with Python]]></description>
+</item><item>
+    <title>How to Prepare Data with Numpy in Python</title>
+    <link>https://doraemonj.github.io/en/a_python_002/</link>
+    <pubDate>Fri, 20 May 2022 09:51:34 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://doraemonj.github.io/en/a_python_002/</guid>
+    <description><![CDATA[A tremendous tool in mathematics]]></description>
+</item><item>
+    <title>Create random-color images with Python</title>
+    <link>https://doraemonj.github.io/en/a_python_001/</link>
+    <pubDate>Sun, 15 May 2022 19:08:34 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://doraemonj.github.io/en/a_python_001/</guid>
+    <description><![CDATA[Python is supporting you life]]></description>
+</item><item>
+    <title>Delete a Git File or Folder While Keeping the Local Ones</title>
     <link>https://doraemonj.github.io/en/git_rm/</link>
     <pubDate>Sun, 13 Mar 2022 19:04:50 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://doraemonj.github.io/en/git_rm/</guid>
-    <description><![CDATA[delete Git files or folders]]></description>
+    <description><![CDATA[Delete Git files or folders]]></description>
 </item></channel>
 </rss>

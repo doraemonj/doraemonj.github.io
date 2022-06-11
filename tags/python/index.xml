@@ -1,42 +1,25 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Python - Tag - DoraemonJ’s Blog</title>
+        <title>Python - 标签 - DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/tags/python/</link>
-        <description>Python - Tag - DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 22 May 2022 13:44:34 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/tags/python/" rel="self" type="application/rss+xml" /><item>
-    <title>How to Select and Transform Numpy Arrays?</title>
-    <link>https://doraemonj.github.io/a_python_003/</link>
-    <pubDate>Sun, 22 May 2022 13:44:34 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://doraemonj.github.io/a_python_003/</guid>
-    <description><![CDATA[10 ways to operate Numpy array]]></description>
+        <description>Python - 标签 - DoraemonJ’s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 05 Jun 2022 15:14:34 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/tags/python/" rel="self" type="application/rss+xml" /><item>
+    <title>翻译电子书教程03：上传DeepL翻译</title>
+    <link>https://doraemonj.github.io/translation_tutorial_03/</link>
+    <pubDate>Sun, 05 Jun 2022 15:14:34 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/translation_tutorial_03/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/deepl.001-960x504.png" referrerpolicy="no-referrer">
+            </div>Google浏览、亚马逊沉默、微软自挂东南枝]]></description>
 </item><item>
-    <title>Six Translation Examples of E-book</title>
-    <link>https://doraemonj.github.io/six_other_ebook_translation_examples/</link>
-    <pubDate>Sat, 21 May 2022 09:32:00 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://doraemonj.github.io/six_other_ebook_translation_examples/</guid>
-    <description><![CDATA[Mass production of translations like mass printing]]></description>
-</item><item>
-    <title>Translate an Ebook into Other Language</title>
-    <link>https://doraemonj.github.io/translate_an_ebook_into_other_language/</link>
-    <pubDate>Fri, 20 May 2022 16:24:00 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://doraemonj.github.io/translate_an_ebook_into_other_language/</guid>
-    <description><![CDATA[DeepL equipped with Python]]></description>
-</item><item>
-    <title>How to Prepare Data with Numpy in Python</title>
-    <link>https://doraemonj.github.io/a_python_002/</link>
-    <pubDate>Fri, 20 May 2022 09:51:34 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://doraemonj.github.io/a_python_002/</guid>
-    <description><![CDATA[A tremendous tool in mathematics]]></description>
-</item><item>
-    <title>Create random-color images with Python</title>
-    <link>https://doraemonj.github.io/a_python_001/</link>
-    <pubDate>Sun, 15 May 2022 19:08:34 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://doraemonj.github.io/a_python_001/</guid>
-    <description><![CDATA[Python is supporting you life]]></description>
+    <title>翻译电子书教程02：使用Python整理文本</title>
+    <link>https://doraemonj.github.io/translation_tutorial_02/</link>
+    <pubDate>Sat, 04 Jun 2022 07:23:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/translation_tutorial_02/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/python_013.png" referrerpolicy="no-referrer">
+            </div>Python：计算机石器时代的铁]]></description>
 </item></channel>
 </rss>
