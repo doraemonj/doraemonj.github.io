@@ -3,7 +3,16 @@
         <title>全部文章 - DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/posts/</link>
         <description>全部文章 | DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 11 Jun 2022 08:51:59 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 12 Jun 2022 05:56:50 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>打人将被起诉，被起诉者必含打人者？</title>
+    <link>https://doraemonj.github.io/logical_fallacy_013/</link>
+    <pubDate>Sun, 12 Jun 2022 05:56:50 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/logical_fallacy_013/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/qf_1654984664.png" referrerpolicy="no-referrer">
+            </div>逻辑谬误013：存在性谬误]]></description>
+</item><item>
     <title>真金不怕火炼，怕火炼的是不是真金？</title>
     <link>https://doraemonj.github.io/logical_fallacy_012/</link>
     <pubDate>Sat, 11 Jun 2022 08:51:59 &#43;0800</pubDate>
@@ -80,14 +89,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/pics/qf_1654384113.png" referrerpolicy="no-referrer">
             </div>逻辑谬误007：蒙面人谬误]]></description>
-</item><item>
-    <title>卖过期面包是为了保证公司利益？</title>
-    <link>https://doraemonj.github.io/logical_fallacy_006/</link>
-    <pubDate>Sat, 04 Jun 2022 22:36:42 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/logical_fallacy_006/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/qf_1654259976.png" referrerpolicy="no-referrer">
-            </div>逻辑谬误006：四词谬误]]></description>
 </item></channel>
 </rss>
