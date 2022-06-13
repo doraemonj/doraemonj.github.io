@@ -3,9 +3,18 @@
         <title>DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/</link>
         <description>DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 12 Jun 2022 05:56:50 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 13 Jun 2022 06:56:50 &#43;0800</lastBuildDate>
             <atom:link href="https://doraemonj.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>每个人都爱着一些人，所以一些人每个人都爱</title>
+    <link>https://doraemonj.github.io/logical_fallacy_014/</link>
+    <pubDate>Mon, 13 Jun 2022 06:56:50 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/logical_fallacy_014/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/qf_1655023039.png" referrerpolicy="no-referrer">
+            </div>逻辑谬误014：量词对调]]></description>
+</item><item>
     <title>打人将被起诉，被起诉者必含打人者？</title>
     <link>https://doraemonj.github.io/logical_fallacy_013/</link>
     <pubDate>Sun, 12 Jun 2022 05:56:50 &#43;0800</pubDate>
@@ -82,14 +91,5 @@
     <author>作者</author>
     <guid>https://doraemonj.github.io/family_meeting_01/</guid>
     <description><![CDATA[2022-06-04]]></description>
-</item><item>
-    <title>悖论无法判断，谬误似是而非</title>
-    <link>https://doraemonj.github.io/logical_fallacy_007/</link>
-    <pubDate>Sun, 05 Jun 2022 05:01:42 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/logical_fallacy_007/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/qf_1654384113.png" referrerpolicy="no-referrer">
-            </div>逻辑谬误007：蒙面人谬误]]></description>
 </item></channel>
 </rss>
