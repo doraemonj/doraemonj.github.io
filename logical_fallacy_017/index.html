@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <title>一鼻子闻出逻辑谬误 - DoraemonJ’s Blog</title><meta name="Description" content="DoraemonJ’s Blog"><meta property="og:title" content="一鼻子闻出逻辑谬误" />
+<meta property="og:description" content="逻辑谬误阶段复习：形式谬误01" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://doraemonj.github.io/logical_fallacy_017/" /><meta property="og:image" content="https://doraemonj.github.io/logo.png"/><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-06-16T03:45:59+08:00" />
+<meta property="article:modified_time" content="2022-06-16T03:45:59+08:00" /><meta property="og:site_name" content="DoraemonJ’s Blog" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://doraemonj.github.io/logo.png"/>
+
+<meta name="twitter:title" content="一鼻子闻出逻辑谬误"/>
+<meta name="twitter:description" content="逻辑谬误阶段复习：形式谬误01"/>
+<meta name="application-name" content="DoraemonJ’s Blog">
+<meta name="apple-mobile-web-app-title" content="DoraemonJ’s Blog"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://doraemonj.github.io/logical_fallacy_017/" /><link rel="prev" href="https://doraemonj.github.io/lever_legend/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "一鼻子闻出逻辑谬误",
+        "inLanguage": "zh-CN",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/doraemonj.github.io\/logical_fallacy_017\/"
+        },"genre": "posts","keywords": "逻辑谬误","wordcount":  2096 ,
+        "url": "https:\/\/doraemonj.github.io\/logical_fallacy_017\/","datePublished": "2022-06-16T03:45:59+08:00","dateModified": "2022-06-16T03:45:59+08:00","publisher": {
+            "@type": "Organization",
+            "name": ""},"author": {
+                "@type": "Person",
+                "name": "DoraemonJ"
+            },"description": ""
+    }
+    </script></head>
+    <body header-desktop="fixed" header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="DoraemonJ’s Blog">DoraemonJ’s Blog</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"> 文章 </a><a class="menu-item" href="/tags/"> 标签 </a><a class="menu-item" href="/categories/"> 分类 </a><a class="menu-item" href="/about/"> 关于 </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item language" title="选择语言">简体中文<i class="fas fa-chevron-right fa-fw"></i>
+                        <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/logical_fallacy_017/" selected>简体中文</option></select>
+                    </a><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="中文搜索特别快" id="search-input-desktop">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="搜索">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="清空">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-desktop">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+                    <i class="fas fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="DoraemonJ’s Blog">DoraemonJ’s Blog</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><div class="search-wrapper">
+                    <div class="search mobile" id="search-mobile">
+                        <input type="text" placeholder="中文搜索特别快" id="search-input-mobile">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="搜索">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="清空">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-mobile">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </div>
+                    <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+                        取消
+                    </a>
+                </div><a class="menu-item" href="/posts/" title="">文章</a><a class="menu-item" href="/tags/" title="">标签</a><a class="menu-item" href="/categories/" title="">分类</a><a class="menu-item" href="/about/" title="">关于</a><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a><a href="javascript:void(0);" class="menu-item" title="选择语言">简体中文<i class="fas fa-chevron-right fa-fw"></i>
+                    <select class="language-select" onchange="location = this.value;"><option value="/logical_fallacy_017/" selected>简体中文</option></select>
+                </a></div>
+    </div>
+</header>
+<div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+</div>
+<main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">目录</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animated flipInX">一鼻子闻出逻辑谬误</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fa"></i>DoraemonJ</a>
+</span>&nbsp;<span class="post-category">类别 <a href="/categories/%E9%80%BB%E8%BE%91%E8%B0%AC%E8%AF%AF/"><i class="far fa-folder fa-fw"></i>逻辑谬误</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2022-06-16">2022-06-16</time>&nbsp;</div>
+        </div><div class="featured-image"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/qf_1655322423.png"
+        data-srcset="https://doraemonj.github.io/pics/qf_1655322423.png, https://doraemonj.github.io/pics/qf_1655322423.png 1.5x, https://doraemonj.github.io/pics/qf_1655322423.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/qf_1655322423.png"
+        title="https://doraemonj.github.io/pics/qf_1655322423.png" /></div><div class="details toc" id="toc-static"  kept="">
+                <div class="details-summary toc-title">
+                    <span>目录</span>
+                    <span><i class="details-icon fas fa-angle-right"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#1命题逻辑谬误">1、命题逻辑谬误</a>
+          <ul>
+            <li><a href="#1肯定后件">1）肯定后件</a></li>
+            <li><a href="#2否定前件">2）否定前件</a></li>
+            <li><a href="#3肯定选言">3）肯定选言</a></li>
+            <li><a href="#4否定联言">4）否定联言</a></li>
+          </ul>
+        </li>
+        <li><a href="#2量化词逻辑谬误">2、量化词逻辑谬误</a>
+          <ul>
+            <li><a href="#1无端对立">1）无端对立</a></li>
+            <li><a href="#2非法换位">2）非法换位</a></li>
+            <li><a href="#3不当换质换位">3）不当换质换位</a></li>
+            <li><a href="#4存在性谬误">4）存在性谬误</a></li>
+            <li><a href="#5量化词对调">5）量化词对调</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><p>100多年前，人们普遍认为记忆力不好或者不用功学习就容易忘记，但艾宾浩斯画了一根曲线告诉人们：学了忘，忘了学，学了之后还会忘，但相隔四段以上时间之后，普遍比单纯记忆一次的效果要好太多。</p>
+<p>这就是著名的艾宾浩斯遗忘曲线（Forgetting curve）。</p>
+<div align="center"><img src="https://doraemonj.github.io/pics/500px-ForgettingCurve.svg.png" alt="500px-ForgettingCurve.svg" style="zoom:100%;" /></div>
+<p>100多年后，这条曲线几乎成为全世界考生的圣经，似乎这根曲线的高度等于他们未来人生阶层的高度，所以他们像西西弗斯那样，夜以继日地把巨石球推上山。</p>
+<p>考生普遍不太会去记忆那些长期技能，比如逻辑，因为99%以上的专业没有逻辑课，而且就算有，也是光秃秃的数理逻辑，和日常生活不太沾边的抽象思考，看了让人肝颤。</p>
+<p>到最后大多数人失去受用一生的判断能力，原因居然是不知道判断能力是一种能力，而且是一种不难的能力，你需要简单地了解到他，并接受刻意训练。</p>
+<p>通过过去的16篇文章，我们已经了解了16种谬误，这些谬误都属于形式谬误——推理中有逻辑结构缺陷，使得推理在逻辑上无效。</p>
+<p>学过之前专栏文章的读者朋友能理解：不是所有的形式谬误都会推导出错误的结论，但形式谬误的推导过程都有逻辑问题，找出问题，才能接近本质。</p>
+<p>形式逻辑主要分为三大类，好巧，这三大类我们都学过，所以，复习吧~</p>
+<h3 id="1命题逻辑谬误">1、命题逻辑谬误</h3>
+<p>我们不是哲学或逻辑学专业的，所以把『命题』理解为『判断』或者『推理』，那么更有助于我们理解逻辑。</p>
+<p>命题逻辑是把命题看做不可分割的整体，对多个命题做真假值运算，主要运算包括：非、联言（且）、选言（或）、蕴含（若）、等值（当且仅当）。违反命题逻辑运算规则的，都是<strong>命题逻辑谬误</strong>。</p>
+<h4 id="1肯定后件">1）肯定后件</h4>
+<p>以前提中的结论作为条件，推导出条件必然成立。</p>
+<ol>
+<li></li>
+</ol>
+<blockquote>
+<p>如果车没油，那么车跑不起来。<br />
+现在，车没跑起来，<br />
+所以，车一定没油。</p>
+</blockquote>
+<ol start="2">
+<li></li>
+</ol>
+<blockquote>
+<p>所有骑士都穿盔甲。<br />
+那个人穿了盔甲，<br />
+所以，那个人是骑士。</p>
+</blockquote>
+<p>『若P则Q』为真，且Q为真，推得P为真。</p>
+<h4 id="2否定前件">2）否定前件</h4>
+<p>否定前提中的条件，以此否定原结论。</p>
+<ol>
+<li></li>
+</ol>
+<blockquote>
+<p>如果锯子响了，就会有木屑碎末。<br />
+现在，锯子没响，<br />
+所以，一定没末。</p>
+</blockquote>
+<ol start="2">
+<li></li>
+</ol>
+<blockquote>
+<p>如果一早路面湿了，那么昨晚就下过雨。<br />
+今天一早路面没湿。<br />
+所以，昨晚没下雨。</p>
+</blockquote>
+<p>『若P则Q』为真，且P为假，推得Q为假。</p>
+<h4 id="3肯定选言">3）肯定选言</h4>
+<p>前提有两个选言支，前提明确选言支合并结果为真，肯定其中一个，而否定另一个。</p>
+<ol>
+<li></li>
+</ol>
+<blockquote>
+<p>杂志封面人物必须长得漂亮，或者是名人才行。<br />
+这个月的封面人物是一位名人，<br />
+所以，这位名人一定不美。</p>
+</blockquote>
+<ol start="2">
+<li></li>
+</ol>
+<blockquote>
+<p>要么鱼死，要么网破，<br />
+现在鱼死了，<br />
+所以，网没破。</p>
+</blockquote>
+<p>『P或Q』为真，且P为真，推得Q为假。</p>
+<h4 id="4否定联言">4）否定联言</h4>
+<p>前提有两个联言支，前提明确联言支合并结果为假，否定其中一个，而肯定另一个。</p>
+<ol>
+<li></li>
+</ol>
+<blockquote>
+<p>你不能既在深圳，又在上海。 <br />
+现在，你不在深圳。 <br />
+所以，你现在在上海。</p>
+</blockquote>
+<ol start="2">
+<li></li>
+</ol>
+<blockquote>
+<p>做人不能既当又立，<br />
+我没当，<br />
+所以，我一定立了。</p>
+</blockquote>
+<p>『P且Q』不为真，且P不为真，推得Q为真。</p>
+<hr>
+<p>以上四种谬误为命题逻辑谬误，推理过程存在硬伤，需要我们多加刻意练习，练到不经大脑，一眼识别，一耳拎清，一鼻子闻出来。</p>
+<hr>
+<h3 id="2量化词逻辑谬误">2、量化词逻辑谬误</h3>
+<p>这是对命题逻辑的扩充，引入量化词运算子『对于所有的……』、『存在……』，误用量化词相关运算规则，就会构成量化词逻辑谬误，有以下五种：</p>
+<h4 id="1无端对立">1）无端对立</h4>
+<p>把特称肯定句与特称否定句互转。</p>
+<ol>
+<li></li>
+</ol>
+<blockquote>
+<p>你店里有些牛奶没过期，<br />
+所以，你店里有些牛奶过期了。</p>
+</blockquote>
+<ol start="2">
+<li></li>
+</ol>
+<blockquote>
+<p>有些蚂蚁不是人，<br />
+所以，有些蚂蚁是人。</p>
+</blockquote>
+<p>特称肯定句往往给接收者理解上产生这样的暗示：『有些是，那么就有些不是』。才会批量生产神逻辑。</p>
+<h4 id="2非法换位">2）非法换位</h4>
+<p>亚里士多德老师敲黑板：请复习A、E、I、O的对立四边形：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">类型</th>
+<th style="text-align:center">代号</th>
+<th style="text-align:center">形式</th>
+<th style="text-align:center">举例</th>
+<th style="text-align:center">能否换位</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">全称肯定</td>
+<td style="text-align:center">A（SaP）</td>
+<td style="text-align:center">所有S是P</td>
+<td style="text-align:center">所有猫都有四条腿</td>
+<td style="text-align:center"><font color='red'> 否</font></td>
+</tr>
+<tr>
+<td style="text-align:center">全称否定</td>
+<td style="text-align:center">E（SeP）</td>
+<td style="text-align:center">没有S是P</td>
+<td style="text-align:center">所有猫都不是狗</td>
+<td style="text-align:center">能</td>
+</tr>
+<tr>
+<td style="text-align:center">特称肯定</td>
+<td style="text-align:center">I（SiP）</td>
+<td style="text-align:center">有些S不是P</td>
+<td style="text-align:center">有些狗是宠物</td>
+<td style="text-align:center">能</td>
+</tr>
+<tr>
+<td style="text-align:center">特称否定</td>
+<td style="text-align:center">O（SoP）</td>
+<td style="text-align:center">有些S不是P</td>
+<td style="text-align:center">有些猫不是宠物</td>
+<td style="text-align:center"><font color='red'>  否</font></td>
+</tr>
+</tbody>
+</table>
+<p>只有E和I两种情况下可以换位：</p>
+<ol>
+<li>E（全称否定）合法换位</li>
+</ol>
+<blockquote>
+<p>鲸鱼都不是鱼，<br />
+所以，鱼都不是鲸鱼。</p>
+</blockquote>
+<ol start="2">
+<li>I（特称肯定）合法换位</li>
+</ol>
+<blockquote>
+<p>有些苹果是水果，<br />
+所以，有些水果是苹果。</p>
+</blockquote>
+<p>A和O则不能：</p>
+<ol start="3">
+<li>A（全称肯定）非法换位：</li>
+</ol>
+<blockquote>
+<p>所有喜剧演员都是有趣的人，<br />
+所以，所有有趣的人都是喜剧演员。</p>
+</blockquote>
+<ol start="4">
+<li>O（特称否定）非法换位：</li>
+</ol>
+<blockquote>
+<p>有些马路铺沥青，<br />
+所以，有些马路没铺沥青。</p>
+</blockquote>
+<h4 id="3不当换质换位">3）不当换质换位</h4>
+<p>换质，就是转换是与非：把『是』换成『非』，或者把『非』换成『是』。</p>
+<p>换位，就是对调前后件：把『前件』换成『后件』，『前件』相当于『如果』之后的内容；『后件』相当于『那么』之后的内容。</p>
+<p>如果换质换位过程中，出了逻辑问题，那就是不当换质换位，比如：</p>
+<blockquote>
+<p>真金不怕火炼，<br />
+所以，不真的金才怕火炼。</p>
+</blockquote>
+<p>另外，肯定后件也是一种不当换质换位，即所谓的换位不换质。</p>
+<p>换质换位的一般程序是：<strong>先换质，后换位。</strong></p>
+<blockquote>
+<p>真金不怕火炼<br />
+先换质：真金不是怕或炼的<br />
+再换位：怕或炼的不是真金</p>
+</blockquote>
+<h4 id="4存在性谬误">4）存在性谬误</h4>
+<p>错误假设某些集合非空</p>
+<ol>
+<li></li>
+</ol>
+<blockquote>
+<p>所有打人者都将被起诉，<br />
+因此，被起诉的人中有些是打人者。</p>
+</blockquote>
+<ol start="2">
+<li></li>
+</ol>
+<blockquote>
+<p>每个独角兽额头上只有一只角，<br />
+所以，有些独角兽额头上只有一只角。</p>
+</blockquote>
+<p>从『对于所有的X』推理出『一定存在X』，这是存在性谬误的核心。</p>
+<h4 id="5量化词对调">5）量化词对调</h4>
+<ol>
+<li></li>
+</ol>
+<blockquote>
+<p>每个人都爱着一些人，<br />
+所以，有些人是每个人都爱的。</p>
+</blockquote>
+<ol start="2">
+<li>注意反向量化词对调的情形，这是正确的：</li>
+</ol>
+<blockquote>
+<p>有一个女人，是隔壁一家所有孩子的母亲，<br />
+所以，对于隔壁一家的所有孩子来说，都有一个女人作为母亲。</p>
+</blockquote>
+<p>把『对于所有的…存在…』对调为『存在…对于所有的…』</p>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>更新于 2022-06-16</span>
+            </div>
+            <div class="post-info-license"></div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md"></div>
+            <div class="post-info-share">
+                <span></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/%E9%80%BB%E8%BE%91%E8%B0%AC%E8%AF%AF/">逻辑谬误</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/lever_legend/" class="prev" rel="prev" title="杠杆不是不能用，但要区分硬和软"><i class="fas fa-angle-left fa-fw"></i>杠杆不是不能用，但要区分硬和软</a></div>
+</div>
+<div id="comments"><div id="disqus_thread" class="comment"></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://disqus.com/?ref_noscript">Disqus</a>.
+            </noscript></div></article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="links"><a href="https://github.com/doraemonj" title="GitHub" target="_blank" rel="noopener noreffer me"><i class="fab fa-github-alt fa-fw"></i></a>
+<a href="https://twitter.com/ChrisHowardaka" title="Twitter" target="_blank" rel="noopener noreffer me"><i class="fab fa-twitter fa-fw"></i></a>
+<a href="https://stackoverflow.com/users/19108034" title="Stack Overflow" target="_blank" rel="noopener noreffer me"><i class="fab fa-codepen fa-fw"></i></a>
+<a href="mailto:chrishowardaka@gmail.com" title="Email" rel=" me"><i class="far fa-envelope fa-fw"></i></a>
+</div></div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="回到顶部">
+                <i class="fas fa-arrow-up fa-fw"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="查看评论">
+                <i class="fas fa-comment fa-fw"></i>
+            </a>
+        </div><link rel="stylesheet" href="/lib/katex/katex.min.css"><link rel="stylesheet" href="/lib/katex/copy-tex.min.css"><script type="text/javascript" src="https://doraemonj.disqus.com/embed.js" defer></script><script type="text/javascript" src="/lib/smooth-scroll/smooth-scroll.min.js"></script><script type="text/javascript" src="/lib/autocomplete/autocomplete.min.js"></script><script type="text/javascript" src="/lib/algoliasearch/algoliasearch-lite.umd.min.js"></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lib/sharer/sharer.min.js"></script><script type="text/javascript" src="/lib/katex/katex.min.js"></script><script type="text/javascript" src="/lib/katex/auto-render.min.js"></script><script type="text/javascript" src="/lib/katex/copy-tex.min.js"></script><script type="text/javascript" src="/lib/katex/mhchem.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"复制到剪贴板","maxShownLines":50},"comment":{},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"algoliaAppID":"NXTYKU1SMH","algoliaIndex":"new-index-1647494341","algoliaSearchKey":"d28b83e5fcea4023c2c073c5e9ec3535","highlightTag":"em","maxResultLength":10,"noResultsFound":"没有找到结果","snippetLength":50,"type":"algolia"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>

@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://doraemonj.github.io/categories/</loc><lastmod>2022-06-15T15:34:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/categories/</loc><lastmod>2022-06-16T03:45:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/categories/"
@@ -11,7 +11,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/categories/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/</loc><lastmod>2022-06-15T15:34:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/</loc><lastmod>2022-06-16T03:45:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/"
@@ -20,7 +20,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/posts/</loc><lastmod>2022-06-15T15:34:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/posts/</loc><lastmod>2022-06-16T03:45:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/posts/"
@@ -29,7 +29,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/posts/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/</loc><lastmod>2022-06-15T15:34:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/tags/</loc><lastmod>2022-06-16T03:45:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/tags/"
@@ -38,6 +38,9 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/tags/"
                     /></url><url>
+            <loc>https://doraemonj.github.io/logical_fallacy_017/</loc><lastmod>2022-06-16T03:45:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/tags/%E9%80%BB%E8%BE%91%E8%B0%AC%E8%AF%AF/</loc><lastmod>2022-06-16T03:45:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/categories/%E9%80%BB%E8%BE%91%E8%B0%AC%E8%AF%AF/</loc><lastmod>2022-06-16T03:45:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/tags/%E6%9D%A0%E6%9D%86/</loc><lastmod>2022-06-15T15:34:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/lever_legend/</loc><lastmod>2022-06-15T15:34:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/categories/%E8%B5%84%E6%9C%AC/</loc><lastmod>2022-06-15T15:34:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
@@ -50,8 +53,6 @@
                     href="https://doraemonj.github.io/categories/%E8%B5%84%E6%9C%AC/"
                     /></url><url>
             <loc>https://doraemonj.github.io/logical_fallacy_016/</loc><lastmod>2022-06-15T06:12:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/tags/%E9%80%BB%E8%BE%91%E8%B0%AC%E8%AF%AF/</loc><lastmod>2022-06-15T06:12:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/categories/%E9%80%BB%E8%BE%91%E8%B0%AC%E8%AF%AF/</loc><lastmod>2022-06-15T06:12:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/logical_fallacy_015/</loc><lastmod>2022-06-14T09:52:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/logical_fallacy_014/</loc><lastmod>2022-06-13T06:56:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/logical_fallacy_013/</loc><lastmod>2022-06-12T05:56:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
@@ -124,10 +125,10 @@
             <loc>https://doraemonj.github.io/logical_fallacy_006/</loc><lastmod>2022-06-04T22:36:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>https://doraemonj.github.io/translation_tutorial_02/</loc><lastmod>2022-06-04T07:23:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>https://doraemonj.github.io/logical_fallacy_005/</loc><lastmod>2022-06-03T08:40:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>https://doraemonj.github.io/logical_fallacy_004/</loc><lastmod>2022-06-02T05:15:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>https://doraemonj.github.io/tags/english-learning/</loc><lastmod>2022-06-01T21:05:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>https://doraemonj.github.io/categories/english-learning/</loc><lastmod>2022-06-01T21:05:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>https://doraemonj.github.io/funny_english_002/</loc><lastmod>2022-06-01T21:05:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://doraemonj.github.io/logical_fallacy_004/</loc><lastmod>2022-06-02T05:15:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://doraemonj.github.io/tags/english-learning/</loc><lastmod>2022-06-01T21:05:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://doraemonj.github.io/categories/english-learning/</loc><lastmod>2022-06-01T21:05:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://doraemonj.github.io/funny_english_002/</loc><lastmod>2022-06-01T21:05:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>https://doraemonj.github.io/logical_fallacy_003/</loc><lastmod>2022-06-01T07:16:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>https://doraemonj.github.io/tags/%E9%80%9A%E8%AF%86/</loc><lastmod>2022-06-01T06:53:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>https://doraemonj.github.io/categories/%E9%80%9A%E8%AF%86%E5%9C%B0%E5%9B%BE/</loc><lastmod>2022-06-01T06:53:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
