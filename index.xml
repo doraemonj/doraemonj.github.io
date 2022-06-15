@@ -3,9 +3,18 @@
         <title>DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/</link>
         <description>DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 15 Jun 2022 06:12:07 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 15 Jun 2022 15:34:04 &#43;0800</lastBuildDate>
             <atom:link href="https://doraemonj.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>杠杆不是不能用，但要区分硬和软</title>
+    <link>https://doraemonj.github.io/lever_legend/</link>
+    <pubDate>Wed, 15 Jun 2022 15:34:04 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/lever_legend/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/qf_1655278277.png" referrerpolicy="no-referrer">
+            </div>预期盈利的背后，是不可能估计到的损失]]></description>
+</item><item>
     <title>不能既当又立，可以不当不立？</title>
     <link>https://doraemonj.github.io/logical_fallacy_016/</link>
     <pubDate>Wed, 15 Jun 2022 06:12:07 &#43;0800</pubDate>
@@ -86,12 +95,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/pics/qf_1654427889.png" referrerpolicy="no-referrer">
             </div>逻辑谬误008：谬误谬误]]></description>
-</item><item>
-    <title>清算：华尔街的民族志</title>
-    <link>https://doraemonj.github.io/liquidated/</link>
-    <pubDate>Sun, 05 Jun 2022 23:40:34 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/liquidated/</guid>
-    <description><![CDATA[Liquidated: AN ETHNOGRAPHY OF WALL STREET]]></description>
 </item></channel>
 </rss>
