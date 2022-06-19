@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5d894a7-4d7b-493a-ab4d-94cce6f12fed</dc:identifier>
+        <dc:title>Logic Made Easy: How to Know When Language Deceives You</dc:title>
+        <dc:creator opf:file-as="Bennett, Deborah J." opf:role="aut">Deborah J. Bennett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.35.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-17T23:55:24+00:00</dc:date>
+        <dc:description>logic</dc:description>
+        <dc:language>zh</dc:language>
+        <dc:subject>logic</dc:subject>
+        <dc:subject>critical thinking</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Deborah J. Bennett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-06-18T12:37:00.323499+00:00"/>
+        <meta name="calibre:title_sort" content="Logic Made Easy: How to Know When Language Deceives You"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
