@@ -3,9 +3,18 @@
         <title>DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/</link>
         <description>DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 16 Jun 2022 03:45:59 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 18 Jul 2022 12:10:43 &#43;0800</lastBuildDate>
             <atom:link href="https://doraemonj.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>私人图书馆核心工具</title>
+    <link>https://doraemonj.github.io/hugo_private_library_tutorial_zh-cn/</link>
+    <pubDate>Mon, 18 Jul 2022 12:10:43 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/hugo_private_library_tutorial_zh-cn/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/hugo-wide.jpeg" referrerpolicy="no-referrer">
+            </div>Hugo：极速搭建你的图书馆]]></description>
+</item><item>
     <title>一鼻子闻出逻辑谬误</title>
     <link>https://doraemonj.github.io/logical_fallacy_017/</link>
     <pubDate>Thu, 16 Jun 2022 03:45:59 &#43;0800</pubDate>
@@ -86,14 +95,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/pics/qf-1654651706.png" referrerpolicy="no-referrer">
             </div>逻辑谬误010：无端对立]]></description>
-</item><item>
-    <title>谬误之所以危险，因为看起来好有道理</title>
-    <link>https://doraemonj.github.io/logical_fallacy_009/</link>
-    <pubDate>Tue, 07 Jun 2022 10:39:59 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/logical_fallacy_009/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/qf_1654565027.png" referrerpolicy="no-referrer">
-            </div>逻辑谬误009：互斥前提]]></description>
 </item></channel>
 </rss>
