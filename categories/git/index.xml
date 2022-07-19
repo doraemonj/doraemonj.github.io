@@ -1,14 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Git - Category - DoraemonJ’s Blog</title>
+        <title>Git - 分类 - DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/categories/git/</link>
-        <description>Git - Category - DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 13 Mar 2022 19:04:50 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/categories/git/" rel="self" type="application/rss+xml" /><item>
-    <title>Delete a Git File or Folder While Keeping the Local Ones</title>
-    <link>https://doraemonj.github.io/git_rm/</link>
-    <pubDate>Sun, 13 Mar 2022 19:04:50 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://doraemonj.github.io/git_rm/</guid>
-    <description><![CDATA[Delete Git files or folders]]></description>
+        <description>Git - 分类 - DoraemonJ’s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 19 Jul 2022 14:51:30 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/categories/git/" rel="self" type="application/rss+xml" /><item>
+    <title>私人图书馆：版本管理工具</title>
+    <link>https://doraemonj.github.io/private_library_tutorial_git/</link>
+    <pubDate>Tue, 19 Jul 2022 14:51:30 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/private_library_tutorial_git/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/git_003.jpeg" referrerpolicy="no-referrer">
+            </div>Git：你昨天就应该学会驾驶的时光机]]></description>
 </item></channel>
 </rss>

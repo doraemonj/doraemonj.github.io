@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <title>私人图书馆：版本管理工具 - DoraemonJ’s Blog</title><meta name="Description" content="DoraemonJ’s Blog"><meta property="og:title" content="私人图书馆：版本管理工具" />
+<meta property="og:description" content="Git：你昨天就应该学会驾驶的时光机" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://doraemonj.github.io/private_library_tutorial_git/" /><meta property="og:image" content="https://doraemonj.github.io/logo.png"/><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-07-19T14:51:30+08:00" />
+<meta property="article:modified_time" content="2022-07-19T14:51:30+08:00" /><meta property="og:site_name" content="DoraemonJ’s Blog" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://doraemonj.github.io/logo.png"/>
+
+<meta name="twitter:title" content="私人图书馆：版本管理工具"/>
+<meta name="twitter:description" content="Git：你昨天就应该学会驾驶的时光机"/>
+<meta name="application-name" content="DoraemonJ’s Blog">
+<meta name="apple-mobile-web-app-title" content="DoraemonJ’s Blog"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://doraemonj.github.io/private_library_tutorial_git/" /><link rel="prev" href="https://doraemonj.github.io/private_library_tutorial_hugo/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "私人图书馆：版本管理工具",
+        "inLanguage": "zh-CN",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/doraemonj.github.io\/private_library_tutorial_git\/"
+        },"genre": "posts","keywords": "Git","wordcount":  1616 ,
+        "url": "https:\/\/doraemonj.github.io\/private_library_tutorial_git\/","datePublished": "2022-07-19T14:51:30+08:00","dateModified": "2022-07-19T14:51:30+08:00","publisher": {
+            "@type": "Organization",
+            "name": ""},"author": {
+                "@type": "Person",
+                "name": "Chris"
+            },"description": ""
+    }
+    </script></head>
+    <body header-desktop="fixed" header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="DoraemonJ’s Blog">DoraemonJ’s Blog</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"> 文章 </a><a class="menu-item" href="/tags/"> 标签 </a><a class="menu-item" href="/categories/"> 分类 </a><a class="menu-item" href="/about/"> 关于 </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item language" title="选择语言">简体中文<i class="fas fa-chevron-right fa-fw"></i>
+                        <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/private_library_tutorial_git/" selected>简体中文</option></select>
+                    </a><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="中文搜索特别快" id="search-input-desktop">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="搜索">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="清空">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-desktop">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+                    <i class="fas fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="DoraemonJ’s Blog">DoraemonJ’s Blog</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><div class="search-wrapper">
+                    <div class="search mobile" id="search-mobile">
+                        <input type="text" placeholder="中文搜索特别快" id="search-input-mobile">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="搜索">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="清空">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-mobile">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </div>
+                    <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+                        取消
+                    </a>
+                </div><a class="menu-item" href="/posts/" title="">文章</a><a class="menu-item" href="/tags/" title="">标签</a><a class="menu-item" href="/categories/" title="">分类</a><a class="menu-item" href="/about/" title="">关于</a><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a><a href="javascript:void(0);" class="menu-item" title="选择语言">简体中文<i class="fas fa-chevron-right fa-fw"></i>
+                    <select class="language-select" onchange="location = this.value;"><option value="/private_library_tutorial_git/" selected>简体中文</option></select>
+                </a></div>
+    </div>
+</header>
+<div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+</div>
+<main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">目录</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animated flipInX">私人图书馆：版本管理工具</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fa"></i>Chris</a>
+</span>&nbsp;<span class="post-category">类别 <a href="/categories/git/"><i class="far fa-folder fa-fw"></i>Git</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2022-07-19">2022-07-19</time>&nbsp;</div>
+        </div><div class="featured-image"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/git_003.jpeg"
+        data-srcset="https://doraemonj.github.io/pics/git_003.jpeg, https://doraemonj.github.io/pics/git_003.jpeg 1.5x, https://doraemonj.github.io/pics/git_003.jpeg 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/git_003.jpeg"
+        title="https://doraemonj.github.io/pics/git_003.jpeg" /></div><div class="details toc" id="toc-static"  kept="">
+                <div class="details-summary toc-title">
+                    <span>目录</span>
+                    <span><i class="details-icon fas fa-angle-right"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#1安装">1、安装</a></li>
+        <li><a href="#2添加">2、添加</a></li>
+        <li><a href="#3一次麻烦方便终身">3、一次麻烦，方便终身</a></li>
+        <li><a href="#结语">结语</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><blockquote>
+<p>Git是互联网诞生后最伟大的发明，没有之一。</p>
+</blockquote>
+<p>在程序员世界里，这是一条共识。因为版本管理工具Git早已经像空气一样，渗透进每一行代码字母的边缘。</p>
+<p>如果没有Git这股空气，世界各地的程序员一定会像八爪鱼一样，面对不断迭代的代码百抓挠心，窒息而亡。</p>
+<p>但自从有了Git之后，世界为之一爽。</p>
+<p>程序员们再也不用为其他程序员错改一个字母而拍桌子摔凳子，无论多么复杂的代码协作，都只需要一行代码搞定，责任清晰。</p>
+<p>动动手指，就能统治自己的意识世界。</p>
+<p>图书馆也是我们自己意识世界的一部分，Git当然也能轻松统治，治大馆如烹小鲜。</p>
+<p>同时，Git的入门难名扬海内外，很多人因为Git的难以理解而卡在了入门关的门缝里。他们只是暂时没有理解一件事，那就是：Git并不复杂，它只是难以理解而已。</p>
+<p>我们的优势在于，有图书馆这个目标场景支撑，可以让我们用三条命令就能直捣黄龙，完成一套全流程的应用。如果你是Git的初学者，甚至在没有理解任何Git知识点时，你就已经直接会用了。</p>
+<p>所以，别怕，三板斧搞定基本操作。</p>
+<h3 id="1安装">1、安装</h3>
+<p>Mac OS 一般都默认安装了Git，如果你是Windows或Linux用户，可使用搜索引擎下载安装。</p>
+<p>检查是否安装请在命令行使用命令：</p>
+<blockquote>
+<p>git version</p>
+</blockquote>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220719_152436.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220719_152436.png, https://doraemonj.github.io/pics/screenshot_20220719_152436.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220719_152436.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220719_152436.png"
+        title="screenshot_20220719_152436" /></p>
+<p>如果显示 <code>git version 2.32.1</code> 的字样，说明已经安装，版本号差异对结果没有影响，可以忽略。</p>
+<h3 id="2添加">2、添加</h3>
+<p>复习下我们在上篇文章中的内容：<code>hugo server</code>命令生成图书馆，在<code>http://localhost:1313/</code>中进行查看，生成的图书馆在config.toml文档中设置publishDir参数行设置。</p>
+<p>你可以定义你自己的路径，演示时设置publishDir为 <code>/Users/tangqiang/doraemonj/</code>，那么图书馆的实体就产生在这个路径下。</p>
+<p>假设你已经<a href="https://doraemonj.github.io/create_github_pages/" target="_blank" rel="noopener noreffer">注册Github Pages</a>
+，在命令行输入：</p>
+<blockquote>
+<p>cd ..</p>
+</blockquote>
+<p>返回上一级目录，然后输入：</p>
+<blockquote>
+<p>cd doraemonj</p>
+</blockquote>
+<p>进入图书馆实体目录，也就是publishDir所定义的目录：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220719_184117.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220719_184117.png, https://doraemonj.github.io/pics/screenshot_20220719_184117.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220719_184117.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220719_184117.png"
+        title="screenshot_20220719_184117" /></p>
+<p>首次操作需要在命令行输入6行代码，输入时忽略段首数字行号：<font color='grey'>灰色 1、2、3……</font></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>git init
+<span class="ln">2</span>git add .
+<span class="ln">3</span>git commit -m &#34;first commit&#34;
+<span class="ln">4</span>git branch -M main
+<span class="ln">5</span>git remote add origin https://github.com/doraemonj/doraemonj.github.io.git
+<span class="ln">6</span>git push -u origin main
+</code></pre></div><p>解释：</p>
+<ol>
+<li>
+<p><code>git init</code> 启动版本管理，『本版管理』可以理解为方便得管理巨型文件夹，不管这个文件夹有多复杂，更新了多少次，有多少人改动过代码，一旦<code>git init</code>一下，都能轻松管理到位。</p>
+</li>
+<li>
+<p><code>git add .</code> 把文件夹内的所有文件纳入版本管理，这里的英文句号<code>.</code>代表所有文件。如果你要增加某个特定的文件，只要输入特定的文件名即可，如：<code>git add a.txt</code></p>
+</li>
+<li>
+<p><code>git commit -m &quot;first commit&quot;</code> 做一次提交，提交（commit）的意思是：确认本次修改，这里的『修改』小到增删一个字符，大到增删千万个文件，每次提交都能确认，并供以后随时反悔。也就是说，只要你提交过，不管多久以后，你都能乘坐Git这架时光机回到此时此刻。这也是版本管理的核心意义。<code>注意，commit之前必须add</code>。</p>
+</li>
+<li>
+<p><code>git branch -M main</code> 设置分支名为<code>main</code>。可以把『分支』简单理解为『临时版本』，可以保留，也可以被正式版本替代。</p>
+<p>Git的默认分支名原为<code>master</code>，只不过<code>master</code>听起来像『奴隶主』的意思，让人不禁联想起南北战争前的美帝奴隶贸易，招来很多美帝平等人士的抗议，所以帮助Git做远程管理的平台Github提议将默认的分支名<code>master</code>改为<code>main</code>，缓解了抗议情绪。</p>
+</li>
+<li>
+<p><code>git remote add origin https://github.com/doraemonj/doraemonj.github.io.git</code> 添加远程仓库<code>origin</code>，这里的前提是需注册好github帐号，可参阅<a href="https://doraemonj.github.io/create_github_pages/" target="_blank" rel="noopener noreffer">注册Github Pages</a>
+一文。</p>
+</li>
+<li>
+<p><code>git push -u origin main</code> 推送到远程服务器</p>
+</li>
+</ol>
+<h3 id="3一次麻烦方便终身">3、一次麻烦，方便终身</h3>
+<p>第一次操作稍微复杂，以后每次操作只需要其中的3条：</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>git add .
+<span class="ln">2</span>git commit -m &#34;regular update&#34;
+<span class="ln">3</span>git push -u origin main
+</code></pre></div><p>如果你设置过git的简化操作，以上代码可以简化为：</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>git add .
+<span class="ln">2</span>git cmt
+<span class="ln">3</span>git push
+</code></pre></div><p>没有错，着三行就是你今后要维护一个大型私人图书馆的全部操作命令。</p>
+<h3 id="结语">结语</h3>
+<p>这个完全由你掌控的图书馆，全部基于近10多年来的开源代码和基础设施，流程稍显复杂，需要花点时间揣摩运用，如果想一步到位的话，请找我，我可以帮你付费省时间：</p>
+<p>Mixin：29273</p>
+<p>Email：chrishowardaka@gmail.com</p>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>更新于 2022-07-19</span>
+            </div>
+            <div class="post-info-license"></div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md"></div>
+            <div class="post-info-share">
+                <span></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/git/">Git</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/private_library_tutorial_hugo/" class="prev" rel="prev" title="私人图书馆核心工具"><i class="fas fa-angle-left fa-fw"></i>私人图书馆核心工具</a></div>
+</div>
+<div id="comments"><div id="disqus_thread" class="comment"></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://disqus.com/?ref_noscript">Disqus</a>.
+            </noscript></div></article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="links"><a href="https://github.com/doraemonj" title="GitHub" target="_blank" rel="noopener noreffer me"><i class="fab fa-github-alt fa-fw"></i></a>
+<a href="https://twitter.com/ChrisHowardaka" title="Twitter" target="_blank" rel="noopener noreffer me"><i class="fab fa-twitter fa-fw"></i></a>
+<a href="https://stackoverflow.com/users/19108034" title="Stack Overflow" target="_blank" rel="noopener noreffer me"><i class="fab fa-codepen fa-fw"></i></a>
+<a href="mailto:chrishowardaka@gmail.com" title="Email" rel=" me"><i class="far fa-envelope fa-fw"></i></a>
+</div></div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="回到顶部">
+                <i class="fas fa-arrow-up fa-fw"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="查看评论">
+                <i class="fas fa-comment fa-fw"></i>
+            </a>
+        </div><link rel="stylesheet" href="/lib/katex/katex.min.css"><link rel="stylesheet" href="/lib/katex/copy-tex.min.css"><script type="text/javascript" src="https://doraemonj.disqus.com/embed.js" defer></script><script type="text/javascript" src="/lib/smooth-scroll/smooth-scroll.min.js"></script><script type="text/javascript" src="/lib/autocomplete/autocomplete.min.js"></script><script type="text/javascript" src="/lib/algoliasearch/algoliasearch-lite.umd.min.js"></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lib/sharer/sharer.min.js"></script><script type="text/javascript" src="/lib/katex/katex.min.js"></script><script type="text/javascript" src="/lib/katex/auto-render.min.js"></script><script type="text/javascript" src="/lib/katex/copy-tex.min.js"></script><script type="text/javascript" src="/lib/katex/mhchem.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"复制到剪贴板","maxShownLines":50},"comment":{},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"algoliaAppID":"NXTYKU1SMH","algoliaIndex":"new-index-1647494341","algoliaSearchKey":"d28b83e5fcea4023c2c073c5e9ec3535","highlightTag":"em","maxResultLength":10,"noResultsFound":"没有找到结果","snippetLength":50,"type":"algolia"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>

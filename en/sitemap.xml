@@ -131,4 +131,12 @@
                     hreflang="en"
                     href="https://doraemonj.github.io/en/tags/git/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/en/categories/git/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://doraemonj.github.io/en/categories/git/</loc><lastmod>2022-03-13T19:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://doraemonj.github.io/categories/git/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://doraemonj.github.io/en/categories/git/"
+                    /></url></urlset>

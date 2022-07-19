@@ -3,12 +3,21 @@
         <title>全部文章 - DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/posts/</link>
         <description>全部文章 | DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 18 Jul 2022 12:10:43 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 19 Jul 2022 14:51:30 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>私人图书馆：版本管理工具</title>
+    <link>https://doraemonj.github.io/private_library_tutorial_git/</link>
+    <pubDate>Tue, 19 Jul 2022 14:51:30 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/private_library_tutorial_git/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/git_003.jpeg" referrerpolicy="no-referrer">
+            </div>Git：你昨天就应该学会驾驶的时光机]]></description>
+</item><item>
     <title>私人图书馆核心工具</title>
-    <link>https://doraemonj.github.io/hugo_private_library_tutorial/</link>
+    <link>https://doraemonj.github.io/private_library_tutorial_hugo/</link>
     <pubDate>Mon, 18 Jul 2022 12:10:43 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://doraemonj.github.io/hugo_private_library_tutorial/</guid>
+    <guid>https://doraemonj.github.io/private_library_tutorial_hugo/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/pics/hugo-wide.jpeg" referrerpolicy="no-referrer">
             </div>Hugo：极速搭建你的图书馆]]></description>
@@ -84,14 +93,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/pics/qf_1654827229.png" referrerpolicy="no-referrer">
             </div>逻辑谬误011：非法换位]]></description>
-</item><item>
-    <title>神逻辑：牛奶为什么过期？</title>
-    <link>https://doraemonj.github.io/logical_fallacy_010/</link>
-    <pubDate>Wed, 08 Jun 2022 09:46:47 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/logical_fallacy_010/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/qf-1654651706.png" referrerpolicy="no-referrer">
-            </div>逻辑谬误010：无端对立]]></description>
 </item></channel>
 </rss>

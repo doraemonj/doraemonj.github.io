@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://doraemonj.github.io/categories/</loc><lastmod>2022-07-18T12:10:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/categories/</loc><lastmod>2022-07-19T14:51:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/categories/"
@@ -11,7 +11,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/categories/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/</loc><lastmod>2022-07-18T12:10:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/</loc><lastmod>2022-07-19T14:51:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/"
@@ -20,9 +20,25 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/hugo/</loc><lastmod>2022-07-18T12:10:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/categories/hugo/</loc><lastmod>2022-07-18T12:10:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/posts/</loc><lastmod>2022-07-18T12:10:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/tags/git/</loc><lastmod>2022-07-19T14:51:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://doraemonj.github.io/en/tags/git/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://doraemonj.github.io/tags/git/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/categories/git/</loc><lastmod>2022-07-19T14:51:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://doraemonj.github.io/en/categories/git/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://doraemonj.github.io/categories/git/"
+                    /></url><url>
+            <loc>https://doraemonj.github.io/posts/</loc><lastmod>2022-07-19T14:51:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/posts/"
@@ -31,7 +47,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/posts/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/</loc><lastmod>2022-07-18T12:10:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/tags/</loc><lastmod>2022-07-19T14:51:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/tags/"
@@ -40,7 +56,10 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/tags/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/hugo_private_library_tutorial/</loc><lastmod>2022-07-18T12:10:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/private_library_tutorial_git/</loc><lastmod>2022-07-19T14:51:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/tags/hugo/</loc><lastmod>2022-07-18T12:10:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/categories/hugo/</loc><lastmod>2022-07-18T12:10:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/private_library_tutorial_hugo/</loc><lastmod>2022-07-18T12:10:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/about/</loc><lastmod>2022-07-13T09:52:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -65,7 +84,7 @@
                     href="https://doraemonj.github.io/categories/%E8%B5%84%E6%9C%AC/"
                     /></url><url>
             <loc>https://doraemonj.github.io/logical_fallacy_016/</loc><lastmod>2022-06-15T06:12:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://doraemonj.github.io/logical_fallacy_015/</loc><lastmod>2022-06-14T09:52:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://doraemonj.github.io/logical_fallacy_015/</loc><lastmod>2022-06-14T09:52:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://doraemonj.github.io/logical_fallacy_014/</loc><lastmod>2022-06-13T06:56:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://doraemonj.github.io/logical_fallacy_013/</loc><lastmod>2022-06-12T05:56:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://doraemonj.github.io/logical_fallacy_012/</loc><lastmod>2022-06-11T08:51:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -168,15 +187,6 @@
             <loc>https://doraemonj.github.io/categories/github/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://doraemonj.github.io/tags/pull-request/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://doraemonj.github.io/merge_pull_request/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://doraemonj.github.io/tags/git/</loc><lastmod>2022-03-14T16:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://doraemonj.github.io/en/tags/git/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://doraemonj.github.io/tags/git/"
-                    /></url><url>
             <loc>https://doraemonj.github.io/tags/github-pages/</loc><lastmod>2022-03-14T16:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://doraemonj.github.io/create_github_pages/</loc><lastmod>2022-03-14T16:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://doraemonj.github.io/tags/github-account/</loc><lastmod>2022-03-13T16:14:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
