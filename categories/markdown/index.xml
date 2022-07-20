@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>markdown - 分类 - DoraemonJ’s Blog</title>
+        <link>https://doraemonj.github.io/categories/markdown/</link>
+        <description>markdown - 分类 - DoraemonJ’s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 20 Jul 2022 14:29:37 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/categories/markdown/" rel="self" type="application/rss+xml" /><item>
+    <title>你的每一本书，都是一个md文档</title>
+    <link>https://doraemonj.github.io/private_library_tutorial_md/</link>
+    <pubDate>Wed, 20 Jul 2022 14:29:37 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/private_library_tutorial_md/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/markdown-guide-og.jpeg" referrerpolicy="no-referrer">
+            </div>markdown和Typora的使用]]></description>
+</item></channel>
+</rss>

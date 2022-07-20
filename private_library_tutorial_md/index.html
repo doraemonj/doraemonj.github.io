@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <title>你的每一本书，都是一个md文档 - DoraemonJ’s Blog</title><meta name="Description" content="DoraemonJ’s Blog"><meta property="og:title" content="你的每一本书，都是一个md文档" />
+<meta property="og:description" content="markdown和Typora的使用" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://doraemonj.github.io/private_library_tutorial_md/" /><meta property="og:image" content="https://doraemonj.github.io/logo.png"/><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-07-20T14:29:37+08:00" />
+<meta property="article:modified_time" content="2022-07-20T14:29:37+08:00" /><meta property="og:site_name" content="DoraemonJ’s Blog" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://doraemonj.github.io/logo.png"/>
+
+<meta name="twitter:title" content="你的每一本书，都是一个md文档"/>
+<meta name="twitter:description" content="markdown和Typora的使用"/>
+<meta name="application-name" content="DoraemonJ’s Blog">
+<meta name="apple-mobile-web-app-title" content="DoraemonJ’s Blog"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://doraemonj.github.io/private_library_tutorial_md/" /><link rel="prev" href="https://doraemonj.github.io/private_library_tutorial_git/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "你的每一本书，都是一个md文档",
+        "inLanguage": "zh-CN",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/doraemonj.github.io\/private_library_tutorial_md\/"
+        },"genre": "posts","keywords": "markdown, md","wordcount":  1837 ,
+        "url": "https:\/\/doraemonj.github.io\/private_library_tutorial_md\/","datePublished": "2022-07-20T14:29:37+08:00","dateModified": "2022-07-20T14:29:37+08:00","publisher": {
+            "@type": "Organization",
+            "name": ""},"author": {
+                "@type": "Person",
+                "name": "Chris"
+            },"description": ""
+    }
+    </script></head>
+    <body header-desktop="fixed" header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="DoraemonJ’s Blog">DoraemonJ’s Blog</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"> 文章 </a><a class="menu-item" href="/tags/"> 标签 </a><a class="menu-item" href="/categories/"> 分类 </a><a class="menu-item" href="/about/"> 关于 </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item language" title="选择语言">简体中文<i class="fas fa-chevron-right fa-fw"></i>
+                        <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/private_library_tutorial_md/" selected>简体中文</option></select>
+                    </a><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="中文搜索特别快" id="search-input-desktop">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="搜索">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="清空">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-desktop">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+                    <i class="fas fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="DoraemonJ’s Blog">DoraemonJ’s Blog</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><div class="search-wrapper">
+                    <div class="search mobile" id="search-mobile">
+                        <input type="text" placeholder="中文搜索特别快" id="search-input-mobile">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="搜索">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="清空">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-mobile">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </div>
+                    <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+                        取消
+                    </a>
+                </div><a class="menu-item" href="/posts/" title="">文章</a><a class="menu-item" href="/tags/" title="">标签</a><a class="menu-item" href="/categories/" title="">分类</a><a class="menu-item" href="/about/" title="">关于</a><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a><a href="javascript:void(0);" class="menu-item" title="选择语言">简体中文<i class="fas fa-chevron-right fa-fw"></i>
+                    <select class="language-select" onchange="location = this.value;"><option value="/private_library_tutorial_md/" selected>简体中文</option></select>
+                </a></div>
+    </div>
+</header>
+<div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+</div>
+<main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">目录</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animated flipInX">你的每一本书，都是一个md文档</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fa"></i>Chris</a>
+</span>&nbsp;<span class="post-category">类别 <a href="/categories/markdown/"><i class="far fa-folder fa-fw"></i>markdown</a>&nbsp;<a href="/categories/md/"><i class="far fa-folder fa-fw"></i>md</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2022-07-20">2022-07-20</time>&nbsp;</div>
+        </div><div class="featured-image"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/markdown-guide-og.jpeg"
+        data-srcset="https://doraemonj.github.io/pics/markdown-guide-og.jpeg, https://doraemonj.github.io/pics/markdown-guide-og.jpeg 1.5x, https://doraemonj.github.io/pics/markdown-guide-og.jpeg 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/markdown-guide-og.jpeg"
+        title="https://doraemonj.github.io/pics/markdown-guide-og.jpeg" /></div><div class="details toc" id="toc-static"  kept="">
+                <div class="details-summary toc-title">
+                    <span>目录</span>
+                    <span><i class="details-icon fas fa-angle-right"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#1typora是个好工具">1、Typora是个好工具</a></li>
+        <li><a href="#2制作第一本书">2、制作第一本书</a></li>
+        <li><a href="#3md文件头">3、md文件头</a></li>
+        <li><a href="#4书籍正文">4、书籍正文</a></li>
+        <li><a href="#4书本内容的补充说明">4、书本内容的补充说明</a></li>
+        <li><a href="#最后">最后</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><p>传统互联网时期，最流行的标记语言是html，用前后两对尖括号，把要展示的文本框住，然后把属性写在尖括号里。这种方式统治了前20年的互联网，直到markdown的出现。</p>
+<p>markdown干净简洁优雅，看一眼你就知道你应该喜欢哪个：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/9vWp6aU4y8kyJM9JABQLRPjsM1uPXZuvARzQeXR3gBfvbngzeiXd5k7dtSQG9ZwyWcvXbQ886oKmBehKC5PsSjqHq8UYPLKnwFmpEwEtGw6xd9zZTfeAKJy3WvMdirKx3iUBQTX6V6FeiskRu.png"
+        data-srcset="https://doraemonj.github.io/pics/9vWp6aU4y8kyJM9JABQLRPjsM1uPXZuvARzQeXR3gBfvbngzeiXd5k7dtSQG9ZwyWcvXbQ886oKmBehKC5PsSjqHq8UYPLKnwFmpEwEtGw6xd9zZTfeAKJy3WvMdirKx3iUBQTX6V6FeiskRu.png, https://doraemonj.github.io/pics/9vWp6aU4y8kyJM9JABQLRPjsM1uPXZuvARzQeXR3gBfvbngzeiXd5k7dtSQG9ZwyWcvXbQ886oKmBehKC5PsSjqHq8UYPLKnwFmpEwEtGw6xd9zZTfeAKJy3WvMdirKx3iUBQTX6V6FeiskRu.png 1.5x, https://doraemonj.github.io/pics/9vWp6aU4y8kyJM9JABQLRPjsM1uPXZuvARzQeXR3gBfvbngzeiXd5k7dtSQG9ZwyWcvXbQ886oKmBehKC5PsSjqHq8UYPLKnwFmpEwEtGw6xd9zZTfeAKJy3WvMdirKx3iUBQTX6V6FeiskRu.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/9vWp6aU4y8kyJM9JABQLRPjsM1uPXZuvARzQeXR3gBfvbngzeiXd5k7dtSQG9ZwyWcvXbQ886oKmBehKC5PsSjqHq8UYPLKnwFmpEwEtGw6xd9zZTfeAKJy3WvMdirKx3iUBQTX6V6FeiskRu.png"
+        title="9vWp6aU4y8kyJM9JABQLRPjsM1uPXZuvARzQeXR3gBfvbngzeiXd5k7dtSQG9ZwyWcvXbQ886oKmBehKC5PsSjqHq8UYPLKnwFmpEwEtGw6xd9zZTfeAKJy3WvMdirKx3iUBQTX6V6FeiskRu" /></p>
+<p>写作思路不会被打断，风靡程序员世界十八年（markdown于2004年问世），好巧，我们选来选去也选中了markdown做我们的图书馆底层方案。</p>
+<p>你的每一本书，都是一个md文档。</p>
+<p>我们推荐使用Typora作为首选文档编辑器，现在89元人民币可在官网购买，在3台电脑上安装使用。想啥呢？任何在工具上省钱的想法都是没出息~赶紧下单买，好工具帮你省下的时间都是你亲自奋斗赚来的生命，和长寿药有什么区别？</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/Typora-review.jpeg"
+        data-srcset="https://doraemonj.github.io/pics/Typora-review.jpeg, https://doraemonj.github.io/pics/Typora-review.jpeg 1.5x, https://doraemonj.github.io/pics/Typora-review.jpeg 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/Typora-review.jpeg"
+        title="Typora-review" /></p>
+<h3 id="1typora是个好工具">1、Typora是个好工具</h3>
+<p>界面干净，功能齐全，是Typora称霸markdown工具集的核心靓点，安装注册打开后，界面清爽得楚楚动人：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220720_145446.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220720_145446.png, https://doraemonj.github.io/pics/screenshot_20220720_145446.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220720_145446.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220720_145446.png"
+        title="screenshot_20220720_145446" /></p>
+<p>但是图床设置、版式切换、统计字数……Typora几乎无所不能。它本质上是个浏览器，但又能让人轻松编辑操控。唯一的弱点是太长的文档不能打开（这个问题我们以后可以绕过），白璧微瑕，依然是大美女，赶紧交个朋友~</p>
+<h3 id="2制作第一本书">2、制作第一本书</h3>
+<p>每本书都是一个md文档，做第一本书只需要做一个md文档出来就行。</p>
+<p>由于我们的图书馆框架设计太过优秀，支持中英日西德意阿拉伯语等18个语种，所以需要在每个md文档名里注明语言，常用的就是英文和中文。</p>
+<p>书的文件名一般用下划线代替空格，英文书以<code>.en.md</code>结尾，中文书以<code>.zh-cn.md</code>结尾，如：</p>
+<p><img src="https://doraemonj.github.io/pics/screenshot_20220720_151547.png" alt="screenshot_20220720_151546" style="zoom:50%;" /></p>
+<p>所以，第一步是在 <code>my_library/content/posts</code>文件夹中新建md文件，命令行输入：</p>
+<blockquote>
+<p><code>cd /Users/tangqiang/my_library/content/posts</code></p>
+<p>切换到posts文件夹</p>
+</blockquote>
+<blockquote>
+<p><code>echo &gt;&gt; first_book.zh-cn.md</code></p>
+<p>在posts文件夹中生成一个空的md文件，<code>zh-cn</code>代表中文书</p>
+</blockquote>
+<p><img src="https://doraemonj.github.io/pics/screenshot_20220720_154257.png" alt="screenshot_20220720_154257" style="zoom:50%;" /></p>
+<p>接下来，使用Typora打开<code>first_book.zh-cn.md</code>，往书里填充内容，内容分为两部分：头和身体。</p>
+<h3 id="3md文件头">3、md文件头</h3>
+<p>md文件头里存放预先设定的信息，即下图的灰色部分：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220720_155531.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220720_155531.png, https://doraemonj.github.io/pics/screenshot_20220720_155531.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220720_155531.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220720_155531.png"
+        title="screenshot_20220720_155531" /></p>
+<p>md文件头本质上是一段被一对<code>---</code>包裹住的文本，在Typora中按快捷键 <code>command</code> + <code>/</code>，可以切换显示效果：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220720_155541.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220720_155541.png, https://doraemonj.github.io/pics/screenshot_20220720_155541.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220720_155541.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220720_155541.png"
+        title="screenshot_20220720_155541" /></p>
+<p>我们解释下md文件头内每行的含义：</p>
+<p><code>title</code>：书名，相当于文章标题；</p>
+<p><code>summary</code>：摘要，可以显示在主页或其他标题页面上；</p>
+<p><code>date</code>：发布时间，需按标准格式设置，一般会把这种看起来复杂的标准格式时间设置在输入法里，按两下直接出；</p>
+<p><code>draft</code>：草稿标记，如果不想发布，就设置为<code>true</code>；设为<code>false</code>的意思是：正式发布；</p>
+<p><code>tags</code>：以后书多了，可以通过设置标签快速检索，右上角的数字为该标签的出现次数：</p>
+<p><img src="https://doraemonj.github.io/pics/screenshot_20220720_161811.png" alt="screenshot_20220720_161811" style="zoom:50%;" /></p>
+<p><code>categories</code>：分类检索，和tags类似，但能按类别直接出现前几本书籍或文章：</p>
+<p><img src="https://doraemonj.github.io/pics/screenshot_20220720_161828.png" alt="screenshot_20220720_161828" style="zoom:50%;" /></p>
+<p><code>author</code>：作者，你可以任意编辑</p>
+<p><code>featuredImagePreview</code> 预览图，后续会讲解如何上传图片，现在你可以使用任意一张网络图片的地址，作为你第一本书的主页题图。</p>
+<p>如果缺少文件头信息，Hugo会报错，所以这里的设置非常重要。注意两点即可：</p>
+<p>1）所有的标点符号（冒号、引号、逗号、句号、中括号）都为英文半角；</p>
+<p>2）提示词冒号后有一个空格，如<code>title:</code>后有一个空格，然后再有引号<code>&quot;</code>；</p>
+<p>3）引号和中括号必须配对使用，不能遗漏</p>
+<p>如果输入有误Hugo会报错，以后95%的报错都来自上述三条。</p>
+<p>以上为md文件头的解释，下面我们讲书籍正文。</p>
+<h3 id="4书籍正文">4、书籍正文</h3>
+<p>普通正文不用编辑，直接上屏即可。</p>
+<p>如果是正式标题，可以在前面添加两个<code>#</code>，表示2级标题（1级标题最大，6级标题最小）。</p>
+<p>想加粗，在文本前后加上一对<code>*</code>号；想划线，加上一对<code>&lt;u&gt;</code> 和<code>&lt;/u&gt;</code>符号。</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220720_164216.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220720_164216.png, https://doraemonj.github.io/pics/screenshot_20220720_164216.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220720_164216.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220720_164216.png"
+        title="screenshot_20220720_164216" /></p>
+<div align = "center"><font color='grey'>上图左侧为正常显示模式，右侧为源代码模式，Typora中可以使用 command + / 切换</font></div>
+<p>掌握以上三条要诀已经足够了，更多markdown语法：<a href="https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf" target="_blank" rel="noopener noreffer">单击这里</a>
+</p>
+<h3 id="4书本内容的补充说明">4、书本内容的补充说明</h3>
+<p>我们图书馆办公室my_library，发现在内容（content）文件夹里存在两个子文件夹：about和post</p>
+<p><img src="https://doraemonj.github.io/pics/screenshot_20220720_145951.png" alt="screenshot_20220720_145951" style="zoom:50%;" /></p>
+<p>about是些关于你的文档，也就是我们主页（doraemonj.github.io）上『关于我们』页面的内容，也可以不设置，后面我们细讲。</p>
+<p>post目录下放置你的书，也就是所有的md文档都放在post文件夹下。中英文书以后缀名区分，可以放很多本书：</p>
+<p><img src="https://doraemonj.github.io/pics/screenshot_20220720_151546.png" alt="screenshot_20220720_151546" style="zoom:50%;" /></p>
+<h3 id="最后">最后</h3>
+<p>这个完全由你掌控的图书馆，全部基于近10多年来的开源代码和基础设施，流程稍显复杂，需要花点时间揣摩运用，如果想一步到位的话，请找我，我可以帮你付费省时间：</p>
+<p>Mixin：29273</p>
+<p>Email：chrishowardaka@gmail.com</p>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>更新于 2022-07-20</span>
+            </div>
+            <div class="post-info-license"></div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md"></div>
+            <div class="post-info-share">
+                <span></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/markdown/">markdown</a>,&nbsp;<a href="/tags/md/">md</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/private_library_tutorial_git/" class="prev" rel="prev" title="私人图书馆：版本管理工具"><i class="fas fa-angle-left fa-fw"></i>私人图书馆：版本管理工具</a></div>
+</div>
+<div id="comments"><div id="disqus_thread" class="comment"></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://disqus.com/?ref_noscript">Disqus</a>.
+            </noscript></div></article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="links"><a href="https://github.com/doraemonj" title="GitHub" target="_blank" rel="noopener noreffer me"><i class="fab fa-github-alt fa-fw"></i></a>
+<a href="https://twitter.com/ChrisHowardaka" title="Twitter" target="_blank" rel="noopener noreffer me"><i class="fab fa-twitter fa-fw"></i></a>
+<a href="https://stackoverflow.com/users/19108034" title="Stack Overflow" target="_blank" rel="noopener noreffer me"><i class="fab fa-codepen fa-fw"></i></a>
+<a href="mailto:chrishowardaka@gmail.com" title="Email" rel=" me"><i class="far fa-envelope fa-fw"></i></a>
+</div></div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="回到顶部">
+                <i class="fas fa-arrow-up fa-fw"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="查看评论">
+                <i class="fas fa-comment fa-fw"></i>
+            </a>
+        </div><link rel="stylesheet" href="/lib/katex/katex.min.css"><link rel="stylesheet" href="/lib/katex/copy-tex.min.css"><script type="text/javascript" src="https://doraemonj.disqus.com/embed.js" defer></script><script type="text/javascript" src="/lib/smooth-scroll/smooth-scroll.min.js"></script><script type="text/javascript" src="/lib/autocomplete/autocomplete.min.js"></script><script type="text/javascript" src="/lib/algoliasearch/algoliasearch-lite.umd.min.js"></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lib/sharer/sharer.min.js"></script><script type="text/javascript" src="/lib/katex/katex.min.js"></script><script type="text/javascript" src="/lib/katex/auto-render.min.js"></script><script type="text/javascript" src="/lib/katex/copy-tex.min.js"></script><script type="text/javascript" src="/lib/katex/mhchem.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"复制到剪贴板","maxShownLines":50},"comment":{},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"algoliaAppID":"NXTYKU1SMH","algoliaIndex":"new-index-1647494341","algoliaSearchKey":"d28b83e5fcea4023c2c073c5e9ec3535","highlightTag":"em","maxResultLength":10,"noResultsFound":"没有找到结果","snippetLength":50,"type":"algolia"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>
