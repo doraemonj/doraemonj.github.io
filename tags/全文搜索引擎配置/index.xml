@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>全文搜索引擎配置 - 标签 - DoraemonJ’s Blog</title>
+        <link>https://doraemonj.github.io/tags/%E5%85%A8%E6%96%87%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E9%85%8D%E7%BD%AE/</link>
+        <description>全文搜索引擎配置 - 标签 - DoraemonJ’s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 22 Jul 2022 08:52:12 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/tags/%E5%85%A8%E6%96%87%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E9%85%8D%E7%BD%AE/" rel="self" type="application/rss+xml" /><item>
+    <title>书海里的GPS定位器</title>
+    <link>https://doraemonj.github.io/private_library_tutorial_algolia/</link>
+    <pubDate>Fri, 22 Jul 2022 08:52:12 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/private_library_tutorial_algolia/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/Algolia_OG_image_m3xgjb.png" referrerpolicy="no-referrer">
+            </div>algolia：你的全文搜索管家]]></description>
+</item></channel>
+</rss>

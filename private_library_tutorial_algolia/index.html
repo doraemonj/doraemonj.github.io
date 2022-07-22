@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <title>书海里的GPS定位器 - DoraemonJ’s Blog</title><meta name="Description" content="DoraemonJ’s Blog"><meta property="og:title" content="书海里的GPS定位器" />
+<meta property="og:description" content="algolia：你的全文搜索管家" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://doraemonj.github.io/private_library_tutorial_algolia/" /><meta property="og:image" content="https://doraemonj.github.io/logo.png"/><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-07-22T08:52:12+08:00" />
+<meta property="article:modified_time" content="2022-07-22T08:52:12+08:00" /><meta property="og:site_name" content="DoraemonJ’s Blog" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://doraemonj.github.io/logo.png"/>
+
+<meta name="twitter:title" content="书海里的GPS定位器"/>
+<meta name="twitter:description" content="algolia：你的全文搜索管家"/>
+<meta name="application-name" content="DoraemonJ’s Blog">
+<meta name="apple-mobile-web-app-title" content="DoraemonJ’s Blog"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://doraemonj.github.io/private_library_tutorial_algolia/" /><link rel="prev" href="https://doraemonj.github.io/private_library_tutorial_md/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "书海里的GPS定位器",
+        "inLanguage": "zh-CN",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/doraemonj.github.io\/private_library_tutorial_algolia\/"
+        },"genre": "posts","keywords": "algolia, 全文搜索引擎配置","wordcount":  1611 ,
+        "url": "https:\/\/doraemonj.github.io\/private_library_tutorial_algolia\/","datePublished": "2022-07-22T08:52:12+08:00","dateModified": "2022-07-22T08:52:12+08:00","publisher": {
+            "@type": "Organization",
+            "name": ""},"author": {
+                "@type": "Person",
+                "name": "Chris"
+            },"description": ""
+    }
+    </script></head>
+    <body header-desktop="fixed" header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="DoraemonJ’s Blog">DoraemonJ’s Blog</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"> 文章 </a><a class="menu-item" href="/tags/"> 标签 </a><a class="menu-item" href="/categories/"> 分类 </a><a class="menu-item" href="/about/"> 关于 </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item language" title="选择语言">简体中文<i class="fas fa-chevron-right fa-fw"></i>
+                        <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/private_library_tutorial_algolia/" selected>简体中文</option></select>
+                    </a><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="中文搜索特别快" id="search-input-desktop">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="搜索">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="清空">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-desktop">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+                    <i class="fas fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="DoraemonJ’s Blog">DoraemonJ’s Blog</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><div class="search-wrapper">
+                    <div class="search mobile" id="search-mobile">
+                        <input type="text" placeholder="中文搜索特别快" id="search-input-mobile">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="搜索">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="清空">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-mobile">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </div>
+                    <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+                        取消
+                    </a>
+                </div><a class="menu-item" href="/posts/" title="">文章</a><a class="menu-item" href="/tags/" title="">标签</a><a class="menu-item" href="/categories/" title="">分类</a><a class="menu-item" href="/about/" title="">关于</a><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a><a href="javascript:void(0);" class="menu-item" title="选择语言">简体中文<i class="fas fa-chevron-right fa-fw"></i>
+                    <select class="language-select" onchange="location = this.value;"><option value="/private_library_tutorial_algolia/" selected>简体中文</option></select>
+                </a></div>
+    </div>
+</header>
+<div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+</div>
+<main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">目录</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animated flipInX">书海里的GPS定位器</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fa"></i>Chris</a>
+</span>&nbsp;<span class="post-category">类别 <a href="/categories/%E5%85%A8%E6%96%87%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E9%85%8D%E7%BD%AE/"><i class="far fa-folder fa-fw"></i>全文搜索引擎配置</a>&nbsp;<a href="/categories/%E7%A7%81%E4%BA%BA%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%BB%BA%E8%AE%BE%E6%8A%80%E6%9C%AF/"><i class="far fa-folder fa-fw"></i>私人图书馆建设技术</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2022-07-22">2022-07-22</time>&nbsp;</div>
+        </div><div class="featured-image"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/Algolia_OG_image_m3xgjb.png"
+        data-srcset="https://doraemonj.github.io/pics/Algolia_OG_image_m3xgjb.png, https://doraemonj.github.io/pics/Algolia_OG_image_m3xgjb.png 1.5x, https://doraemonj.github.io/pics/Algolia_OG_image_m3xgjb.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/Algolia_OG_image_m3xgjb.png"
+        title="https://doraemonj.github.io/pics/Algolia_OG_image_m3xgjb.png" /></div><div class="details toc" id="toc-static"  kept="">
+                <div class="details-summary toc-title">
+                    <span>目录</span>
+                    <span><i class="details-icon fas fa-angle-right"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#1algolia搜索原理">1、algolia搜索原理</a></li>
+        <li><a href="#2注册algolia帐号">2、注册Algolia帐号</a></li>
+        <li><a href="#3设置索引">3、设置索引</a></li>
+        <li><a href="#4在图书馆里配置参数">4、在图书馆里配置参数</a></li>
+        <li><a href="#最后">最后</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><p>想象力会把你带到任何地方，而全文搜索引擎会带你带到你想去的任何地方。</p>
+<p>Hugo的最初设置，不存在搜索引擎。因为这需要巨量的研发工作和服务器资源。虽然有其他开源工具，比如鼎鼎大名的 Elasticsearch（ES），但配置工作的复杂和它的精巧程度成正比。</p>
+<p>所以我们在多重利弊的权衡下，选择最具亲和力的搜索方案：algolia</p>
+<h3 id="1algolia搜索原理">1、algolia搜索原理</h3>
+<p>algolia本质上是个搜索引擎服务接口，把索引提前建好，索引就像目录，提前建好搜索时就能秒出。我们作为用户，在搜索关键词时向algolia提出请求，由它计算并传送结果，送交我们的图书馆显示。</p>
+<p>完成配置后一切都是自动的。</p>
+<p>algolia提供给个人用户上限1万条索引记录和每月1万次的搜索次数，对于个人用户来说几乎是无限供应，等到若干年后触碰到上限，再向algolia付费不迟。</p>
+<p>algolia是一个商业搜索网站，盈利模式是向商家收费，而我们的私人图书馆蹭了它一点搜索资源，这点资源对于algolia来说，连九百牛一毛都算不上，所以请放心使用。</p>
+<h3 id="2注册algolia帐号">2、注册Algolia帐号</h3>
+<p>首先登陆algolia官网<code>algolia.com</code>，点击右上角<code>Start free</code>，注册帐号：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_091107.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_091107.png, https://doraemonj.github.io/pics/screenshot_20220722_091107.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_091107.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_091107.png"
+        title="screenshot_20220722_091107" /></p>
+<p>建议选择使用Github帐号注册，一方面我们这类私人图书馆的馆长都有Github帐号，另一方面Google帐号这两年确实不太容易搞，很多人卡在了大陆手机号这关……</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_094832.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_094832.png, https://doraemonj.github.io/pics/screenshot_20220722_094832.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_094832.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_094832.png"
+        title="screenshot_20220722_094832" /></p>
+<p>建议选择Github（其他选项也行）注册，而后algolia会让你选择服务器，建议选择离你所在地近点的，比如香港、日本、新加坡……其他地区都可以：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_093029.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_093029.png, https://doraemonj.github.io/pics/screenshot_20220722_093029.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_093029.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_093029.png"
+        title="screenshot_20220722_093029" /></p>
+<p>注册成功，重新登录：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_091120.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_091120.png, https://doraemonj.github.io/pics/screenshot_20220722_091120.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_091120.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_091120.png"
+        title="screenshot_20220722_091120" /></p>
+<h3 id="3设置索引">3、设置索引</h3>
+<p>登录后进入主面板，点击左下角<code>Settings</code>：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_091142.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_091142.png, https://doraemonj.github.io/pics/screenshot_20220722_091142.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_091142.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_091142.png"
+        title="screenshot_20220722_091142" /></p>
+<p>选择<code>Applications</code>：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_091636_1.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_091636_1.png, https://doraemonj.github.io/pics/screenshot_20220722_091636_1.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_091636_1.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_091636_1.png"
+        title="screenshot_20220722_091636" /></p>
+<p>选择<code>New application</code>，新建应用：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_092821.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_092821.png, https://doraemonj.github.io/pics/screenshot_20220722_092821.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_092821.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_092821.png"
+        title="screenshot_20220722_092821" /></p>
+<p>点选下一步后，输入名称（比如你的用户名），选择方案 <code>FREE</code>，点击下一步：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_092831.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_092831.png, https://doraemonj.github.io/pics/screenshot_20220722_092831.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_092831.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_092831.png"
+        title="screenshot_20220722_093048" /></p>
+<p>确认方案，勾选两处服务协议已阅，点选<code>Create Application</code>：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_093048.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_093048.png, https://doraemonj.github.io/pics/screenshot_20220722_093048.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_093048.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_093048.png"
+        title="screenshot_20220722_093048" /></p>
+<p>新建完应用后，回到主面板，选择左下角『数据源』Date source：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_133946.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_133946.png, https://doraemonj.github.io/pics/screenshot_20220722_133946.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_133946.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_133946.png"
+        title="screenshot_20220722_133946" /></p>
+<p>选择『索引』<code>Indices</code> 后，点击『新建索引』<code>Create Index</code>：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_134130.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_134130.png, https://doraemonj.github.io/pics/screenshot_20220722_134130.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_134130.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_134130.png"
+        title="screenshot_20220722_134130" /></p>
+<p>输入索引名，比如<code>Demo</code>（请记下你的Index号，比如我的是<code>new-index-1647494341</code>，后期配置时需使用），然后点击新建<code>Create</code>，完成后点击『上传记录』<code>Upload record(s)</code>，在弹出的子菜单点选<code>Upload file</code>：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_134741.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_134741.png, https://doraemonj.github.io/pics/screenshot_20220722_134741.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_134741.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_134741.png"
+        title="https://doraemonj.github.io/pics/screenshot_20220722_134741.png" /></p>
+<p>单击下框，选择文件：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_091256.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_091256.png, https://doraemonj.github.io/pics/screenshot_20220722_091256.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_091256.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_091256.png"
+        title="screenshot_20220722_091256" /></p>
+<p>上传图书馆文件夹下的<code>index.json</code>文件，注意该文件为中文索引：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_091321.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_091321.png, https://doraemonj.github.io/pics/screenshot_20220722_091321.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_091321.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_091321.png"
+        title="screenshot_20220722_091321" /></p>
+<p>如需上传英文索引，请上传en文件夹下的<code>index.json</code>文件：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_091336.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_091336.png, https://doraemonj.github.io/pics/screenshot_20220722_091336.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_091336.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_091336.png"
+        title="screenshot_20220722_091336" /></p>
+<p>索引文件上传后，需配置接口，回到『设置』<code>Setting</code>主面板，点选 <code>API Keys</code>：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_091636_2.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_091636_2.png, https://doraemonj.github.io/pics/screenshot_20220722_091636_2.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_091636_2.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_091636_2.png"
+        title="screenshot_20220722_091636_2" /></p>
+<p>进入页面，选择<code>All API Keys</code>，点选<code>New API Key</code>：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_133212.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_133212.png, https://doraemonj.github.io/pics/screenshot_20220722_133212.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_133212.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_133212.png"
+        title="screenshot_20220722_133212" /></p>
+<p>一路下一步，点击『创建』<code>Create</code>。完成创建后，在<code>Your API Keys</code>选项卡中，可以看到<code>Application ID</code>、<code>Search-Only API Key</code>以及<code>Admin API Key</code></p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_091551.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_091551.png, https://doraemonj.github.io/pics/screenshot_20220722_091551.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_091551.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_091551.png"
+        title="screenshot_20220722_091551" /></p>
+<p>这样就完成了Algolia用户端的基本配置，下面，我们把配置连到我们的图书馆里：</p>
+<h3 id="4在图书馆里配置参数">4、在图书馆里配置参数</h3>
+<p>图书馆的配置只需要在<code>config.toml</code>文件里配置，打开文件，搜索（mac用户<code>command</code> + <code>F</code>，windows用户<code>Ctrl</code>+<code>F</code>）『algolia』，在132-133行可以搜到：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_091941.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_091941.png, https://doraemonj.github.io/pics/screenshot_20220722_091941.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_091941.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_091941.png"
+        title="screenshot_20220722_091941" /></p>
+<p>其他都无需调整，只需补充最后三行，即第147-149行，如：</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://doraemonj.github.io/pics/screenshot_20220722_092007.png"
+        data-srcset="https://doraemonj.github.io/pics/screenshot_20220722_092007.png, https://doraemonj.github.io/pics/screenshot_20220722_092007.png 1.5x, https://doraemonj.github.io/pics/screenshot_20220722_092007.png 2x"
+        data-sizes="auto"
+        alt="https://doraemonj.github.io/pics/screenshot_20220722_092007.png"
+        title="screenshot_20220722_092007" /></p>
+<p>此时，即可完成配置，回到命令行，在图书馆办公室路径（my_library)下输入：<code>hugo</code>，即可自动配置图书馆，瞬间完成，按照前文上传GitHub，即可直接使用，样板间请参见：<code>doraemonj.github.io</code></p>
+<h3 id="最后">最后</h3>
+<p>这个完全由你掌控的图书馆，全部基于近10多年来的开源代码和基础设施，流程稍显复杂，需要花点时间揣摩运用，如果想一步到位的话，请找我，我可以帮你付费省时间：</p>
+<p>Mixin：29273</p>
+<p>Email：chrishowardaka@gmail.com</p>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>更新于 2022-07-22</span>
+            </div>
+            <div class="post-info-license"></div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md"></div>
+            <div class="post-info-share">
+                <span></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/algolia/">algolia</a>,&nbsp;<a href="/tags/%E5%85%A8%E6%96%87%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E9%85%8D%E7%BD%AE/">全文搜索引擎配置</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/private_library_tutorial_md/" class="prev" rel="prev" title="你的每一本书，都是一个md文档"><i class="fas fa-angle-left fa-fw"></i>你的每一本书，都是一个md文档</a></div>
+</div>
+<div id="comments"><div id="disqus_thread" class="comment"></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://disqus.com/?ref_noscript">Disqus</a>.
+            </noscript></div></article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="links"><a href="https://github.com/doraemonj" title="GitHub" target="_blank" rel="noopener noreffer me"><i class="fab fa-github-alt fa-fw"></i></a>
+<a href="https://twitter.com/ChrisHowardaka" title="Twitter" target="_blank" rel="noopener noreffer me"><i class="fab fa-twitter fa-fw"></i></a>
+<a href="https://stackoverflow.com/users/19108034" title="Stack Overflow" target="_blank" rel="noopener noreffer me"><i class="fab fa-codepen fa-fw"></i></a>
+<a href="mailto:chrishowardaka@gmail.com" title="Email" rel=" me"><i class="far fa-envelope fa-fw"></i></a>
+</div></div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="回到顶部">
+                <i class="fas fa-arrow-up fa-fw"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="查看评论">
+                <i class="fas fa-comment fa-fw"></i>
+            </a>
+        </div><link rel="stylesheet" href="/lib/katex/katex.min.css"><link rel="stylesheet" href="/lib/katex/copy-tex.min.css"><script type="text/javascript" src="https://doraemonj.disqus.com/embed.js" defer></script><script type="text/javascript" src="/lib/smooth-scroll/smooth-scroll.min.js"></script><script type="text/javascript" src="/lib/autocomplete/autocomplete.min.js"></script><script type="text/javascript" src="/lib/algoliasearch/algoliasearch-lite.umd.min.js"></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lib/sharer/sharer.min.js"></script><script type="text/javascript" src="/lib/katex/katex.min.js"></script><script type="text/javascript" src="/lib/katex/auto-render.min.js"></script><script type="text/javascript" src="/lib/katex/copy-tex.min.js"></script><script type="text/javascript" src="/lib/katex/mhchem.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"复制到剪贴板","maxShownLines":50},"comment":{},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"algoliaAppID":"NXTYKU1SMH","algoliaIndex":"new-index-1647494341","algoliaSearchKey":"d28b83e5fcea4023c2c073c5e9ec3535","highlightTag":"em","maxResultLength":10,"noResultsFound":"没有找到结果","snippetLength":50,"type":"algolia"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>
