@@ -90,9 +90,9 @@ git push -u origin main
 如果你设置过git的简化操作，以上代码可以简化为：
 
 ```
-git add .
+git a
 git cmt
-git push
+git pu
 ```
 
 没有错，着三行就是你今后要维护一个大型私人图书馆的全部操作命令。
