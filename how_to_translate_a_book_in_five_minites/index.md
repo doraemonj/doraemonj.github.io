@@ -17,39 +17,39 @@ calibre可以把任意电子书一键转为htmlz，html后面的z代表zip（压
 
 右键epub电子书，用calibre打开：
 
-![image-20220928120934643](/Users/tangqiang/doraemonj/pics/image-20220928120934643.png)
+![image-20220928120934643](https://doraemonj.github.io/img/how_to_translate_a_book_in_five_minutes/image-20220928120934643.png)
 
 calibre把书显示在第一排，选种，点击上方`转换书籍`按钮：
 
-![image-20220928121207105](/Users/tangqiang/doraemonj/pics/image-20220928121207105.png)
+![image-20220928121207105](https://doraemonj.github.io/img/how_to_translate_a_book_in_five_minutes/image-20220928121207105.png)
 
 右上角下拉框选择`HTMLZ`，点击左下方确定：
 
-![image-20220928121410233](/Users/tangqiang/doraemonj/pics/image-20220928121410233.png)
+![image-20220928121410233](https://doraemonj.github.io/img/how_to_translate_a_book_in_five_minutes/image-20220928121410233.png)
 
 几秒后，右下角提示你任务已完成，选中书，按键盘上的字母『O』：
 
-![image-20220928121655176](/Users/tangqiang/doraemonj/pics/image-20220928121655176.png)
+![image-20220928121655176](https://doraemonj.github.io/img/how_to_translate_a_book_in_five_minutes/image-20220928121655176.png)
 
 calibre会直接打开文件夹，这里的.htmlz就是我们要的压缩文件，里面包含图片、文字和格式：
 
-![image-20220928122435925](/Users/tangqiang/doraemonj/pics/image-20220928122435925.png)
+![image-20220928122435925](https://doraemonj.github.io/img/how_to_translate_a_book_in_five_minutes/image-20220928122435925.png)
 
 如果文件夹或文件名中有空格，解压时会报错。所以，我们一般会把文件改个名，放在另外的文件夹里：
 
-![image-20220928123146548](/Users/tangqiang/doraemonj/pics/image-20220928123146548.png)
+![image-20220928123146548](https://doraemonj.github.io/img/how_to_translate_a_book_in_five_minutes/image-20220928123146548.png)
 
 Mac系统在下方路径处右键，选择『在命令行（终端）打开』：
 
-![image-20220928123838813](/Users/tangqiang/doraemonj/pics/image-20220928123838813.png)
+![image-20220928123838813](https://doraemonj.github.io/img/how_to_translate_a_book_in_five_minutes/image-20220928123838813.png)
 
 在命令行（终端）输入解压命令：`unzip origin.htmlz`
 
-![image-20220928124241550](/Users/tangqiang/doraemonj/pics/image-20220928124241550.png)
+![image-20220928124241550](https://doraemonj.github.io/img/how_to_translate_a_book_in_five_minutes/image-20220928124241550.png)
 
 calibre会把文字、图片、书籍信息、格式和封面都解压出来：
 
-![image-20220928124430292](/Users/tangqiang/doraemonj/pics/image-20220928124430292.png)
+![image-20220928124430292](https://doraemonj.github.io/img/how_to_translate_a_book_in_five_minutes/image-20220928124430292.png)
 
 我们已经把epub电子书的图文作了分离，第一部分的任务到此结束。
 
@@ -61,19 +61,19 @@ calibre会把文字、图片、书籍信息、格式和封面都解压出来：
 
 登录后选择`Translate files`（翻译文档）标签页，上传html文档，选择中文：
 
-![image-20220928125929260](/Users/tangqiang/doraemonj/pics/image-20220928125929260.png)
+![image-20220928125929260](https://doraemonj.github.io/img/how_to_translate_a_book_in_five_minutes/image-20220928125929260.png)
 
 点击右下角`Translate`启动翻译：
 
-![image-20220928130155944](/Users/tangqiang/doraemonj/pics/image-20220928130155944.png)
+![image-20220928130155944](https://doraemonj.github.io/img/how_to_translate_a_book_in_five_minutes/image-20220928130155944.png)
 
 15秒后，书就翻译好了，直接下载到本地：
 
-![image-20220928130518203](/Users/tangqiang/doraemonj/pics/image-20220928130518203.png)
+![image-20220928130518203](https://doraemonj.github.io/img/how_to_translate_a_book_in_five_minutes/image-20220928130518203.png)
 
 打开一看，是图文并茂的中文版：
 
-![image-20220928130607867](/Users/tangqiang/doraemonj/pics/image-20220928130607867.png)
+![image-20220928130607867](https://doraemonj.github.io/img/how_to_translate_a_book_in_five_minutes/image-20220928130607867.png)
 
 至此，我们完成了核心任务：翻译电子书。多做几遍的话，可以把全过程压缩在3分钟以内。
 
@@ -81,7 +81,7 @@ calibre会把文字、图片、书籍信息、格式和封面都解压出来：
 
 使用上述『转换书籍』按钮，calibre可以把html转换为epub、mobi或pdf等格式的电子书。当然，也可以把你的书放在只属于你的图书馆里，供你随时收听阅读。私人图书馆样例：
 
-![image-20220928131816674](/Users/tangqiang/doraemonj/pics/image-20220928131816674.png)
+![image-20220928131816674](https://doraemonj.github.io/img/how_to_translate_a_book_in_five_minutes/image-20220928131816674.png)
 
 关于私人图书馆的创建，请参见我之前的专栏文章，如果想一步到位，请直接私信我。
 
