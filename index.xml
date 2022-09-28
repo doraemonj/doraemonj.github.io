@@ -3,9 +3,18 @@
         <title>DoraemonJ’s Blog</title>
         <link>https://doraemonj.github.io/</link>
         <description>DoraemonJ’s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 22 Jul 2022 08:52:12 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 28 Sep 2022 11:53:10 &#43;0800</lastBuildDate>
             <atom:link href="https://doraemonj.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>如何在5分钟内高质量翻译一本书？</title>
+    <link>https://doraemonj.github.io/how_to_translate_a_book_in_five_minites/</link>
+    <pubDate>Wed, 28 Sep 2022 11:53:10 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/how_to_translate_a_book_in_five_minites/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/how_to_translate_a_book_in_five_minutes/long.png" referrerpolicy="no-referrer">
+            </div>Calibre + DeepL 联合战纪]]></description>
+</item><item>
     <title>书海里的GPS定位器</title>
     <link>https://doraemonj.github.io/private_library_tutorial_algolia/</link>
     <pubDate>Fri, 22 Jul 2022 08:52:12 &#43;0800</pubDate>
@@ -86,14 +95,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/pics/qf_1655023039.png" referrerpolicy="no-referrer">
             </div>逻辑谬误014：量化词对调]]></description>
-</item><item>
-    <title>打人将被起诉，被起诉者必含打人者？</title>
-    <link>https://doraemonj.github.io/logical_fallacy_013/</link>
-    <pubDate>Sun, 12 Jun 2022 05:56:50 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/logical_fallacy_013/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/qf_1654984664.png" referrerpolicy="no-referrer">
-            </div>逻辑谬误013：存在性谬误]]></description>
 </item></channel>
 </rss>
