@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Calibre - 标签 - DoraemonJ’s Blog</title>
+        <title>Calibre - 标签 - DoraemonJ&#39;s Library</title>
         <link>https://doraemonj.github.io/tags/calibre/</link>
-        <description>Calibre - 标签 - DoraemonJ’s Blog</description>
+        <description>Calibre - 标签 - DoraemonJ&#39;s Library</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 28 Sep 2022 11:53:10 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/tags/calibre/" rel="self" type="application/rss+xml" /><item>
     <title>如何在5分钟内高质量翻译一本书？</title>
     <link>https://doraemonj.github.io/how_to_translate_a_book_in_five_minites/</link>
@@ -19,7 +19,7 @@
     <author>作者</author>
     <guid>https://doraemonj.github.io/translation_tutorial_01/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/pics/calibre.png" referrerpolicy="no-referrer">
+                <img src="/img/translation_tutorial_01/calibre.png" referrerpolicy="no-referrer">
             </div>calibre是个好东西]]></description>
 </item><item>
     <title>Calibre 快速入门指南</title>

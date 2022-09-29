@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Hugo - 分类 - DoraemonJ’s Blog</title>
+        <title>Hugo - 分类 - DoraemonJ&#39;s Library</title>
         <link>https://doraemonj.github.io/categories/hugo/</link>
-        <description>Hugo - 分类 - DoraemonJ’s Blog</description>
+        <description>Hugo - 分类 - DoraemonJ&#39;s Library</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 18 Jul 2022 12:10:43 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/categories/hugo/" rel="self" type="application/rss+xml" /><item>
     <title>私人图书馆核心工具</title>
     <link>https://doraemonj.github.io/private_library_tutorial_hugo/</link>

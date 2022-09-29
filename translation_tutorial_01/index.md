@@ -29,17 +29,17 @@
 
 首先前往[calibre官网](https://calibre-ebook.com/)下载安装，在『欢迎向导』里设置书库位置，注意，书库必须是个空目录，否则后期妖怪多。
 
-![screenshot_20220531_165239](https://doraemonj.github.io/pics/screenshot_20220531_165239.png)
+![screenshot_20220531_165239](https://doraemonj.github.io/img/translation_tutorial_01/screenshot_20220531_165239.png)
 
 我们偶然相中了Karen Ho十多年前出版的书[《清算》*Liquidated*](https://doraemonj.github.io/docs/calibre/liquidated_an_ethnography_of_wall_street.epub)，点击书名下载到本地，右键用calibre打开。恭喜你，已经往你的个人图书馆里放入了第一本书。
 
-![](https://doraemonj.github.io/pics/screenshot_20220531_165852.png)
+![](https://doraemonj.github.io/img/translation_tutorial_01/screenshot_20220531_165852.png)
 
 ### 转换格式
 
 选中书籍，点击面板上方左侧`转换书籍`按钮，打开转换面板，选择右上角`输出格式`为htmlz，点击右下角`确认`按钮：
 
-![screenshot_20220531_172147](https://doraemonj.github.io/pics/screenshot_20220531_172632.png)
+![screenshot_20220531_172147](https://doraemonj.github.io/img/translation_tutorial_01/screenshot_20220531_172632.png)
 
 ### 改名
 
@@ -47,15 +47,15 @@ calibre会在指定文件夹下，生成一个作者名字命名的文件夹。
 
 转换完成后，建议把文件名中的空格去除，以免后续命令行执行解压步骤时报错。比如，这里把文件夹`Karen Ho`改名为`Karen_Ho`：
 
-![screenshot_20220531_172147](https://doraemonj.github.io/pics/screenshot_20220531_172147.png)
+![screenshot_20220531_172147](https://doraemonj.github.io/img/translation_tutorial_01/screenshot_20220531_172147.png)
 
 进入Karen_Ho文件夹，将包含全书名的文件夹名缩短为：Liquidated：
 
-![screenshot_20220531_223054](https://doraemonj.github.io/pics/screenshot_20220531_223054.png)
+![screenshot_20220531_223054](https://doraemonj.github.io/img/translation_tutorial_01/screenshot_20220531_223054.png)
 
 打开Liquidated文件夹，发现里面有三个文件，同样，我们把文件名最长的`.htmlz`文件缩短名字为`origin.htmlz`，然后右键点击右下角：
 
-![screenshot_20220531_223300](https://doraemonj.github.io/pics/screenshot_20220531_223300.png)
+![screenshot_20220531_223300](https://doraemonj.github.io/img/translation_tutorial_01/screenshot_20220531_223300.png)
 
 ### 在终端打开
 
@@ -65,7 +65,7 @@ calibre会在指定文件夹下，生成一个作者名字命名的文件夹。
 
 若完成改名，则在命令行输入`ls`命令弹出如下提示：
 
-![screenshot_20220531_224656](https://doraemonj.github.io/pics/screenshot_20220531_224656.png)
+![screenshot_20220531_224656](https://doraemonj.github.io/img/translation_tutorial_01/screenshot_20220531_224656.png)
 
 务必确保`.htmlz`文件名中没有空格，否则下一步解压会报错。
 
@@ -73,9 +73,9 @@ calibre会在指定文件夹下，生成一个作者名字命名的文件夹。
 
 输入`unzip origin.htmlz`命令，弹出提示时选择`A`
 
-![screenshot_20220531_225050](https://doraemonj.github.io/pics/screenshot_20220531_225050.png)
+![screenshot_20220531_225050](https://doraemonj.github.io/img/translation_tutorial_01/screenshot_20220531_225050.png)
 
-此时Liquidated文件夹中多出了三样东西：![screenshot_20220531_225813](https://doraemonj.github.io/pics/screenshot_20220531_225813.png)
+此时Liquidated文件夹中多出了三样东西：![screenshot_20220531_225813](https://doraemonj.github.io/img/translation_tutorial_01/screenshot_20220531_225813.png)
 
 >   images文件夹：所有图片都归档在这里<br />
 >   index.html：主文档<br />
@@ -85,7 +85,7 @@ calibre会在指定文件夹下，生成一个作者名字命名的文件夹。
 
 我们的目标是获取纯英文文本，打开`index.html`文件一看——成功完成任务：
 
-![screenshot_20220531_230227](https://doraemonj.github.io/pics/screenshot_20220531_230227.png)
+![screenshot_20220531_230227](https://doraemonj.github.io/img/translation_tutorial_01/screenshot_20220531_230227.png)
 
 下回解析：如何从`index.html`中整理出可供上传翻译的纯本文。
 

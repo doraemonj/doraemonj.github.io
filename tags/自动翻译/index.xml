@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>自动翻译 - 标签 - DoraemonJ’s Blog</title>
+        <title>自动翻译 - 标签 - DoraemonJ&#39;s Library</title>
         <link>https://doraemonj.github.io/tags/%E8%87%AA%E5%8A%A8%E7%BF%BB%E8%AF%91/</link>
-        <description>自动翻译 - 标签 - DoraemonJ’s Blog</description>
+        <description>自动翻译 - 标签 - DoraemonJ&#39;s Library</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 05 Jun 2022 15:14:34 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/tags/%E8%87%AA%E5%8A%A8%E7%BF%BB%E8%AF%91/" rel="self" type="application/rss+xml" /><item>
     <title>翻译电子书教程03：上传DeepL翻译</title>
     <link>https://doraemonj.github.io/translation_tutorial_03/</link>
@@ -28,7 +28,7 @@
     <author>作者</author>
     <guid>https://doraemonj.github.io/translation_tutorial_01/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/pics/calibre.png" referrerpolicy="no-referrer">
+                <img src="/img/translation_tutorial_01/calibre.png" referrerpolicy="no-referrer">
             </div>calibre是个好东西]]></description>
 </item></channel>
 </rss>

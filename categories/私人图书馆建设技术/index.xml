@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>私人图书馆建设技术 - 分类 - DoraemonJ’s Blog</title>
+        <title>私人图书馆建设技术 - 分类 - DoraemonJ&#39;s Library</title>
         <link>https://doraemonj.github.io/categories/%E7%A7%81%E4%BA%BA%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%BB%BA%E8%AE%BE%E6%8A%80%E6%9C%AF/</link>
-        <description>私人图书馆建设技术 - 分类 - DoraemonJ’s Blog</description>
+        <description>私人图书馆建设技术 - 分类 - DoraemonJ&#39;s Library</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 22 Jul 2022 08:52:12 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/categories/%E7%A7%81%E4%BA%BA%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%BB%BA%E8%AE%BE%E6%8A%80%E6%9C%AF/" rel="self" type="application/rss+xml" /><item>
     <title>书海里的GPS定位器</title>
     <link>https://doraemonj.github.io/private_library_tutorial_algolia/</link>
