@@ -3,9 +3,18 @@
         <title>DoraemonJ&#39;s Library</title>
         <link>https://doraemonj.github.io/</link>
         <description>DoraemonJ&#39;s Library</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 28 Sep 2022 11:53:10 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 03 Oct 2022 20:24:10 &#43;0800</lastBuildDate>
             <atom:link href="https://doraemonj.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Hugo模板内使用拼音注释</title>
+    <link>https://doraemonj.github.io/ruby/</link>
+    <pubDate>Mon, 03 Oct 2022 20:24:10 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/ruby/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/ruby_format_on_hugo/long.png" referrerpolicy="no-referrer">
+            </div>ruby注释语法]]></description>
+</item><item>
     <title>如何在5分钟内高质量翻译一本书？</title>
     <link>https://doraemonj.github.io/how_to_translate_a_book_in_five_minites/</link>
     <pubDate>Wed, 28 Sep 2022 11:53:10 &#43;0800</pubDate>
@@ -86,14 +95,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/pics/qf_1655171667.png" referrerpolicy="no-referrer">
             </div>逻辑谬误015：肯定选言]]></description>
-</item><item>
-    <title>每个人都爱着一些人，所以一些人每个人都爱</title>
-    <link>https://doraemonj.github.io/logical_fallacy_014/</link>
-    <pubDate>Mon, 13 Jun 2022 06:56:50 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/logical_fallacy_014/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/qf_1655023039.png" referrerpolicy="no-referrer">
-            </div>逻辑谬误014：量化词对调]]></description>
 </item></channel>
 </rss>

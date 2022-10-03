@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ruby语法 - 标签 - DoraemonJ&#39;s Library</title>
+        <link>https://doraemonj.github.io/tags/ruby%E8%AF%AD%E6%B3%95/</link>
+        <description>ruby语法 - 标签 - DoraemonJ&#39;s Library</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 03 Oct 2022 20:24:10 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/tags/ruby%E8%AF%AD%E6%B3%95/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo模板内使用拼音注释</title>
+    <link>https://doraemonj.github.io/ruby/</link>
+    <pubDate>Mon, 03 Oct 2022 20:24:10 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/ruby/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/ruby_format_on_hugo/long.png" referrerpolicy="no-referrer">
+            </div>ruby注释语法]]></description>
+</item></channel>
+</rss>
