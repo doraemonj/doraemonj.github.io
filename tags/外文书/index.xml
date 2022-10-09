@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>外文书 - 标签 - DoraemonJ&#39;s Library</title>
+        <link>https://doraemonj.github.io/tags/%E5%A4%96%E6%96%87%E4%B9%A6/</link>
+        <description>外文书 - 标签 - DoraemonJ&#39;s Library</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 09 Oct 2022 09:36:44 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/tags/%E5%A4%96%E6%96%87%E4%B9%A6/" rel="self" type="application/rss+xml" /><item>
+    <title>保姆级教程：手把手教你如何搜索热门外文书</title>
+    <link>https://doraemonj.github.io/how_to_simulate_zlibrary/</link>
+    <pubDate>Sun, 09 Oct 2022 09:36:44 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/how_to_simulate_zlibrary/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/how_to_simulate_zlibrary/long.png" referrerpolicy="no-referrer">
+            </div>Z-library：最好的外文书搜索工具]]></description>
+</item></channel>
+</rss>
