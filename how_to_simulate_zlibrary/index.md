@@ -65,6 +65,8 @@ Z-Library是去中心化运营的，也就是说，任何个人都可以向该�
 
 这样的话，一旦有新书上架，就直接一封邮件推送给你，爽。
 
+### 三、结语
+
 以上是Z-library的基本用法，后续进阶方法请关注libmind.com。如果你下载了英文书却苦于阅读较慢，花费大量时间查单词，那么libmind.com可以帮助你，快速定制你的中英对照版，可以供你打印或在任何设备上阅读：
 
 ![image-20221009113255049](https://doraemonj.github.io/img/how_to_simulate_zlibrary/image-20221009113255049.png)
