@@ -11,8 +11,6 @@ Python可以很轻巧地解决。如果你之前没接触过代码，不用着�
 
 而且，如果你完全没用过Python，又想马上翻译你想看的书，可以联系我Mixin：29273，我可以很快帮你把译本做成你想要的格式，不过需要支付一定费用，相当于花钱买时间。
 
-·
-
 PyCharm是一个开发工具，我们以此为例展示，如果你安装的是Anaconda或其他工具，没有任何问题，几乎一样的操作。
 
 开始前，我们把当时送传DeepL翻译的原文件`the_lessons_of_history_en.html`和译稿`the_lessons_of_history_zh.html`两个文件放在同一个文件夹`/Users/tangqiang/books/b53_the_lessons_of_history`里，方便Python处理。
@@ -29,34 +27,38 @@ PyCharm是一个开发工具，我们以此为例展示，如果你安装的是A
 
 打开文件一看，以段落为单位的中英对照版式就搞定了：
 
-![image-20221012191023171](/Users/tangqiang/doraemonj/pics/image-20221012191023171.png)
+![image-20221012191023171](https://doraemonj.github.io/img/How_to_make_a_bilingual_book_fast_way/image-20221012191023171.png)
 
 颜色可以通过`style.css`文件调节：
 
-![image-20221012192512514](/Users/tangqiang/doraemonj/pics/image-20221012192512514.png)
+<img src="https://doraemonj.github.io/img/How_to_make_a_bilingual_book_fast_way/image-20221012192512514.png" alt="image-20221012192512514" style="zoom:50%;" />
 
 为了阅读舒适度，你也可以选择黑夜模式：
 
-![image-20221012192657786](/Users/tangqiang/doraemonj/pics/image-20221012192657786.png)
+<img src="https://doraemonj.github.io/img/How_to_make_a_bilingual_book_fast_way/image-20221012192657786.png" alt="image-20221012192657786" style="zoom:50%;" />
 
 用任何编辑器（txt也可以）直接编辑`style.css`文档，可以直接调整为暗夜模式：
 
-![image-20221012192839884](/Users/tangqiang/doraemonj/pics/image-20221012192839884.png)
+![image-20221012192839884](https://doraemonj.github.io/img/How_to_make_a_bilingual_book_fast_way/image-20221012192839884.png)
 
 上述所有示例文件已在Github上开源，直接git clone批量下载：https://github.com/doraemonj/python_code.git
 
-![image-20221012193947589](/Users/tangqiang/doraemonj/pics/image-20221012193947589.png)
+![image-20221012193947589](https://doraemonj.github.io/img/How_to_make_a_bilingual_book_fast_way/image-20221012193947589.png)
 
 当然你也可以在逐个下载：
 
-Python代码：[pro.py](https://doraemonj.github.io/program/pro.py)
-css文件（装饰页面）：[style.css](https://doraemonj.github.io/program/style.css)
-双语html文件：[the_lessons_of_history_bi_en_zh.html](https://doraemonj.github.io/program/the_lessons_of_history_bi_en_zh.html)
-英文原文件：[the_lessons_of_history_en.html](https://doraemonj.github.io/program/the_lessons_of_history_en.html)
-中文译文：[the_lessons_of_history_zh.html](https://doraemonj.github.io/program/the_lessons_of_history_zh.html)
+-   Python代码：[pro.py](https://doraemonj.github.io/program/pro.py)
+-   css装饰文件：[style.css](https://doraemonj.github.io/program/style.css)
+-   双语html文件：[the_lessons_of_history_bi_en_zh.html](https://doraemonj.github.io/program/the_lessons_of_history_bi_en_zh.html)
+-   英文原文件：[the_lessons_of_history_en.html](https://doraemonj.github.io/program/the_lessons_of_history_en.html)
+-   中文译文：[the_lessons_of_history_zh.html](https://doraemonj.github.io/program/the_lessons_of_history_zh.html)
 
 如果你完全没用过Python，又想马上翻译你想看的书，可以联系我Mixin：29273，我可以很快帮你把译本做成你想要的格式，不过需要支付一定费用，相当于花钱买时间，祝你阅读愉快。
 
-欢迎加入我们的Mixin社群，我们的社群机器人是：7000104144（机器猫·译站），Mixin Messenger客服：29273，中文用户推荐加微信：oftendie
+有境外PayPal或境外信用卡的用户可以登录我们的网站：[libmind.com](https://libmind.com/zh/)，直接上传文件翻译，我们会在第一时间处理你的订单。
+
+你也可以加入我们的Mixin社群机器人：7000104144（机器猫·译站），Mixin客服：29273，中文用户推荐加微信：oftendie
+
+祝你阅读愉快~
 
 
