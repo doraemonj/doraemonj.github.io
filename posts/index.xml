@@ -3,7 +3,16 @@
         <title>全部文章 - DoraemonJ&#39;s Library</title>
         <link>https://doraemonj.github.io/posts/</link>
         <description>全部文章 | DoraemonJ&#39;s Library</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 12 Oct 2022 17:22:40 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 15 Oct 2022 19:57:57 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>比特币天文学：先为不可胜，以待敌之可胜</title>
+    <link>https://doraemonj.github.io/bitcoin_astronomy_01/</link>
+    <pubDate>Sat, 15 Oct 2022 19:57:57 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/bitcoin_astronomy_01/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/bitcoin_astronomy_01/09.jpeg" referrerpolicy="no-referrer">
+            </div>没有结算的交易是暴政]]></description>
+</item><item>
     <title>保姆级教程：自制中英对照书</title>
     <link>https://doraemonj.github.io/how_to_make_a_bilingual_book_fast_way/</link>
     <pubDate>Wed, 12 Oct 2022 17:22:40 &#43;0800</pubDate>
@@ -84,14 +93,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/pics/qf_1655322423.png" referrerpolicy="no-referrer">
             </div>逻辑谬误阶段复习：形式谬误01]]></description>
-</item><item>
-    <title>杠杆不是不能用，但要区分硬和软</title>
-    <link>https://doraemonj.github.io/lever_legend/</link>
-    <pubDate>Wed, 15 Jun 2022 15:34:04 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/lever_legend/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/qf_1655278277.png" referrerpolicy="no-referrer">
-            </div>预期盈利的背后，是估计不到的损失]]></description>
 </item></channel>
 </rss>

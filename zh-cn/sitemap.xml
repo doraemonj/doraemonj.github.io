@@ -2,7 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://doraemonj.github.io/categories/</loc><lastmod>2022-10-12T17:22:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/tags/btc/</loc><lastmod>2022-10-15T19:57:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/categories/btc/</loc><lastmod>2022-10-15T19:57:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/categories/</loc><lastmod>2022-10-15T19:57:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/categories/"
@@ -11,7 +13,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/categories/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/</loc><lastmod>2022-10-12T17:22:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/</loc><lastmod>2022-10-15T19:57:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/"
@@ -20,7 +22,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/posts/</loc><lastmod>2022-10-12T17:22:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/posts/</loc><lastmod>2022-10-15T19:57:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/posts/"
@@ -29,7 +31,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/posts/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/</loc><lastmod>2022-10-12T17:22:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/tags/</loc><lastmod>2022-10-15T19:57:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/tags/"
@@ -38,6 +40,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/tags/"
                     /></url><url>
+            <loc>https://doraemonj.github.io/bitcoin_astronomy_01/</loc><lastmod>2022-10-15T19:57:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/how_to_make_a_bilingual_book_fast_way/</loc><lastmod>2022-10-12T17:22:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/tags/%E5%A4%96%E6%96%87%E4%B9%A6/</loc><lastmod>2022-10-12T17:22:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://doraemonj.github.io/categories/%E5%A4%96%E6%96%87%E4%B9%A6/</loc><lastmod>2022-10-12T17:22:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
