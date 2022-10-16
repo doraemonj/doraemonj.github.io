@@ -349,9 +349,9 @@ Solcoin是为长时间规模、高能量、跨太阳系的贸易和项目设计�
 
 如果你喜欢这篇文章，请明天继续关注第三部分。
 
+===
 
-
-原文地址：https://unchained.com/blog/law-of-hash-horizons/
+原文地址：https://unchained.com/blog/bitcoin-astronomy-part-ii/
 
 本文采用DeepL辅助翻译，配合机器猫（Mixin：29273）人工调教
 
