@@ -25,8 +25,6 @@ Practice makes perfect，本翻译技术开发者机器猫使用本套方法翻�
 
 <div style="page-break-after: always;"></div>
 
-### 一、基础准备
-
 工欲善其事，必先利其器。
 
 能用石器和或的人在原始时代获得了巨大的生存优势，能用青铜和铁器的人在石器时代所向披靡，一个工业时代的普通人一脚油门可以比农业社会整村的人一辈子走的路远……
@@ -35,27 +33,27 @@ Practice makes perfect，本翻译技术开发者机器猫使用本套方法翻�
 
 我们要达到的目的很明确：让翻译像呼吸那样简单，新工具有以下五件：
 
-#### 1、calibre
+### 1、calibre
 
 电子书制作神器，可以让电子书在各种格式间来回切换，暂时没有其他工具被公认比calibre更好，[官网下载](https://calibre-ebook.com/)。
 
-#### 2、Visual Studio Code
+### 2、Visual Studio Code
 
 微软开发的跨平台代码编辑工具，是我们用来查看和编辑电子书的基本工具，我们在可能中简称为VSCode，[官网下载](https://code.visualstudio.com/download)。
 
-#### 3、Python
+### 3、Python
 
 批量代码一键直达目的，可下载各种版本的Python工具，包括但不限于：[Python官网](https://www.python.org/)的各种版本、[Anaconda](https://www.anaconda.com/)、[PyCharm](https://www.jetbrains.com/pycharm/)等。
 
 你可以使用以下任何系统和工具组合完成任务：Windows上的Anaconda、Linux上的VSCode或Mac上的PyCharm，过程和结果几乎没有差别。我们课程使用Mac上的PyCharm演示。
 
-#### 4、DeepL的Pro账号
+### 4、DeepL的Pro账号
 
 [DeepL](https://www.deepl.com/translator)是目前全球公认的比Google还牛的翻译引擎，我们可以在某宝上购买Pro帐号，正常市场价格70元/个（30天内20篇1M以内文本翻译服务）。
 
 付费用户可以通过我们内部渠道长期获得比正常价格低20%左右的Pro帐号，不能保证永久都是50元左右的价格，但那些卖家组合已与我们稳定合作已超过1年，相对靠谱，购买后登录[DeepL.com](https://www.deepl.com/translator)使用。
 
-#### 5、魔法上网工具及相关帐号
+### 5、魔法上网工具及相关帐号
 
 因为众所周知的原因，我们不提供魔法上网的教学，需要你自己琢磨，魔法合格标准以能登录google.com为准。
 
@@ -79,6 +77,8 @@ Practice makes perfect，本翻译技术开发者机器猫使用本套方法翻�
 
 机器猫·译站独家提供，售价$19.99，购买链接（自动发货，支持国际PayPal、国际信用卡以及MixPay加密货币支付）：[戳此购买](https://libmind.com/zh/checkout/?wd-add-to-cart=10935)
 
+[![](https://doraemonj.github.io/pics/image-20221110175424111.png)](https://libmind.com/zh/checkout/?wd-add-to-cart=10935)
+
 购买后，请联系机器猫（Mixin：29273）加入Mixin社群（机器猫·巴别塔），含后期指导服务，私人图书馆用户免费。
 
 
@@ -89,29 +89,33 @@ Practice makes perfect，本翻译技术开发者机器猫使用本套方法翻�
 
 同样可以调节字体大小：
 
-<img src="/Users/tangqiang/doraemonj/pics/image-20221108210556933.png" alt="image-20221108210556933" style="zoom:40%;" />
+<img src="https://doraemonj.github.io/pics/image-20221108210556933.png" alt="image-20221108210556933" style="zoom:40%;" />
 
 <div style="page-break-after: always;"></div>
 
 可以通过css文件，调整中英对照显示的横向和纵向：
 
-<img src="/Users/tangqiang/doraemonj/pics/image-20221108210713385.png" alt="image-20221108210713385" style="zoom:33%;" />
+<img src="https://doraemonj.github.io/pics/image-20221108210713385.png" alt="image-20221108210713385" style="zoom:33%;" />
 
 可导出为PDF文档：
 
-<img src="/Users/tangqiang/doraemonj/pics/image-20221108202623125.png" alt="image-20221108202623125" style="zoom:50%;" />
+<img src="https://doraemonj.github.io/pics/image-20221108202623125.png" alt="image-20221108202623125" style="zoom:50%;" />
 
 可选竖页或横页，可调节字体大小：
 
-<img src="/Users/tangqiang/doraemonj/pics/image-20221108203205714.png" alt="image-20221108203205714" style="zoom:50%;" />
+<img src="https://doraemonj.github.io/pics/image-20221108203205714.png" alt="image-20221108203205714" style="zoom:50%;" />
 
 可以依据你眼睛的舒适程度调节字体大小，打印成纸制文件，离开电子屏幕阅读：
 
-<img src="/Users/tangqiang/doraemonj/pics/image-20221108203923195.png" alt="image-20221108203923195" style="zoom:50%;" />
+<img src="https://doraemonj.github.io/pics/image-20221108203923195.png" alt="image-20221108203923195" style="zoom:50%;" />
 
 
 
-我们会在『机器猫·巴别塔』社群定期开课，介绍实战补充说明，包括但不限于：
+我们会在『机器猫·巴别塔』社群定期开课，介绍实战补充说明，
+
+### 1、课程内容
+
+包括但不限于：
 
 1）html简要知识点
 
@@ -131,7 +135,7 @@ Practice makes perfect，本翻译技术开发者机器猫使用本套方法翻�
 
 5）其他需要与时俱进的相关知识和技术，如制作电子书实用技巧、网页浏览效率工具等
 
-#### 2、用户福利
+### 2、用户福利
 
 除了以上独家课程之外，付费翻译课程的付费用户还能享受如下福利：
 
@@ -159,7 +163,7 @@ Practice makes perfect，本翻译技术开发者机器猫使用本套方法翻�
 
 预计2022年12月前实现使用Mixin机器人实现自动分帐功能，自动分配收入功能暂限于加密货币，未来可能适用境外法币（如境外PayPal或境外信用卡收入），但无自动分配人民币收入的计划。
 
-#### 3、注意事项
+### 3、注意事项
 
 机器猫将为参与自助翻译课程的用户提供尽可能周全的知识和技术支持，修行靠个人，学习的修行尤其如此，技能的学习更是必然伴随一定数量的失败和调整，才能习得。
 
@@ -169,7 +173,7 @@ Practice makes perfect，本翻译技术开发者机器猫使用本套方法翻�
 
 另外，有些书籍暂时不能翻译成对照版本，里面不仅有技术原因，还有众所周知的原因，具体清单包含在后面常见问题清单中。
 
-#### 4、常见问题
+### 4、常见问题
 
 1）哪些书不能翻译成中英对照？
 
@@ -207,7 +211,7 @@ Practice makes perfect，本翻译技术开发者机器猫使用本套方法翻�
 
 ​        所以，我们提取销售收入的10%，使用Mixin多重签名钱包，作为待支付给作者的酬劳，在合适的时机将支付给作者。
 
-#### 5、联系方式及社群
+### 5、联系方式及社群
 
 Mixin客服：29273（机器猫），付费用户请联系机器猫加入Mixin讨论群：机器猫·巴别塔
 
@@ -217,6 +221,8 @@ Mixin社群：7000104144（机器猫·译站）
 
 Telegram社群（新书发布第一时间提醒）：@libmind（https://t.me/libmind）
 
-<div style="text-align:center"><img src="/Users/tangqiang/doraemonj/pics/image-20221110134139668.png" alt="image-20221110134139668" style="zoom:50%;" /></div>
+<div style="text-align:center"><img src="https://doraemonj.github.io/pics/image-20221110134139668.png" alt="image-20221110134139668" style="zoom:50%;" /></div>
 
 机器猫·译站独家提供，售价$19.99，购买链接（自动发货，支持国际PayPal、国际信用卡以及MixPay加密货币支付）：[戳此购买](https://libmind.com/zh/checkout/?wd-add-to-cart=10935)
+
+[![](https://doraemonj.github.io/pics/image-20221110175424111.png)](https://libmind.com/zh/checkout/?wd-add-to-cart=10935)
