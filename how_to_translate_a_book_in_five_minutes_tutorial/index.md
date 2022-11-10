@@ -27,7 +27,7 @@ Practice makes perfect，本翻译技术开发者机器猫使用本套方法翻�
 
 工欲善其事，必先利其器。
 
-能用石器和或的人在原始时代获得了巨大的生存优势，能用青铜和铁器的人在石器时代所向披靡，一个工业时代的普通人一脚油门可以比农业社会整村的人一辈子走的路远……
+能用石器和火的人在原始时代获得了巨大的生存优势，能用青铜和铁器的人在石器时代所向披靡，一个工业时代的普通人一脚油门可以比农业社会整村的人一辈子走的路远……
 
 当年那些人在基因和身体素质上较同时代的其他人真没什么太大的优势，而且当时的新工具常常笨重且难以理解，可一旦得到了新工具能力的加持，出类拔萃就成为必然的结果。
 
@@ -79,9 +79,11 @@ Practice makes perfect，本翻译技术开发者机器猫使用本套方法翻�
 
 机器猫·译站独家提供，售价$19.99，购买链接（自动发货，支持国际PayPal、国际信用卡以及MixPay加密货币支付）：[戳此购买](https://libmind.com/zh/checkout/?wd-add-to-cart=10935)
 
+网络原因可能延迟，请耐心等待，无需重复点击，复制链接在浏览器打开更快:https://libmind.com/zh/ebooks/translate-any-ebook-in-5-minutes-secret-course/
+
 [![](https://doraemonj.github.io/pics/image-20221110175424111.png)](https://libmind.com/zh/checkout/?wd-add-to-cart=10935)
 
-购买后，请联系机器猫（Mixin：29273）加入Mixin社群（机器猫·巴别塔），含后期指导服务，私人图书馆用户免费。
+购买后，请联系机器猫（Mixin：29273）加入Mixin社群（机器猫·巴别塔），含后期指导服务，全款($59.9)私人图书馆用户免费。
 
 
 
@@ -232,3 +234,5 @@ Telegram社群（新书发布第一时间提醒）：@libmind（https://t.me/lib
 机器猫·译站独家提供，售价$19.99，购买链接（自动发货，支持国际PayPal、国际信用卡以及MixPay加密货币支付）：[戳此购买](https://libmind.com/zh/checkout/?wd-add-to-cart=10935)
 
 [![](https://doraemonj.github.io/pics/image-20221110175424111.png)](https://libmind.com/zh/checkout/?wd-add-to-cart=10935)
+
+网络原因可能延迟，请耐心等待，无需重复点击，复制链接在浏览器打开更快:https://libmind.com/zh/ebooks/translate-any-ebook-in-5-minutes-secret-course/
