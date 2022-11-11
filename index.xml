@@ -3,9 +3,18 @@
         <title>DoraemonJ&#39;s Library</title>
         <link>https://doraemonj.github.io/</link>
         <description>DoraemonJ&#39;s Library</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 10 Nov 2022 17:08:43 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 11 Nov 2022 10:58:48 &#43;0800</lastBuildDate>
             <atom:link href="https://doraemonj.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>A Cypherpunk&#39;s Manifesto | 密码朋克宣言（中英对照）</title>
+    <link>https://doraemonj.github.io/a_cypherpunks_manifesto/</link>
+    <pubDate>Fri, 11 Nov 2022 10:58:48 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/a_cypherpunks_manifesto/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/ruby_format_on_hugo/long.png" referrerpolicy="no-referrer">
+            </div>by Eric Hughes, 1993-03-09]]></description>
+</item><item>
     <title>如何翻越汉语围栏？</title>
     <link>https://doraemonj.github.io/how_to_translate_a_book_in_five_minutes_tutorial/</link>
     <pubDate>Thu, 10 Nov 2022 17:08:43 &#43;0800</pubDate>
@@ -86,14 +95,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/pics/Algolia_OG_image_m3xgjb.png" referrerpolicy="no-referrer">
             </div>algolia：你的全文搜索管家]]></description>
-</item><item>
-    <title>你的每一本书，都是一个md文档</title>
-    <link>https://doraemonj.github.io/private_library_tutorial_md/</link>
-    <pubDate>Wed, 20 Jul 2022 14:29:37 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/private_library_tutorial_md/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/markdown-guide-og.jpeg" referrerpolicy="no-referrer">
-            </div>markdown语言和Typora的使用]]></description>
 </item></channel>
 </rss>
