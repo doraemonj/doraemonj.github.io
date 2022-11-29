@@ -192,7 +192,7 @@ As William James, a founding father of modern psychology, put [it:](it:) ‘ If 
 ·
 鲁塞尔建议，我们可以在新地基上重建AI——让机器对它们需要满足的人类偏好具有内在的不确定性，这样的机器将是谦逊的、利他的，并致力于追求我们的目标，而不是机器自己的目标
 ·
-伊隆·马斯克、丹尼尔·卡尼曼、山姆·哈里斯重磅推荐：Human [Compatible:](compatible:) Artificial Intelligence and the Problem of Control《人类兼容：人工智能和控制问题》
+伊隆·马斯克、丹尼尔·卡尼曼、山姆·哈里斯重磅推荐：Human Compatible：Artificial Intelligence and the Problem of Control《人类兼容：人工智能和控制问题》
 ·
 作为这轮人工智能浪潮里的水分子，机器猫·驿站（libmind.com）如果没有AI的支持，也不可能5分钟翻译一本书，希望我们借助AI的劳动可以惠及更多用户，让更多用户理智、乐观、笃定地看待未来
 
