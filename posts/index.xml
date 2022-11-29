@@ -3,7 +3,16 @@
         <title>全部文章 - DoraemonJ&#39;s Library</title>
         <link>https://doraemonj.github.io/posts/</link>
         <description>全部文章 | DoraemonJ&#39;s Library</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 28 Nov 2022 08:12:08 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 29 Nov 2022 08:12:08 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>2022年11月书单</title>
+    <link>https://doraemonj.github.io/libmind_lists_202211/</link>
+    <pubDate>Tue, 29 Nov 2022 08:12:08 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/libmind_lists_202211/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/cover.png" referrerpolicy="no-referrer">
+            </div>读书应该用两只眼睛，一只看纸面上的字，另一只看纸背面——歌德]]></description>
+</item><item>
     <title>2022年10月书单</title>
     <link>https://doraemonj.github.io/libmind_lists_202210/</link>
     <pubDate>Mon, 28 Nov 2022 08:12:08 &#43;0800</pubDate>
@@ -84,14 +93,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/ruby_format_on_hugo/long.png" referrerpolicy="no-referrer">
             </div>ruby注释语法]]></description>
-</item><item>
-    <title>如何在5分钟内高质量翻译一本书？</title>
-    <link>https://doraemonj.github.io/how_to_translate_a_book_in_five_minites/</link>
-    <pubDate>Wed, 28 Sep 2022 11:53:10 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/how_to_translate_a_book_in_five_minites/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/how_to_translate_a_book_in_five_minutes/long.png" referrerpolicy="no-referrer">
-            </div>Calibre + DeepL 联合战纪]]></description>
 </item></channel>
 </rss>

@@ -1,7 +1,7 @@
 # 2022年10月书单
 
 
-# 2022年10月libmind.com中英双语对照图书
+**2022年10月libmind.com中英双语对照图书**
 
 <div style="text-align:center">点击书籍标题可购买，或登录libmind.com选购</div>
 
@@ -220,7 +220,7 @@ As William James, a founding father of modern psychology, put [it:](it:) ‘ If 
 
 ·      ·      ·
 
-机器猫 · 译站（7000104144）翻译，Mixin上最好的双语书店，老用户接受3.99美元双语书定制
+机器猫 · 译站（7000104144）翻译，Mixin上最好的双语书店，老用户接受3.99美元定制双语书和中文音频。
 
 19.99美元三分钟自助译书教程，半天准备，半天学会，半个周末可凭一己之力翻译外文原著，中英对照图文并茂，英语学习奇袭技能，[戳此了解](https://doraemonj.github.io/how_to_translate_a_book_in_five_minutes_tutorial/)。
 
