@@ -3,7 +3,16 @@
         <title>全部文章 - DoraemonJ&#39;s Library</title>
         <link>https://doraemonj.github.io/posts/</link>
         <description>全部文章 | DoraemonJ&#39;s Library</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 11 Nov 2022 10:58:48 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 28 Nov 2022 08:12:08 &#43;0800</lastBuildDate><atom:link href="https://doraemonj.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>2022年10月书单</title>
+    <link>https://doraemonj.github.io/libmind_lists_202210/</link>
+    <pubDate>Mon, 28 Nov 2022 08:12:08 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/libmind_lists_202210/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/cover.png" referrerpolicy="no-referrer">
+            </div>不知道自己无知，是双倍的无知——柏拉图]]></description>
+</item><item>
     <title>A Cypherpunk&#39;s Manifesto | 密码朋克宣言（中英对照）</title>
     <link>https://doraemonj.github.io/a_cypherpunks_manifesto/</link>
     <pubDate>Fri, 11 Nov 2022 10:58:48 &#43;0800</pubDate>
@@ -84,14 +93,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/how_to_translate_a_book_in_five_minutes/long.png" referrerpolicy="no-referrer">
             </div>Calibre + DeepL 联合战纪]]></description>
-</item><item>
-    <title>书海里的GPS定位器</title>
-    <link>https://doraemonj.github.io/private_library_tutorial_algolia/</link>
-    <pubDate>Fri, 22 Jul 2022 08:52:12 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/private_library_tutorial_algolia/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/pics/Algolia_OG_image_m3xgjb.png" referrerpolicy="no-referrer">
-            </div>algolia：你的全文搜索管家]]></description>
 </item></channel>
 </rss>

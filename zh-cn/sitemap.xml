@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://doraemonj.github.io/a_cypherpunks_manifesto/</loc><lastmod>2022-11-11T10:58:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/categories/</loc><lastmod>2022-11-11T10:58:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/libmind_lists_202210/</loc><lastmod>2022-11-28T08:12:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/categories/</loc><lastmod>2022-11-28T08:12:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/categories/"
@@ -12,9 +12,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/categories/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/cypherpunk/</loc><lastmod>2022-11-11T10:58:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/categories/cypherpunk/</loc><lastmod>2022-11-11T10:58:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/</loc><lastmod>2022-11-11T10:58:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/</loc><lastmod>2022-11-28T08:12:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/"
@@ -23,7 +21,9 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/posts/</loc><lastmod>2022-11-11T10:58:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/tags/libmind%E6%B8%85%E5%8D%95/</loc><lastmod>2022-11-28T08:12:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/categories/libmind%E6%B8%85%E5%8D%95/</loc><lastmod>2022-11-28T08:12:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://doraemonj.github.io/posts/</loc><lastmod>2022-11-28T08:12:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/posts/"
@@ -32,7 +32,7 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/posts/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/</loc><lastmod>2022-11-11T10:58:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://doraemonj.github.io/tags/</loc><lastmod>2022-11-28T08:12:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/tags/"
@@ -41,10 +41,13 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/tags/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/%E4%BA%94%E5%88%86%E9%92%9F%E7%BF%BB%E8%AF%91/</loc><lastmod>2022-11-10T17:08:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/categories/%E4%BA%94%E5%88%86%E9%92%9F%E7%BF%BB%E8%AF%91/</loc><lastmod>2022-11-10T17:08:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/how_to_translate_a_book_in_five_minutes_tutorial/</loc><lastmod>2022-11-10T17:08:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://doraemonj.github.io/about/</loc><lastmod>2022-10-20T10:10:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority><xhtml:link
+            <loc>https://doraemonj.github.io/a_cypherpunks_manifesto/</loc><lastmod>2022-11-11T10:58:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://doraemonj.github.io/tags/cypherpunk/</loc><lastmod>2022-11-11T10:58:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://doraemonj.github.io/categories/cypherpunk/</loc><lastmod>2022-11-11T10:58:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://doraemonj.github.io/tags/%E4%BA%94%E5%88%86%E9%92%9F%E7%BF%BB%E8%AF%91/</loc><lastmod>2022-11-10T17:08:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://doraemonj.github.io/categories/%E4%BA%94%E5%88%86%E9%92%9F%E7%BF%BB%E8%AF%91/</loc><lastmod>2022-11-10T17:08:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://doraemonj.github.io/how_to_translate_a_book_in_five_minutes_tutorial/</loc><lastmod>2022-11-10T17:08:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://doraemonj.github.io/about/</loc><lastmod>2022-10-20T10:10:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://doraemonj.github.io/en/about/"
@@ -53,15 +56,15 @@
                     hreflang="zh-cn"
                     href="https://doraemonj.github.io/about/"
                     /></url><url>
-            <loc>https://doraemonj.github.io/tags/btc/</loc><lastmod>2022-10-17T10:37:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://doraemonj.github.io/categories/btc/</loc><lastmod>2022-10-17T10:37:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://doraemonj.github.io/bitcoin_astronomy_03/</loc><lastmod>2022-10-17T10:37:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://doraemonj.github.io/bitcoin_astronomy_02/</loc><lastmod>2022-10-16T12:59:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://doraemonj.github.io/bitcoin_astronomy_01/</loc><lastmod>2022-10-15T19:57:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://doraemonj.github.io/how_to_make_a_bilingual_book_fast_way/</loc><lastmod>2022-10-12T17:22:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://doraemonj.github.io/tags/%E5%A4%96%E6%96%87%E4%B9%A6/</loc><lastmod>2022-10-12T17:22:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://doraemonj.github.io/categories/%E5%A4%96%E6%96%87%E4%B9%A6/</loc><lastmod>2022-10-12T17:22:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://doraemonj.github.io/how_to_simulate_zlibrary/</loc><lastmod>2022-10-09T09:36:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://doraemonj.github.io/tags/btc/</loc><lastmod>2022-10-17T10:37:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://doraemonj.github.io/categories/btc/</loc><lastmod>2022-10-17T10:37:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://doraemonj.github.io/bitcoin_astronomy_03/</loc><lastmod>2022-10-17T10:37:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://doraemonj.github.io/bitcoin_astronomy_02/</loc><lastmod>2022-10-16T12:59:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://doraemonj.github.io/bitcoin_astronomy_01/</loc><lastmod>2022-10-15T19:57:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://doraemonj.github.io/how_to_make_a_bilingual_book_fast_way/</loc><lastmod>2022-10-12T17:22:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://doraemonj.github.io/tags/%E5%A4%96%E6%96%87%E4%B9%A6/</loc><lastmod>2022-10-12T17:22:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://doraemonj.github.io/categories/%E5%A4%96%E6%96%87%E4%B9%A6/</loc><lastmod>2022-10-12T17:22:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://doraemonj.github.io/how_to_simulate_zlibrary/</loc><lastmod>2022-10-09T09:36:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://doraemonj.github.io/ruby/</loc><lastmod>2022-10-03T20:24:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://doraemonj.github.io/tags/ruby%E8%AF%AD%E6%B3%95/</loc><lastmod>2022-10-03T20:24:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://doraemonj.github.io/categories/ruby%E8%AF%AD%E6%B3%95/</loc><lastmod>2022-10-03T20:24:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
