@@ -3,9 +3,18 @@
         <title>DoraemonJ&#39;s Library</title>
         <link>https://doraemonj.github.io/</link>
         <description>DoraemonJ&#39;s Library</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 29 Nov 2022 08:12:08 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 04 Dec 2022 13:28:51 &#43;0800</lastBuildDate>
             <atom:link href="https://doraemonj.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>2022年12月书单</title>
+    <link>https://doraemonj.github.io/libmind_lists_202212/</link>
+    <pubDate>Sun, 04 Dec 2022 13:28:51 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://doraemonj.github.io/libmind_lists_202212/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/pics/cover.png" referrerpolicy="no-referrer">
+            </div>A reader lives a thousand lives before he dies. The man who never reads lives only one.&ndash;George R.R. Martin]]></description>
+</item><item>
     <title>2022年11月书单</title>
     <link>https://doraemonj.github.io/libmind_lists_202211/</link>
     <pubDate>Tue, 29 Nov 2022 08:12:08 &#43;0800</pubDate>
@@ -86,14 +95,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/how_to_simulate_zlibrary/long.png" referrerpolicy="no-referrer">
             </div>Z-library：最好的外文书搜索工具]]></description>
-</item><item>
-    <title>Hugo模板内使用拼音注释</title>
-    <link>https://doraemonj.github.io/ruby/</link>
-    <pubDate>Mon, 03 Oct 2022 20:24:10 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://doraemonj.github.io/ruby/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/ruby_format_on_hugo/long.png" referrerpolicy="no-referrer">
-            </div>ruby注释语法]]></description>
 </item></channel>
 </rss>
